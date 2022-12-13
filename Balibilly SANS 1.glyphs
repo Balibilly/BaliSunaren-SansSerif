@@ -25,7 +25,7 @@ nolibdpqhi linioaoynvn
 lalalalalalala
 vlindavan valad alaialalaman bonno
 lino ohla",
-"lay ihiama blid b lavomo bim by iainnin vh oman l hi aan  nvoyhip lvm obdila dilaabl pahmn dina an anlad baah hllo poamno dna piopai ho ain oba  ap mani dpo oonplaa by naaliv pi obin nih lo danill lp qandan dii hlbd hlin min oni hld anon ani halpi hip alvai vyba abah dann oina poon py qn ihi aai mnil n aman iamo bo naionn dooa ai vnnin am maad aanida molna mlanina lnn inan dapiad pinl ladio naim a iaiava anl omylm alm aboa lmp avannah adoin boa aaonia aalo ihola lonavo vanin hnidian panol lnamn mandl poa min bdo diladiain aih olloqial naoo anal la aao ay inapabiliy alad aha ola hpaiaion oodol llvaa inda ild inho ann  opa mm lll dipibl mn haiolaion aamn adi lihho man aoi napom poblmi aa bvallani animaion baldoo loomi omnnon piphyi oppobio mohah bamq pilla vlanin",
+".",
 "/n.ss02/n.ss02 nb/n.001/n.001 
 /n.001/m.002/m.001/h.001 
 /_part.shoulder nnmmh
@@ -4007,7 +4007,7 @@ unicode = 32;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
-lastChange = "2022-10-27 07:12:06 +0000";
+lastChange = "2022-12-13 02:11:48 +0000";
 layers = (
 {
 layerId = m009;
@@ -4016,8 +4016,8 @@ shapes = (
 closed = 1;
 nodes = (
 (180,0,l),
-(180,153,l),
-(19,153,l),
+(180,163,l),
+(19,163,l),
 (19,0,l)
 );
 }
