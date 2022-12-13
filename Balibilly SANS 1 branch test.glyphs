@@ -1,5 +1,5 @@
 {
-.appVersion = "3149";
+.appVersion = "3148";
 .formatVersion = 3;
 DisplayStrings = (
 "Blibiy
@@ -843,7 +843,7 @@ unicode = 97;
 glyphname = b;
 kernLeft = l;
 kernRight = o;
-lastChange = "2022-12-12 10:23:28 +0000";
+lastChange = "2022-12-13 02:25:32 +0000";
 layers = (
 {
 anchors = (
@@ -896,8 +896,8 @@ nodes = (
 (150,151,l),
 (150,443,l),
 (161,450,l),
-(161,750,l),
-(85,750,l),
+(161,950,l),
+(85,950,l),
 (85,0,l)
 );
 },
