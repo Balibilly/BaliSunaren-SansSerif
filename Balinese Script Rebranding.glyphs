@@ -40,15 +40,8 @@ HOE",
 oo
 nnn",
 "OLVO VLN EVETO VENEFI DEIVIN LVEIN OHOVT VHINE VEDOMTE IEVM LIVITIE OVED VILLE VLELE VOL VEI INLIVTIN VIEIN VEEEN BEETHOVEN NVETEN DVE V VIVE OLETIVO INFLTIVE HIVE ENVE EVIETIN DEVITE DEVITIONIM VEILLE TIVET OBVETIN VOI OEDTV VIIN VIELED VE EMOTIVE VLV DEVO VE VLEIET IVTBN V VETIB NEOTV VILOD ODIV VTEEN VIN VE VINTE ENTEV TOLV TDOV VILLE DEIVTITI VIEMENT FEMVININ VVTLIT VBVENI IVILE IVE VDNE BOTIVE VELIET VOL VOLNT VENE VVIO OBVI VIL EVNELIE VL VETE VEBIETET EVIM VIN VNNHT DEVELOE VNI OVEIO VETELE VLI OTVIE OVEEOIN VDNTE MIDVIEDL DOOVOD VLENT LOVETOIE OVEBOND VE LEEVEBOD EEEVEED VOLDI ENVEDE EVIIO EVI ONVIVE NEOVIN NOVIL OTTVINO VEHE OVEE BEVEILIIN VDLN HIVEE LV EIDENTOVI NLOVELINE VLETE VEELN LIVM EVDEN FOVI VENDIT FOIVBLE EVIN NENVIDL OLIV EVOHTEN DVE TVOLE OVEBELTET VINIE OVEDELITE VILIENDI DIVE VLN VN TLVN IEVO NONEVENT VNE OLLETIVIT VO ENDVIET VOLITTE VLL IV OVE EMOVEMENT EBOV VHDN LOVEE HV VLEDE",
-"HBBHHO/Placeholder OHOH/Placeholder H
-OOOH/Placeholder HOHO/Placeholder O
-BDEFTMMNN
-BBOHDEFHILMNVOT
-M M N 
-
-HVVEVEVH
-
-hlvia"
+"Min Oi  Mmaam L hamaodo o Mmmil Inni Lla I Vild  Mplomba a bla ipi Llnd  Ldm Bl Lm Mbb V Il On M Do V Hll  Nyni Ln I Vllala l Il Llni I Vl Lhao pha N Noo Mhallani O  Ip Han Lmh Lovaa Inda Vny  Hallao Von Bmib Mn Hml Nai V Nyilvnoan Liolni D lya Van Hidd Maha Nm aa i n Mmn Nao Ll I  Mii adlya
+Himalaya Onamin"
 );
 classes = (
 {
@@ -605,7 +598,7 @@ unicode = 76;
 },
 {
 glyphname = M;
-lastChange = "2022-12-13 09:00:09 +0000";
+lastChange = "2022-12-14 02:21:34 +0000";
 layers = (
 {
 background = {
@@ -634,26 +627,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(408,0,l),
-(606,554,l),
-(610,554,l),
-(609,0,l),
-(689,0,l),
-(689,700,l),
-(598,700,l),
-(385,137,l),
-(382,137,l),
+(157,0,l),
+(157,507,l),
+(161,507,l),
+(358,0,l),
+(407,0,l),
+(604,507,l),
+(608,507,l),
+(608,0,l),
+(690,0,l),
+(690,700,l),
+(600,700,l),
+(385,140,l),
+(382,140,l),
 (167,700,l),
 (75,700,l),
-(75,0,l),
-(155,0,l),
-(154,554,l),
-(158,554,l),
-(358,0,l)
+(75,0,l)
 );
 }
 );
-width = 764;
+width = 765;
 }
 );
 metricLeft = H;
@@ -662,13 +655,13 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2022-12-13 08:23:59 +0000";
+lastChange = "2022-12-14 02:28:30 +0000";
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (10,0);
+pos = (12,0);
 ref = H;
 }
 );
@@ -678,22 +671,25 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(155,0,l),
-(155,570,l),
-(159,570,l),
-(480,0,l),
-(567,0,l),
-(567,700,l),
-(487,700,l),
-(487,123,l),
-(483,123,l),
-(160,700,l),
+(157,0,l),
+(157,352,ls),
+(157,422,o),
+(154,506,o),
+(148,540,c),
+(151,542,l),
+(508,0,l),
+(571,0,l),
+(571,700,l),
+(489,700,l),
+(489,171,l),
+(487,171,l),
+(140,700,l),
 (75,700,l),
 (75,0,l)
 );
 }
 );
-width = 642;
+width = 646;
 }
 );
 metricLeft = H;
@@ -794,7 +790,7 @@ unicode = 84;
 },
 {
 glyphname = V;
-lastChange = "2022-12-13 09:58:26 +0000";
+lastChange = "2022-12-14 02:15:19 +0000";
 layers = (
 {
 background = {
@@ -812,10 +808,10 @@ closed = 1;
 nodes = (
 (330,0,l),
 (574,700,l),
-(491,700,l),
-(298,123,l),
-(294,123,l),
-(97,700,l),
+(490,700,l),
+(299,120,l),
+(297,120,l),
+(103,700,l),
 (15,700,l),
 (261,0,l)
 );
