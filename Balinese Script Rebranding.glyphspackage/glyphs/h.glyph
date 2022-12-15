@@ -1,0 +1,34 @@
+{
+glyphname = h;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-4,0);
+ref = n;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (31,0);
+ref = _part.stem_l;
+},
+{
+piece = {
+crotchDepth = 0;
+shoulderWidth = 100;
+};
+pos = (38,0);
+ref = _part.shoulder;
+}
+);
+width = 591;
+}
+);
+metricRight = n;
+unicode = 104;
+}

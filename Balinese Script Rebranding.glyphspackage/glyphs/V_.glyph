@@ -1,0 +1,33 @@
+{
+glyphname = V;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-131,0);
+ref = M;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,0,l),
+(594,700,l),
+(508,700,l),
+(309,137,l),
+(305,137,l),
+(105,700,l),
+(15,700,l),
+(271,0,l)
+);
+}
+);
+width = 609;
+}
+);
+unicode = 86;
+}

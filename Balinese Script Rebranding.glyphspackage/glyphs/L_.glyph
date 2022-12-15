@@ -1,0 +1,29 @@
+{
+glyphname = L;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-21,0);
+ref = _part.stem_L;
+},
+{
+pos = (-33,0);
+ref = _bottom_E;
+}
+);
+width = 503;
+}
+);
+metricLeft = H;
+unicode = 76;
+}

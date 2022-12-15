@@ -1,0 +1,34 @@
+{
+glyphname = n;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (26,0);
+ref = a.001;
+}
+);
+};
+guides = (
+{
+pos = (291,398);
+}
+);
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (38,0);
+ref = _part.stem;
+},
+{
+pos = (30,0);
+ref = _part.shoulder;
+}
+);
+width = 583;
+}
+);
+unicode = 110;
+}

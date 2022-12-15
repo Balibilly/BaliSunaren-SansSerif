@@ -1,0 +1,169 @@
+{
+.appVersion = "3148";
+.formatVersion = 3;
+classes = (
+{
+automatic = 1;
+code = B;
+name = Uppercase;
+}
+);
+date = "2022-12-13 05:20:48 +0000";
+familyName = "Balibilly Sans";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+guides = (
+{
+pos = (302,482);
+},
+{
+pos = (302,63);
+},
+{
+pos = (302,542);
+},
+{
+pos = (302,-10);
+},
+{
+pos = (359,325);
+}
+);
+iconName = Bold;
+id = m009;
+metricValues = (
+{
+over = 16;
+pos = 750;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 545;
+},
+{
+over = -10;
+},
+{
+over = -16;
+pos = -250;
+},
+{
+}
+);
+name = Logo;
+stemValues = (
+85,
+87
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright© 2021 by Balibilly Design. ";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Balibilly Design";
+}
+);
+},
+{
+key = designerURL;
+value = "https://balibillydesign.com";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Balibilly Design";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://balibillydesign.com";
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "trademark of Balibilly Design";
+}
+);
+}
+);
+stems = (
+{
+name = hstem;
+},
+{
+name = Hstem;
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"6D3F92C5-CC25-492F-A038-0B57164579CA" = {
+HV = "185";
+nV = "178";
+};
+"92FC560C-EC0E-4518-A157-3F6DE5F40231" = {
+HV = "19";
+nV = "18";
+};
+"9977C167-3B89-4210-B391-2A17269AD938" = {
+HV = "19";
+nV = "18";
+};
+"D3C2AE42-83CB-48EA-B264-8D0497DEA055" = {
+HV = "185";
+nV = "178";
+};
+};
+};
+versionMajor = 1;
+versionMinor = 1;
+}

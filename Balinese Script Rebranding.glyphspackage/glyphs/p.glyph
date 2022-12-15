@@ -1,0 +1,44 @@
+{
+glyphname = p;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (16,0);
+ref = b;
+}
+);
+};
+guides = (
+{
+pos = (1035,869);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,-205,l),
+(159,95,l),
+(148,102,l),
+(148,394,l),
+(164,427,l),
+(164,449,l),
+(138,545,l),
+(74,545,l),
+(74,-205,l)
+);
+},
+{
+ref = _perut_b;
+}
+);
+width = 606;
+}
+);
+metricLeft = n;
+metricRight = o;
+unicode = 112;
+}

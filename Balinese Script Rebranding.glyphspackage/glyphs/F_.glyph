@@ -1,0 +1,34 @@
+{
+glyphname = F;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (23,0);
+ref = H;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-21,0);
+ref = _part.stem_F;
+},
+{
+pos = (-26,0);
+ref = _top_E;
+},
+{
+pos = (-26,4);
+ref = _center_E;
+}
+);
+width = 509;
+}
+);
+metricLeft = H;
+unicode = 70;
+}

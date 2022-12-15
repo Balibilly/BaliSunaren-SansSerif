@@ -1,0 +1,38 @@
+{
+glyphname = E;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-18,0);
+ref = H;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-21,0);
+ref = _part.stem_E;
+},
+{
+pos = (-11,0);
+ref = _bottom_E;
+},
+{
+pos = (-11,13);
+ref = _center_E;
+},
+{
+pos = (-11,0);
+ref = _top_E;
+}
+);
+width = 540;
+}
+);
+metricLeft = H;
+unicode = 69;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = period;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l),
+(180,153,l),
+(19,153,l),
+(19,0,l)
+);
+}
+);
+width = 199;
+}
+);
+unicode = 46;
+}

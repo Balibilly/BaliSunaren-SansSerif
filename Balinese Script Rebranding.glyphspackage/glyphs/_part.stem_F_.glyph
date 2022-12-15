@@ -1,0 +1,31 @@
+{
+export = 0;
+glyphname = _part.stem_F;
+layers = (
+{
+anchors = (
+{
+name = center;
+pos = (138,312);
+},
+{
+name = top;
+pos = (138,630);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(183,0,l),
+(183,700,l),
+(96,700,l),
+(96,0,l)
+);
+}
+);
+width = 600;
+}
+);
+}

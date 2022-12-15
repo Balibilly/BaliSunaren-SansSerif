@@ -1,0 +1,175 @@
+{
+export = 0;
+glyphname = _part.shoulder;
+layers = (
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (480,0);
+}
+);
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = a;
+}
+);
+};
+layerId = m009;
+partSelection = {
+crotchDepth = 2;
+shoulderWidth = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,0,l),
+(480,341,ls),
+(480,478,o),
+(411,555,o),
+(296,555,cs),
+(225,555,o),
+(170,525,o),
+(132,469,c),
+(121,469,l),
+(121,336,l),
+(129,336,l),
+(140,422,o),
+(195,487,o),
+(277,487,cs),
+(354,487,o),
+(395,430,o),
+(395,341,cs),
+(395,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (470,0);
+}
+);
+associatedMasterId = m009;
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = a;
+}
+);
+};
+layerId = "F4F44C10-E8E8-4745-80A2-0AC5EE456540";
+name = NarrowShoulder;
+partSelection = {
+crotchDepth = 2;
+shoulderWidth = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,0,l),
+(470,338,ls),
+(470,477,o),
+(401,555,o),
+(279,555,cs),
+(225,555,o),
+(170,525,o),
+(132,469,c),
+(121,469,l),
+(121,366,l),
+(129,366,l),
+(135,425,o),
+(193,485,o),
+(257,485,cs),
+(350,485,o),
+(394,439,o),
+(394,341,cs),
+(394,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (470,0);
+}
+);
+associatedMasterId = m009;
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = a;
+}
+);
+};
+layerId = "B7069A0C-5FB5-476E-9546-F60CC2642544";
+name = LowCrotch;
+partSelection = {
+crotchDepth = 1;
+shoulderWidth = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,0,l),
+(470,338,ls),
+(470,477,o),
+(401,555,o),
+(296,555,cs),
+(212,555,o),
+(151,517,o),
+(116,442,c),
+(106,442,l),
+(121,321,l),
+(129,321,l),
+(135,416,o),
+(197,485,o),
+(276,485,cs),
+(350,485,o),
+(394,439,o),
+(394,341,cs),
+(394,0,l)
+);
+}
+);
+width = 525;
+}
+);
+partsSettings = (
+{
+bottomValue = -100;
+name = crotchDepth;
+topValue = 0;
+},
+{
+bottomValue = 0;
+name = shoulderWidth;
+topValue = 100;
+}
+);
+}

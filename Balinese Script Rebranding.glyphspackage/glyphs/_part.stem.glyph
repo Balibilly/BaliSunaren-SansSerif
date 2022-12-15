@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = _part.stem;
+layers = (
+{
+anchors = (
+{
+name = connect;
+pos = (121,0);
+}
+);
+background = {
+shapes = (
+{
+pos = (-8,0);
+ref = _part.shoulder;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,0,l),
+(121,466,l),
+(101,545,l),
+(36,545,l),
+(36,0,l)
+);
+}
+);
+width = 525;
+}
+);
+}

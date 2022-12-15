@@ -1,0 +1,10 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = m009;
+width = 205;
+}
+);
+unicode = 32;
+}

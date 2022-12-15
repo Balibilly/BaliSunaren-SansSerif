@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _tail_Q;
+layers = (
+{
+anchors = (
+{
+name = _tail_Q;
+pos = (371,43);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(575,-80,l),
+(435,153,l),
+(340,153,l),
+(480,-80,l)
+);
+}
+);
+width = 717;
+}
+);
+}

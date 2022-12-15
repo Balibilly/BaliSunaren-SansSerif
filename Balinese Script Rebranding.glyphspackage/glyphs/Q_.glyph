@@ -1,0 +1,26 @@
+{
+glyphname = Q;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (15,0);
+ref = _tail_Q;
+}
+);
+width = 747;
+}
+);
+unicode = 81;
+}

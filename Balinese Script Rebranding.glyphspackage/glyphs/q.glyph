@@ -1,0 +1,41 @@
+{
+glyphname = q;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (585,0);
+ref = p;
+scale = (-1,1);
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(535,-205,l),
+(535,545,l),
+(471,545,l),
+(450,469,l),
+(450,437,l),
+(461,413,l),
+(461,102,l),
+(450,95,l),
+(450,-205,l)
+);
+},
+{
+pos = (5,0);
+ref = _perut_d;
+}
+);
+width = 609;
+}
+);
+metricLeft = o;
+metricRight = "=|n";
+unicode = 113;
+}
