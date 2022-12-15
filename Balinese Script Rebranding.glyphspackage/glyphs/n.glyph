@@ -2,14 +2,6 @@
 glyphname = n;
 layers = (
 {
-background = {
-shapes = (
-{
-pos = (26,0);
-ref = a.001;
-}
-);
-};
 guides = (
 {
 pos = (291,398);
