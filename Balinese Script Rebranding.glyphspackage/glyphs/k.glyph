@@ -1,0 +1,38 @@
+{
+glyphname = k;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (81,0);
+ref = x;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+pos = (31,0);
+ref = _part.stem_l;
+},
+{
+closed = 1;
+nodes = (
+(510,0,l),
+(245,302,l),
+(245,274,l),
+(479,545,l),
+(390,545,l),
+(166,289,l),
+(166,274,l),
+(407,0,l)
+);
+}
+);
+width = 515;
+}
+);
+metricLeft = h;
+unicode = 107;
+}

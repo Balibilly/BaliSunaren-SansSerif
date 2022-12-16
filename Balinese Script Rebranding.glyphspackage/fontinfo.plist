@@ -18,6 +18,33 @@ code = "languagesystem DFLT dflt;
 name = Languagesystems;
 }
 );
+features = (
+{
+automatic = 1;
+code = "feature ss01;
+feature ss02;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "sub k by k.ss01;
+";
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub k by k.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+}
+);
 fontMaster = (
 {
 guides = (
