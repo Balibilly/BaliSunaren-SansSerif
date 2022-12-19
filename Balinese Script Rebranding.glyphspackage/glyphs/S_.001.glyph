@@ -1,0 +1,24 @@
+{
+glyphname = S.001;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-29,0);
+ref = H;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+pos = (544,0);
+ref = S;
+scale = (-1,1);
+}
+);
+width = 544;
+}
+);
+}
