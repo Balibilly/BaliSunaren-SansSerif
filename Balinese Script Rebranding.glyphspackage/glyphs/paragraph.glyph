@@ -1,0 +1,10 @@
+{
+glyphname = paragraph;
+layers = (
+{
+layerId = m009;
+width = 600;
+}
+);
+unicode = 182;
+}

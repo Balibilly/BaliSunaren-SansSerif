@@ -1,0 +1,24 @@
+{
+glyphname = trademark;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (19,403);
+ref = T;
+scale = (0.425,0.425);
+},
+{
+alignment = -1;
+pos = (265,403);
+ref = M;
+scale = (0.425,0.425);
+}
+);
+width = 619;
+}
+);
+unicode = 8482;
+}

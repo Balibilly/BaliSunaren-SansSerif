@@ -1,0 +1,21 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,-10,l),
+(102,710,l),
+(29,710,l),
+(397,-10,l)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 92;
+}

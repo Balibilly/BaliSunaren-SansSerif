@@ -1,0 +1,23 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,266,l),
+(528,338,l),
+(47,338,l),
+(47,266,l)
+);
+}
+);
+width = 575;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8211;
+}

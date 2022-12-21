@@ -1,0 +1,10 @@
+{
+glyphname = euro;
+layers = (
+{
+layerId = m009;
+width = 600;
+}
+);
+unicode = 8364;
+}

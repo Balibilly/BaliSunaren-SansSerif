@@ -1,0 +1,30 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,510,l),
+(416,700,l),
+(320,700,l),
+(304,510,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(210,510,l),
+(276,700,l),
+(180,700,l),
+(164,510,l)
+);
+}
+);
+width = 570;
+}
+);
+unicode = 8221;
+}

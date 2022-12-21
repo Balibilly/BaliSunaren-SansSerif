@@ -1,0 +1,10 @@
+{
+glyphname = asterisk;
+layers = (
+{
+layerId = m009;
+width = 600;
+}
+);
+unicode = 42;
+}

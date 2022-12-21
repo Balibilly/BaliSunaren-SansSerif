@@ -1,0 +1,32 @@
+{
+glyphname = quotedblbase;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,-100,l),
+(155,90,l),
+(59,90,l),
+(43,-100,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(229,-100,l),
+(295,90,l),
+(199,90,l),
+(183,-100,l)
+);
+}
+);
+width = 338;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8222;
+}
