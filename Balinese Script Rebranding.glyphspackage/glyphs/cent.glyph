@@ -3,7 +3,18 @@ glyphname = cent;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (0,62);
+ref = c;
+},
+{
+pos = (18,-24);
+ref = _bar_ver_;
+}
+);
+width = 507;
 }
 );
 unicode = 162;

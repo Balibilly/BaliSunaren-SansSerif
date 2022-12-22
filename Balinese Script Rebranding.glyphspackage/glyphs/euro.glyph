@@ -3,7 +3,18 @@ glyphname = euro;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (75,0);
+ref = C;
+},
+{
+pos = (-33,0);
+ref = _bar_hor_dbl_;
+}
+);
+width = 684;
 }
 );
 unicode = 8364;

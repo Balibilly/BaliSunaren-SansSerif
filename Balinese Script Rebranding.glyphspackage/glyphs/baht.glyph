@@ -3,7 +3,16 @@ glyphname = baht;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = B;
+},
+{
+pos = (4,0);
+ref = _bar_ver_;
+}
+);
+width = 614;
 }
 );
 unicode = 3647;

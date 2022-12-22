@@ -2,6 +2,12 @@
 glyphname = S;
 layers = (
 {
+anchors = (
+{
+name = bar_ver;
+pos = (267,359);
+}
+);
 layerId = m009;
 shapes = (
 {

@@ -3,7 +3,16 @@ glyphname = yen;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (-25,-161);
+ref = _bar_hor_dbl_;
+}
+);
+width = 549;
 }
 );
 unicode = 165;

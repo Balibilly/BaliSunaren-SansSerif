@@ -4,6 +4,10 @@ layers = (
 {
 anchors = (
 {
+name = bar_ver;
+pos = (299,359);
+},
+{
 name = bottom;
 pos = (337,0);
 },

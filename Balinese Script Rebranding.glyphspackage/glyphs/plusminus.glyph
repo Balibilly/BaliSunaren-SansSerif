@@ -2,7 +2,43 @@
 glyphname = plusminus;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = plus;
+}
+);
+};
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(483,104,l),
+(483,164,l),
+(115,164,l),
+(115,104,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(332,215,l),
+(332,545,l),
+(266,545,l),
+(266,215,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(479,350,l),
+(479,413,l),
+(120,413,l),
+(120,350,l)
+);
+}
+);
 width = 600;
 }
 );

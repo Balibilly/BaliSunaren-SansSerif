@@ -3,7 +3,16 @@ glyphname = dollar;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-28,0);
+ref = _bar_ver_;
+}
+);
+width = 521;
 }
 );
 unicode = 36;

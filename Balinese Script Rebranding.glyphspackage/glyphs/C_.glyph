@@ -4,6 +4,10 @@ layers = (
 {
 anchors = (
 {
+name = bar_hor_dbl;
+pos = (197,355);
+},
+{
 name = tail_Q;
 pos = (386,43);
 }

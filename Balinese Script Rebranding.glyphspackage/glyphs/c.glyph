@@ -2,6 +2,12 @@
 glyphname = c;
 layers = (
 {
+anchors = (
+{
+name = bar_ver;
+pos = (313,273);
+}
+);
 background = {
 shapes = (
 {

@@ -3,7 +3,14 @@ glyphname = less;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+pos = (413,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 413;
 }
 );
 unicode = 60;
