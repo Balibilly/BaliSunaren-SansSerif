@@ -3,6 +3,13 @@ glyphname = downArrow;
 layers = (
 {
 layerId = m009;
+shapes = (
+{
+pos = (0,710);
+ref = upArrow;
+scale = (1,-1);
+}
+);
 width = 600;
 }
 );

@@ -16,7 +16,7 @@ pos = (220,0);
 ref = period;
 }
 );
-width = 620;
+width = 660;
 }
 );
 metricLeft = period;

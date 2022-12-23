@@ -3,7 +3,14 @@ glyphname = rightArrow;
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+angle = -90;
+pos = (-60,630);
+ref = upArrow;
+}
+);
+width = 702;
 }
 );
 unicode = 8594;

@@ -3,6 +3,13 @@ glyphname = southEastArrow;
 layers = (
 {
 layerId = m009;
+shapes = (
+{
+pos = (0,863);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
 width = 600;
 }
 );
