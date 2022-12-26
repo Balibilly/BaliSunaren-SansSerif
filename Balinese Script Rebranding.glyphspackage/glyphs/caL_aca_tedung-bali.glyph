@@ -3,7 +3,17 @@ glyphname = "caLaca_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "caLaca-bali";
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = _tedung_bali_;
+}
+);
+width = 1170;
 }
 );
 }

@@ -3,7 +3,18 @@ glyphname = "kafSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+ref = "kafSasak-bali";
+},
+{
+alignment = -1;
+pos = (821,0);
+ref = _tedung_bali_;
+}
+);
+width = 1545;
 }
 );
 }

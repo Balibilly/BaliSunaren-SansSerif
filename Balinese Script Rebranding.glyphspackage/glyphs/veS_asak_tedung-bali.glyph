@@ -3,7 +3,17 @@ glyphname = "veSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "veSasak-bali";
+},
+{
+alignment = -1;
+pos = (359,0);
+ref = _tedung_bali_;
+}
+);
+width = 1079;
 }
 );
 }
