@@ -3,7 +3,17 @@ glyphname = "asyuraSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "asyuraSasak-bali";
+},
+{
+alignment = -1;
+pos = (1025,0);
+ref = _tedung_bali_;
+}
+);
+width = 1767;
 }
 );
 }

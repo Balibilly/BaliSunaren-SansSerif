@@ -3,7 +3,19 @@ glyphname = "tzirSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (70,0);
+ref = "tzirSasak-bali";
+},
+{
+alignment = -1;
+pos = (842,0);
+ref = _tedung_bali_;
+}
+);
+width = 1564;
 }
 );
 }

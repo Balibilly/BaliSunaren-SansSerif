@@ -3,7 +3,17 @@ glyphname = "daMadu_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "daMadu-bali";
+},
+{
+alignment = -1;
+pos = (543,0);
+ref = _tedung_bali_;
+}
+);
+width = 1265;
 }
 );
 }

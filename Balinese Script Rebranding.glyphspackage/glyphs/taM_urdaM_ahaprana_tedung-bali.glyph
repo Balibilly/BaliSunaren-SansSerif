@@ -3,7 +3,17 @@ glyphname = "taMurdaMahaprana_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "taMurdaMahaprana-bali";
+},
+{
+alignment = -1;
+pos = (563,0);
+ref = _tedung_bali_;
+}
+);
+width = 1285;
 }
 );
 }

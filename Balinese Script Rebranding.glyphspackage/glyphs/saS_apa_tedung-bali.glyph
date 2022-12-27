@@ -3,7 +3,17 @@ glyphname = "saSapa_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "saSapa-bali";
+},
+{
+alignment = -1;
+pos = (444,0);
+ref = _tedung_bali_;
+}
+);
+width = 1166;
 }
 );
 }
