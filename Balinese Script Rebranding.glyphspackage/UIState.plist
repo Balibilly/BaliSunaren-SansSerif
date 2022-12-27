@@ -1,10 +1,10 @@
 {
 displayStrings = (
 "nnnnnnn
-oooooo 
+oooooo
 non/Placeholder non
 nno/Placeholder on/Placeholder no/Placeholder on
-nnonon 
+nnonon
 nnoonn
 v/Placeholder v/Placeholder v
 xtf",
@@ -24,7 +24,6 @@ HHOOn/Placeholder no/Placeholder o
 -.:!¡?·*#//-_({[‹-",
 "/Placeholder A/Placeholder B/Placeholder C/Placeholder D/Placeholder E/Placeholder F/Placeholder G/Placeholder H/Placeholder I/Placeholder J/Placeholder K/Placeholder L/Placeholder M/Placeholder N/Placeholder O/Placeholder P/Placeholder Q/Placeholder R/Placeholder S/Placeholder T/Placeholder U/Placeholder V/Placeholder W/Placeholder X/Placeholder Y/Placeholder Z/Placeholder/Placeholder/Placeholder/Placeholder 
 -TVFPV6",
-".:!¡?·*#//-_({[‹",
 "  noᬉ ᬉ ᬊ ᬊ 
 /_tail_na   ᬦ  ᬦ  ᬏ ᬏ
  /zalSasak_tedung-bali  /zalSasak_tedung-bali  ᬧ ᬧ ᭈ
@@ -33,13 +32,15 @@ HHOOn/Placeholder no/Placeholder o
 ᬉᬲ ᬲ   ᬓ   ᬓ   
 ᬘ ᬘ ᭅ  ᭅ ᭊ
 /sa_tedung-bali/ka_tedung-bali  ᬮ   /la_tedung-bali/la_tedung-bali  
-ᬋ  ᬋ   ᬌ ᭉ ᬯ  /veSasak_tedung-bali 
+/_repa_ ᬋ ᬋ   ᬌ ᭉ ᬯ  /veSasak_tedung-bali 
 ᬕ   /ga_tedung-bali   ᬔ ᬔ 
 ᭆ ᭆ ᬳ  ᬙ   
-ᬧ  /pa_tedung-bali  ᬗ  ᬗ  ᬇ  ᬈ
-ᬙ  /caLaca_tedung-bali   /nga_tedung-bali  ᬗ ᬕ ᬩ
-ᬳ ᬦ  ᬘ ᬭ ᬓ  ᬤ   ᬢ
+ᬧ  /pa_tedung-bali  ᬗ  ᬗ  ᬗᬇ  ᬈ
+ᬙ  /caLaca_tedung-bali   /nga_tedung-bali  ᬗ ᬕ ᬩᬩ
+ᬳ ᬦ  ᬘ ᬭ ᬓᬤ    ᬢ
 ᬫ ᬕ ᬩ ᬬ  ᬧ 
-ᬜ ᬜ  ᬳ   /ha_tedung-bali"
+ᬜ ᬜ  ᬳ   /ha_tedung-bali",
+"ᬅ ᬆ ᬇ ᬈ ᬉ ᬊ ᬋ ᬌ ᬍ ᬎ ᬏ ᬐ ᬑ ᬒ ᬳ ᬦ ᬡ ᬘ ᬙ ᬭ ᬓ ᬔ ᭅ ᭆ ᬤ ᬥ ᬟ ᬠ ᬢ ᬞ ᬝ ᬣ ᭇ ᬲ ᬱ ᬰ ᭊ ᭋ ᭋ ᬯ ᭉ ᬮ ᬫ ᬕ   ᬖ ᬩ ᬪ ᬗ ᬧ ᬨ ᬨ ᭈ ᬚ ᬛ ᬬ ᬜ ᬆ",
+"/ha_tedung-bali  /na_tedung-bali     /naRambat_tedung-bali      /ca_tedung-bali   /caLaca_tedung-bali   /ra_tedung-bali   /ka_tedung-bali  /kafSasak_tedung-bali      /khotSasak_tedung-bali        /da_tedung-bali      /daMadu_tedung-bali     /ta_tedung-bali      /taMurdaMahaprana_tedung-bali  /taLatik_tedung-bali     /taTawa_tedung-bali      /tzirSasak_tedung-bali  /sa_tedung-bali  /saSapa_tedung-bali     /saSaga_tedung-bali  /zalSasak_tedung-bali      /asyuraSasak_tedung-bali       /wa_tedung-bali   /veSasak_tedung-bali  /la_tedung-bali   /ma_tedung-bali   /ga_tedung-bali   /gaGora_tedung-bali      /ba_tedung-bali      /baKembang_tedung-bali    /nga_tedung-bali  /pa_tedung-bali   /efSasak_tedung-bali     /jaJera_tedung-bali      /ya_tedung-bali  "
 );
 }

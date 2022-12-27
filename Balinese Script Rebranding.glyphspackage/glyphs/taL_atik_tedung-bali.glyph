@@ -3,7 +3,17 @@ glyphname = "taLatik_tedung-bali";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "taLatik-bali";
+},
+{
+alignment = -1;
+pos = (561,0);
+ref = _tedung_bali_;
+}
+);
+width = 1283;
 }
 );
 }
