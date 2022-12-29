@@ -9,11 +9,11 @@ ref = "veSasak-bali";
 },
 {
 alignment = -1;
-pos = (359,0);
+pos = (451,0);
 ref = _tedung_bali_;
 }
 );
-width = 1079;
+width = 1173;
 }
 );
 }

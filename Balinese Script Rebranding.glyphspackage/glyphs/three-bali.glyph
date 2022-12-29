@@ -1,0 +1,15 @@
+{
+glyphname = "three-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "okara-bali";
+}
+);
+width = 905;
+}
+);
+unicode = 6995;
+}
