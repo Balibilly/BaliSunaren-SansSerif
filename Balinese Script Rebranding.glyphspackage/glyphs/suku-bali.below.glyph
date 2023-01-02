@@ -1,0 +1,14 @@
+{
+glyphname = "suku-bali.below";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "suku-bali";
+}
+);
+width = 493;
+}
+);
+}

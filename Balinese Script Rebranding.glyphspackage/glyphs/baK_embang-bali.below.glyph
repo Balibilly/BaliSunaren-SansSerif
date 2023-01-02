@@ -3,7 +3,18 @@ glyphname = "baKembang-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+pos = (461,0);
+ref = "baKembang-bali";
+}
+);
+width = 1424;
 }
 );
 }

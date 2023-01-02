@@ -1,0 +1,25 @@
+{
+glyphname = "leftHandOpenPung-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,0,l),
+(474,50,l),
+(86,50,l),
+(81,26,l),
+(514,504,l),
+(491,554,l),
+(26,38,l),
+(36,0,l)
+);
+}
+);
+width = 527;
+}
+);
+unicode = 7033;
+}

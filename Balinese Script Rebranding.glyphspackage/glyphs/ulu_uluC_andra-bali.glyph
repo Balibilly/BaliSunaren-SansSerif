@@ -1,0 +1,19 @@
+{
+glyphname = "ulu_uluCandra-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (-48,0);
+ref = "ulu-bali";
+},
+{
+pos = (485,0);
+ref = "uluCandra-bali";
+}
+);
+width = 997;
+}
+);
+}

@@ -1,0 +1,17 @@
+{
+glyphname = "cecek-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (-55,566);
+ref = "dang-bali";
+scale = (0.7835,0.7835);
+}
+);
+width = 306;
+}
+);
+unicode = 6914;
+}

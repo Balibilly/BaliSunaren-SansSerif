@@ -3,7 +3,19 @@ glyphname = "daMadu-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+alignment = -1;
+pos = (539,0);
+ref = "daMadu-bali";
+}
+);
+width = 1436;
 }
 );
 }

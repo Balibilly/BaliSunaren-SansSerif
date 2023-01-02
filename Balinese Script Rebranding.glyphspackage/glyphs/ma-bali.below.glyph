@@ -3,7 +3,18 @@ glyphname = "ma-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+pos = (521,0);
+ref = "ma-bali";
+}
+);
+width = 1300;
 }
 );
 }

@@ -3,6 +3,14 @@ glyphname = "windu-bali";
 layers = (
 {
 layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (61,258);
+ref = "zero-bali";
+scale = (0.7346,0.7346);
+}
+);
 width = 600;
 }
 );

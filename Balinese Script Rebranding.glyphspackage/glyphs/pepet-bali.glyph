@@ -1,0 +1,17 @@
+{
+glyphname = "pepet-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (10,654);
+ref = "daeng-bali";
+scale = (0.7107,0.7107);
+}
+);
+width = 718;
+}
+);
+unicode = 6978;
+}

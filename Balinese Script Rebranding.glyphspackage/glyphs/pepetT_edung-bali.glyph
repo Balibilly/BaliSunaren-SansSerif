@@ -1,0 +1,18 @@
+{
+glyphname = "pepetTedung-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "pepet-bali";
+},
+{
+ref = _tedung_bali_;
+}
+);
+width = 718;
+}
+);
+unicode = 6979;
+}

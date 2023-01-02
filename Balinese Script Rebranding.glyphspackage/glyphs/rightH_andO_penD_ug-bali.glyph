@@ -1,0 +1,25 @@
+{
+glyphname = "rightHandOpenDug-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,0,l),
+(279,468,l),
+(265,468,l),
+(442,0,l),
+(497,0,l),
+(284,545,l),
+(262,545,l),
+(30,0,l)
+);
+}
+);
+width = 527;
+}
+);
+unicode = 7028;
+}

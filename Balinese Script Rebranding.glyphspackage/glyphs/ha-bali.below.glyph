@@ -3,7 +3,17 @@ glyphname = "ha-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = _gantungan_h_;
+},
+{
+alignment = -1;
+pos = (456,0);
+ref = "ha-bali";
+}
+);
+width = 1720;
 }
 );
 }

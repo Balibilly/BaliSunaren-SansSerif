@@ -1,0 +1,19 @@
+{
+glyphname = "pepet_surang-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (14,0);
+ref = "pepet-bali";
+},
+{
+pos = (744,0);
+ref = "surang-bali";
+}
+);
+width = 1321;
+}
+);
+}

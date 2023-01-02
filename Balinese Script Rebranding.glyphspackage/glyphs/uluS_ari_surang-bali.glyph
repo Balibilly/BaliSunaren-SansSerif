@@ -1,0 +1,19 @@
+{
+glyphname = "uluSari_surang-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (-48,0);
+ref = "uluSari-bali";
+},
+{
+pos = (490,0);
+ref = "surang-bali";
+}
+);
+width = 1067;
+}
+);
+}

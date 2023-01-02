@@ -3,7 +3,18 @@ glyphname = "taMurdaMahaprana-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+pos = (531,0);
+ref = "taMurdaMahaprana-bali";
+}
+);
+width = 1439;
 }
 );
 }

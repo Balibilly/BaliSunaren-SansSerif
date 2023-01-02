@@ -1,0 +1,22 @@
+{
+glyphname = "rerekan_pepet_surang-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "rerekan-bali";
+},
+{
+pos = (360,0);
+ref = "pepet-bali";
+},
+{
+pos = (1042,0);
+ref = "surang-bali";
+}
+);
+width = 1619;
+}
+);
+}

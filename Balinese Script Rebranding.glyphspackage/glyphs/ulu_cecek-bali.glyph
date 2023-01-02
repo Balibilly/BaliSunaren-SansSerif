@@ -1,0 +1,18 @@
+{
+glyphname = "ulu_cecek-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "ulu-bali";
+},
+{
+pos = (553,20);
+ref = "cecek-bali";
+}
+);
+width = 600;
+}
+);
+}

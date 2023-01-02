@@ -3,7 +3,12 @@ glyphname = "ra-bali.below2";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "ra-bali";
+}
+);
+width = 725;
 }
 );
 }

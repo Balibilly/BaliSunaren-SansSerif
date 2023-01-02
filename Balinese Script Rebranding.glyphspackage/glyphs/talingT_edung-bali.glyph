@@ -1,0 +1,21 @@
+{
+glyphname = "talingTedung-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = "taling-bali";
+},
+{
+alignment = -1;
+pos = (520,0);
+ref = "tedung-bali";
+}
+);
+width = 1262;
+}
+);
+unicode = 6976;
+}

@@ -3,7 +3,12 @@ glyphname = "wa-bali.below2";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+ref = "wa-bali";
+}
+);
+width = 789;
 }
 );
 }

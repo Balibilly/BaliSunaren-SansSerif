@@ -1,0 +1,14 @@
+{
+glyphname = "ya-bali.post.short";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "ya-bali";
+}
+);
+width = 962;
+}
+);
+}

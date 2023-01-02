@@ -1,0 +1,19 @@
+{
+glyphname = "ulu_uluRicem-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (-48,0);
+ref = "ulu-bali";
+},
+{
+pos = (450,0);
+ref = "uluRicem-bali";
+}
+);
+width = 990;
+}
+);
+}

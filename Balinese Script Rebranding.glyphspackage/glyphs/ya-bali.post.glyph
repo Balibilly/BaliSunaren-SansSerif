@@ -1,0 +1,20 @@
+{
+glyphname = "ya-bali.post";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+pos = (551,0);
+ref = "ya-bali";
+}
+);
+width = 1410;
+}
+);
+}

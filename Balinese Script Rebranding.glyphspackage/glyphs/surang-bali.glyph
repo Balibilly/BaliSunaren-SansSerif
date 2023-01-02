@@ -1,0 +1,17 @@
+{
+glyphname = "surang-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (26,591);
+ref = "dangSurang-bali";
+scale = (0.7835,0.7835);
+}
+);
+width = 577;
+}
+);
+unicode = 6915;
+}

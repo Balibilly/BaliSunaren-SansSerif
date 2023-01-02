@@ -3,6 +3,16 @@ glyphname = "carikPareren-bali";
 layers = (
 {
 layerId = m009;
+shapes = (
+{
+pos = (-200,0);
+ref = "carikSiki-bali";
+},
+{
+pos = (60,0);
+ref = "carikSiki-bali";
+}
+);
 width = 600;
 }
 );

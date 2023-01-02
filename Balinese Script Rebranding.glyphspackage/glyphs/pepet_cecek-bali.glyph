@@ -1,0 +1,19 @@
+{
+glyphname = "pepet_cecek-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (14,0);
+ref = "pepet-bali";
+},
+{
+pos = (714,0);
+ref = "cecek-bali";
+}
+);
+width = 1043;
+}
+);
+}

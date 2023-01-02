@@ -1,0 +1,19 @@
+{
+glyphname = "uluSari_cecek-bali";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+pos = (-48,0);
+ref = "uluSari-bali";
+},
+{
+pos = (504,0);
+ref = "cecek-bali";
+}
+);
+width = 807;
+}
+);
+}

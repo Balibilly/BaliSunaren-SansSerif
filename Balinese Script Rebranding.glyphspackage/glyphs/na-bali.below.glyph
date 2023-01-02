@@ -3,7 +3,19 @@ glyphname = "na-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+alignment = -1;
+pos = (591,0);
+ref = "na-bali";
+}
+);
+width = 1495;
 }
 );
 }

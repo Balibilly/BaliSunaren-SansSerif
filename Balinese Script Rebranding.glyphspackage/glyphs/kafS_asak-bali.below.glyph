@@ -3,7 +3,18 @@ glyphname = "kafSasak-bali.below";
 layers = (
 {
 layerId = m009;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (101,0);
+ref = _gantungan_h_;
+},
+{
+pos = (541,0);
+ref = "kafSasak-bali";
+}
+);
+width = 1727;
 }
 );
 }
