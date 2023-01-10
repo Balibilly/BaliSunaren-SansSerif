@@ -1,47 +1,5 @@
 {
 displayStrings = (
-"nnnnnnn
-oooooo 
-non/Placeholder non
-nno/Placeholder on/Placeholder no/Placeholder on
-nnonon 
-nnoonn
-v/Placeholder v/Placeholder v
-xtf",
-"HHH/Placeholder HH
-OOO/Placeholder OO
-HOH/Placeholder HO/Placeholder OHH
-HHOOn/Placeholder no/Placeholder o
--se
-",
-"/Placeholder 0/Placeholder 1/Placeholder 2/Placeholder 3/Placeholder 4/Placeholder 5/Placeholder 6/Placeholder 7/Placeholder 8/Placeholder 9/Placeholder 
--0123456789
-88
-
-
-",
-"/Placeholder a/Placeholder b/Placeholder c/Placeholder d/Placeholder e/Placeholder f/Placeholder g/Placeholder h/Placeholder i/Placeholder j/Placeholder k/Placeholder l/Placeholder m/Placeholder n/Placeholder o/Placeholder p/Placeholder q/Placeholder r/Placeholder s/Placeholder t/Placeholder u/Placeholder v/Placeholder w/Placeholder x/Placeholder y/Placeholder z/Placeholder/Placeholder/Placeholder 
--.:!¡?·*#//-_({[‹-",
-"/Placeholder A/Placeholder B/Placeholder C/Placeholder D/Placeholder E/Placeholder F/Placeholder G/Placeholder H/Placeholder I/Placeholder J/Placeholder K/Placeholder L/Placeholder M/Placeholder N/Placeholder O/Placeholder P/Placeholder Q/Placeholder R/Placeholder S/Placeholder T/Placeholder U/Placeholder V/Placeholder W/Placeholder X/Placeholder Y/Placeholder Z/Placeholder/Placeholder/Placeholder/Placeholder 
--TVFPV6",
-".:!¡?·*#//-_({[‹",
-"  noᬉ ᬉ ᬊ ᬊ 
-/_tail_na   ᬦ  ᬦ    
-ᬉᬲ ᬲ   ᬓ   ᬓ   
-ᬘ ᬘ ᭅ  ᭅ ᭊ   ",
-"ᬙ ᭚ ᬆ  ᭛᭛ ᭜᭝ ᭞ ᭟ ᭔᭠᭠",
-"ᬄ  ᬵ   ᬻ     ᬽ   ᬾ   ᬿ     ᭀ     ᭁ",
-"/ya-bali.post  /ya-bali.post.short  /ya-bali.post2  /ya-bali.post2.short  ᬅ ᬆ ᬇ ᬈ ᬉ ᬊ ᬋ ᬌ ᬍ ᬎ ᬏ ᬐ ᬑ ᬒ ᬳ ᬦ ᬡ ᬘ ᬙ ᬭ ᬓ ᬔ ᭅ ᭆ ᬤ ᬥ ᬟ ᬠ ᬢ ᬞ ᬝ ᬣ ᭇ ᬲ ᬱ ᬰ ᭊ ᭋ ᬯ ᭉ ᬮ ᬫ ᬕ ᬖ ᬩ ᬪ ᬗ ᬧ ᬨ ᭈ ᬚ ᬛ ᬬ ᬜ /ha_tedung-bali  /na_tedung-bali  /naRambat_tedung-bali  /ca_tedung-bali  /caLaca_tedung-bali  /ra_tedung-bali  /ka_tedung-bali  /kafSasak_tedung-bali  /khotSasak_tedung-bali  /da_tedung-bali  /daMadu_tedung-bali  /ta_tedung-bali  /taMurdaMahaprana_tedung-bali   /taLatik_tedung-bali    /taTawa_tedung-bali  /tzirSasak_tedung-bali  /sa_tedung-bali  /saSapa_tedung-bali  /saSaga_tedung-bali  /zalSasak_tedung-bali  /asyuraSasak_tedung-bali  /wa_tedung-bali  /veSasak_tedung-bali  /la_tedung-bali  /ma_tedung-bali  /ga_tedung-bali  /gaGora_tedung-bali  /ba_tedung-bali  /baKembang_tedung-bali   /nga_tedung-bali  /pa_tedung-bali  /efSasak_tedung-bali  /jaJera_tedung-bali  /ya_tedung-bali  
-
-᭐ ᭑ ᭒ ᭓ ᭔ ᭕ ᭖ ᭗ ᭘ ᭙ 
-
-᭚ ᭛ ᭜ ᭝ ᭞ ᭟ ᭠ ᭤ ᭥ ᭪ ᭧ ᭦ ᭣  ᭢ ᭨ ᭩ ᭡ ᭴ ᭵ ᭶ ᭷ ᭸ ᭹ ᭺ ᭻ ᭼ /ha-bali.below  /na-bali.below  /naRambat-bali.below  /ca-bali.below  
-
-/caLaca-bali.below  /ra-bali.below  /ra-bali.below2  /ka-bali.below  /kaMahaprana-bali.below  /kafSasak-bali.below  /da-bali.below  /daMadu-bali.below  /daMurdaAlpaprana-bali.below  /daMurdaMahaprana-bali.below  /ta-bali.below  /taMurdaMahaprana-bali.below  /taLatik-bali.below  /taTawa-bali.below  /tzirSasak-bali.below  /saSaga-bali.below  /asyuraSasak-bali.below  
-
-/wa-bali.below  /wa-bali.below2  /veSasak-bali.below  /la-bali.below  /ma-bali.below  /ga-bali.below  /gaGora-bali.below  /ba-bali.below  /baKembang-bali.below  /nga-bali.below  /ja-bali.below  /nya-bali.below  
-
-ᬶ/ulu_uluRicem-bali/ulu_uluCandra-bali/ulu_cecek-bali/ulu_surang-bali ᬷ/uluSari_uluRicem-bali/uluSari_uluCandra-bali/uluSari_cecek-bali/uluSari_surang-bali ᬀᬁᭂ/pepet_cecek-bali/pepet_surang-bali ᬂᬃ᬴/rerekan_cecek-bali/rerekan_surang-bali/rerekan_ulu_cecek-bali/rerekan_ulu_surang-bali/rerekan_uluSari_cecek-bali/rerekan_uluSari_surang-bali/rerekan_pepet_cecek-bali/rerekan_pepet_surang-bali ᬸ/suku-bali.below ᬹ/sukuIlut-bali.below ᬺᬼᭃ᭬᭫᭭᭮᭯᭰᭱᭲᭳
-/ra_ya-bali.post  /ra_ya_tedung-bali.post  /ra_ya_suku-bali.post  /ra_ya_sukuIlut-bali.post  /sa-bali.post  /saSapa-bali.post  /zalSasak-bali.post  /pa-bali.post  /paKapal-bali.post  /efSasak-bali.post  /jaJera-bali.post  ᬄ ᬵ ᬻ ᬽ ᬾ ᬿ ᭀ ᭁ "
+I
 );
 }
