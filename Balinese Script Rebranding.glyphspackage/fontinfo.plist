@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3182";
 .formatVersion = 3;
 classes = (
 {
@@ -92,6 +92,7 @@ type = descender;
 type = "italic angle";
 }
 );
+note = "30/3/2023 Retouch N,H,E,F,M";
 properties = (
 {
 key = copyrights;
