@@ -1,5 +1,5 @@
 {
-.appVersion = "3182";
+.appVersion = "3184";
 .formatVersion = 3;
 classes = (
 {
@@ -93,7 +93,8 @@ type = "italic angle";
 }
 );
 note = "30/3/2023 Retouch N,H,E,F,M
-31/3 RETOUCH V,W,X,K";
+31/3 RETOUCH V,W,X,K
+5/4/ retouch A";
 properties = (
 {
 key = copyrights;
