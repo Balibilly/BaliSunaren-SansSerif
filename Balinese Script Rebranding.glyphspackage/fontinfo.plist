@@ -22,29 +22,36 @@ fontMaster = (
 {
 guides = (
 {
-pos = (302,482);
+pos = (540,583);
 },
 {
-pos = (302,63);
+pos = (302,58);
 },
 {
-pos = (302,542);
+pos = (375,632);
 },
 {
 pos = (302,-10);
 },
 {
-pos = (359,325);
+pos = (307,487);
 },
 {
-pos = (391,195);
+pos = (482,115);
+},
+{
+angle = 270;
+pos = (581,514);
+},
+{
+pos = (159,-215);
 }
 );
 iconName = Bold;
 id = m009;
 metricValues = (
 {
-over = 16;
+over = 10;
 pos = 750;
 },
 {
@@ -59,7 +66,7 @@ pos = 545;
 over = -10;
 },
 {
-over = -16;
+over = -10;
 pos = -250;
 },
 {
@@ -94,7 +101,9 @@ type = "italic angle";
 );
 note = "30/3/2023 Retouch N,H,E,F,M
 31/3 RETOUCH V,W,X,K
-5/4/ retouch A";
+5/4/ retouch A
+6/4/ Retouch Y,Z, T
+7/4 Finish retouch Uppercase,";
 properties = (
 {
 key = copyrights;

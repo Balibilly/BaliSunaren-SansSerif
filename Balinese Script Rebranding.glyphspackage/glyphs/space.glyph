@@ -4,7 +4,7 @@ glyphname = space;
 layers = (
 {
 layerId = m009;
-width = 200;
+width = 250;
 }
 );
 unicode = 32;
