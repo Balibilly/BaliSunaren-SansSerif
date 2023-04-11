@@ -34,7 +34,7 @@ pos = (375,632);
 pos = (302,-10);
 },
 {
-pos = (307,487);
+pos = (428,325);
 },
 {
 pos = (482,115);
@@ -103,7 +103,9 @@ note = "30/3/2023 Retouch N,H,E,F,M
 31/3 RETOUCH V,W,X,K
 5/4/ retouch A
 6/4/ Retouch Y,Z, T
-7/4 Finish retouch Uppercase,";
+7/4 Finish retouch Uppercase,
+
+8/4 retouch : abcdefhijlmnopqruvwy";
 properties = (
 {
 key = copyrights;

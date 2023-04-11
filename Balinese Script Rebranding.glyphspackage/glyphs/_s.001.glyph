@@ -13,12 +13,12 @@ ref = n;
 layerId = m009;
 shapes = (
 {
-pos = (423,0);
+pos = (440,0);
 ref = s;
 scale = (-1,1);
 }
 );
-width = 423;
+width = 440;
 }
 );
 }

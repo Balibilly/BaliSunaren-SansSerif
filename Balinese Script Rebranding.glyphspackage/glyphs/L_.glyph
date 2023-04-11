@@ -18,7 +18,7 @@ pos = (-21,0);
 ref = _part.stem_L;
 },
 {
-pos = (-33,0);
+pos = (-22,0);
 ref = _bottom_E;
 }
 );

@@ -6,8 +6,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (23,0);
-ref = H;
+ref = E;
 }
 );
 };
@@ -23,7 +22,7 @@ pos = (-26,0);
 ref = _top_E;
 },
 {
-pos = (-26,4);
+pos = (-31,21);
 ref = _center_E;
 }
 );
