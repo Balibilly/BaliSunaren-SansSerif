@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = S;
 layers = (
 {
@@ -11,7 +12,8 @@ pos = (267,359);
 background = {
 shapes = (
 {
-ref = S.002;
+pos = (-31,0);
+ref = E;
 }
 );
 };

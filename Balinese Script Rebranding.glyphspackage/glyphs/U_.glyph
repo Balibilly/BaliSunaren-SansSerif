@@ -1,19 +1,13 @@
 {
+color = 4;
 glyphname = U;
 layers = (
 {
 background = {
 shapes = (
 {
-pos = (29,0);
+pos = (19,0);
 ref = V;
-},
-{
-ref = H;
-},
-{
-pos = (-45,0);
-ref = O;
 }
 );
 };

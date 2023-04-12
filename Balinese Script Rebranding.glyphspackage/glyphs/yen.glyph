@@ -8,11 +8,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (-15,-161);
+pos = (-5,-161);
 ref = _bar_hor_dbl_;
 }
 );
-width = 569;
+width = 599;
 }
 );
 unicode = 165;
