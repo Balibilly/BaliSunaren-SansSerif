@@ -14,18 +14,51 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem bali dflt;
 ";
 name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "lookup ccmp_bali_1 {
+	lookupflag 0;
+	sub rerekan-bali pepet-bali cecek-bali by rerekan_pepet_cecek-bali;
+	sub rerekan-bali pepet-bali surang-bali by rerekan_pepet_surang-bali;
+	sub rerekan-bali uluSari-bali cecek-bali by rerekan_uluSari_cecek-bali;
+	sub rerekan-bali uluSari-bali surang-bali by rerekan_uluSari_surang-bali;
+	sub rerekan-bali ulu-bali cecek-bali by rerekan_ulu_cecek-bali;
+	sub rerekan-bali ulu-bali surang-bali by rerekan_ulu_surang-bali;
+	sub pepet-bali cecek-bali by pepet_cecek-bali;
+	sub pepet-bali surang-bali by pepet_surang-bali;
+	sub rerekan-bali cecek-bali by rerekan_cecek-bali;
+	sub rerekan-bali surang-bali by rerekan_surang-bali;
+	sub uluSari-bali cecek-bali by uluSari_cecek-bali;
+	sub uluSari-bali surang-bali by uluSari_surang-bali;
+	sub uluSari-bali uluCandra-bali by uluSari_uluCandra-bali;
+	sub uluSari-bali uluRicem-bali by uluSari_uluRicem-bali;
+	sub ulu-bali cecek-bali by ulu_cecek-bali;
+	sub ulu-bali surang-bali by ulu_surang-bali;
+	sub ulu-bali uluCandra-bali by ulu_uluCandra-bali;
+	sub ulu-bali uluRicem-bali by ulu_uluRicem-bali;
+} ccmp_bali_1;
+
+script bali;
+lookup ccmp_bali_1;
+";
+tag = ccmp;
 }
 );
 fontMaster = (
 {
 guides = (
 {
-pos = (540,583);
+pos = (469,503);
 },
 {
-pos = (376,68);
+pos = (302,66);
 },
 {
 pos = (375,632);
@@ -34,7 +67,7 @@ pos = (375,632);
 pos = (302,-10);
 },
 {
-pos = (428,325);
+pos = (321,479);
 },
 {
 pos = (44,138);
@@ -45,6 +78,9 @@ pos = (581,514);
 },
 {
 pos = (159,-215);
+},
+{
+pos = (438,437);
 }
 );
 iconName = Bold;
