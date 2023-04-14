@@ -3,7 +3,7 @@ color = 9;
 glyphname = "ka-bali";
 layers = (
 {
-layerId = m009;
+background = {
 shapes = (
 {
 closed = 1;
@@ -122,8 +122,34 @@ nodes = (
 );
 }
 );
-width = 1060;
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = _na_tenas;
+},
+{
+alignment = -1;
+ref = _na_baong;
+},
+{
+alignment = -1;
+ref = _na_bangkiang;
+},
+{
+pos = (-46,0);
+ref = _ha_bangkiang;
+},
+{
+pos = (-26,0);
+ref = _ha_geluungan_ha;
 }
 );
+width = 1122;
+}
+);
+metricLeft = "na-bali";
+metricRight = "ha-bali";
 unicode = 6931;
 }

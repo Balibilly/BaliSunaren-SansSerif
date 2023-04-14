@@ -3,7 +3,7 @@ color = 9;
 glyphname = "ta-bali";
 layers = (
 {
-layerId = m009;
+background = {
 shapes = (
 {
 closed = 1;
@@ -84,8 +84,59 @@ nodes = (
 );
 }
 );
-width = 1169;
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(419,-10,ls),
+(520,-10,o),
+(590,43,o),
+(590,153,cs),
+(590,343,o),
+(383,319,o),
+(383,404,cs),
+(383,448,o),
+(438,479,o),
+(532,479,cs),
+(620,479,o),
+(712,451,o),
+(712,291,c),
+(788,291,l),
+(788,472,o),
+(702,555,o),
+(539,555,cs),
+(374,555,o),
+(306,480,o),
+(306,399,cs),
+(306,262,o),
+(514,297,o),
+(514,157,cs),
+(514,85,o),
+(460,66,o),
+(381,66,cs),
+(346,66,l),
+(334,-10,l)
+);
+},
+{
+pos = (20,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (-78,0);
+ref = _ha_bangkiang;
+},
+{
+pos = (-58,0);
+ref = _ha_geluungan_ha;
 }
 );
+width = 1090;
+}
+);
+metricLeft = "ha-bali";
+metricRight = "ha-bali";
 unicode = 6946;
 }

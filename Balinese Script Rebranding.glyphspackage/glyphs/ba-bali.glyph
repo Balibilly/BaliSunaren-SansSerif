@@ -6,35 +6,6 @@ layers = (
 background = {
 shapes = (
 {
-closed = 0;
-nodes = (
-(868,0,ls),
-(946,0,o),
-(1002,39,o),
-(1002,151,cs),
-(1002,493,l),
-(1022,493,ls),
-(1062,493,o),
-(1084,473,o),
-(1084,431,cs),
-(1084,-5,l),
-(1137,-5,l),
-(1137,415,ls),
-(1137,504,o),
-(1106,540,o),
-(1016,540,cs),
-(949,540,l),
-(949,149,ls),
-(949,70,o),
-(902,41,o),
-(842,54,c)
-);
-}
-);
-};
-layerId = m009;
-shapes = (
-{
 closed = 1;
 nodes = (
 (374,0,l),
@@ -120,8 +91,29 @@ nodes = (
 );
 }
 );
-width = 1157;
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = _nga_body;
+},
+{
+alignment = -1;
+pos = (95,0);
+ref = _ha_geluungan_ha;
+},
+{
+ref = _ba_bangkiang;
+},
+{
+ref = _nga_top;
 }
 );
+width = 1243;
+}
+);
+metricLeft = "ha-bali";
+metricRight = "ha-bali";
 unicode = 6953;
 }

@@ -8,7 +8,7 @@ shapes = (
 ref = "wa-bali";
 }
 );
-width = 784;
+width = 783;
 }
 );
 }
