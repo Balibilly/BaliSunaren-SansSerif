@@ -1,6 +1,12 @@
 {
 .appVersion = "3184";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
 classes = (
 {
 automatic = 1;
@@ -53,6 +59,9 @@ tag = ccmp;
 );
 fontMaster = (
 {
+axesValues = (
+0
+);
 guides = (
 {
 pos = (302,66);
@@ -73,7 +82,6 @@ pos = (302,479);
 pos = (206,53);
 }
 );
-iconName = Bold;
 id = m009;
 metricValues = (
 {
@@ -98,11 +106,7 @@ pos = -250;
 {
 }
 );
-name = Logo;
-stemValues = (
-85,
-87
-);
+name = Regular;
 userData = {
 GSCornerRadius = 18;
 };
@@ -128,13 +132,6 @@ type = descender;
 type = "italic angle";
 }
 );
-note = "30/3/2023 Retouch N,H,E,F,M
-31/3 RETOUCH V,W,X,K
-5/4/ retouch A
-6/4/ Retouch Y,Z, T
-7/4 Finish retouch Uppercase,
-
-8/4 retouch : abcdefhijlmnopqruvwy";
 properties = (
 {
 key = copyrights;
@@ -179,14 +176,6 @@ language = dflt;
 value = "trademark of Balibilly Design";
 }
 );
-}
-);
-stems = (
-{
-name = hstem;
-},
-{
-name = Hstem;
 }
 );
 unitsPerEm = 1000;

@@ -6,15 +6,7 @@ layers = (
 anchors = (
 {
 name = bar_ver;
-pos = (293,359);
-},
-{
-name = bottom;
-pos = (331,0);
-},
-{
-name = top;
-pos = (331,700);
+pos = (269,359);
 }
 );
 background = {

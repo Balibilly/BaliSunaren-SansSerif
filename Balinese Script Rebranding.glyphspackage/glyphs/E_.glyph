@@ -6,8 +6,13 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-18,0);
-ref = H;
+closed = 1;
+nodes = (
+(461,327,l),
+(461,405,l),
+(132,405,l),
+(132,327,l)
+);
 }
 );
 };
@@ -23,17 +28,12 @@ pos = (-11,0);
 ref = _bottom_E;
 },
 {
-closed = 1;
-nodes = (
-(461,327,l),
-(461,405,l),
-(132,405,l),
-(132,327,l)
-);
-},
-{
 pos = (-11,0);
 ref = _top_E;
+},
+{
+pos = (-10,21);
+ref = _center_E;
 }
 );
 width = 532;

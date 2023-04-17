@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = bar_hor_dbl;
-pos = (197,355);
+pos = (212,363);
 },
 {
 name = tail_Q;

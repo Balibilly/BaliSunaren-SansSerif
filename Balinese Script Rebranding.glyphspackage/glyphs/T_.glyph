@@ -6,8 +6,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-36,0);
-ref = H;
+ref = E;
 }
 );
 };
