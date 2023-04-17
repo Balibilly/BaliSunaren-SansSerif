@@ -1,0 +1,21 @@
+{
+export = 0;
+glyphname = _stem_ending;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,0,l),
+(820,291,l),
+(744,291,l),
+(744,0,l)
+);
+}
+);
+width = 867;
+}
+);
+}

@@ -134,11 +134,11 @@ nodes = (
 },
 {
 alignment = -1;
-pos = (-102,0);
+pos = (-107,0);
 ref = _ha_geluungan_ha;
 }
 );
-width = 1046;
+width = 1041;
 }
 );
 metricLeft = "ha-bali";

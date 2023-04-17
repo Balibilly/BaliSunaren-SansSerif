@@ -138,12 +138,17 @@ alignment = -1;
 ref = _na_bangkiang;
 },
 {
+alignment = -1;
 pos = (-46,0);
 ref = _ha_bangkiang;
 },
 {
+alignment = -1;
 pos = (-26,0);
 ref = _ha_geluungan_ha;
+},
+{
+ref = _na_batis;
 }
 );
 width = 1122;

@@ -33,11 +33,11 @@ ref = _ha_tenas_ha;
 },
 {
 alignment = -1;
-pos = (-367,0);
+pos = (-372,0);
 ref = _ha_geluungan_ha;
 }
 );
-width = 781;
+width = 776;
 }
 );
 metricLeft = "ha-bali";
