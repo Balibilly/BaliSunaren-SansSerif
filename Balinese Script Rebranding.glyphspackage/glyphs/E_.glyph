@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = E;
 layers = (
 {
@@ -8,10 +8,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(461,327,l),
-(461,405,l),
-(132,405,l),
-(132,327,l)
+(468,327,l),
+(468,405,l),
+(139,405,l),
+(139,327,l)
 );
 }
 );
@@ -20,19 +20,19 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-21,0);
+pos = (-14,0);
 ref = _part.stem_E;
 },
 {
-pos = (-11,0);
+pos = (-4,0);
 ref = _bottom_E;
 },
 {
-pos = (-11,0);
+pos = (-4,0);
 ref = _top_E;
 },
 {
-pos = (-10,21);
+pos = (-3,16);
 ref = _center_E;
 }
 );

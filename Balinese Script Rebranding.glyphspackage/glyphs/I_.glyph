@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = I;
 layers = (
 {
@@ -8,14 +8,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(162,0,l),
-(162,700,l),
-(75,700,l),
-(75,0,l)
+(169,0,l),
+(169,700,l),
+(82,700,l),
+(82,0,l)
 );
 }
 );
-width = 237;
+width = 251;
 }
 );
 metricLeft = H;

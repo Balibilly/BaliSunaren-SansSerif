@@ -1,11 +1,12 @@
 {
-color = 4;
+color = 9;
 glyphname = L;
 layers = (
 {
 background = {
 shapes = (
 {
+pos = (7,0);
 ref = E;
 }
 );
@@ -14,15 +15,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-21,0);
+pos = (-14,0);
 ref = _part.stem_L;
 },
 {
-pos = (-22,0);
+pos = (-21,0);
 ref = _bottom_E;
 }
 );
-width = 503;
+width = 478;
 }
 );
 metricLeft = H;

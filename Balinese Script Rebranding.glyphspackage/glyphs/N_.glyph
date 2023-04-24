@@ -1,8 +1,39 @@
 {
-color = 4;
+color = 9;
 glyphname = N;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = H;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(167,0,l),
+(167,629,l),
+(125,629,l),
+(493,0,l),
+(591,0,l),
+(591,700,l),
+(506,700,l),
+(506,81,l),
+(545,71,l),
+(180,700,l),
+(82,700,l),
+(82,0,l)
+);
+}
+);
+width = 673;
+},
+{
+associatedMasterId = m009;
 background = {
 shapes = (
 {
@@ -11,7 +42,8 @@ ref = H;
 }
 );
 };
-layerId = m009;
+layerId = "4B8B70EA-52B5-47E9-90A1-CAF6BDCB405D";
+name = "18 Apr 23 15.55";
 shapes = (
 {
 closed = 1;

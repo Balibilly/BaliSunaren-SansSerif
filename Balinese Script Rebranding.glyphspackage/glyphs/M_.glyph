@@ -1,8 +1,44 @@
 {
-color = 4;
+color = 9;
 glyphname = M;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (130,0);
+ref = V;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,0,l),
+(166,657,l),
+(148,657,l),
+(361,0,l),
+(474,0,l),
+(691,657,l),
+(671,657,l),
+(671,0,l),
+(756,0,l),
+(756,700,l),
+(616,700,l),
+(406,53,l),
+(427,53,l),
+(221,700,l),
+(82,700,l),
+(82,0,l)
+);
+}
+);
+width = 838;
+},
+{
+associatedMasterId = m009;
 background = {
 shapes = (
 {
@@ -11,7 +47,8 @@ ref = V;
 }
 );
 };
-layerId = m009;
+layerId = "C6209AE7-CD7A-406B-A077-906990906F06";
+name = "18 Apr 23 15.53";
 shapes = (
 {
 closed = 1;

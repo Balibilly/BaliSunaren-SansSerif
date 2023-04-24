@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = h;
 layers = (
 {
@@ -27,7 +27,7 @@ pos = (38,0);
 ref = _part.shoulder;
 }
 );
-width = 591;
+width = 586;
 }
 );
 metricRight = n;

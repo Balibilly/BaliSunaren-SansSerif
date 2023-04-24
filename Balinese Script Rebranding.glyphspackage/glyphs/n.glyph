@@ -1,26 +1,26 @@
 {
-color = 4;
+color = 9;
 glyphname = n;
 layers = (
 {
 guides = (
 {
-pos = (291,398);
+pos = (299,398);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (38,0);
+pos = (46,0);
 ref = _part.stem;
 },
 {
-pos = (30,0);
+pos = (38,0);
 ref = _part.shoulder;
 }
 );
-width = 583;
+width = 586;
 }
 );
 unicode = 110;

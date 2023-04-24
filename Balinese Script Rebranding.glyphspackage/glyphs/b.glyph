@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = b;
 layers = (
 {
@@ -33,7 +33,7 @@ pos = (8,0);
 ref = _perut_b;
 }
 );
-width = 612;
+width = 607;
 },
 {
 anchors = (

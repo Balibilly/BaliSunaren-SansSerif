@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = F;
 layers = (
 {
@@ -14,19 +14,19 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-21,0);
+pos = (-14,0);
 ref = _part.stem_F;
 },
 {
-pos = (-26,0);
+pos = (-14,0);
 ref = _top_E;
 },
 {
-pos = (-31,21);
+pos = (-19,16);
 ref = _center_E;
 }
 );
-width = 509;
+width = 499;
 }
 );
 metricLeft = H;

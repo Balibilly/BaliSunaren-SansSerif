@@ -64,22 +64,20 @@ axesValues = (
 );
 guides = (
 {
-pos = (302,66);
+pos = (245,98);
 },
 {
-pos = (375,632);
+pos = (373,632);
 },
 {
-pos = (302,-10);
+angle = 270;
+pos = (507,281);
 },
 {
 pos = (159,-215);
 },
 {
 pos = (302,479);
-},
-{
-pos = (206,53);
 }
 );
 id = m009;
@@ -110,6 +108,7 @@ name = Regular;
 userData = {
 GSCornerRadius = 18;
 };
+visible = 1;
 }
 );
 metrics = (

@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = u;
 layers = (
 {
@@ -7,11 +7,11 @@ layerId = m009;
 shapes = (
 {
 angle = 180;
-pos = (583,545);
+pos = (586,545);
 ref = n;
 }
 );
-width = 583;
+width = 586;
 }
 );
 metricRight = a;

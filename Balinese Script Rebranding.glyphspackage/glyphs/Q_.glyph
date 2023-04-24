@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 9;
 glyphname = Q;
 layers = (
 {
@@ -16,11 +16,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (15,-2);
+pos = (5,-2);
 ref = _tail_Q;
 }
 );
-width = 752;
+width = 732;
 }
 );
 unicode = 81;
