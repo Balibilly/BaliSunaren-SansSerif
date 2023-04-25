@@ -1,5 +1,5 @@
 {
-.appVersion = "3184";
+.appVersion = "3189";
 .formatVersion = 3;
 axes = (
 {
@@ -71,13 +71,26 @@ pos = (373,632);
 },
 {
 angle = 270;
-pos = (493,-56);
+pos = (297,475);
 },
 {
 pos = (159,-215);
 },
 {
 pos = (302,479);
+},
+{
+angle = 270;
+pos = (267,475);
+},
+{
+pos = (195,59);
+},
+{
+pos = (464,-10);
+},
+{
+pos = (506,2);
 }
 );
 id = m009;
@@ -108,7 +121,6 @@ name = Regular;
 userData = {
 GSCornerRadius = 18;
 };
-visible = 1;
 }
 );
 metrics = (

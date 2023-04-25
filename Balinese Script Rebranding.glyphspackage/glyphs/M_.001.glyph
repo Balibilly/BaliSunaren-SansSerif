@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = M.001;
 layers = (
 {
