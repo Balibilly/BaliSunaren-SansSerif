@@ -6,12 +6,51 @@ layers = (
 background = {
 shapes = (
 {
+pos = (-49,0);
+ref = S;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(261,-10,o),
+(347,41,o),
+(347,190,cs),
+(347,700,l),
+(260,700,l),
+(260,188,ls),
+(260,95,o),
+(217,69,o),
+(155,69,cs),
+(107,69,o),
+(62,87,o),
+(24,110,c),
+(70,136,l),
+(-8,-14,l),
+(-12,40,l),
+(36,10,o),
+(100,-10,o),
+(161,-10,cs)
+);
+}
+);
+width = 412;
+},
+{
+associatedMasterId = m009;
+background = {
+shapes = (
+{
 pos = (-291,-33);
 ref = O;
 }
 );
 };
-layerId = m009;
+layerId = "22E1EDE1-F2B9-428D-89A2-F8360D613A45";
+name = "26 Apr 23 14.04";
 shapes = (
 {
 closed = 1;
