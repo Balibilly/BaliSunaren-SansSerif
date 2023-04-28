@@ -12,7 +12,9 @@ pos = (380,0);
 ref = "cecek-bali";
 }
 );
-width = 709;
+width = 604;
 }
 );
+metricLeft = "rerekan-bali";
+metricRight = "cecek-bali";
 }

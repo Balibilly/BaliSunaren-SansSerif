@@ -3,6 +3,12 @@ export = 0;
 glyphname = _ha_tenas_ha;
 layers = (
 {
+anchors = (
+{
+name = _ha_tenas_ha;
+pos = (314,-10);
+}
+);
 layerId = m009;
 shapes = (
 {

@@ -6,37 +6,32 @@ layers = (
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(513,-10,o),
-(589,90,o),
-(589,263,cs),
-(589,291,l),
-(509,291,l),
-(509,265,ls),
-(509,119,o),
-(451,66,o),
-(346,66,c),
-(334,-10,l)
-);
-},
-{
-pos = (20,0);
-ref = _ha_tenas_ha;
-},
-{
-pos = (20,0);
+alignment = -1;
+pos = (30,0);
 ref = _ha_tundun_ha;
 },
 {
-pos = (20,0);
+alignment = -1;
+pos = (10,0);
+ref = _ha_bali_core;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ha_bangkiang;
+},
+{
+alignment = -1;
+pos = (40,0);
 ref = _ha_geluungan_ha;
 },
 {
-ref = _ha_bangkiang;
+alignment = -1;
+pos = (30,0);
+ref = _ha_tenas_ha;
 }
 );
-width = 1168;
+width = 1198;
 }
 );
 unicode = 6963;

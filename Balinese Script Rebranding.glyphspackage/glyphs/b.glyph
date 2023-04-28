@@ -29,11 +29,11 @@ nodes = (
 );
 },
 {
-pos = (8,0);
+pos = (4,0);
 ref = _perut_b;
 }
 );
-width = 607;
+width = 603;
 },
 {
 anchors = (

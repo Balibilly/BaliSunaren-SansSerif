@@ -8,7 +8,7 @@ shapes = (
 ref = "ulu-bali";
 },
 {
-pos = (553,20);
+pos = (411,0);
 ref = "cecek-bali";
 }
 );

@@ -3,6 +3,16 @@ export = 0;
 glyphname = _ha_tundun_ha;
 layers = (
 {
+anchors = (
+{
+name = ha_bali_core;
+pos = (489,291);
+},
+{
+name = ha_tundun_ha;
+pos = (770,291);
+}
+);
 layerId = m009;
 shapes = (
 {

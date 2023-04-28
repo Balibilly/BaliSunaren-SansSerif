@@ -5,27 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "ulu-bali";
 },
 {
-closed = 1;
-nodes = (
-(348,700,o),
-(379,731,o),
-(379,769,cs),
-(379,807,o),
-(348,838,o),
-(310,838,cs),
-(272,838,o),
-(241,807,o),
-(241,769,cs),
-(241,731,o),
-(272,700,o),
-(310,700,cs)
-);
+ref = _dot_ulu_bali;
 }
 );
-width = 600;
+width = 441;
 }
 );
 unicode = 6912;

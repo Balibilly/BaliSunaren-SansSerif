@@ -1,0 +1,37 @@
+{
+export = 0;
+glyphname = _ha_bali_core;
+layers = (
+{
+anchors = (
+{
+name = _ha_bali_core;
+pos = (509,291);
+},
+{
+name = ha_tenas_ha;
+pos = (334,-10);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(513,-10,o),
+(589,90,o),
+(589,263,cs),
+(589,291,l),
+(509,291,l),
+(509,265,ls),
+(509,119,o),
+(451,66,o),
+(346,66,c),
+(334,-10,l)
+);
+}
+);
+width = 1168;
+}
+);
+}

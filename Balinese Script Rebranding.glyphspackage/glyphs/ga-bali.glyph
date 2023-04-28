@@ -6,7 +6,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (14,0);
+pos = (24,0);
 ref = "nga-bali";
 }
 );
@@ -16,31 +16,31 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(581,479,l),
-(582,555,l),
-(480,555,l),
-(479,479,l)
+(591,479,l),
+(592,555,l),
+(490,555,l),
+(489,479,l)
 );
 },
 {
-pos = (4,0);
+pos = (14,0);
 ref = _la_tenas;
 },
 {
-pos = (-184,0);
+pos = (-174,0);
 ref = _ba_bangkiang;
 },
 {
 alignment = -1;
-pos = (-89,0);
+pos = (-79,0);
 ref = _ha_geluungan_ha;
 },
 {
-pos = (4,0);
+pos = (14,0);
 ref = _la_baong;
 }
 );
-width = 1059;
+width = 1079;
 }
 );
 metricLeft = "ha-bali";
