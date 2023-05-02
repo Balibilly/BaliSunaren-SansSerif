@@ -1,5 +1,5 @@
 {
-.appVersion = "3190";
+.appVersion = "3191";
 .formatVersion = 3;
 axes = (
 {
@@ -97,6 +97,17 @@ pos = (244,996);
 },
 {
 pos = (144,-769);
+},
+{
+pos = (590,-669);
+},
+{
+angle = 270;
+pos = (782,0);
+},
+{
+angle = 270;
+pos = (706,0);
 }
 );
 id = m009;

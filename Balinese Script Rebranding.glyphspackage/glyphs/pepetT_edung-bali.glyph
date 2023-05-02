@@ -5,13 +5,16 @@ layers = (
 layerId = m009;
 shapes = (
 {
+alignment = -1;
+pos = (-40,0);
 ref = "pepet-bali";
 },
 {
+pos = (-40,0);
 ref = _tedung_bali_;
 }
 );
-width = 718;
+width = 678;
 }
 );
 unicode = 6979;

@@ -5,7 +5,7 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (-57,-980);
+pos = (-57,-1187);
 ref = "tegeh-bali";
 }
 );

@@ -7,31 +7,31 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (30,0);
+pos = (51,0);
 ref = _ha_tundun_ha;
 },
 {
 alignment = -1;
-pos = (10,0);
+pos = (31,0);
 ref = _ha_bali_core;
 },
 {
 alignment = -1;
-pos = (10,0);
+pos = (31,0);
 ref = _ha_bangkiang;
 },
 {
 alignment = -1;
-pos = (40,0);
+pos = (61,0);
 ref = _ha_geluungan_ha;
 },
 {
 alignment = -1;
-pos = (30,0);
+pos = (31,0);
 ref = _ha_tenas_ha;
 }
 );
-width = 1198;
+width = 1258;
 }
 );
 unicode = 6963;

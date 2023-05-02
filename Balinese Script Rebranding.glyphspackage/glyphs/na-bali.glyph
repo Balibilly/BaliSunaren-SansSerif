@@ -6,10 +6,11 @@ layers = (
 background = {
 shapes = (
 {
-pos = (63,-988);
+pos = (84,-988);
 ref = _tail_na;
 },
 {
+pos = (21,0);
 ref = "sa-bali";
 }
 );
@@ -18,25 +19,30 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
+pos = (23,0);
 ref = _na_baong;
 },
 {
 alignment = -1;
+pos = (23,0);
 ref = _na_tenas;
 },
 {
 alignment = -1;
+pos = (41,0);
 ref = _na_bangkiang;
 },
 {
 alignment = -1;
+pos = (41,0);
 ref = _na_batis;
 },
 {
+pos = (66,0);
 ref = _stem_ending;
 }
 );
-width = 852;
+width = 939;
 }
 );
 metricRight = "ha-bali";

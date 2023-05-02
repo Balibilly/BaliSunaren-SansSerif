@@ -3,7 +3,60 @@ color = 9;
 glyphname = "sa-bali";
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = "ca-bali";
+},
+{
+ref = "na-bali";
+}
+);
+};
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(630,-10,o),
+(711,37,o),
+(714,182,cs),
+(716,291,l),
+(648,291,l),
+(648,223,ls),
+(648,129,o),
+(629,60,o),
+(548,60,cs),
+(457,60,o),
+(406,233,o),
+(308,253,c),
+(296,188,l),
+(365,169,o),
+(416,-10,o),
+(555,-10,cs)
+);
+},
+{
+alignment = -1;
+pos = (23,0);
+ref = _na_tenas;
+},
+{
+pos = (-269,0);
+ref = _ha_geluungan_ha;
+},
+{
+pos = (23,0);
+ref = _ca_awak;
+}
+);
+width = 928;
+},
+{
+associatedMasterId = m009;
+layerId = "FD099883-FFB4-403A-8BAF-ED35C8685205";
+name = "2 May 23 15.18";
 shapes = (
 {
 closed = 1;
@@ -39,6 +92,48 @@ ref = _ca_awak;
 }
 );
 width = 833;
+},
+{
+associatedMasterId = m009;
+layerId = "82537872-313D-4F67-BAAD-3E729C49346F";
+name = "2 May 23 16.04";
+shapes = (
+{
+closed = 1;
+nodes = (
+(579,-10,o),
+(623,46,o),
+(626,191,cs),
+(628,291,l),
+(582,291,l),
+(582,262,ls),
+(582,168,o),
+(581,64,o),
+(512,64,cs),
+(432,64,o),
+(383,213,o),
+(286,251,c),
+(274,188,l),
+(353,139,o),
+(389,-10,o),
+(508,-10,cs)
+);
+},
+{
+alignment = -1;
+pos = (1,0);
+ref = _na_tenas;
+},
+{
+pos = (-316,0);
+ref = _ha_geluungan_ha;
+},
+{
+pos = (1,0);
+ref = _ca_awak;
+}
+);
+width = 835;
 }
 );
 metricLeft = "na-bali";

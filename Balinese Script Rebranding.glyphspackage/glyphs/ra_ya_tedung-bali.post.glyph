@@ -13,7 +13,9 @@ pos = (785,0);
 ref = "ya_tedung-bali";
 }
 );
-width = 1822;
+width = 2044;
 }
 );
+metricLeft = "ra-bali";
+metricRight = "ya_tedung-bali";
 }

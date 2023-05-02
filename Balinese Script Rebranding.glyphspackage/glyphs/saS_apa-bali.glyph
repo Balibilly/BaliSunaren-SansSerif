@@ -29,8 +29,10 @@ nodes = (
 );
 }
 );
-width = 780;
+width = 790;
 }
 );
+metricLeft = "pa-bali";
+metricRight = "pa-bali";
 unicode = 6961;
 }
