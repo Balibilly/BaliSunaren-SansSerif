@@ -6,38 +6,55 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-35,0);
+pos = (-15,0);
 ref = "ca-bali";
+},
+{
+closed = 1;
+nodes = (
+(433,-10,ls),
+(553,-10,o),
+(682,61,o),
+(682,242,c),
+(608,242,l),
+(603,104,o),
+(513,66,o),
+(418,66,cs),
+(377,66,l),
+(365,-10,l)
+);
 }
 );
 };
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(409,-10,ls),
-(550,-10,o),
-(645,66,o),
-(655,232,c),
-(581,232,l),
-(569,102,o),
-(491,66,o),
-(387,66,cs),
-(357,66,l),
-(345,-10,l)
-);
-},
-{
-pos = (31,0);
+alignment = -1;
+pos = (51,0);
 ref = _ha_tenas_ha;
 },
 {
-pos = (51,0);
+alignment = -1;
+pos = (54,0);
 ref = _wa_ca_gelungan;
+},
+{
+closed = 1;
+nodes = (
+(414,-10,ls),
+(549,-10,o),
+(678,59,o),
+(678,227,c),
+(608,226,l),
+(603,105,o),
+(512,66,o),
+(407,66,cs),
+(377,66,l),
+(365,-10,l)
+);
 }
 );
-width = 887;
+width = 875;
 },
 {
 associatedMasterId = m009;
@@ -78,5 +95,6 @@ width = 847;
 }
 );
 metricLeft = "ha-bali";
+metricRight = "ha-bali";
 unicode = 6959;
 }

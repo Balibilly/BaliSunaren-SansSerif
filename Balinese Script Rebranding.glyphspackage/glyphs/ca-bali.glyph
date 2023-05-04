@@ -3,6 +3,89 @@ color = 9;
 glyphname = "ca-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (857,0);
+},
+{
+name = class0;
+pos = (896,0);
+},
+{
+name = top;
+pos = (449,650);
+}
+);
+background = {
+shapes = (
+{
+pos = (-31,0);
+ref = "na-bali";
+},
+{
+closed = 1;
+nodes = (
+(616,-10,o),
+(689,139,o),
+(688,262,c),
+(614,262,l),
+(615,178,o),
+(573,63,o),
+(490,63,cs),
+(405,63,o),
+(395,192,o),
+(293,243,c),
+(278,247,l),
+(265,179,l),
+(344,130,o),
+(357,-10,o),
+(485,-10,cs)
+);
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(610,-10,o),
+(700,66,o),
+(700,227,c),
+(630,226,l),
+(630,106,o),
+(572,59,o),
+(520,59,cs),
+(430,59,o),
+(393,214,o),
+(293,249,c),
+(278,253,l),
+(265,186,l),
+(341,174,o),
+(377,-10,o),
+(519,-10,cs)
+);
+},
+{
+pos = (-8,0);
+ref = _ca_awak;
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = _na_tenas;
+},
+{
+alignment = -1;
+pos = (76,0);
+ref = _wa_ca_gelungan;
+}
+);
+width = 897;
+},
+{
+associatedMasterId = m009;
 background = {
 shapes = (
 {
@@ -10,7 +93,8 @@ ref = "na-bali";
 }
 );
 };
-layerId = m009;
+layerId = "9CA60967-E49B-43B6-800B-F44C17925C18";
+name = "4 May 23 12.09";
 shapes = (
 {
 alignment = -1;
@@ -19,7 +103,7 @@ ref = _na_tenas;
 },
 {
 alignment = -1;
-pos = (84,0);
+pos = (107,0);
 ref = _wa_ca_gelungan;
 },
 {
@@ -30,27 +114,76 @@ ref = _ca_awak;
 closed = 1;
 nodes = (
 (617,-10,o),
-(688,83,o),
-(688,232,c),
-(614,232,l),
-(614,138,o),
-(580,67,o),
-(521,67,cs),
-(436,67,o),
-(418,194,o),
-(325,243,c),
+(711,83,o),
+(711,232,c),
+(637,232,l),
+(637,138,o),
+(583,63,o),
+(525,63,cs),
+(437,63,o),
+(426,192,o),
+(324,243,c),
 (309,247,l),
 (296,179,l),
 (375,130,o),
-(388,-10,o),
+(397,-10,o),
 (515,-10,cs)
 );
 }
 );
-width = 920;
+width = 955;
+},
+{
+associatedMasterId = m009;
+background = {
+shapes = (
+{
+ref = "na-bali";
+}
+);
+};
+layerId = "063E3D61-5F59-402D-99B0-4DF4DCDBECB0";
+name = "4 May 23 14.05";
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = _na_tenas;
+},
+{
+alignment = -1;
+pos = (107,0);
+ref = _wa_ca_gelungan;
+},
+{
+pos = (23,0);
+ref = _ca_awak;
+},
+{
+closed = 1;
+nodes = (
+(641,-10,o),
+(711,89,o),
+(711,232,c),
+(637,232,l),
+(637,128,o),
+(595,63,o),
+(538,63,cs),
+(453,63,o),
+(426,192,o),
+(324,243,c),
+(309,247,l),
+(296,179,l),
+(375,130,o),
+(408,-10,o),
+(536,-10,cs)
+);
+}
+);
+width = 955;
 }
 );
 metricLeft = "na-bali";
-metricRight = "wa-bali";
+metricRight = "ha-bali";
 unicode = 6936;
 }

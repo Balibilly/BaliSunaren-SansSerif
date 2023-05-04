@@ -5,17 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
-pos = (101,0);
 ref = _gantungan_h_;
 },
 {
-alignment = -1;
-pos = (539,0);
+pos = (310,0);
 ref = "daMadu-bali";
 }
 );
-width = 1436;
+width = 1199;
 }
 );
 }

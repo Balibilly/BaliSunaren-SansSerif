@@ -5,10 +5,11 @@ layers = (
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "suku-bali";
 }
 );
-width = 493;
+width = 0;
 }
 );
 }

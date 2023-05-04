@@ -5,15 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
 ref = "ra-bali";
 },
 {
-pos = (785,0);
+pos = (854,0);
 ref = "ya_tedung-bali";
 }
 );
-width = 2044;
+width = 2103;
 }
 );
 metricLeft = "ra-bali";

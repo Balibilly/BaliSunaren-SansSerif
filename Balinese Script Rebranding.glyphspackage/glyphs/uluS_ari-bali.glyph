@@ -9,10 +9,11 @@ alignment = 1;
 ref = "ulu-bali";
 },
 {
+pos = (-640,0);
 ref = _cecek_ulu_sari;
 }
 );
-width = 441;
+width = 10;
 }
 );
 unicode = 6967;

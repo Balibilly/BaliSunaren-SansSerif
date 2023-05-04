@@ -7,21 +7,24 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
+pos = (15,0);
 ref = _akara;
 },
 {
 alignment = -1;
+pos = (15,0);
 ref = _akara_bangkiang;
 },
 {
+pos = (15,0);
 ref = _cecek_bangkiang;
 },
 {
-pos = (-187,0);
+pos = (-161,0);
 ref = _nya_ekor;
 }
 );
-width = 1355;
+width = 1377;
 }
 );
 metricLeft = "akara-bali";

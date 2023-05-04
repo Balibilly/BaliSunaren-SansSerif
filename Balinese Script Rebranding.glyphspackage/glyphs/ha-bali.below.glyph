@@ -8,12 +8,11 @@ shapes = (
 ref = _gantungan_h_;
 },
 {
-alignment = -1;
-pos = (456,0);
+pos = (310,0);
 ref = "ha-bali";
 }
 );
-width = 1720;
+width = 1585;
 }
 );
 }

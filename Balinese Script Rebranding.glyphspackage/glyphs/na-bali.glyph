@@ -3,14 +3,28 @@ color = 9;
 glyphname = "na-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (865,0);
+},
+{
+name = class0;
+pos = (906,0);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
 background = {
 shapes = (
 {
-pos = (84,-988);
+pos = (53,-988);
 ref = _tail_na;
 },
 {
-pos = (21,0);
+pos = (-10,0);
 ref = "sa-bali";
 }
 );
@@ -19,30 +33,30 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (23,0);
+pos = (-8,0);
 ref = _na_baong;
 },
 {
 alignment = -1;
-pos = (23,0);
+pos = (-8,0);
 ref = _na_tenas;
 },
 {
 alignment = -1;
-pos = (41,0);
+pos = (10,0);
 ref = _na_bangkiang;
 },
 {
 alignment = -1;
-pos = (41,0);
+pos = (10,0);
 ref = _na_batis;
 },
 {
-pos = (66,0);
+pos = (35,0);
 ref = _stem_ending;
 }
 );
-width = 939;
+width = 905;
 }
 );
 metricRight = "ha-bali";

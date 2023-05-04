@@ -5,16 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
-pos = (101,0);
 ref = _gantungan_h_;
 },
 {
-pos = (511,0);
+pos = (310,0);
 ref = "jaJera-bali";
 }
 );
-width = 1713;
+width = 1485;
 }
 );
 }

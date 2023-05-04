@@ -5,19 +5,18 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
 ref = "ra-bali";
 },
 {
-pos = (785,0);
+pos = (854,0);
 ref = "ya-bali";
 },
 {
-pos = (1442,0);
+pos = (1929,0);
 ref = "suku-bali";
 }
 );
-width = 1630;
+width = 1939;
 }
 );
 }

@@ -5,16 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
-pos = (101,0);
 ref = _gantungan_h_;
 },
 {
-pos = (521,0);
+pos = (310,0);
 ref = "saSapa-bali";
 }
 );
-width = 1302;
+width = 1100;
 }
 );
 }
