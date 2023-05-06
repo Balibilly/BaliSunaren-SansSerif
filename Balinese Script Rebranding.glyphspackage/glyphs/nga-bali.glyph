@@ -3,6 +3,20 @@ color = 9;
 glyphname = "nga-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1050,0);
+},
+{
+name = class0;
+pos = (1089,0);
+},
+{
+name = top;
+pos = (541,650);
+}
+);
 background = {
 shapes = (
 {

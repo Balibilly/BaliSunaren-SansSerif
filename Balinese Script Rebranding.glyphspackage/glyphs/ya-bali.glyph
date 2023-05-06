@@ -3,6 +3,20 @@ color = 9;
 glyphname = "ya-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1046,0);
+},
+{
+name = class0;
+pos = (1085,0);
+},
+{
+name = top;
+pos = (514,650);
+}
+);
 background = {
 shapes = (
 {

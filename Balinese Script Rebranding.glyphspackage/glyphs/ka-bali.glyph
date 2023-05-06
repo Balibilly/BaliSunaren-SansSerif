@@ -3,6 +3,20 @@ color = 9;
 glyphname = "ka-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1156,0);
+},
+{
+name = class0;
+pos = (1195,0);
+},
+{
+name = top;
+pos = (565,650);
+}
+);
 background = {
 shapes = (
 {

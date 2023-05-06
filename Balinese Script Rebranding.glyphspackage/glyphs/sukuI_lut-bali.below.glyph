@@ -2,13 +2,20 @@
 glyphname = "sukuIlut-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (-43,0);
+}
+);
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "sukuIlut-bali";
 }
 );
-width = 325;
+width = 0;
 }
 );
 }

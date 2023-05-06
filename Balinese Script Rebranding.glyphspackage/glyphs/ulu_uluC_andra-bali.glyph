@@ -5,15 +5,16 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (-48,0);
 ref = "ulu-bali";
 },
 {
-pos = (485,0);
+pos = (-202,0);
 ref = "uluCandra-bali";
 }
 );
-width = 997;
+width = 455;
 }
 );
+metricLeft = "ulu-bali";
+metricRight = "ulu-bali";
 }

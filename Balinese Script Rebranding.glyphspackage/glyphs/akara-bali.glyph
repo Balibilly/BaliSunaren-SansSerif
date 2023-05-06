@@ -3,6 +3,20 @@ color = 9;
 glyphname = "akara-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1072,0);
+},
+{
+name = class0;
+pos = (1112,0);
+},
+{
+name = top;
+pos = (375,650);
+}
+);
 background = {
 shapes = (
 {

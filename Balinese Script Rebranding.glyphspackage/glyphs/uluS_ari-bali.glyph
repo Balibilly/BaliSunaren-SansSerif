@@ -13,7 +13,7 @@ pos = (-640,0);
 ref = _cecek_ulu_sari;
 }
 );
-width = 10;
+width = 0;
 }
 );
 unicode = 6967;

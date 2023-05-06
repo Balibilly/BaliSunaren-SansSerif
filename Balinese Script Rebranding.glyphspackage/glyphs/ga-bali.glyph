@@ -3,6 +3,20 @@ color = 9;
 glyphname = "ga-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1172,0);
+},
+{
+name = class0;
+pos = (1211,0);
+},
+{
+name = top;
+pos = (584,650);
+}
+);
 layerId = m009;
 shapes = (
 {
