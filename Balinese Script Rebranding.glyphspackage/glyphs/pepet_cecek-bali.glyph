@@ -8,13 +8,12 @@ shapes = (
 ref = "pepet-bali";
 },
 {
-pos = (583,0);
+pos = (642,0);
 ref = "cecek-bali";
 }
 );
-width = 807;
+width = 0;
 }
 );
 metricLeft = "pepet-bali";
-metricRight = "cecek-bali";
 }

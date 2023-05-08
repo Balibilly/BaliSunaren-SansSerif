@@ -9,11 +9,10 @@ alignment = 1;
 ref = "laLengaMark-bali";
 },
 {
-pos = (808,0);
 ref = "tedung-bali";
 }
 );
-width = 1394;
+width = 575;
 }
 );
 unicode = 6973;

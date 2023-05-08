@@ -8,11 +8,11 @@ shapes = (
 ref = "rerekan-bali";
 },
 {
-pos = (320,0);
+pos = (429,0);
 ref = "ulu-bali";
 }
 );
-width = 880;
+width = 0;
 }
 );
 }

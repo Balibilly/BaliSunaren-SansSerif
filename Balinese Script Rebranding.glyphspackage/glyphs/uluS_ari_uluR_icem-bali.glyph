@@ -8,13 +8,12 @@ shapes = (
 ref = "uluSari-bali";
 },
 {
-pos = (439,0);
+pos = (479,0);
 ref = "uluRicem-bali";
 }
 );
-width = 449;
+width = 0;
 }
 );
 metricLeft = "ulu-bali";
-metricRight = "ulu-bali";
 }

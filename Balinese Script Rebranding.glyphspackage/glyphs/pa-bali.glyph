@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (843,0);
+pos = (803,0);
 },
 {
 name = class0;

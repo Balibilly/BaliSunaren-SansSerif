@@ -14,8 +14,9 @@ pos = (-40,0);
 ref = _tedung_bali_;
 }
 );
-width = 678;
+width = 555;
 }
 );
+metricRight = "nya-bali";
 unicode = 6979;
 }

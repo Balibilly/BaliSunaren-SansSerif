@@ -3,6 +3,12 @@ export = 0;
 glyphname = _repa_;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (621,-13);
+}
+);
 layerId = m009;
 shapes = (
 {

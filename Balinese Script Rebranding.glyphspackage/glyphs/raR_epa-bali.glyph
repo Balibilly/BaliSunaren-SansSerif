@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = "raRepa-bali";
 layers = (
 {
@@ -8,12 +9,11 @@ shapes = (
 ref = "pa-bali";
 },
 {
-alignment = -1;
-pos = (149,0);
+pos = (182,13);
 ref = _repa_;
 }
 );
-width = 890;
+width = 882;
 }
 );
 metricLeft = "pa-bali";

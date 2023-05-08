@@ -13,6 +13,10 @@ name = class0;
 pos = (906,0);
 },
 {
+name = kaMahaprana;
+pos = (779,0);
+},
+{
 name = top;
 pos = (393,650);
 }

@@ -13,9 +13,8 @@ pos = (470,0);
 ref = "uluRicem-bali";
 }
 );
-width = 470;
+width = 0;
 }
 );
 metricLeft = "ulu-bali";
-metricRight = "ulu-bali";
 }

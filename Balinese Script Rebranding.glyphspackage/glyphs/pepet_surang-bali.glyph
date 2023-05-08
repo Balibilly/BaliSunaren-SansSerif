@@ -12,9 +12,8 @@ pos = (633,0);
 ref = "surang-bali";
 }
 );
-width = 633;
+width = 0;
 }
 );
 metricLeft = "pepet-bali";
-metricRight = "surang-bali";
 }
