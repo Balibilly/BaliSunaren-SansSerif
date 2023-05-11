@@ -71,12 +71,14 @@ Gguritan Rusak Bajar ᬕᬕᬸᬭᬶᬢᬦᬭᬸᬲᬓᬩᬜᬚᬃ",
 
 ᬗᬉᬳᬳᬳ/Placeholder ᬳ
 
--ᬏᬉ
+-ᬏᬉᬑ
+
+ᬩᬳᬡᬡ/_tedung_bali_ ᬵ
 
 
 
 ",
-"ᬗᬍᬎ/_lelengaTedung ᬎᬫᬏᬏ ᬉ   ᬸ ᬍᬳᬸᬉᬧᬺ/_nga_tenas/_nga_body ᬗᬍ"
+"ᬍᬅᬩᬉᬍᬐᬑᬑᬬ"
 );
 axes = (
 {
@@ -641,7 +643,7 @@ color = 9;
 glyphname = E;
 layers = (
 {
-.lastUpdate = 705232977.364;
+.lastUpdate = 705314937.605;
 background = {
 shapes = (
 {
@@ -686,7 +688,7 @@ color = 9;
 glyphname = F;
 layers = (
 {
-.lastUpdate = 705232977.391;
+.lastUpdate = 705314937.605;
 background = {
 shapes = (
 {
@@ -1118,7 +1120,7 @@ color = 9;
 glyphname = L;
 layers = (
 {
-.lastUpdate = 705232977.36;
+.lastUpdate = 705297045.021;
 background = {
 shapes = (
 {
@@ -3572,7 +3574,7 @@ export = 0;
 glyphname = S.001;
 layers = (
 {
-.lastUpdate = 705232977.366;
+.lastUpdate = 705306305.412;
 background = {
 shapes = (
 {
@@ -4210,7 +4212,7 @@ color = 9;
 glyphname = b;
 layers = (
 {
-.lastUpdate = 705232977.37;
+.lastUpdate = 705313099.951;
 background = {
 shapes = (
 {
@@ -4478,7 +4480,7 @@ color = 9;
 glyphname = d;
 layers = (
 {
-.lastUpdate = 705232977.361;
+.lastUpdate = 705306305.422;
 background = {
 shapes = (
 {
@@ -5751,7 +5753,7 @@ color = 9;
 glyphname = h;
 layers = (
 {
-.lastUpdate = 705232977.369;
+.lastUpdate = 705314937.932;
 background = {
 shapes = (
 {
@@ -6056,7 +6058,7 @@ color = 9;
 glyphname = m;
 layers = (
 {
-.lastUpdate = 705232977.355;
+.lastUpdate = 705306305.377;
 anchors = (
 {
 name = connect;
@@ -6144,7 +6146,7 @@ color = 9;
 glyphname = n;
 layers = (
 {
-.lastUpdate = 705232977.363;
+.lastUpdate = 705306305.425;
 guides = (
 {
 pos = (299,398);
@@ -6228,7 +6230,7 @@ color = 9;
 glyphname = p;
 layers = (
 {
-.lastUpdate = 705232977.375;
+.lastUpdate = 705306305.413;
 background = {
 shapes = (
 {
@@ -6275,7 +6277,7 @@ color = 9;
 glyphname = q;
 layers = (
 {
-.lastUpdate = 705232977.352;
+.lastUpdate = 705306305.384;
 background = {
 shapes = (
 {
@@ -7279,7 +7281,7 @@ color = 9;
 glyphname = "akara-bali";
 layers = (
 {
-.lastUpdate = 705232977.383;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -7445,7 +7447,7 @@ color = 9;
 glyphname = "akaraTedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.362;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -7494,7 +7496,7 @@ glyphname = "ikara-bali";
 lastChange = "2023-05-08 09:58:17 +0000";
 layers = (
 {
-.lastUpdate = 705232977.382;
+.lastUpdate = 705306305.399;
 layerId = m009;
 shapes = (
 {
@@ -7513,10 +7515,10 @@ unicode = 6919;
 {
 color = 9;
 glyphname = "ikaraTedung-bali";
-lastChange = "2023-05-08 09:58:17 +0000";
+lastChange = "2023-05-09 08:44:56 +0000";
 layers = (
 {
-.lastUpdate = 705232977.393;
+.lastUpdate = 705314696.607;
 layerId = m009;
 shapes = (
 {
@@ -7527,7 +7529,7 @@ pos = (1089,0);
 ref = _tedung_bali_;
 }
 );
-width = 1664;
+width = 1576;
 }
 );
 unicode = 6920;
@@ -7676,6 +7678,7 @@ nodes = (
 width = 561;
 },
 {
+.lastUpdate = 705233193.842;
 associatedMasterId = m009;
 background = {
 shapes = (
@@ -7949,10 +7952,10 @@ unicode = 6921;
 {
 color = 9;
 glyphname = "ukaraTedung-bali";
-lastChange = "2023-05-08 09:58:17 +0000";
+lastChange = "2023-05-09 08:44:56 +0000";
 layers = (
 {
-.lastUpdate = 705232977.349;
+.lastUpdate = 705314696.607;
 layerId = m009;
 shapes = (
 {
@@ -7963,7 +7966,7 @@ pos = (561,0);
 ref = _tedung_bali_;
 }
 );
-width = 1136;
+width = 1048;
 }
 );
 unicode = 6922;
@@ -7974,7 +7977,7 @@ glyphname = "raRepa-bali";
 lastChange = "2023-05-08 09:58:23 +0000";
 layers = (
 {
-.lastUpdate = 705232977.376;
+.lastUpdate = 705306305.389;
 layerId = m009;
 shapes = (
 {
@@ -7995,10 +7998,10 @@ unicode = 6923;
 {
 color = 9;
 glyphname = "raRepaTedung-bali";
-lastChange = "2023-05-08 09:58:23 +0000";
+lastChange = "2023-05-09 08:44:56 +0000";
 layers = (
 {
-.lastUpdate = 705232977.381;
+.lastUpdate = 705314696.608;
 layerId = m009;
 shapes = (
 {
@@ -8009,7 +8012,7 @@ pos = (882,0);
 ref = _tedung_bali_;
 }
 );
-width = 1457;
+width = 1369;
 }
 );
 unicode = 6924;
@@ -8017,10 +8020,10 @@ unicode = 6924;
 {
 color = 9;
 glyphname = "laLenga-bali";
-lastChange = "2023-05-08 09:58:04 +0000";
+lastChange = "2023-05-09 03:30:55 +0000";
 layers = (
 {
-.lastUpdate = 705232977.365;
+.lastUpdate = 705307839.696;
 anchors = (
 {
 name = lelengaTedung;
@@ -8028,6 +8031,106 @@ pos = (1009,-356);
 }
 );
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,-776,l),
+(670,-655,o),
+(794,-514,o),
+(881,-359,c),
+(873,-365,l),
+(888,-368,o),
+(904,-370,o),
+(919,-370,cs),
+(956,-370,o),
+(992,-365,o),
+(1022,-351,c),
+(1011,-364,l),
+(995,-298,l),
+(1017,-306,l),
+(999,-311,o),
+(978,-314,o),
+(940,-314,cs),
+(926,-314,o),
+(913,-312,o),
+(899,-310,c),
+(902,-319,l),
+(997,-133,o),
+(1039,73,o),
+(1039,290,cs),
+(1039,316,ls),
+(1039,481,o),
+(955,555,o),
+(845,555,c),
+(836,479,l),
+(893,479,o),
+(963,453,o),
+(963,306,cs),
+(963,290,ls),
+(963,63,o),
+(923,-127,o),
+(834,-300,c),
+(854,-295,l),
+(723,-240,o),
+(586,-89,o),
+(396,-89,cs),
+(263,-89,o),
+(189,-167,o),
+(189,-261,cs),
+(189,-453,o),
+(512,-423,o),
+(512,-620,cs),
+(512,-655,o),
+(501,-699,o),
+(475,-753,c),
+(468,-729,l),
+(521,-780,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(566,-647,l),
+(570,-628,o),
+(573,-617,o),
+(573,-601,cs),
+(573,-393,o),
+(265,-390,o),
+(265,-260,cs),
+(265,-196,o),
+(315,-158,o),
+(393,-158,cs),
+(561,-158,o),
+(691,-291,o),
+(818,-346,c),
+(815,-336,l),
+(754,-445,o),
+(672,-548,o),
+(567,-648,c)
+);
+},
+{
+pos = (23,0);
+ref = _nga_body;
+},
+{
+pos = (23,0);
+ref = _nga_top;
+}
+);
+width = 1089;
+},
+{
+anchors = (
+{
+name = lelengaTedung;
+pos = (1009,-356);
+}
+);
+associatedMasterId = m009;
+layerId = "04FFB923-97E8-4A61-BC67-7481B0DBA579";
+name = "9 May 23 11.30";
 shapes = (
 {
 closed = 1;
@@ -8107,7 +8210,7 @@ glyphname = "laLengaTedung-bali";
 lastChange = "2023-05-08 09:58:08 +0000";
 layers = (
 {
-.lastUpdate = 705232977.372;
+.lastUpdate = 705306305.377;
 layerId = m009;
 shapes = (
 {
@@ -8198,250 +8301,510 @@ unicode = 6927;
 },
 {
 glyphname = "aikara-bali";
+lastChange = "2023-05-09 08:22:17 +0000";
 layers = (
 {
+.lastUpdate = 705314872.633;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(636,-383,o),
+(636,-278,o),
+(690,-278,cs),
+(745,-278,o),
+(758,-383,o),
+(864,-383,cs),
+(929,-383,o),
+(982,-344,o),
+(982,-222,cs),
+(982,615,ls),
+(982,740,o),
+(946,790,o),
+(874,790,cs),
+(799,790,o),
+(761,727,o),
+(764,663,cs),
+(768,573,o),
+(860,516,o),
+(944,516,cs),
+(1027,516,o),
+(1088,562,o),
+(1123,633,c),
+(1090,664,l),
+(1060,609,o),
+(1010,581,o),
+(952,581,cs),
+(898,581,o),
+(822,616,o),
+(822,676,cs),
+(822,707,o),
+(843,727,o),
+(874,727,cs),
+(905,727,o),
+(929,706,o),
+(929,635,cs),
+(929,-224,ls),
+(929,-300,o),
+(900,-319,o),
+(852,-319,cs),
+(779,-320,o),
+(755,-215,o),
+(694,-215,cs),
+(628,-215,o),
+(615,-322,o),
+(557,-319,cs),
+(508,-317,o),
+(476,-271,o),
+(476,-196,cs),
+(476,22,o),
+(848,119,o),
+(848,379,cs),
+(848,484,o),
+(796,555,o),
+(701,555,cs),
+(633,555,o),
+(590,519,o),
+(574,423,c),
+(573,423,l),
+(560,519,o),
+(515,555,o),
+(449,555,cs),
+(361,555,o),
+(299,484,o),
+(299,349,cs),
+(299,69,l),
+(248,71,o),
+(218,105,o),
+(218,197,cs),
+(218,412,ls),
+(218,500,o),
+(172,555,o),
+(107,555,cs),
+(31,555,o),
+(-5,481,o),
+(0,398,c),
+(55,398,l),
+(55,459,o),
+(81,483,o),
+(109,483,cs),
+(136,483,o),
+(167,461,o),
+(167,401,cs),
+(167,195,ls),
+(167,44,o),
+(208,0,o),
+(299,0,cs),
+(354,0,l),
+(354,350,ls),
+(354,439,o),
+(402,487,o),
+(454,487,cs),
+(507,487,o),
+(538,437,o),
+(551,333,c),
+(597,333,l),
+(609,429,o),
+(646,487,o),
+(707,487,cs),
+(755,487,o),
+(793,450,o),
+(793,380,cs),
+(793,176,o),
+(413,65,o),
+(413,-199,cs),
+(413,-301,o),
+(460,-383,o),
+(545,-383,cs)
+);
+}
+);
+};
 layerId = m009;
 shapes = (
 {
 closed = 1;
 nodes = (
-(666,-383,o),
-(666,-278,o),
-(720,-278,cs),
-(775,-278,o),
-(788,-383,o),
-(894,-383,cs),
-(959,-383,o),
-(1012,-344,o),
-(1012,-222,cs),
-(1012,615,ls),
-(1012,740,o),
-(976,790,o),
-(904,790,cs),
-(829,790,o),
-(791,727,o),
-(794,663,cs),
-(798,573,o),
-(890,516,o),
-(974,516,cs),
-(1057,516,o),
-(1118,562,o),
-(1153,633,c),
-(1120,664,l),
-(1090,609,o),
-(1040,581,o),
-(982,581,cs),
-(928,581,o),
-(852,616,o),
-(852,676,cs),
-(852,707,o),
-(873,727,o),
-(904,727,cs),
-(935,727,o),
-(959,706,o),
-(959,635,cs),
-(959,-224,ls),
-(959,-300,o),
-(930,-319,o),
-(882,-319,cs),
-(809,-320,o),
-(785,-215,o),
-(724,-215,cs),
-(658,-215,o),
-(645,-322,o),
-(587,-319,cs),
-(538,-317,o),
-(506,-271,o),
-(506,-196,cs),
-(506,22,o),
-(878,119,o),
-(878,379,cs),
-(878,484,o),
-(826,555,o),
-(731,555,cs),
-(663,555,o),
-(620,519,o),
-(604,423,c),
-(603,423,l),
-(590,519,o),
-(545,555,o),
-(479,555,cs),
-(391,555,o),
-(329,484,o),
-(329,349,cs),
-(329,69,l),
-(278,71,o),
-(248,105,o),
-(248,197,cs),
-(248,412,ls),
-(248,500,o),
-(202,555,o),
-(137,555,cs),
-(61,555,o),
-(25,481,o),
-(30,398,c),
-(85,398,l),
-(85,459,o),
-(111,483,o),
-(139,483,cs),
-(166,483,o),
-(197,461,o),
-(197,401,cs),
-(197,195,ls),
-(197,44,o),
-(238,0,o),
-(329,0,cs),
-(384,0,l),
-(384,350,ls),
-(384,439,o),
-(432,487,o),
-(484,487,cs),
-(537,487,o),
-(568,437,o),
-(581,333,c),
-(627,333,l),
-(639,429,o),
-(676,487,o),
-(737,487,cs),
-(785,487,o),
-(823,450,o),
-(823,380,cs),
-(823,176,o),
-(443,65,o),
-(443,-199,cs),
-(443,-301,o),
-(490,-383,o),
-(575,-383,cs)
+(498,-769,o),
+(564,-570,o),
+(681,-570,cs),
+(812,-570,o),
+(803,-769,o),
+(977,-769,cs),
+(1082,-769,o),
+(1145,-704,o),
+(1145,-553,cs),
+(1145,620,ls),
+(1145,765,o),
+(1086,815,o),
+(1014,815,cs),
+(940,815,o),
+(894,752,o),
+(897,689,cs),
+(901,589,o),
+(1000,541,o),
+(1084,541,cs),
+(1167,541,o),
+(1228,587,o),
+(1263,658,c),
+(1235,686,l),
+(1197,638,o),
+(1160,602,o),
+(1102,602,cs),
+(1019,602,o),
+(962,641,o),
+(962,701,cs),
+(962,728,o),
+(983,748,o),
+(1014,748,cs),
+(1045,748,o),
+(1074,727,o),
+(1074,640,cs),
+(1074,-535,ls),
+(1074,-653,o),
+(1040,-697,o),
+(978,-698,cs),
+(865,-699,o),
+(856,-496,o),
+(686,-496,cs),
+(523,-496,o),
+(463,-697,o),
+(322,-697,cs),
+(242,-697,o),
+(181,-631,o),
+(181,-516,cs),
+(181,-490,ls),
+(181,-344,o),
+(305,-279,o),
+(430,-230,cs),
+(702,-123,ls),
+(805,-83,o),
+(990,-8,o),
+(987,208,cs),
+(985,353,ls),
+(983,473,o),
+(922,555,o),
+(815,555,c),
+(806,479,l),
+(873,479,o),
+(909,437,o),
+(911,348,cs),
+(914,211,ls),
+(918,29,o),
+(752,-27,o),
+(683,-54,cs),
+(410,-161,ls),
+(253,-222,o),
+(103,-308,o),
+(103,-500,cs),
+(103,-525,ls),
+(103,-681,o),
+(202,-769,o),
+(318,-769,cs)
 );
+},
+{
+pos = (23,0);
+ref = _nga_tenas;
+},
+{
+ref = _okara_tenas;
 }
 );
-width = 1175;
+width = 1206;
 }
 );
+metricLeft = "ha-bali";
 unicode = 6928;
 },
 {
 glyphname = "okara-bali";
+lastChange = "2023-05-09 08:21:47 +0000";
 layers = (
 {
+.lastUpdate = 705476579.82;
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(625,-71,l),
+(300,-169,l),
+(301,-169,ls),
+(124,-247,o),
+(124,-462,qs),
+(124,-571,o),
+(181,-645,qs),
+(235,-715,o),
+(330,-741,q),
+(319,-698,o),
+(307,-643,o),
+(307,-632,qs),
+(307,-543,o),
+(363,-493,q),
+(363,-493,l),
+(415,-444,o),
+(505,-444,qs),
+(764,-444,o),
+(764,-624,qs),
+(764,-647,o),
+(749,-711,o),
+(733,-749,q),
+(737,-750,o),
+(745,-754,o),
+(751,-756,q),
+(772,-721,o),
+(795,-639,o),
+(795,-590,qs),
+(795,-541,o),
+(749,-453,o),
+(710,-419,q),
+(670,-388,o),
+(575,-353,o),
+(524,-353,qs),
+(406,-353,o),
+(342,-425,qs),
+(279,-495,o),
+(279,-615,qs),
+(279,-632,ls),
+(279,-636,o),
+(280,-650,o),
+(281,-663,o),
+(282,-676,o),
+(282,-680,q),
+(247,-666,o),
+(195,-617,o),
+(179,-588,qs),
+(167,-562,o),
+(152,-499,o),
+(152,-468,qs),
+(152,-303,o),
+(322,-248,qs),
+(649,-141,l)
+);
+}
+);
+};
 layerId = m009;
 shapes = (
 {
 closed = 1;
 nodes = (
-(727,-386,l),
-(727,-310,l),
-(656,-310,ls),
-(557,-310,o),
-(506,-258,o),
-(506,-179,cs),
-(506,22,o),
-(878,119,o),
-(878,379,cs),
-(878,484,o),
-(826,555,o),
-(731,555,cs),
-(663,555,o),
-(620,519,o),
-(604,423,c),
-(603,423,l),
-(590,519,o),
-(545,555,o),
-(479,555,cs),
-(391,555,o),
-(329,484,o),
-(329,349,cs),
-(329,69,l),
-(278,71,o),
-(248,105,o),
-(248,197,cs),
-(248,412,ls),
-(248,500,o),
-(202,555,o),
-(137,555,cs),
-(61,555,o),
-(25,481,o),
-(30,398,c),
-(85,398,l),
-(85,459,o),
-(111,483,o),
-(139,483,cs),
-(166,483,o),
-(197,461,o),
-(197,401,cs),
-(197,195,ls),
-(197,44,o),
-(238,0,o),
-(329,0,cs),
-(384,0,l),
-(384,350,ls),
-(384,439,o),
-(432,487,o),
-(484,487,cs),
-(537,487,o),
-(568,437,o),
-(581,333,c),
-(627,333,l),
-(639,429,o),
-(676,487,o),
-(737,487,cs),
-(785,487,o),
-(823,450,o),
-(823,380,cs),
-(823,176,o),
-(443,73,o),
-(443,-191,cs),
-(443,-315,o),
-(532,-386,o),
-(657,-386,cs)
+(369,-769,o),
+(384,-742,o),
+(380,-724,cs),
+(373,-691,o),
+(369,-661,o),
+(369,-634,cs),
+(369,-487,o),
+(473,-422,o),
+(622,-422,cs),
+(859,-422,o),
+(940,-542,o),
+(932,-757,c),
+(986,-766,l),
+(1029,-558,o),
+(942,-344,o),
+(645,-344,cs),
+(426,-344,o),
+(304,-464,o),
+(304,-624,cs),
+(304,-656,o),
+(309,-689,o),
+(319,-723,c),
+(346,-714,l),
+(268,-701,o),
+(200,-623,o),
+(200,-502,cs),
+(200,-372,o),
+(306,-281,o),
+(481,-211,cs),
+(702,-123,ls),
+(805,-82,o),
+(990,-8,o),
+(987,208,cs),
+(985,353,ls),
+(983,473,o),
+(922,555,o),
+(815,555,c),
+(806,479,l),
+(873,479,o),
+(909,437,o),
+(911,348,cs),
+(914,211,ls),
+(918,29,o),
+(752,-27,o),
+(683,-54,cs),
+(460,-142,ls),
+(280,-213,o),
+(122,-312,o),
+(122,-510,cs),
+(122,-699,o),
+(275,-769,o),
+(334,-769,cs)
 );
+},
+{
+pos = (23,0);
+ref = _nga_tenas;
+},
+{
+ref = _okara_tenas;
+}
+);
+width = 1033;
+},
+{
+associatedMasterId = m009;
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(655,-71,l),
+(330,-169,l),
+(331,-169,ls),
+(154,-247,o),
+(154,-462,qs),
+(154,-571,o),
+(211,-645,qs),
+(265,-715,o),
+(360,-741,q),
+(349,-698,o),
+(337,-643,o),
+(337,-632,qs),
+(337,-543,o),
+(393,-493,q),
+(393,-493,l),
+(445,-444,o),
+(535,-444,qs),
+(794,-444,o),
+(794,-624,qs),
+(794,-647,o),
+(779,-711,o),
+(763,-749,q),
+(767,-750,o),
+(775,-754,o),
+(781,-756,q),
+(802,-721,o),
+(825,-639,o),
+(825,-590,qs),
+(825,-541,o),
+(779,-453,o),
+(740,-419,q),
+(700,-388,o),
+(605,-353,o),
+(554,-353,qs),
+(436,-353,o),
+(372,-425,qs),
+(309,-495,o),
+(309,-615,qs),
+(309,-632,ls),
+(309,-636,o),
+(310,-650,o),
+(311,-663,o),
+(312,-676,o),
+(312,-680,q),
+(277,-666,o),
+(225,-617,o),
+(209,-588,qs),
+(197,-562,o),
+(182,-499,o),
+(182,-468,qs),
+(182,-303,o),
+(352,-248,qs),
+(679,-141,l)
+);
+}
+);
+};
+layerId = "07D6750F-75E8-4A4D-A3BD-C2D4DF97F477";
+name = "9 May 23 14.43";
+shapes = (
+{
+pos = (23,0);
+ref = _nga_body;
+},
+{
+pos = (23,0);
+ref = _nga_top;
 },
 {
 closed = 1;
 nodes = (
-(732,-386,l),
-(732,-205,ls),
-(732,-116,o),
-(780,-68,o),
-(867,-68,cs),
-(952,-68,o),
-(998,-115,o),
-(998,-205,cs),
-(998,-386,l),
-(1053,-386,l),
-(1053,-206,ls),
-(1053,-65,o),
-(996,0,o),
-(873,0,cs),
-(745,0,o),
-(677,-71,o),
-(677,-206,cs),
-(677,-386,l)
+(368,-781,o),
+(396,-735,o),
+(390,-713,cs),
+(332,-502,o),
+(405,-421,o),
+(621,-421,cs),
+(921,-421,o),
+(907,-615,o),
+(855,-750,c),
+(897,-769,l),
+(988,-606,o),
+(997,-343,o),
+(624,-343,cs),
+(342,-343,o),
+(267,-515,o),
+(331,-712,c),
+(356,-695,l),
+(268,-650,o),
+(211,-593,o),
+(211,-492,cs),
+(211,-364,o),
+(334,-280,o),
+(460,-230,cs),
+(732,-123,ls),
+(835,-83,o),
+(1020,-8,o),
+(1017,208,cs),
+(1015,353,ls),
+(1013,473,o),
+(952,555,o),
+(845,555,c),
+(836,479,l),
+(903,479,o),
+(939,437,o),
+(941,348,cs),
+(944,211,ls),
+(948,29,o),
+(782,-27,o),
+(713,-54,cs),
+(440,-161,ls),
+(301,-215,o),
+(133,-313,o),
+(133,-491,cs),
+(133,-590,o),
+(183,-683,o),
+(317,-754,cs)
 );
 }
 );
-width = 905;
+width = 1045;
 }
 );
+metricLeft = "ha-bali";
 unicode = 6929;
 },
 {
 glyphname = "okaraTedung-bali";
+lastChange = "2023-05-09 08:44:19 +0000";
 layers = (
 {
-.lastUpdate = 705232977.382;
+.lastUpdate = 705314873.03;
 layerId = m009;
 shapes = (
 {
 ref = "okara-bali";
 },
 {
-alignment = -1;
-pos = (581,0);
-ref = _tedung_bali_;
+pos = (1033,0);
+ref = "tedung-bali";
 }
 );
-width = 1303;
+width = 1520;
 }
 );
 unicode = 6930;
@@ -8451,7 +8814,7 @@ color = 9;
 glyphname = "ha-bali";
 layers = (
 {
-.lastUpdate = 705232977.348;
+.lastUpdate = 705476579.822;
 anchors = (
 {
 name = bottom;
@@ -8505,7 +8868,7 @@ glyphname = "na-bali";
 lastChange = "2023-05-08 10:02:28 +0000";
 layers = (
 {
-.lastUpdate = 705233158.329;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -8571,83 +8934,82 @@ unicode = 6950;
 },
 {
 glyphname = "naRambat-bali";
+lastChange = "2023-05-09 08:55:59 +0000";
 layers = (
 {
+.lastUpdate = 705476579.822;
+anchors = (
+{
+name = ha_bali_core;
+pos = (560,291);
+},
+{
+name = ha_tundun_ha;
+pos = (841,291);
+}
+);
 layerId = m009;
 shapes = (
 {
 closed = 1;
 nodes = (
-(226,555,o),
-(179,492,o),
-(179,402,cs),
-(179,354,o),
-(154,332,o),
-(123,332,cs),
-(93,332,o),
-(67,356,o),
-(67,417,c),
-(12,417,l),
-(7,334,o),
-(43,260,o),
-(114,260,cs),
-(181,260,o),
-(230,317,o),
-(230,402,cs),
-(230,462,o),
-(263,488,o),
-(306,490,cs),
-(381,494,o),
-(394,387,o),
-(460,387,cs),
-(521,387,o),
-(545,492,o),
-(618,491,cs),
-(666,491,o),
-(695,472,o),
-(695,396,cs),
-(695,108,ls),
-(695,37,o),
-(727,-10,o),
-(786,-10,cs),
-(836,-10,o),
-(882,19,o),
-(882,108,cs),
-(882,493,l),
-(902,493,ls),
-(942,493,o),
-(964,473,o),
-(964,431,cs),
-(964,-5,l),
-(1017,-5,l),
-(1017,415,ls),
-(1017,504,o),
-(986,540,o),
-(896,540,cs),
-(829,540,l),
-(829,112,ls),
-(829,63,o),
-(812,41,o),
-(788,41,cs),
-(762,41,o),
-(748,66,o),
-(748,112,cs),
-(748,394,ls),
-(748,516,o),
-(695,555,o),
-(630,555,cs),
-(524,555,o),
-(511,450,o),
-(456,450,cs),
-(402,450,o),
-(402,555,o),
-(311,555,cs)
+(292,260,o),
+(341,317,o),
+(341,402,cs),
+(341,452,o),
+(373,477,o),
+(406,479,cs),
+(482,483,o),
+(503,377,o),
+(590,377,cs),
+(670,377,o),
+(694,482,o),
+(774,481,cs),
+(820,480,o),
+(841,441,o),
+(841,347,cs),
+(841,291,l),
+(917,291,l),
+(917,367,ls),
+(917,484,o),
+(864,555,o),
+(781,555,cs),
+(667,555,o),
+(660,450,o),
+(586,450,cs),
+(522,450,o),
+(495,555,o),
+(404,555,cs),
+(328,555,o),
+(290,492,o),
+(290,402,cs),
+(290,354,o),
+(265,332,o),
+(234,332,cs),
+(204,332,o),
+(178,356,o),
+(178,417,c),
+(123,417,l),
+(118,334,o),
+(154,260,o),
+(225,260,cs)
 );
+},
+{
+alignment = -1;
+pos = (51,0);
+ref = _ha_bangkiang;
+},
+{
+alignment = -1;
+pos = (81,0);
+ref = _ha_geluungan_ha;
 }
 );
-width = 1030;
+width = 1275;
 }
 );
+metricRight = "ha-bali";
 unicode = 6945;
 },
 {
@@ -8655,7 +9017,7 @@ color = 9;
 glyphname = "ca-bali";
 layers = (
 {
-.lastUpdate = 705232977.378;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -8919,7 +9281,7 @@ color = 9;
 glyphname = "ra-bali";
 layers = (
 {
-.lastUpdate = 705232977.358;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -9352,7 +9714,7 @@ color = 9;
 glyphname = "ka-bali";
 layers = (
 {
-.lastUpdate = 705232977.345;
+.lastUpdate = 705314872.629;
 anchors = (
 {
 name = bottom;
@@ -9530,7 +9892,7 @@ glyphname = "kaMahaprana-bali";
 lastChange = "2023-05-08 10:02:42 +0000";
 layers = (
 {
-.lastUpdate = 705233158.329;
+.lastUpdate = 705306305.41;
 layerId = m009;
 shapes = (
 {
@@ -9848,7 +10210,7 @@ color = 9;
 glyphname = "da-bali";
 layers = (
 {
-.lastUpdate = 705232970.882;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -10450,7 +10812,7 @@ color = 9;
 glyphname = "ta-bali";
 layers = (
 {
-.lastUpdate = 705232974.662;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -11342,7 +11704,7 @@ unicode = 6941;
 glyphname = "taTawa-bali";
 layers = (
 {
-.lastUpdate = 705232977.369;
+.lastUpdate = 705313817.021;
 layerId = m009;
 shapes = (
 {
@@ -11379,7 +11741,7 @@ unicode = 6947;
 glyphname = "tzirSasak-bali";
 layers = (
 {
-.lastUpdate = 705232977.367;
+.lastUpdate = 705313817.022;
 layerId = m009;
 shapes = (
 {
@@ -11419,7 +11781,7 @@ color = 9;
 glyphname = "sa-bali";
 layers = (
 {
-.lastUpdate = 705232977.353;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -11708,7 +12070,7 @@ glyphname = "saSapa-bali";
 lastChange = "2023-05-08 06:19:08 +0000";
 layers = (
 {
-.lastUpdate = 705232977.349;
+.lastUpdate = 705306305.393;
 layerId = m009;
 shapes = (
 {
@@ -11747,7 +12109,7 @@ unicode = 6961;
 glyphname = "saSaga-bali";
 layers = (
 {
-.lastUpdate = 705232977.353;
+.lastUpdate = 705306305.376;
 layerId = m009;
 shapes = (
 {
@@ -11785,7 +12147,7 @@ unicode = 6960;
 glyphname = "zalSasak-bali";
 layers = (
 {
-.lastUpdate = 705232977.381;
+.lastUpdate = 705306305.387;
 layerId = m009;
 shapes = (
 {
@@ -11951,7 +12313,7 @@ color = 9;
 glyphname = "wa-bali";
 layers = (
 {
-.lastUpdate = 705232977.36;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -12065,7 +12427,7 @@ unicode = 6959;
 glyphname = "veSasak-bali";
 layers = (
 {
-.lastUpdate = 705232977.36;
+.lastUpdate = 705306305.396;
 layerId = m009;
 shapes = (
 {
@@ -12103,7 +12465,7 @@ color = 9;
 glyphname = "la-bali";
 layers = (
 {
-.lastUpdate = 705232977.38;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -12311,7 +12673,7 @@ color = 9;
 glyphname = "ma-bali";
 layers = (
 {
-.lastUpdate = 705232977.394;
+.lastUpdate = 705314872.63;
 anchors = (
 {
 name = bottom;
@@ -12800,7 +13162,7 @@ color = 9;
 glyphname = "ga-bali";
 layers = (
 {
-.lastUpdate = 705232977.353;
+.lastUpdate = 705314872.631;
 anchors = (
 {
 name = bottom;
@@ -13107,10 +13469,10 @@ unicode = 6934;
 {
 color = 9;
 glyphname = "ba-bali";
-lastChange = "2023-05-08 07:31:59 +0000";
+lastChange = "2023-05-09 08:48:41 +0000";
 layers = (
 {
-.lastUpdate = 705232977.356;
+.lastUpdate = 705476579.822;
 anchors = (
 {
 name = bottom;
@@ -13235,7 +13597,7 @@ pos = (23,0);
 ref = _ba_bangkiang;
 }
 );
-width = 1375;
+width = 1374;
 }
 );
 metricLeft = "ha-bali";
@@ -13332,7 +13694,7 @@ glyphname = "nga-bali";
 lastChange = "2023-05-08 07:10:16 +0000";
 layers = (
 {
-.lastUpdate = 705232977.35;
+.lastUpdate = 705476579.844;
 anchors = (
 {
 name = bottom;
@@ -13408,7 +13770,7 @@ glyphname = "pa-bali";
 lastChange = "2023-05-08 07:49:21 +0000";
 layers = (
 {
-.lastUpdate = 705232977.349;
+.lastUpdate = 705314872.631;
 anchors = (
 {
 name = bottom;
@@ -13622,7 +13984,7 @@ unicode = 6952;
 glyphname = "efSasak-bali";
 layers = (
 {
-.lastUpdate = 705232977.365;
+.lastUpdate = 705306305.384;
 layerId = m009;
 shapes = (
 {
@@ -13661,7 +14023,7 @@ color = 9;
 glyphname = "ja-bali";
 layers = (
 {
-.lastUpdate = 705232977.379;
+.lastUpdate = 705314872.632;
 anchors = (
 {
 name = bottom;
@@ -13940,7 +14302,7 @@ glyphname = "ya-bali";
 lastChange = "2023-05-08 06:18:45 +0000";
 layers = (
 {
-.lastUpdate = 705232977.352;
+.lastUpdate = 705314872.632;
 anchors = (
 {
 name = bottom;
@@ -14043,7 +14405,7 @@ color = 9;
 glyphname = "nya-bali";
 layers = (
 {
-.lastUpdate = 705232977.383;
+.lastUpdate = 705476579.845;
 anchors = (
 {
 name = bottom;
@@ -14355,7 +14717,7 @@ width = 1040;
 glyphname = "naRambat_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.348;
+.lastUpdate = 705306305.424;
 layerId = m009;
 shapes = (
 {
@@ -14487,7 +14849,7 @@ width = 1027;
 glyphname = "caLaca_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.386;
+.lastUpdate = 705306305.383;
 layerId = m009;
 shapes = (
 {
@@ -14734,7 +15096,7 @@ width = 1228;
 glyphname = "kafSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.348;
+.lastUpdate = 705306305.42;
 layerId = m009;
 shapes = (
 {
@@ -14755,7 +15117,7 @@ width = 1545;
 glyphname = "khotSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.371;
+.lastUpdate = 705314937.937;
 layerId = m009;
 shapes = (
 {
@@ -14875,7 +15237,7 @@ width = 950;
 glyphname = "daMadu_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.363;
+.lastUpdate = 705306305.422;
 layerId = m009;
 shapes = (
 {
@@ -14997,7 +15359,7 @@ width = 1412;
 glyphname = "taMurdaMahaprana_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.347;
+.lastUpdate = 705313817.023;
 layerId = m009;
 shapes = (
 {
@@ -15017,7 +15379,7 @@ width = 1285;
 glyphname = "taLatik_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.388;
+.lastUpdate = 705313817.023;
 layerId = m009;
 shapes = (
 {
@@ -15037,7 +15399,7 @@ width = 1283;
 glyphname = "taTawa_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.369;
+.lastUpdate = 705306305.38;
 layerId = m009;
 shapes = (
 {
@@ -15057,7 +15419,7 @@ width = 1168;
 glyphname = "tzirSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.367;
+.lastUpdate = 705306305.4;
 layerId = m009;
 shapes = (
 {
@@ -15171,7 +15533,7 @@ width = 1000;
 glyphname = "saSapa_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.373;
+.lastUpdate = 705306305.393;
 layerId = m009;
 shapes = (
 {
@@ -15191,7 +15553,7 @@ width = 1166;
 glyphname = "saSaga_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.353;
+.lastUpdate = 705306305.394;
 layerId = m009;
 shapes = (
 {
@@ -15211,7 +15573,7 @@ width = 1460;
 glyphname = "zalSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.353;
+.lastUpdate = 705306305.408;
 layerId = m009;
 shapes = (
 {
@@ -15252,7 +15614,7 @@ width = 1150;
 glyphname = "asyuraSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.346;
+.lastUpdate = 705306305.39;
 layerId = m009;
 shapes = (
 {
@@ -15362,7 +15724,7 @@ width = 1027;
 glyphname = "veSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.359;
+.lastUpdate = 705306305.416;
 layerId = m009;
 shapes = (
 {
@@ -15579,7 +15941,7 @@ width = 989;
 glyphname = "ga_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.389;
+.lastUpdate = 705306305.418;
 layerId = m009;
 shapes = (
 {
@@ -15703,7 +16065,7 @@ width = 1282;
 glyphname = "ba_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.356;
+.lastUpdate = 705313386.181;
 layerId = m009;
 shapes = (
 {
@@ -15723,7 +16085,7 @@ width = 1555;
 glyphname = "baKembang_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.384;
+.lastUpdate = 705313386.181;
 layerId = m009;
 shapes = (
 {
@@ -15743,7 +16105,7 @@ width = 1308;
 glyphname = "nga_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.351;
+.lastUpdate = 705306305.387;
 layerId = m009;
 shapes = (
 {
@@ -15833,7 +16195,7 @@ width = 850;
 glyphname = "efSasak_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.395;
+.lastUpdate = 705306305.384;
 layerId = m009;
 shapes = (
 {
@@ -15853,7 +16215,7 @@ width = 1173;
 glyphname = "jaJera_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.368;
+.lastUpdate = 705306305.383;
 layerId = m009;
 shapes = (
 {
@@ -15874,7 +16236,7 @@ color = 9;
 glyphname = "ya_tedung-bali";
 layers = (
 {
-.lastUpdate = 705232977.354;
+.lastUpdate = 705314872.632;
 layerId = m009;
 shapes = (
 {
@@ -16020,7 +16382,7 @@ metricRight = "nya-bali";
 glyphname = "ya-bali.post";
 layers = (
 {
-.lastUpdate = 705232977.374;
+.lastUpdate = 705306305.42;
 layerId = m009;
 shapes = (
 {
@@ -16041,7 +16403,7 @@ width = 1410;
 glyphname = "ya-bali.post.short";
 layers = (
 {
-.lastUpdate = 705232977.396;
+.lastUpdate = 705306305.386;
 layerId = m009;
 shapes = (
 {
@@ -16056,7 +16418,7 @@ width = 1085;
 glyphname = "ya-bali.post2";
 layers = (
 {
-.lastUpdate = 705232977.377;
+.lastUpdate = 705306305.413;
 layerId = m009;
 shapes = (
 {
@@ -16071,7 +16433,7 @@ width = 1085;
 glyphname = "ya-bali.post2.short";
 layers = (
 {
-.lastUpdate = 705232977.352;
+.lastUpdate = 705306305.385;
 layerId = m009;
 shapes = (
 {
@@ -16172,7 +16534,7 @@ width = 1120;
 glyphname = "jaJera-bali.ccmp0";
 layers = (
 {
-.lastUpdate = 705232977.391;
+.lastUpdate = 705306305.403;
 layerId = m009;
 shapes = (
 {
@@ -16345,7 +16707,7 @@ glyphname = "two-bali";
 lastChange = "2023-05-08 07:53:12 +0000";
 layers = (
 {
-.lastUpdate = 705232977.365;
+.lastUpdate = 705306305.424;
 layerId = m009;
 shapes = (
 {
@@ -16359,16 +16721,17 @@ unicode = 6994;
 },
 {
 glyphname = "three-bali";
+lastChange = "2023-05-09 08:22:21 +0000";
 layers = (
 {
-.lastUpdate = 705232977.362;
+.lastUpdate = 705313341.061;
 layerId = m009;
 shapes = (
 {
 ref = "okara-bali";
 }
 );
-width = 905;
+width = 1033;
 }
 );
 unicode = 6995;
@@ -16518,7 +16881,7 @@ glyphname = "six-bali";
 lastChange = "2023-05-08 09:57:54 +0000";
 layers = (
 {
-.lastUpdate = 705232977.367;
+.lastUpdate = 705306305.42;
 layerId = m009;
 shapes = (
 {
@@ -17469,7 +17832,7 @@ unicode = 7002;
 glyphname = "pamada-bali";
 layers = (
 {
-.lastUpdate = 705232977.35;
+.lastUpdate = 705306305.374;
 layerId = m009;
 shapes = (
 {
@@ -17568,7 +17931,7 @@ unicode = 7003;
 glyphname = "windu-bali";
 layers = (
 {
-.lastUpdate = 705232977.376;
+.lastUpdate = 705306305.374;
 layerId = m009;
 shapes = (
 {
@@ -17698,7 +18061,7 @@ unicode = 7006;
 glyphname = "carikPareren-bali";
 layers = (
 {
-.lastUpdate = 705232977.372;
+.lastUpdate = 705306305.38;
 layerId = m009;
 shapes = (
 {
@@ -17892,7 +18255,7 @@ unicode = 59;
 glyphname = ellipsis;
 layers = (
 {
-.lastUpdate = 705233050.384;
+.lastUpdate = 705306305.389;
 layerId = m009;
 shapes = (
 {
@@ -17948,7 +18311,7 @@ unicode = 33;
 glyphname = exclamdown;
 layers = (
 {
-.lastUpdate = 705233050.382;
+.lastUpdate = 705306305.426;
 layerId = m009;
 shapes = (
 {
@@ -18059,7 +18422,7 @@ unicode = 63;
 glyphname = questiondown;
 layers = (
 {
-.lastUpdate = 705233050.384;
+.lastUpdate = 705306305.388;
 layerId = m009;
 shapes = (
 {
@@ -18389,7 +18752,7 @@ unicode = 40;
 glyphname = parenright;
 layers = (
 {
-.lastUpdate = 705233050.392;
+.lastUpdate = 705306305.419;
 layerId = m009;
 shapes = (
 {
@@ -18458,7 +18821,7 @@ unicode = 123;
 glyphname = braceright;
 layers = (
 {
-.lastUpdate = 705233050.392;
+.lastUpdate = 705313099.954;
 layerId = m009;
 shapes = (
 {
@@ -18548,7 +18911,7 @@ unicode = 91;
 glyphname = bracketright;
 layers = (
 {
-.lastUpdate = 705233050.414;
+.lastUpdate = 705297053.495;
 layerId = m009;
 shapes = (
 {
@@ -18704,7 +19067,7 @@ unicode = 8216;
 glyphname = quoteright;
 layers = (
 {
-.lastUpdate = 705233050.414;
+.lastUpdate = 705297053.493;
 layerId = m009;
 shapes = (
 {
@@ -18762,7 +19125,7 @@ unicode = 171;
 glyphname = guillemetright;
 layers = (
 {
-.lastUpdate = 705233050.414;
+.lastUpdate = 705297053.496;
 layerId = m009;
 shapes = (
 {
@@ -19457,7 +19820,7 @@ unicode = 7029;
 glyphname = "rightHandClosedTuk-bali";
 layers = (
 {
-.lastUpdate = 705233051.127;
+.lastUpdate = 705297054.91;
 layerId = m009;
 shapes = (
 {
@@ -19483,7 +19846,7 @@ unicode = 7030;
 glyphname = "rightHandClosedTak-bali";
 layers = (
 {
-.lastUpdate = 705233051.126;
+.lastUpdate = 705297054.911;
 layerId = m009;
 shapes = (
 {
@@ -19555,7 +19918,7 @@ unicode = 7033;
 glyphname = "leftHandClosedPlak-bali";
 layers = (
 {
-.lastUpdate = 705233051.127;
+.lastUpdate = 705297054.914;
 layerId = m009;
 shapes = (
 {
@@ -19580,7 +19943,7 @@ unicode = 7034;
 glyphname = "leftHandClosedPluk-bali";
 layers = (
 {
-.lastUpdate = 705233051.126;
+.lastUpdate = 705297054.909;
 layerId = m009;
 shapes = (
 {
@@ -19634,7 +19997,7 @@ unicode = 7036;
 glyphname = baht;
 layers = (
 {
-.lastUpdate = 705233051.129;
+.lastUpdate = 705313386.182;
 layerId = m009;
 shapes = (
 {
@@ -20128,7 +20491,7 @@ unicode = 174;
 glyphname = trademark;
 layers = (
 {
-.lastUpdate = 705233051.144;
+.lastUpdate = 705297054.908;
 layerId = m009;
 shapes = (
 {
@@ -20336,7 +20699,7 @@ unicode = 8225;
 glyphname = cent;
 layers = (
 {
-.lastUpdate = 705233051.144;
+.lastUpdate = 705297054.909;
 layerId = m009;
 shapes = (
 {
@@ -20440,7 +20803,7 @@ unicode = 164;
 glyphname = dollar;
 layers = (
 {
-.lastUpdate = 705233051.143;
+.lastUpdate = 705297054.908;
 layerId = m009;
 shapes = (
 {
@@ -20460,7 +20823,7 @@ unicode = 36;
 glyphname = euro;
 layers = (
 {
-.lastUpdate = 705233051.145;
+.lastUpdate = 705297054.913;
 layerId = m009;
 shapes = (
 {
@@ -20797,7 +21160,7 @@ unicode = 163;
 glyphname = yen;
 layers = (
 {
-.lastUpdate = 705233056.481;
+.lastUpdate = 705297055.008;
 layerId = m009;
 shapes = (
 {
@@ -21070,7 +21433,7 @@ unicode = 62;
 glyphname = less;
 layers = (
 {
-.lastUpdate = 705233056.478;
+.lastUpdate = 705297055.007;
 layerId = m009;
 shapes = (
 {
@@ -21122,7 +21485,7 @@ unicode = 8805;
 glyphname = lessequal;
 layers = (
 {
-.lastUpdate = 705233056.481;
+.lastUpdate = 705297055.008;
 layerId = m009;
 shapes = (
 {
@@ -21851,7 +22214,7 @@ unicode = 8593;
 glyphname = northEastArrow;
 layers = (
 {
-.lastUpdate = 705233056.503;
+.lastUpdate = 705233190.964;
 layerId = m009;
 shapes = (
 {
@@ -21869,7 +22232,7 @@ unicode = 8599;
 glyphname = rightArrow;
 layers = (
 {
-.lastUpdate = 705233056.506;
+.lastUpdate = 705233190.964;
 layerId = m009;
 shapes = (
 {
@@ -21887,7 +22250,7 @@ unicode = 8594;
 glyphname = southEastArrow;
 layers = (
 {
-.lastUpdate = 705233056.505;
+.lastUpdate = 705233190.964;
 layerId = m009;
 shapes = (
 {
@@ -21905,7 +22268,7 @@ unicode = 8600;
 glyphname = downArrow;
 layers = (
 {
-.lastUpdate = 705233056.935;
+.lastUpdate = 705233190.981;
 layerId = m009;
 shapes = (
 {
@@ -21923,7 +22286,7 @@ unicode = 8595;
 glyphname = southWestArrow;
 layers = (
 {
-.lastUpdate = 705233056.945;
+.lastUpdate = 705233190.983;
 layerId = m009;
 shapes = (
 {
@@ -21941,7 +22304,7 @@ unicode = 8601;
 glyphname = leftArrow;
 layers = (
 {
-.lastUpdate = 705233056.94;
+.lastUpdate = 705233190.982;
 layerId = m009;
 shapes = (
 {
@@ -21959,7 +22322,7 @@ unicode = 8592;
 glyphname = northWestArrow;
 layers = (
 {
-.lastUpdate = 705233056.945;
+.lastUpdate = 705233190.983;
 layerId = m009;
 shapes = (
 {
@@ -22023,7 +22386,7 @@ unicode = 8596;
 glyphname = upDownArrow;
 layers = (
 {
-.lastUpdate = 705233056.935;
+.lastUpdate = 705313386.455;
 layerId = m009;
 shapes = (
 {
@@ -22092,7 +22455,7 @@ unicode = 8617;
 glyphname = rightHookArrow;
 layers = (
 {
-.lastUpdate = 705233056.937;
+.lastUpdate = 705233190.981;
 layerId = m009;
 shapes = (
 {
@@ -22151,7 +22514,7 @@ unicode = 8624;
 glyphname = upTipRightArrow;
 layers = (
 {
-.lastUpdate = 705233056.946;
+.lastUpdate = 705313386.455;
 layerId = m009;
 shapes = (
 {
@@ -22169,7 +22532,7 @@ unicode = 8625;
 glyphname = downTipLeftArrow;
 layers = (
 {
-.lastUpdate = 705233056.932;
+.lastUpdate = 705233190.982;
 layerId = m009;
 shapes = (
 {
@@ -22187,7 +22550,7 @@ unicode = 8626;
 glyphname = downTipRightArrow;
 layers = (
 {
-.lastUpdate = 705233056.932;
+.lastUpdate = 705233190.982;
 layerId = m009;
 shapes = (
 {
@@ -22297,7 +22660,7 @@ unicode = 9674;
 glyphname = "ha-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.942;
+.lastUpdate = 705314937.936;
 layerId = m009;
 shapes = (
 {
@@ -22317,7 +22680,7 @@ glyphname = "na-bali.below";
 lastChange = "2023-05-08 09:59:08 +0000";
 layers = (
 {
-.lastUpdate = 705233056.933;
+.lastUpdate = 705233191.018;
 layerId = m009;
 shapes = (
 {
@@ -22334,9 +22697,10 @@ width = 1215;
 },
 {
 glyphname = "naRambat-bali.below";
+lastChange = "2023-05-11 05:42:59 +0000";
 layers = (
 {
-.lastUpdate = 705233056.939;
+.lastUpdate = 705476579.385;
 layerId = m009;
 shapes = (
 {
@@ -22347,15 +22711,16 @@ pos = (310,0);
 ref = "naRambat-bali";
 }
 );
-width = 1340;
+width = 1585;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "ca-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.94;
+.lastUpdate = 705233191.021;
 layerId = m009;
 shapes = (
 {
@@ -22374,7 +22739,7 @@ width = 1207;
 glyphname = "caLaca-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.945;
+.lastUpdate = 705233191.014;
 layerId = m009;
 shapes = (
 {
@@ -22393,7 +22758,7 @@ width = 1120;
 glyphname = "ra-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.934;
+.lastUpdate = 705233191.017;
 layerId = m009;
 shapes = (
 {
@@ -22412,7 +22777,7 @@ width = 1164;
 glyphname = "ra-bali.below2";
 layers = (
 {
-.lastUpdate = 705233056.943;
+.lastUpdate = 705233191.019;
 layerId = m009;
 shapes = (
 {
@@ -22427,7 +22792,7 @@ width = 854;
 glyphname = "ka-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.937;
+.lastUpdate = 705233191.016;
 layerId = m009;
 shapes = (
 {
@@ -22447,7 +22812,7 @@ glyphname = "kaMahaprana-bali.below";
 lastChange = "2023-05-08 10:05:58 +0000";
 layers = (
 {
-.lastUpdate = 705233158.248;
+.lastUpdate = 705233191.02;
 layerId = m009;
 shapes = (
 {
@@ -22461,13 +22826,12 @@ ref = "kaMahaprana-bali";
 width = 1215;
 }
 );
-changeCount = 1;
 },
 {
 glyphname = "kafSasak-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.941;
+.lastUpdate = 705233191.015;
 layerId = m009;
 shapes = (
 {
@@ -22486,7 +22850,7 @@ width = 1451;
 glyphname = "da-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.943;
+.lastUpdate = 705233191.017;
 layerId = m009;
 shapes = (
 {
@@ -22505,7 +22869,7 @@ width = 1269;
 glyphname = "daMadu-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.938;
+.lastUpdate = 705233191.019;
 layerId = m009;
 shapes = (
 {
@@ -22524,7 +22888,7 @@ width = 1199;
 glyphname = "daMurdaAlpaprana-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.939;
+.lastUpdate = 705233191.016;
 layerId = m009;
 shapes = (
 {
@@ -22543,7 +22907,7 @@ width = 1199;
 glyphname = "daMurdaMahaprana-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.935;
+.lastUpdate = 705233191.019;
 layerId = m009;
 shapes = (
 {
@@ -22562,7 +22926,7 @@ width = 1090;
 glyphname = "ta-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.965;
+.lastUpdate = 705233191.031;
 layerId = m009;
 shapes = (
 {
@@ -22581,7 +22945,7 @@ width = 1487;
 glyphname = "taMurdaMahaprana-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.977;
+.lastUpdate = 705233191.036;
 layerId = m009;
 shapes = (
 {
@@ -22600,7 +22964,7 @@ width = 1215;
 glyphname = "taLatik-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.964;
+.lastUpdate = 705233191.034;
 layerId = m009;
 shapes = (
 {
@@ -22619,7 +22983,7 @@ width = 1215;
 glyphname = "taTawa-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.963;
+.lastUpdate = 705233191.033;
 layerId = m009;
 shapes = (
 {
@@ -22638,7 +23002,7 @@ width = 1019;
 glyphname = "tzirSasak-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.968;
+.lastUpdate = 705233191.03;
 layerId = m009;
 shapes = (
 {
@@ -22657,7 +23021,7 @@ width = 1430;
 glyphname = "saSaga-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.97;
+.lastUpdate = 705233191.034;
 layerId = m009;
 shapes = (
 {
@@ -22676,7 +23040,7 @@ width = 1356;
 glyphname = "asyuraSasak-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.978;
+.lastUpdate = 705233191.033;
 layerId = m009;
 shapes = (
 {
@@ -22695,7 +23059,7 @@ width = 1825;
 glyphname = "wa-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.965;
+.lastUpdate = 705233191.032;
 layerId = m009;
 shapes = (
 {
@@ -22714,7 +23078,7 @@ width = 1185;
 glyphname = "wa-bali.below2";
 layers = (
 {
-.lastUpdate = 705233056.976;
+.lastUpdate = 705233191.036;
 layerId = m009;
 shapes = (
 {
@@ -22729,7 +23093,7 @@ width = 875;
 glyphname = "veSasak-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.967;
+.lastUpdate = 705297064.893;
 layerId = m009;
 shapes = (
 {
@@ -22748,7 +23112,7 @@ width = 989;
 glyphname = "la-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.974;
+.lastUpdate = 705297375.509;
 layerId = m009;
 shapes = (
 {
@@ -22767,7 +23131,7 @@ width = 1574;
 glyphname = "ma-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.971;
+.lastUpdate = 705233191.031;
 layerId = m009;
 shapes = (
 {
@@ -22786,7 +23150,7 @@ width = 1211;
 glyphname = "ga-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.973;
+.lastUpdate = 705233191.035;
 layerId = m009;
 shapes = (
 {
@@ -22805,7 +23169,7 @@ width = 1521;
 glyphname = "gaGora-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.978;
+.lastUpdate = 705233191.036;
 layerId = m009;
 shapes = (
 {
@@ -22822,10 +23186,10 @@ width = 1479;
 },
 {
 glyphname = "ba-bali.below";
-lastChange = "2023-05-08 07:47:28 +0000";
+lastChange = "2023-05-11 05:42:59 +0000";
 layers = (
 {
-.lastUpdate = 705233056.972;
+.lastUpdate = 705476579.385;
 layerId = m009;
 shapes = (
 {
@@ -22836,15 +23200,16 @@ pos = (310,0);
 ref = "ba-bali";
 }
 );
-width = 1685;
+width = 1684;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = "baKembang-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.97;
+.lastUpdate = 705313386.182;
 layerId = m009;
 shapes = (
 {
@@ -22863,7 +23228,7 @@ width = 1260;
 glyphname = "nga-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.975;
+.lastUpdate = 705295759.905;
 layerId = m009;
 shapes = (
 {
@@ -22882,7 +23247,7 @@ width = 1399;
 glyphname = "ja-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.969;
+.lastUpdate = 705233191.048;
 layerId = m009;
 shapes = (
 {
@@ -22901,7 +23266,7 @@ width = 1170;
 glyphname = "nya-bali.below";
 layers = (
 {
-.lastUpdate = 705233056.976;
+.lastUpdate = 705233191.049;
 layerId = m009;
 shapes = (
 {
@@ -22990,7 +23355,7 @@ glyphname = "ulu_uluRicem-bali";
 lastChange = "2023-05-08 06:10:26 +0000";
 layers = (
 {
-.lastUpdate = 705233056.971;
+.lastUpdate = 705313386.633;
 layerId = m009;
 shapes = (
 {
@@ -23012,7 +23377,7 @@ glyphname = "ulu_uluCandra-bali";
 lastChange = "2023-05-08 07:09:04 +0000";
 layers = (
 {
-.lastUpdate = 705233056.979;
+.lastUpdate = 705313386.634;
 layerId = m009;
 shapes = (
 {
@@ -23030,7 +23395,7 @@ glyphname = "ulu_cecek-bali";
 lastChange = "2023-05-08 06:09:49 +0000";
 layers = (
 {
-.lastUpdate = 705233056.968;
+.lastUpdate = 705313386.634;
 layerId = m009;
 shapes = (
 {
@@ -23051,7 +23416,7 @@ glyphname = "ulu_surang-bali";
 lastChange = "2023-05-08 05:51:07 +0000";
 layers = (
 {
-.lastUpdate = 705233056.974;
+.lastUpdate = 705313386.634;
 layerId = m009;
 shapes = (
 {
@@ -23071,7 +23436,7 @@ width = 0;
 glyphname = "uluSari-bali";
 layers = (
 {
-.lastUpdate = 705233056.966;
+.lastUpdate = 705313386.635;
 layerId = m009;
 shapes = (
 {
@@ -23093,7 +23458,7 @@ glyphname = "uluSari_uluRicem-bali";
 lastChange = "2023-05-08 07:09:20 +0000";
 layers = (
 {
-.lastUpdate = 705233056.977;
+.lastUpdate = 705313386.635;
 layerId = m009;
 shapes = (
 {
@@ -23114,7 +23479,7 @@ glyphname = "uluSari_uluCandra-bali";
 lastChange = "2023-05-08 07:09:20 +0000";
 layers = (
 {
-.lastUpdate = 705233056.966;
+.lastUpdate = 705313386.636;
 layerId = m009;
 shapes = (
 {
@@ -23136,7 +23501,7 @@ glyphname = "uluSari_cecek-bali";
 lastChange = "2023-05-08 07:09:20 +0000";
 layers = (
 {
-.lastUpdate = 705233057.404;
+.lastUpdate = 705313386.636;
 layerId = m009;
 shapes = (
 {
@@ -23157,7 +23522,7 @@ glyphname = "uluSari_surang-bali";
 lastChange = "2023-05-08 07:09:20 +0000";
 layers = (
 {
-.lastUpdate = 705233057.4;
+.lastUpdate = 705233191.084;
 layerId = m009;
 shapes = (
 {
@@ -23177,7 +23542,7 @@ metricLeft = "ulu-bali";
 glyphname = "uluRicem-bali";
 layers = (
 {
-.lastUpdate = 705233056.971;
+.lastUpdate = 705313386.633;
 layerId = m009;
 shapes = (
 {
@@ -23415,7 +23780,7 @@ glyphname = "pepet_cecek-bali";
 lastChange = "2023-05-08 06:11:55 +0000";
 layers = (
 {
-.lastUpdate = 705233057.399;
+.lastUpdate = 705233191.081;
 layerId = m009;
 shapes = (
 {
@@ -23436,7 +23801,7 @@ glyphname = "pepet_surang-bali";
 lastChange = "2023-05-08 06:12:02 +0000";
 layers = (
 {
-.lastUpdate = 705233057.401;
+.lastUpdate = 705233191.082;
 layerId = m009;
 shapes = (
 {
@@ -23593,7 +23958,7 @@ glyphname = "rerekan_cecek-bali";
 lastChange = "2023-05-08 07:09:20 +0000";
 layers = (
 {
-.lastUpdate = 705233057.401;
+.lastUpdate = 705233191.082;
 layerId = m009;
 shapes = (
 {
@@ -23614,7 +23979,7 @@ glyphname = "rerekan_surang-bali";
 lastChange = "2023-05-08 06:12:40 +0000";
 layers = (
 {
-.lastUpdate = 705233057.403;
+.lastUpdate = 705233191.083;
 layerId = m009;
 shapes = (
 {
@@ -23634,7 +23999,7 @@ glyphname = "rerekan_ulu_cecek-bali";
 lastChange = "2023-05-08 06:13:32 +0000";
 layers = (
 {
-.lastUpdate = 705233057.398;
+.lastUpdate = 705233191.08;
 layerId = m009;
 shapes = (
 {
@@ -23654,7 +24019,7 @@ glyphname = "rerekan_ulu_surang-bali";
 lastChange = "2023-05-08 06:13:39 +0000";
 layers = (
 {
-.lastUpdate = 705233057.399;
+.lastUpdate = 705233191.081;
 layerId = m009;
 shapes = (
 {
@@ -23678,7 +24043,7 @@ glyphname = "rerekan_uluSari_cecek-bali";
 lastChange = "2023-05-08 06:13:46 +0000";
 layers = (
 {
-.lastUpdate = 705233057.422;
+.lastUpdate = 705233191.102;
 layerId = m009;
 shapes = (
 {
@@ -23702,7 +24067,7 @@ glyphname = "rerekan_uluSari_surang-bali";
 lastChange = "2023-05-08 06:14:09 +0000";
 layers = (
 {
-.lastUpdate = 705233057.424;
+.lastUpdate = 705233191.101;
 layerId = m009;
 shapes = (
 {
@@ -23726,7 +24091,7 @@ glyphname = "rerekan_pepet_cecek-bali";
 lastChange = "2023-05-08 06:14:17 +0000";
 layers = (
 {
-.lastUpdate = 705233057.424;
+.lastUpdate = 705233191.101;
 layerId = m009;
 shapes = (
 {
@@ -23750,7 +24115,7 @@ glyphname = "rerekan_pepet_surang-bali";
 lastChange = "2023-05-08 06:14:26 +0000";
 layers = (
 {
-.lastUpdate = 705233057.421;
+.lastUpdate = 705233191.103;
 layerId = m009;
 shapes = (
 {
@@ -23904,7 +24269,7 @@ unicode = 6968;
 glyphname = "suku-bali.below";
 layers = (
 {
-.lastUpdate = 705233057.422;
+.lastUpdate = 705233191.103;
 anchors = (
 {
 name = _bottom;
@@ -23969,7 +24334,7 @@ unicode = 6969;
 glyphname = "sukuIlut-bali.below";
 layers = (
 {
-.lastUpdate = 705233057.422;
+.lastUpdate = 705233191.103;
 anchors = (
 {
 name = _bottom;
@@ -24091,7 +24456,7 @@ glyphname = "laLengaMark-bali";
 lastChange = "2023-05-08 06:16:19 +0000";
 layers = (
 {
-.lastUpdate = 705233057.423;
+.lastUpdate = 705297375.509;
 layerId = m009;
 shapes = (
 {
@@ -24156,7 +24521,7 @@ glyphname = "pepetTedung-bali";
 lastChange = "2023-05-08 06:16:58 +0000";
 layers = (
 {
-.lastUpdate = 705233057.425;
+.lastUpdate = 705233191.102;
 layerId = m009;
 shapes = (
 {
@@ -24225,7 +24590,7 @@ glyphname = "endep-bali";
 lastChange = "2023-05-08 06:17:26 +0000";
 layers = (
 {
-.lastUpdate = 705233057.42;
+.lastUpdate = 705233191.101;
 layerId = m009;
 shapes = (
 {
@@ -24364,7 +24729,7 @@ glyphname = "kempulJegogan-bali";
 lastChange = "2023-05-08 06:18:03 +0000";
 layers = (
 {
-.lastUpdate = 705233057.453;
+.lastUpdate = 705233191.639;
 layerId = m009;
 shapes = (
 {
@@ -24407,7 +24772,7 @@ glyphname = "kempliJegogan-bali";
 lastChange = "2023-05-08 06:18:13 +0000";
 layers = (
 {
-.lastUpdate = 705233057.448;
+.lastUpdate = 705233191.642;
 layerId = m009;
 shapes = (
 {
@@ -24544,7 +24909,7 @@ unicode = 7027;
 glyphname = "ra_ya-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.451;
+.lastUpdate = 705233191.641;
 layerId = m009;
 shapes = (
 {
@@ -24563,7 +24928,7 @@ width = 1939;
 glyphname = "ra_ya_tedung-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.449;
+.lastUpdate = 705233191.636;
 layerId = m009;
 shapes = (
 {
@@ -24585,7 +24950,7 @@ glyphname = "ra_ya_suku-bali.post";
 lastChange = "2023-05-08 06:18:46 +0000";
 layers = (
 {
-.lastUpdate = 705233057.446;
+.lastUpdate = 705233191.644;
 layerId = m009;
 shapes = (
 {
@@ -24609,7 +24974,7 @@ glyphname = "ra_ya_sukuIlut-bali.post";
 lastChange = "2023-05-08 06:30:48 +0000";
 layers = (
 {
-.lastUpdate = 705233057.449;
+.lastUpdate = 705233191.64;
 background = {
 shapes = (
 {
@@ -24659,7 +25024,7 @@ width = 1939;
 glyphname = "sa-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.451;
+.lastUpdate = 705233191.635;
 layerId = m009;
 shapes = (
 {
@@ -24679,7 +25044,7 @@ glyphname = "saSapa-bali.post";
 lastChange = "2023-05-08 06:19:08 +0000";
 layers = (
 {
-.lastUpdate = 705233057.452;
+.lastUpdate = 705233191.632;
 layerId = m009;
 shapes = (
 {
@@ -24698,7 +25063,7 @@ width = 1192;
 glyphname = "zalSasak-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.447;
+.lastUpdate = 705233191.637;
 layerId = m009;
 shapes = (
 {
@@ -24717,7 +25082,7 @@ width = 1060;
 glyphname = "pa-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.446;
+.lastUpdate = 705233191.643;
 layerId = m009;
 shapes = (
 {
@@ -24736,7 +25101,7 @@ width = 1192;
 glyphname = "paKapal-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.467;
+.lastUpdate = 705297065.006;
 layerId = m009;
 shapes = (
 {
@@ -24755,7 +25120,7 @@ width = 1080;
 glyphname = "efSasak-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.464;
+.lastUpdate = 705233191.671;
 layerId = m009;
 shapes = (
 {
@@ -24774,7 +25139,7 @@ width = 1091;
 glyphname = "jaJera-bali.post";
 layers = (
 {
-.lastUpdate = 705233057.471;
+.lastUpdate = 705233191.669;
 layerId = m009;
 shapes = (
 {
@@ -24868,17 +25233,17 @@ unicode = 6916;
 },
 {
 glyphname = "tedung-bali";
-lastChange = "2023-05-08 07:16:34 +0000";
+lastChange = "2023-05-09 08:44:19 +0000";
 layers = (
 {
-.lastUpdate = 705233057.463;
+.lastUpdate = 705476579.822;
 layerId = m009;
 shapes = (
 {
 ref = _tedung_bali_;
 }
 );
-width = 575;
+width = 487;
 }
 );
 metricRight = "nya-bali";
@@ -24977,10 +25342,10 @@ unicode = 6971;
 },
 {
 glyphname = "laLengaTedungMark-bali";
-lastChange = "2023-05-08 07:16:34 +0000";
+lastChange = "2023-05-09 08:44:56 +0000";
 layers = (
 {
-.lastUpdate = 705233057.468;
+.lastUpdate = 705314696.611;
 layerId = m009;
 shapes = (
 {
@@ -24991,7 +25356,7 @@ ref = "laLengaMark-bali";
 ref = "tedung-bali";
 }
 );
-width = 575;
+width = 487;
 }
 );
 unicode = 6973;
@@ -25001,7 +25366,7 @@ glyphname = "taling-bali";
 lastChange = "2023-05-08 07:29:09 +0000";
 layers = (
 {
-.lastUpdate = 705233057.468;
+.lastUpdate = 705307525.75;
 layerId = m009;
 shapes = (
 {
@@ -25044,7 +25409,7 @@ unicode = 6974;
 glyphname = "talingRepa-bali";
 layers = (
 {
-.lastUpdate = 705233057.469;
+.lastUpdate = 705233191.668;
 layerId = m009;
 shapes = (
 {
@@ -25103,7 +25468,7 @@ unicode = 6975;
 glyphname = "talingTedung-bali";
 layers = (
 {
-.lastUpdate = 705233057.469;
+.lastUpdate = 705233191.666;
 layerId = m009;
 shapes = (
 {
@@ -25125,7 +25490,7 @@ unicode = 6976;
 glyphname = "talingRepaTedung-bali";
 layers = (
 {
-.lastUpdate = 705233057.47;
+.lastUpdate = 705233191.668;
 layerId = m009;
 shapes = (
 {
@@ -28013,7 +28378,7 @@ export = 0;
 glyphname = _nga_body;
 layers = (
 {
-.lastUpdate = 705232977.35;
+.lastUpdate = 705476579.822;
 background = {
 shapes = (
 {
@@ -28476,6 +28841,66 @@ nodes = (
 }
 );
 width = 1542;
+}
+);
+},
+{
+export = 0;
+glyphname = _okara_tenas;
+lastChange = "2023-05-09 08:21:47 +0000";
+layers = (
+{
+.lastUpdate = 705313307.238;
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(439,-10,ls),
+(469,-10,o),
+(481,4,o),
+(481,16,cs),
+(481,29,o),
+(479,39,o),
+(462,56,cs),
+(396,125,o),
+(366,200,o),
+(366,304,cs),
+(366,426,o),
+(409,479,o),
+(482,479,cs),
+(542,479,o),
+(598,444,o),
+(618,332,c),
+(603,345,l),
+(678,345,l),
+(659,336,l),
+(679,429,o),
+(729,479,o),
+(806,479,c),
+(817,483,l),
+(825,552,l),
+(815,555,l),
+(733,555,o),
+(676,513,o),
+(645,451,c),
+(639,451,l),
+(612,522,o),
+(554,555,o),
+(484,555,cs),
+(370,555,o),
+(295,472,o),
+(295,302,cs),
+(295,193,o),
+(328,116,o),
+(393,47,c),
+(421,60,l),
+(368,62,l),
+(375,-10,l)
+);
+}
+);
+width = 1033;
 }
 );
 },
@@ -28982,11 +29407,54 @@ width = 492;
 {
 export = 0;
 glyphname = _tedung_bali_;
-lastChange = "2023-05-08 07:17:23 +0000";
+lastChange = "2023-05-09 08:47:46 +0000";
 layers = (
 {
-.lastUpdate = 705223043.104;
+.lastUpdate = 705314866.064;
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,65,o),
+(453,135,o),
+(453,285,cs),
+(453,448,o),
+(344,555,o),
+(194,555,cs),
+(85,555,o),
+(16,503,o),
+(-27,454,c),
+(-26,470,l),
+(18,410,l),
+(0,409,l),
+(50,457,o),
+(112,481,o),
+(174,481,cs),
+(307,481,o),
+(376,401,o),
+(376,289,cs),
+(376,190,o),
+(333,136,o),
+(259,136,cs),
+(219,136,o),
+(181,152,o),
+(140,195,c),
+(151,196,l),
+(91,136,l),
+(95,155,l),
+(132,100,o),
+(192,65,o),
+(262,65,cs)
+);
+}
+);
+width = 487;
+},
+{
+associatedMasterId = m009;
+layerId = "890D0E0C-91BD-43BD-9D3A-22262FA634F1";
+name = "9 May 23 16.28";
 shapes = (
 {
 closed = 1;
@@ -29025,6 +29493,49 @@ nodes = (
 }
 );
 width = 575;
+},
+{
+associatedMasterId = m009;
+layerId = "1BADE540-1A43-45D3-BD55-D6E88B65ABE0";
+name = "9 May 23 16.29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(477,56,o),
+(553,160,o),
+(553,290,cs),
+(553,424,o),
+(466,555,o),
+(297,555,cs),
+(179,555,o),
+(78,498,o),
+(12,387,c),
+(9,427,l),
+(79,364,l),
+(60,359,l),
+(120,430,o),
+(190,479,o),
+(284,479,cs),
+(415,479,o),
+(475,383,o),
+(475,289,cs),
+(475,195,o),
+(425,128,o),
+(333,128,cs),
+(267,128,o),
+(231,158,o),
+(195,185,c),
+(240,202,l),
+(163,97,l),
+(163,128,l),
+(207,89,o),
+(258,56,o),
+(337,56,cs)
+);
+}
+);
+width = 587;
 }
 );
 metricRight = "nya-bali";
@@ -29875,7 +30386,7 @@ export = 0;
 glyphname = _k.001;
 layers = (
 {
-.lastUpdate = 705233084.282;
+.lastUpdate = 705295760.023;
 layerId = m009;
 shapes = (
 {
@@ -29917,7 +30428,7 @@ export = 0;
 glyphname = _k.002;
 layers = (
 {
-.lastUpdate = 705233084.28;
+.lastUpdate = 705295760.024;
 background = {
 shapes = (
 {
@@ -29973,7 +30484,7 @@ export = 0;
 glyphname = _s.001;
 layers = (
 {
-.lastUpdate = 705233084.283;
+.lastUpdate = 705295760.025;
 background = {
 shapes = (
 {

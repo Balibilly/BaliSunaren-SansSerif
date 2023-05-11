@@ -8,12 +8,11 @@ shapes = (
 ref = "okara-bali";
 },
 {
-alignment = -1;
-pos = (581,0);
-ref = _tedung_bali_;
+pos = (1033,0);
+ref = "tedung-bali";
 }
 );
-width = 1303;
+width = 1520;
 }
 );
 unicode = 6930;
