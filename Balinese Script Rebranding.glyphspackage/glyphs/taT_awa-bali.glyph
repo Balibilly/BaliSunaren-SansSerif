@@ -1,36 +1,35 @@
 {
+color = 9;
 glyphname = "taTawa-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (836,0);
+},
+{
+name = class0;
+pos = (875,0);
+},
+{
+name = top;
+pos = (428,650);
+}
+);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(672,-141,l),
-(528,121,ls),
-(475,217,o),
-(442,248,o),
-(401,248,cs),
-(356,248,o),
-(319,188,o),
-(319,114,c),
-(346,114,l),
-(346,147,o),
-(368,181,o),
-(401,181,cs),
-(435,181,o),
-(458,154,o),
-(493,92,cs),
-(634,-161,l)
-);
+ref = "wa-bali";
 },
 {
-ref = "wa-bali";
+ref = _suwet;
 }
 );
-width = 709;
+width = 875;
 }
 );
+metricLeft = "ha-bali";
+metricRight = "ha-bali";
 unicode = 6947;
 }

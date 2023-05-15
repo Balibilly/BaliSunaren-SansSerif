@@ -5,15 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
 ref = "talingRepa-bali";
 },
 {
-pos = (400,0);
+pos = (492,0);
 ref = "tedung-bali";
 }
 );
-width = 1142;
+width = 979;
 }
 );
 unicode = 6977;

@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = "saSaga_tedung-bali";
 layers = (
 {
@@ -8,12 +9,11 @@ shapes = (
 ref = "saSaga-bali";
 },
 {
-alignment = -1;
-pos = (738,0);
+pos = (1211,0);
 ref = _tedung_bali_;
 }
 );
-width = 1460;
+width = 1698;
 }
 );
 }

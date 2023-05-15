@@ -9,7 +9,7 @@ shapes = (
 ref = "pa-bali";
 },
 {
-pos = (182,13);
+pos = (221,13);
 ref = _repa_;
 }
 );

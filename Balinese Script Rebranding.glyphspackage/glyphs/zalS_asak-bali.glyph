@@ -1,36 +1,37 @@
 {
+color = 9;
 glyphname = "zalSasak-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (818,0);
+},
+{
+name = class0;
+pos = (857,0);
+},
+{
+name = top;
+pos = (410,650);
+}
+);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(565,-266,o),
-(622,-219,o),
-(672,-118,c),
-(639,-87,l),
-(601,-154,o),
-(555,-187,o),
-(501,-187,cs),
-(435,-187,o),
-(378,-138,o),
-(378,-34,cs),
-(378,347,l),
-(333,347,l),
-(333,-56,ls),
-(333,-199,o),
-(397,-266,o),
-(489,-266,cs)
-);
+ref = "sa-bali";
 },
 {
-ref = "sa-bali";
+alignment = -1;
+pos = (148,0);
+ref = _suwet_ta;
 }
 );
-width = 750;
+width = 857;
 }
 );
+metricLeft = "na-bali";
+metricRight = "ha-bali";
 unicode = 6986;
 }

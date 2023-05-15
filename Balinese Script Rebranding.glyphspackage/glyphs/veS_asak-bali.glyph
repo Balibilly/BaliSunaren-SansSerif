@@ -1,36 +1,37 @@
 {
+color = 9;
 glyphname = "veSasak-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (836,0);
+},
+{
+name = class0;
+pos = (875,0);
+},
+{
+name = top;
+pos = (428,650);
+}
+);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(564,-266,o),
-(621,-219,o),
-(671,-118,c),
-(638,-87,l),
-(600,-154,o),
-(554,-187,o),
-(500,-187,cs),
-(434,-187,o),
-(377,-138,o),
-(377,-34,cs),
-(377,307,l),
-(332,307,l),
-(332,-56,ls),
-(332,-199,o),
-(396,-266,o),
-(488,-266,cs)
-);
+ref = "wa-bali";
 },
 {
-ref = "wa-bali";
+alignment = -1;
+pos = (52,0);
+ref = _suwet_ta;
 }
 );
-width = 679;
+width = 875;
 }
 );
+metricLeft = "ha-bali";
+metricRight = "ha-bali";
 unicode = 6985;
 }

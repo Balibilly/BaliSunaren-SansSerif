@@ -1,40 +1,19 @@
 {
+color = 9;
 glyphname = "zalSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
 shapes = (
 {
-pos = (36,0);
-ref = "sa-bali";
+ref = "zalSasak-bali";
 },
 {
-closed = 1;
-nodes = (
-(621,-266,o),
-(678,-219,o),
-(728,-118,c),
-(695,-87,l),
-(657,-154,o),
-(611,-187,o),
-(557,-187,cs),
-(491,-187,o),
-(444,-138,o),
-(444,-34,cs),
-(444,387,l),
-(389,387,l),
-(389,-56,ls),
-(389,-199,o),
-(453,-266,o),
-(545,-266,cs)
-);
-},
-{
-pos = (428,0);
-ref = _tedung_bali_;
+pos = (857,0);
+ref = "tedung-bali";
 }
 );
-width = 1150;
+width = 1344;
 }
 );
 }
