@@ -1,19 +1,24 @@
 {
+<<<<<<< HEAD
 color = 4;
+=======
+>>>>>>> parent of ef54549 (Finish Letterform Aksara Bali)
 glyphname = "ya-bali.post";
 layers = (
 {
 layerId = m009;
 shapes = (
 {
+alignment = -1;
+pos = (101,0);
 ref = _gantungan_h_;
 },
 {
-pos = (310,0);
+pos = (551,0);
 ref = "ya-bali";
 }
 );
-width = 1395;
+width = 1410;
 }
 );
 }

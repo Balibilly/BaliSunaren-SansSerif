@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "jaJera_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "jaJera-bali";
 },
 {
-pos = (1320,0);
+alignment = -1;
+pos = (850,0);
 ref = _tedung_bali_;
 }
 );
-width = 1807;
+width = 1575;
 }
 );
 }

@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "ba_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "ba-bali";
 },
 {
-pos = (1374,0);
+alignment = -1;
+pos = (833,0);
 ref = _tedung_bali_;
 }
 );
-width = 1861;
+width = 1555;
 }
 );
 }

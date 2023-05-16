@@ -6,9 +6,11 @@ layers = (
 layerId = m009;
 shapes = (
 {
+alignment = -1;
 ref = "taling-bali";
 },
 {
+<<<<<<< HEAD
 alignment = 1;
 pos = (492,0);
 ref = dottedCircle;
@@ -19,6 +21,14 @@ ref = "tedung-bali";
 }
 );
 width = 1602;
+=======
+alignment = -1;
+pos = (520,0);
+ref = "tedung-bali";
+}
+);
+width = 1262;
+>>>>>>> parent of ef54549 (Finish Letterform Aksara Bali)
 }
 );
 unicode = 6976;

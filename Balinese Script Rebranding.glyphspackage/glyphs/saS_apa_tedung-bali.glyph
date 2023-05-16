@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "saSapa_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "saSapa-bali";
 },
 {
-pos = (882,0);
+alignment = -1;
+pos = (444,0);
 ref = _tedung_bali_;
 }
 );
-width = 1369;
+width = 1166;
 }
 );
 }

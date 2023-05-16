@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "asyuraSasak_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "asyuraSasak-bali";
 },
 {
-pos = (1644,0);
+alignment = -1;
+pos = (1025,0);
 ref = _tedung_bali_;
 }
 );
-width = 2131;
+width = 1767;
 }
 );
 }

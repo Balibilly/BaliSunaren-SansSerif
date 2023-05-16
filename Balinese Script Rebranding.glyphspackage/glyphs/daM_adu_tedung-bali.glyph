@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "daMadu_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "daMadu-bali";
 },
 {
-pos = (938,0);
+alignment = -1;
+pos = (543,0);
 ref = _tedung_bali_;
 }
 );
-width = 1425;
+width = 1265;
 }
 );
 }

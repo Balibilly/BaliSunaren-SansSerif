@@ -1,19 +1,21 @@
 {
-color = 9;
 glyphname = "tzirSasak_tedung-bali";
 layers = (
 {
 layerId = m009;
 shapes = (
 {
+alignment = -1;
+pos = (70,0);
 ref = "tzirSasak-bali";
 },
 {
-pos = (1177,0);
+alignment = -1;
+pos = (842,0);
 ref = _tedung_bali_;
 }
 );
-width = 1664;
+width = 1564;
 }
 );
 }

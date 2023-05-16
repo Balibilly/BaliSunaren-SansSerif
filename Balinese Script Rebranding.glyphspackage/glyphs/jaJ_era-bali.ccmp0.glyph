@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "jaJera-bali.ccmp0";
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = "jaJera-bali";
 }
 );
-width = 1320;
+width = 1175;
 }
 );
 }

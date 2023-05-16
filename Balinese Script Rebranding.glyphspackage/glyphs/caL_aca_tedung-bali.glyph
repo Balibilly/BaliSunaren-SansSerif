@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "caLaca_tedung-bali";
 layers = (
 {
@@ -9,11 +8,12 @@ shapes = (
 ref = "caLaca-bali";
 },
 {
-pos = (1053,0);
+alignment = -1;
+pos = (450,0);
 ref = _tedung_bali_;
 }
 );
-width = 1540;
+width = 1170;
 }
 );
 }

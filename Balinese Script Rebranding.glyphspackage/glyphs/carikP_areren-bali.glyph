@@ -5,19 +5,16 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = -1;
+pos = (-200,0);
 ref = "carikSiki-bali";
 },
 {
-alignment = -1;
-pos = (328,0);
+pos = (60,0);
 ref = "carikSiki-bali";
 }
 );
-width = 713;
+width = 600;
 }
 );
-metricLeft = "carikSiki-bali";
-metricRight = "carikSiki-bali";
 unicode = 7007;
 }
