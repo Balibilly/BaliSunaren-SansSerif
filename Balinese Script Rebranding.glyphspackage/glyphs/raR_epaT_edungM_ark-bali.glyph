@@ -1,4 +1,5 @@
 {
+color = 1;
 glyphname = "raRepaTedungMark-bali";
 layers = (
 {
@@ -9,6 +10,10 @@ ref = "raRepaMark-bali";
 },
 {
 ref = "tedung-bali";
+},
+{
+pos = (-728,0);
+ref = dottedCircle;
 }
 );
 width = 600;

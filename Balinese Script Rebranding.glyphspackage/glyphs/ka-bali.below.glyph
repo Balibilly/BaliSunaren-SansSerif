@@ -1,18 +1,38 @@
 {
+color = 4;
 glyphname = "ka-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _class0;
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+ref = _gantungan_ka_tenas;
 },
 {
-pos = (310,0);
-ref = "ka-bali";
+ref = _gantungan_ka_awak;
+},
+{
+ref = _gantungan_ka_jit;
+},
+{
+ref = _gantungan_ka_tundu;
+},
+{
+closed = 1;
+nodes = (
+(-50,-605,l),
+(-50,-334,l),
+(-121,-334,l),
+(-121,-605,l)
+);
 }
 );
-width = 1505;
+width = 0;
 }
 );
 }

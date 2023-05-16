@@ -1,15 +1,15 @@
 {
+color = 1;
 glyphname = "ulu_uluCandra-bali";
 layers = (
 {
 layerId = m009;
 shapes = (
 {
-pos = (-1,0);
 ref = "uluCandra-bali";
 }
 );
-width = 0;
+width = 1;
 }
 );
 metricLeft = "ulu-bali";

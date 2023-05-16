@@ -7,6 +7,10 @@ anchors = (
 {
 name = lelengaTedung;
 pos = (1009,-356);
+},
+{
+name = top;
+pos = (645,650);
 }
 );
 layerId = m009;
