@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = "veSasak-bali.below";
 layers = (
 {
@@ -13,7 +12,7 @@ pos = (310,0);
 ref = "veSasak-bali";
 }
 );
-width = 989;
+width = 1185;
 }
 );
 }

@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = "tzirSasak-bali.below";
 layers = (
 {
@@ -13,7 +12,7 @@ pos = (310,0);
 ref = "tzirSasak-bali";
 }
 );
-width = 1430;
+width = 1487;
 }
 );
 }

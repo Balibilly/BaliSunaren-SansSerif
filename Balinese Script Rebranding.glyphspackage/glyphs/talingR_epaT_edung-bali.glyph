@@ -1,33 +1,18 @@
 {
-color = 1;
 glyphname = "talingRepaTedung-bali";
 layers = (
 {
 layerId = m009;
 shapes = (
 {
-alignment = -1;
 ref = "talingRepa-bali";
 },
 {
-<<<<<<< HEAD
-alignment = 1;
 pos = (492,0);
-ref = dottedCircle;
-},
-{
-pos = (1115,0);
 ref = "tedung-bali";
 }
 );
-width = 1602;
-=======
-pos = (400,0);
-ref = "tedung-bali";
-}
-);
-width = 1142;
->>>>>>> parent of ef54549 (Finish Letterform Aksara Bali)
+width = 979;
 }
 );
 unicode = 6977;

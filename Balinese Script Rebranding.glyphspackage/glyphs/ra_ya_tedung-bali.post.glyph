@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = "ra_ya_tedung-bali.post";
 layers = (
 {
@@ -13,7 +12,7 @@ pos = (854,0);
 ref = "ya_tedung-bali";
 }
 );
-width = 2103;
+width = 2148;
 }
 );
 metricLeft = "ra-bali";

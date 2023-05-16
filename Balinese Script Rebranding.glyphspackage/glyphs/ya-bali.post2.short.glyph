@@ -1,8 +1,5 @@
 {
-<<<<<<< HEAD
-color = 4;
-=======
->>>>>>> parent of ef54549 (Finish Letterform Aksara Bali)
+color = 9;
 glyphname = "ya-bali.post2.short";
 layers = (
 {

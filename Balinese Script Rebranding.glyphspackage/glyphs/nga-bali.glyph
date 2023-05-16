@@ -42,27 +42,18 @@ nodes = (
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(1039,0,l),
-(1039,339,ls),
-(1039,481,o),
-(955,555,o),
-(845,555,c),
-(836,479,l),
-(893,479,o),
-(963,453,o),
-(963,329,cs),
-(963,0,l)
-);
-},
-{
+alignment = -1;
 pos = (23,0);
 ref = _nga_body;
 },
 {
+alignment = -1;
 pos = (23,0);
 ref = _nga_top;
+},
+{
+alignment = -1;
+ref = _nga_bali_ekor;
 }
 );
 width = 1089;

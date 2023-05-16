@@ -1,4 +1,5 @@
 {
+color = 9;
 glyphname = "khotSasak_tedung-bali";
 layers = (
 {
@@ -8,12 +9,11 @@ shapes = (
 ref = "khotSasak-bali";
 },
 {
-alignment = -1;
-pos = (1376,0);
+pos = (1900,0);
 ref = _tedung_bali_;
 }
 );
-width = 2098;
+width = 2387;
 }
 );
 }

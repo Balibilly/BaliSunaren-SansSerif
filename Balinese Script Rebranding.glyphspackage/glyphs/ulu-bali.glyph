@@ -1,9 +1,12 @@
 {
-color = 1;
 glyphname = "ulu-bali";
 layers = (
 {
 anchors = (
+{
+name = _top;
+pos = (-370,630);
+},
 {
 name = dot_ulu_bali;
 pos = (-393,772);

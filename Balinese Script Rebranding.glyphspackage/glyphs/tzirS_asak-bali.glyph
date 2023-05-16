@@ -1,35 +1,32 @@
 {
+color = 9;
 glyphname = "tzirSasak-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1138,0);
+},
+{
+name = class0;
+pos = (1177,0);
+},
+{
+name = top;
+pos = (539,650);
+}
+);
 layerId = m009;
 shapes = (
 {
 ref = "ta-bali";
 },
 {
-closed = 1;
-nodes = (
-(473,-266,o),
-(530,-219,o),
-(580,-118,c),
-(547,-87,l),
-(509,-154,o),
-(463,-187,o),
-(409,-187,cs),
-(343,-187,o),
-(286,-138,o),
-(286,-34,cs),
-(286,417,l),
-(241,417,l),
-(241,-56,ls),
-(241,-199,o),
-(305,-266,o),
-(397,-266,cs)
-);
+ref = _suwet_ta;
 }
 );
-width = 1120;
+width = 1177;
 }
 );
 metricLeft = "ta-bali";

@@ -1,13 +1,8 @@
 {
+color = 9;
 glyphname = "okara-bali";
 layers = (
 {
-anchors = (
-{
-name = top;
-pos = (645,650);
-}
-);
 background = {
 shapes = (
 {

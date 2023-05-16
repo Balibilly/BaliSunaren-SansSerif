@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = "zalSasak-bali.post";
 layers = (
 {
@@ -13,7 +12,7 @@ pos = (310,0);
 ref = "zalSasak-bali";
 }
 );
-width = 1060;
+width = 1167;
 }
 );
 }

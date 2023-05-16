@@ -1,14 +1,7 @@
 {
-color = 1;
 glyphname = "laLengaMark-bali";
 layers = (
 {
-anchors = (
-{
-name = _bottom;
-pos = (-43,0);
-}
-);
 layerId = m009;
 shapes = (
 {
@@ -61,10 +54,6 @@ ref = _la_baong;
 {
 alignment = 1;
 ref = "pepet-bali";
-},
-{
-pos = (-736,0);
-ref = dottedCircle;
 }
 );
 width = 0;
