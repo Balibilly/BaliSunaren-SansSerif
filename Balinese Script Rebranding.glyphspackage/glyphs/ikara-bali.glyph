@@ -1,19 +1,29 @@
 {
-color = 9;
+color = 4;
 glyphname = "ikara-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (658,650);
+}
+);
 layerId = m009;
 shapes = (
 {
 ref = "nga-bali";
 },
 {
-pos = (418,13);
+pos = (438,13);
 ref = _repa_;
 }
 );
-width = 1089;
+width = 1109;
 }
 );
 unicode = 6919;

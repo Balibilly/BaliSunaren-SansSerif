@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "ka-bali";
 layers = (
 {
@@ -167,7 +167,7 @@ pos = (-8,0);
 ref = _na_batis;
 }
 );
-width = 1195;
+width = 1205;
 }
 );
 metricLeft = "na-bali";

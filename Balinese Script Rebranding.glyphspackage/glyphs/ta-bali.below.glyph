@@ -2,17 +2,40 @@
 glyphname = "ta-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (854,0);
+},
+{
+name = bottom;
+pos = (844,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = -1;
+pos = (56,-679);
+ref = _ha_tenas_ha;
 },
 {
-pos = (310,0);
-ref = "ta-bali";
+pos = (5,-679);
+ref = _ta_awak;
+},
+{
+closed = 1;
+nodes = (
+(844,-679,l),
+(844,-388,l),
+(835,-378,l),
+(778,-378,l),
+(768,-388,l),
+(768,-679,l)
+);
 }
 );
-width = 1487;
+width = 887;
 }
 );
 }

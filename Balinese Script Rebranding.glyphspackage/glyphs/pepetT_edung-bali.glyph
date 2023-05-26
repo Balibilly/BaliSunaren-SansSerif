@@ -6,15 +6,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
+pos = (-39,0);
 ref = "pepet-bali";
 },
 {
-pos = (-40,0);
+pos = (-39,0);
 ref = _tedung_bali_;
 }
 );
-width = 447;
+width = 448;
 }
 );
 metricRight = "nya-bali";

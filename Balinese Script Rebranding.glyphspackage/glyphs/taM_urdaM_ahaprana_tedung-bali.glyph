@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 7;
 glyphname = "taMurdaMahaprana_tedung-bali";
 layers = (
 {
@@ -9,11 +9,11 @@ shapes = (
 ref = "taMurdaMahaprana-bali";
 },
 {
-pos = (1069,0);
+pos = (1089,0);
 ref = _tedung_bali_;
 }
 );
-width = 1556;
+width = 1576;
 }
 );
 }

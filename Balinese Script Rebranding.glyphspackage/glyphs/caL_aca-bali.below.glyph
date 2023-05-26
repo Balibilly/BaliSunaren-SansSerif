@@ -2,17 +2,45 @@
 glyphname = "caLaca-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (889,0);
+},
+{
+name = bottom;
+pos = (842,-689);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+closed = 1;
+nodes = (
+(649,-689,l),
+(824,-689,o),
+(881,-583,o),
+(881,-429,cs),
+(881,-324,o),
+(845,-187,o),
+(798,-96,c),
+(820,-109,l),
+(738,-137,l),
+(736,-114,l),
+(773,-196,o),
+(805,-332,o),
+(805,-424,cs),
+(805,-551,o),
+(756,-615,o),
+(652,-615,c)
+);
 },
 {
-pos = (310,0);
-ref = "caLaca-bali";
+pos = (29,-679);
+ref = _caLaca;
 }
 );
-width = 1363;
+width = 929;
 }
 );
 }

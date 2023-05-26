@@ -2,17 +2,34 @@
 glyphname = "daMurdaMahaprana-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (698,0);
+},
+{
+name = bottom;
+pos = (688,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = -1;
+pos = (-60,-679);
+ref = _daMadu_bawah;
 },
 {
-pos = (310,0);
-ref = "daMurdaMahaprana-bali";
+alignment = -1;
+pos = (-85,0);
+ref = _daMadu_below;
+},
+{
+pos = (-60,-679);
+ref = _daMudra;
 }
 );
-width = 1072;
+width = 697;
 }
 );
 }

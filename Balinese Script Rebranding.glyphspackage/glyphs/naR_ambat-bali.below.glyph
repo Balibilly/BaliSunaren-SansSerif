@@ -2,17 +2,25 @@
 glyphname = "naRambat-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1147,0);
+},
+{
+name = bottom;
+pos = (1137,-669);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
-},
-{
-pos = (310,0);
+alignment = -1;
+pos = (0,-669);
 ref = "naRambat-bali";
 }
 );
-width = 1497;
+width = 1187;
 }
 );
 }

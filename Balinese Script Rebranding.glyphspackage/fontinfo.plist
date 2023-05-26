@@ -10,8 +10,23 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = B;
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z";
 name = Uppercase;
+},
+{
+code = "ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ra-bali-wide.below ra-bali-short.below ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below 
+";
+name = belowForm;
+}
+);
+customParameters = (
+{
+name = "Use Extension Kerning";
+value = 1;
+},
+{
+name = "Propagate Anchors";
+value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
@@ -27,6 +42,13 @@ name = Languagesystems;
 }
 );
 features = (
+{
+automatic = 1;
+code = "feature blwf;
+feature blws;
+";
+tag = aalt;
+},
 {
 automatic = 1;
 code = "lookup ccmp_bali_1 {
@@ -55,6 +77,69 @@ script bali;
 lookup ccmp_bali_1;
 ";
 tag = ccmp;
+},
+{
+code = "lookup blwf_bali_01 {
+	sub adegadeg-bali ha-bali by ha-bali.below;
+	sub adegadeg-bali na-bali by na-bali.below;
+	sub adegadeg-bali naRambat-bali by naRambat-bali.below;
+	sub adegadeg-bali ca-bali by ca-bali.below;
+	sub adegadeg-bali caLaca-bali by caLaca-bali.below;
+	sub adegadeg-bali ra-bali by ra-bali.below;
+	sub adegadeg-bali ka-bali by ka-bali.below;
+	sub adegadeg-bali kaMahaprana-bali by kaMahaprana-bali.below;
+	sub adegadeg-bali kafSasak-bali by kafSasak-bali.below;
+	sub adegadeg-bali da-bali by da-bali.below;
+	sub adegadeg-bali daMadu-bali by daMadu-bali.below;
+	sub adegadeg-bali daMurdaAlpaprana-bali by daMurdaAlpaprana-bali.below;
+	sub adegadeg-bali daMurdaMahaprana-bali by daMurdaMahaprana-bali.below;
+	sub adegadeg-bali ta-bali by ta-bali.below;
+	sub adegadeg-bali taMurdaMahaprana-bali by taMurdaMahaprana-bali.below;
+	sub adegadeg-bali taLatik-bali by taLatik-bali.below;
+	sub adegadeg-bali taTawa-bali by taTawa-bali.below;
+	sub adegadeg-bali tzirSasak-bali by tzirSasak-bali.below;
+	sub adegadeg-bali saSaga-bali by saSaga-bali.below;
+	sub adegadeg-bali asyuraSasak-bali by asyuraSasak-bali.below;
+	sub adegadeg-bali wa-bali by wa-bali.below;
+	sub adegadeg-bali veSasak-bali by veSasak-bali.below;
+	sub adegadeg-bali la-bali by la-bali.below;
+	sub adegadeg-bali ma-bali by ma-bali.below;
+	sub adegadeg-bali ga-bali by ga-bali.below;
+	sub adegadeg-bali gaGora-bali by gaGora-bali.below;
+	sub adegadeg-bali ba-bali by ba-bali.below;
+	sub adegadeg-bali baKembang-bali by baKembang-bali.below;
+	sub adegadeg-bali nga-bali by nga-bali.below;
+	sub adegadeg-bali ja-bali by ja-bali.below;
+	sub adegadeg-bali nya-bali by nya-bali.below;
+} blwf_bali_01;
+script bali;
+lookup blwf_bali_01;
+
+";
+tag = blwf;
+},
+{
+code = "lookup suku-baliBelow {
+	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] suku-bali' by suku-bali.below;
+} suku-baliBelow;
+lookup ra-baliBelow {
+	sub [raRepa-bali raRepaTedung-bali ekara-bali na-bali ca-bali ra-bali kaMahaprana-bali da-bali daMadu-bali daMurdaAlpaprana-bali daMurdaMahaprana-bali taTawa-bali sa-bali saSapa-bali zalSasak-bali wa-bali veSasak-bali ma-bali baKembang-bali pa-bali paKapal-bali efSasak-bali ja-bali] ra-bali.below' by ra-bali.below;
+} ra-baliBelow;
+
+
+lookup ra-baliBelowWide {
+	sub [akara-bali ikara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali la-bali ga-bali ba-bali nga-bali ya-bali nya-bali] ra-bali.below' by ra-bali-wide.below;
+} ra-baliBelowWide;
+
+lookup ra-baliBelowShort {
+	sub [akaraTedung-bali ukara-bali ukaraTedung-bali laLenga-bali laLengaTedung-bali aikara-bali okara-bali okaraTedung-bali kafSasak-bali khotSasak-bali asyuraSasak-bali gaGora-bali jaJera-bali] ra-bali.below' by ra-bali-short.below;
+} ra-baliBelowShort;
+
+lookup ra-baliBelow2 {
+	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] ra-bali.below' by ra-bali.below2;
+} ra-baliBelow2;
+";
+tag = blws;
 }
 );
 fontMaster = (
@@ -64,50 +149,27 @@ axesValues = (
 );
 guides = (
 {
-pos = (245,98);
+pos = (1019,815);
 },
 {
-pos = (198,633);
-},
-{
-angle = 270;
-pos = (297,475);
-},
-{
-pos = (159,-215);
-},
-{
-pos = (302,479);
+pos = (484,-124);
 },
 {
 angle = 270;
-pos = (487,403);
+pos = (1188,0);
 },
 {
-pos = (305,66);
+locked = 1;
+pos = (693,-689);
 },
 {
-pos = (464,-10);
+pos = (77,201);
 },
 {
-pos = (506,2);
+pos = (325,-769);
 },
 {
-pos = (244,996);
-},
-{
-pos = (144,-769);
-},
-{
-pos = (590,-669);
-},
-{
-angle = 270;
-pos = (782,0);
-},
-{
-angle = 270;
-pos = (706,0);
+pos = (295,-1267);
 }
 );
 id = m009;
@@ -136,8 +198,19 @@ pos = -250;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 18;
+GSCornerRadius = 28;
 };
+}
+);
+instances = (
+{
+axesValues = (
+0
+);
+instanceInterpolations = {
+m009 = 1;
+};
+name = Regular;
 }
 );
 metrics = (

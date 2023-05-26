@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 7;
 glyphname = "baKembang_tedung-bali";
 layers = (
 {
@@ -9,11 +9,11 @@ shapes = (
 ref = "baKembang-bali";
 },
 {
-pos = (877,0);
+pos = (897,0);
 ref = _tedung_bali_;
 }
 );
-width = 1364;
+width = 1384;
 }
 );
 }

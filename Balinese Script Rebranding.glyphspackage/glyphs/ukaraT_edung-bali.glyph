@@ -9,11 +9,11 @@ shapes = (
 ref = "ukara-bali";
 },
 {
-pos = (561,0);
+pos = (583,0);
 ref = _tedung_bali_;
 }
 );
-width = 1048;
+width = 1070;
 }
 );
 unicode = 6922;

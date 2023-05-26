@@ -9,11 +9,11 @@ alignment = 1;
 ref = "ulu-bali";
 },
 {
-pos = (-640,0);
+pos = (56,0);
 ref = _dot_ulu_bali;
 }
 );
-width = 0;
+width = 561;
 }
 );
 unicode = 6912;

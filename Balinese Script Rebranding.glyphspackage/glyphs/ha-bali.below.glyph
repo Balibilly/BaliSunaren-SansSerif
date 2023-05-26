@@ -2,17 +2,46 @@
 glyphname = "ha-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (952,0);
+},
+{
+name = bottom;
+pos = (942,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+closed = 1;
+nodes = (
+(942,-679,l),
+(942,-388,l),
+(933,-378,l),
+(876,-378,l),
+(866,-388,l),
+(866,-679,l)
+);
 },
 {
-pos = (310,0);
-ref = "ha-bali";
+alignment = -1;
+pos = (76,-679);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (76,-679);
+ref = _ha_bali_core;
+},
+{
+alignment = -1;
+pos = (96,-679);
+ref = _ha_tundun_ha;
 }
 );
-width = 1585;
+width = 992;
 }
 );
 }

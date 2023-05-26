@@ -2,17 +2,25 @@
 glyphname = "nya-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1635,0);
+},
+{
+name = bottom;
+pos = (1254,-689);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
-},
-{
-pos = (310,0);
+alignment = -1;
+pos = (25,-679);
 ref = "nya-bali";
 }
 );
-width = 1938;
+width = 1675;
 }
 );
 }

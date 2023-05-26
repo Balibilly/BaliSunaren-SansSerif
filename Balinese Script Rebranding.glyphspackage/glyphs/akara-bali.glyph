@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "akara-bali";
 layers = (
 {
@@ -14,7 +14,7 @@ pos = (1112,0);
 },
 {
 name = top;
-pos = (375,650);
+pos = (603,650);
 }
 );
 background = {
@@ -157,7 +157,7 @@ pos = (4,0);
 ref = _cecek_bangkiang;
 }
 );
-width = 1112;
+width = 1122;
 }
 );
 metricRight = "ha-bali";

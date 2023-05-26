@@ -1,51 +1,51 @@
 {
-color = 9;
+color = 4;
 glyphname = "ha-bali";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (1235,0);
+pos = (1245,0);
 },
 {
 name = class0;
-pos = (1275,0);
+pos = (1285,0);
 },
 {
 name = top;
-pos = (538,650);
+pos = (548,650);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (71,0);
+pos = (81,0);
 ref = _ha_tundun_ha;
 },
 {
 alignment = -1;
-pos = (51,0);
+pos = (61,0);
 ref = _ha_bali_core;
 },
 {
 alignment = -1;
-pos = (51,0);
+pos = (61,0);
 ref = _ha_bangkiang;
 },
 {
 alignment = -1;
-pos = (81,0);
+pos = (91,0);
 ref = _ha_geluungan_ha;
 },
 {
 alignment = -1;
-pos = (51,0);
+pos = (61,0);
 ref = _ha_tenas_ha;
 }
 );
-width = 1275;
+width = 1295;
 }
 );
 unicode = 6963;

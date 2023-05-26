@@ -2,17 +2,42 @@
 glyphname = "taLatik-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1014,0);
+},
+{
+name = bottom;
+pos = (859,-547);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+closed = 1;
+nodes = (
+(904,-547,o),
+(948,-532,o),
+(978,-496,c),
+(958,-463,l),
+(933,-482,o),
+(903,-490,o),
+(874,-490,cs),
+(861,-490,o),
+(848,-488,o),
+(837,-483,c),
+(801,-535,l),
+(818,-543,o),
+(838,-547,o),
+(859,-547,cs)
+);
 },
 {
-pos = (310,0);
-ref = "taLatik-bali";
+ref = "taMurdaMahaprana-bali.below";
 }
 );
-width = 1379;
+width = 1028;
 }
 );
 }

@@ -2,17 +2,29 @@
 glyphname = "ka-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (887,0);
+},
+{
+name = bottom;
+pos = (887,-679);
+},
+{
+name = kaMahaprana;
+pos = (801,-628);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
-},
-{
-pos = (310,0);
-ref = "ka-bali";
+alignment = -1;
+pos = (22,-679);
+ref = "na-bali";
 }
 );
-width = 1505;
+width = 927;
 }
 );
 }

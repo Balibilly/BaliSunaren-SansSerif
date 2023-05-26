@@ -2,17 +2,50 @@
 glyphname = "daMurdaAlpaprana-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (848,0);
+},
+{
+name = bottom;
+pos = (838,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = -1;
+pos = (-60,-679);
+ref = _daMadu_bawah;
 },
 {
-pos = (310,0);
-ref = "daMurdaAlpaprana-bali";
+closed = 1;
+nodes = (
+(612,-689,o),
+(679,-593,o),
+(679,-452,cs),
+(679,-388,l),
+(611,-388,l),
+(611,-453,ls),
+(611,-569,o),
+(561,-617,o),
+(522,-617,c),
+(525,-689,l)
+);
+},
+{
+alignment = -1;
+pos = (-306,-679);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (-85,0);
+ref = _daMadu_below;
 }
 );
-width = 1231;
+width = 888;
 }
 );
 }

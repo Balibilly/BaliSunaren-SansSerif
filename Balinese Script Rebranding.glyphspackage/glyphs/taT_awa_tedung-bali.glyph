@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 7;
 glyphname = "taTawa_tedung-bali";
 layers = (
 {
@@ -9,11 +9,11 @@ shapes = (
 ref = "taTawa-bali";
 },
 {
-pos = (875,0);
+pos = (895,0);
 ref = _tedung_bali_;
 }
 );
-width = 1362;
+width = 1382;
 }
 );
 }

@@ -6,15 +6,15 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (836,0);
+pos = (856,0);
 },
 {
 name = class0;
-pos = (875,0);
+pos = (895,0);
 },
 {
 name = top;
-pos = (428,650);
+pos = (448,650);
 }
 );
 layerId = m009;
@@ -23,10 +23,11 @@ shapes = (
 ref = "wa-bali";
 },
 {
+pos = (10,0);
 ref = _suwet;
 }
 );
-width = 875;
+width = 895;
 }
 );
 metricLeft = "ha-bali";

@@ -2,17 +2,25 @@
 glyphname = "gaGora-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (1239,0);
+},
+{
+name = bottom;
+pos = (1229,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
-},
-{
-pos = (310,0);
+alignment = -1;
+pos = (0,-679);
 ref = "gaGora-bali";
 }
 );
-width = 1677;
+width = 1279;
 }
 );
 }

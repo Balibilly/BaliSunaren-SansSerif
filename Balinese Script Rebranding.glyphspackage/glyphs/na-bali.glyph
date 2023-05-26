@@ -60,7 +60,7 @@ pos = (35,0);
 ref = _stem_ending;
 }
 );
-width = 905;
+width = 915;
 }
 );
 metricRight = "ha-bali";

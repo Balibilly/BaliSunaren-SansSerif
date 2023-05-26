@@ -6,43 +6,31 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (678,0);
-},
-{
-name = class0;
-pos = (717,0);
+pos = (739,0);
 },
 {
 name = top;
-pos = (400,650);
+pos = (410,650);
 }
 );
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(667,-10,o),
-(712,59,o),
-(712,165,cs),
-(712,545,l),
-(644,545,l),
-(644,186,ls),
-(644,111,o),
-(627,62,o),
-(582,62,c),
-(585,-10,l)
-);
-},
-{
-pos = (13,0);
+alignment = -1;
+pos = (23,0);
 ref = _la_tenas;
 },
 {
+alignment = -1;
+pos = (10,0);
 ref = _daMadu_bawah;
+},
+{
+pos = (10,0);
+ref = _daMudra;
 }
 );
-width = 762;
+width = 817;
 }
 );
 metricLeft = "ha-bali";

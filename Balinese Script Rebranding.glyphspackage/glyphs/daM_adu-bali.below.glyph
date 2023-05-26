@@ -2,17 +2,45 @@
 glyphname = "daMadu-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (922,0);
+},
+{
+name = bottom;
+pos = (912,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+pos = (25,-679);
+ref = _daMadu_bawah;
 },
 {
-pos = (310,0);
-ref = "daMadu-bali";
+closed = 1;
+nodes = (
+(697,-689,o),
+(766,-593,o),
+(766,-452,c),
+(696,-453,l),
+(696,-569,o),
+(646,-617,o),
+(607,-617,c),
+(610,-689,l)
+);
+},
+{
+alignment = -1;
+pos = (142,-679);
+ref = _wa_ca_gelungan;
+},
+{
+ref = _daMadu_below;
 }
 );
-width = 1248;
+width = 963;
 }
 );
 }

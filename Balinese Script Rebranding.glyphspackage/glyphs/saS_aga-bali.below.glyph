@@ -2,17 +2,29 @@
 glyphname = "saSaga-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (955,0);
+},
+{
+name = bottom;
+pos = (906,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = 1;
+ref = "ga-bali.below";
 },
 {
-pos = (310,0);
-ref = "saSaga-bali";
+alignment = -1;
+pos = (180,-679);
+ref = _suwet;
 }
 );
-width = 1521;
+width = 1036;
 }
 );
 }

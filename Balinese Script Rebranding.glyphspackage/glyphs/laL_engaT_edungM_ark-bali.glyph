@@ -5,15 +5,19 @@ layers = (
 layerId = m009;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = "laLengaMark-bali";
 },
 {
+alignment = -1;
+pos = (1103,0);
 ref = "tedung-bali";
 }
 );
-width = 487;
+width = 1590;
 }
 );
+metricLeft = "laLengaMark-bali";
+metricRight = "nya-bali";
 unicode = 6973;
 }

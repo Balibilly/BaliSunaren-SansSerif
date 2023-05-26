@@ -2,17 +2,25 @@
 glyphname = "da-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (902,0);
+},
+{
+name = bottom;
+pos = (722,-679);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
-},
-{
-pos = (310,0);
-ref = "da-bali";
+alignment = -1;
+pos = (-9,-679);
+ref = "ekara-bali";
 }
 );
-width = 1269;
+width = 683;
 }
 );
 }

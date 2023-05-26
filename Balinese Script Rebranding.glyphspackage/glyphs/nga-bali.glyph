@@ -1,20 +1,20 @@
 {
-color = 9;
+color = 4;
 glyphname = "nga-bali";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (1039,0);
+pos = (1059,0);
 },
 {
 name = class0;
-pos = (1089,0);
+pos = (1099,0);
 },
 {
 name = top;
-pos = (541,650);
+pos = (551,650);
 }
 );
 background = {
@@ -22,19 +22,19 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(641,309,l),
-(662,418,o),
-(710,479,o),
-(787,479,cs)
+(651,309,l),
+(672,418,o),
+(720,479,o),
+(797,479,cs)
 );
 },
 {
 closed = 0;
 nodes = (
-(798,555,ls),
-(715,555,o),
-(666,513,o),
-(635,451,c)
+(808,555,ls),
+(725,555,o),
+(676,513,o),
+(645,451,c)
 );
 }
 );
@@ -43,20 +43,21 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (23,0);
+pos = (33,0);
 ref = _nga_body;
 },
 {
 alignment = -1;
-pos = (23,0);
+pos = (33,0);
 ref = _nga_top;
 },
 {
 alignment = -1;
+pos = (10,0);
 ref = _nga_bali_ekor;
 }
 );
-width = 1089;
+width = 1109;
 }
 );
 metricLeft = "ha-bali";

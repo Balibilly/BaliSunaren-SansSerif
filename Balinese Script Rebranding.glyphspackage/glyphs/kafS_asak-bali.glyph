@@ -83,7 +83,7 @@ ref = _ha_geluungan_ha;
 ref = _suwet_ka;
 }
 );
-width = 1265;
+width = 1275;
 }
 );
 metricLeft = "na-bali";
