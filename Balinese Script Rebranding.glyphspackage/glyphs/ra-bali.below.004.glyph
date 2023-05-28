@@ -1,11 +1,15 @@
 {
-glyphname = "ra-bali-short.below";
+glyphname = "ra-bali.below.004";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
 pos = (1104,0);
+},
+{
+name = bottom;
+pos = (993,-608);
 }
 );
 background = {

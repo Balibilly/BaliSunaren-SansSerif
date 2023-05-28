@@ -9,11 +9,11 @@ shapes = (
 ref = "laLenga-bali";
 },
 {
-pos = (57,153);
+pos = (138,102);
 ref = _lelengaTedung;
 }
 );
-width = 1099;
+width = 1109;
 }
 );
 unicode = 6926;

@@ -2,6 +2,12 @@
 glyphname = "raRepaMark-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (871,0);
+}
+);
 background = {
 shapes = (
 {

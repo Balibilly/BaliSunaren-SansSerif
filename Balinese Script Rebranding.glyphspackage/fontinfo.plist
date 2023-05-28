@@ -14,7 +14,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z";
 name = Uppercase;
 },
 {
-code = "ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ra-bali-wide.below ra-bali-short.below ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below 
+code = "ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ra-bali.below.003 ra-bali.below.004 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below 
 ";
 name = belowForm;
 }
@@ -122,23 +122,10 @@ tag = blwf;
 code = "lookup suku-baliBelow {
 	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] suku-bali' by suku-bali.below;
 } suku-baliBelow;
-lookup ra-baliBelow {
-	sub [raRepa-bali raRepaTedung-bali ekara-bali na-bali ca-bali ra-bali kaMahaprana-bali da-bali daMadu-bali daMurdaAlpaprana-bali daMurdaMahaprana-bali taTawa-bali sa-bali saSapa-bali zalSasak-bali wa-bali veSasak-bali ma-bali baKembang-bali pa-bali paKapal-bali efSasak-bali ja-bali] ra-bali.below' by ra-bali.below;
-} ra-baliBelow;
-
 
 lookup ra-baliBelowWide {
-	sub [akara-bali ikara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali la-bali ga-bali ba-bali nga-bali ya-bali nya-bali] ra-bali.below' by ra-bali-wide.below;
-} ra-baliBelowWide;
-
-lookup ra-baliBelowShort {
-	sub [akaraTedung-bali ukara-bali ukaraTedung-bali laLenga-bali laLengaTedung-bali aikara-bali okara-bali okaraTedung-bali kafSasak-bali khotSasak-bali asyuraSasak-bali gaGora-bali jaJera-bali] ra-bali.below' by ra-bali-short.below;
-} ra-baliBelowShort;
-
-lookup ra-baliBelow2 {
-	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] ra-bali.below' by ra-bali.below2;
-} ra-baliBelow2;
-";
+	sub [akara-bali ikara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali la-bali ga-bali ba-bali ya-bali nya-bali] ra-bali.below' by ra-bali.below.003;
+} ra-baliBelowWide;";
 tag = blws;
 }
 );
@@ -233,6 +220,40 @@ type = descender;
 type = "italic angle";
 }
 );
+note = "1. Scrip ra-bali.below supaya tidak nuabrak
+2. Bagaimana dengan vertical metric? harmoni antara aksara bali dan latin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lookup ra-baliBelow {
+	sub [raRepa-bali raRepaTedung-bali ekara-bali na-bali ca-bali ra-bali kaMahaprana-bali da-bali daMadu-bali daMurdaAlpaprana-bali daMurdaMahaprana-bali taTawa-bali sa-bali saSapa-bali zalSasak-bali wa-bali veSasak-bali ma-bali baKembang-bali pa-bali paKapal-bali efSasak-bali ja-bali] ra-bali.below' by ra-bali.below;
+} ra-baliBelow;
+
+lookup ra-baliBelowWide {
+	sub [akara-bali ikara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali la-bali ga-bali ba-bali nga-bali ya-bali nya-bali] ra-bali.below' by ra-bali.below.003;
+} ra-baliBelowWide;
+
+lookup ra-baliBelowShort {
+	sub [akaraTedung-bali ukara-bali ukaraTedung-bali laLenga-bali laLengaTedung-bali aikara-bali okara-bali okaraTedung-bali kafSasak-bali khotSasak-bali asyuraSasak-bali gaGora-bali jaJera-bali] ra-bali.below' by ra-bali.below.004;
+} ra-baliBelowShort;
+
+lookup ra-baliBelow2 {
+	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] ra-bali.below' by ra-bali.below2;
+} ra-baliBelow2;
+";
 properties = (
 {
 key = copyrights;
