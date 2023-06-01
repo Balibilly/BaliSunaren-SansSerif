@@ -6,11 +6,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1181,0);
-},
-{
-name = class0;
-pos = (1221,0);
+pos = (1171,0);
 },
 {
 name = top;
@@ -24,7 +20,7 @@ ref = "ga-bali";
 },
 {
 alignment = -1;
-pos = (138,0);
+pos = (157,0);
 ref = _suwet;
 }
 );

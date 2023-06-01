@@ -2,21 +2,24 @@
 glyphname = "rerekan_ulu_surang-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "rerekan-bali";
 },
 {
-pos = (466,0);
-ref = "ulu-bali";
-},
-{
-pos = (987,0);
-ref = "surang-bali";
+pos = (498,0);
+ref = "ulu_surang-bali";
 }
 );
-width = 0;
+width = 578;
 }
 );
 }

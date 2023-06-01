@@ -2,17 +2,19 @@
 glyphname = "pepet_cecek-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = "pepet-bali";
-},
-{
-pos = (642,0);
-ref = "cecek-bali";
+ref = _pepet_bawak;
 }
 );
-width = 0;
+width = 966;
 }
 );
 metricLeft = "pepet-bali";

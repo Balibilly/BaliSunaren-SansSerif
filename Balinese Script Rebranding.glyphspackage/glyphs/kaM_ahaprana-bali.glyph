@@ -3,6 +3,16 @@ color = 9;
 glyphname = "kaMahaprana-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (893,-260);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
 layerId = m009;
 shapes = (
 {

@@ -3,19 +3,6 @@ glyphname = "ra_ya_suku-bali.post";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-ref = "ra-bali";
-},
-{
-pos = (864,0);
-ref = "ya-bali";
-},
-{
-pos = (1566,0);
-ref = "suku-bali";
-}
-);
 width = 1969;
 }
 );

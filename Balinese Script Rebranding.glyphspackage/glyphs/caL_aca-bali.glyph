@@ -6,14 +6,55 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1013,0);
+pos = (1003,0);
 },
 {
 name = top;
-pos = (516,650);
+pos = (414,650);
 }
 );
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(795,-10,o),
+(844,96,o),
+(844,250,cs),
+(844,291,l),
+(776,291,l),
+(776,255,ls),
+(776,118,o),
+(739,64,o),
+(623,64,c),
+(620,-10,l)
+);
+},
+{
+ref = _caLaca;
+},
+{
+alignment = -1;
+pos = (-141,0);
+ref = _ha_geluungan_ha;
+}
+);
+width = 1063;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1003,0);
+},
+{
+name = top;
+pos = (525,650);
+}
+);
+associatedMasterId = m009;
+layerId = "365D259E-2A20-47DA-9111-7F8DDFCE6765";
+name = "31 May 23 14.26";
 shapes = (
 {
 closed = 1;

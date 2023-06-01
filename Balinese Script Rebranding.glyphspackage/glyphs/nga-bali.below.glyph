@@ -9,15 +9,25 @@ pos = (1049,0);
 },
 {
 name = bottom;
-pos = (1039,-679);
+pos = (1049,-679);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (0,-679);
-ref = "nga-bali";
+pos = (63,-679);
+ref = _nga_tenas;
+},
+{
+alignment = -1;
+pos = (40,-679);
+ref = _okara_tenas;
+},
+{
+alignment = -1;
+pos = (10,-679);
+ref = _nga_bali_ekor;
 }
 );
 width = 1089;

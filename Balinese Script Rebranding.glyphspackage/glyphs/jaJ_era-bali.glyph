@@ -3,6 +3,12 @@ color = 9;
 glyphname = "jaJera-bali";
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (637,650);
+}
+);
 layerId = m009;
 shapes = (
 {

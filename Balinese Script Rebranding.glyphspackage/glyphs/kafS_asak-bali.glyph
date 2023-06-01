@@ -6,15 +6,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1226,0);
-},
-{
-name = class0;
-pos = (1265,0);
+pos = (1216,0);
 },
 {
 name = top;
-pos = (635,650);
+pos = (393,650);
 }
 );
 layerId = m009;

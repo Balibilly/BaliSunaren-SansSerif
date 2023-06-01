@@ -10,7 +10,7 @@ pos = (1049,0);
 },
 {
 name = top;
-pos = (658,650);
+pos = (662,650);
 }
 );
 layerId = m009;
@@ -19,7 +19,7 @@ shapes = (
 ref = "nga-bali";
 },
 {
-pos = (438,13);
+pos = (428,13);
 ref = _repa_;
 }
 );

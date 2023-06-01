@@ -2,18 +2,25 @@
 glyphname = "uluSari_surang-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (325,630);
+}
+);
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "uluSari-bali";
 },
 {
-pos = (509,0);
-ref = "surang-bali";
+ref = _surang_bawak;
 }
 );
-width = 0;
+width = 560;
 }
 );
 metricLeft = "ulu-bali";
+metricRight = "ulu-bali";
 }

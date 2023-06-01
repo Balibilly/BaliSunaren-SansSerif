@@ -3,6 +3,16 @@ color = 9;
 glyphname = "raRepaTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
 layerId = m009;
 shapes = (
 {

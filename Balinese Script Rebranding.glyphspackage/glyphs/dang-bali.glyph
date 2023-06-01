@@ -3,12 +3,6 @@ glyphname = "dang-bali";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-pos = (872,-441);
-ref = "cecek-bali";
-}
-);
 width = 600;
 }
 );

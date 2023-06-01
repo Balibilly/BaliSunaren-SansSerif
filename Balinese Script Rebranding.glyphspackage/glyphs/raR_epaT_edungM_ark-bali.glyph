@@ -5,9 +5,11 @@ layers = (
 layerId = m009;
 shapes = (
 {
+pos = (-467,0);
 ref = "raRepaMark-bali";
 },
 {
+pos = (446,0);
 ref = "tedung-bali";
 }
 );

@@ -9,12 +9,8 @@ name = bottom;
 pos = (842,0);
 },
 {
-name = class0;
-pos = (882,0);
-},
-{
 name = top;
-pos = (413,650);
+pos = (414,650);
 }
 );
 layerId = m009;

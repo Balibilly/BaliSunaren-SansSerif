@@ -3,15 +3,6 @@ glyphname = "ra_ya-bali.post";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-ref = "ra-bali";
-},
-{
-pos = (864,0);
-ref = "ya-bali";
-}
-);
 width = 1969;
 }
 );

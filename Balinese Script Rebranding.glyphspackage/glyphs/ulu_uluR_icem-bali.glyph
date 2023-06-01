@@ -2,19 +2,26 @@
 glyphname = "ulu_uluRicem-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (326,630);
+}
+);
 layerId = m009;
 shapes = (
 {
-alignment = -1;
+alignment = 1;
 ref = "ulu-bali";
 },
 {
-pos = (470,0);
+pos = (471,0);
 ref = "uluRicem-bali";
 }
 );
-width = 1031;
+width = 560;
 }
 );
 metricLeft = "ulu-bali";
+metricRight = "ulu-bali";
 }

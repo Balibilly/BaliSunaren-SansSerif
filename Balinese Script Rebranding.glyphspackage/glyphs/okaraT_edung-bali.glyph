@@ -3,6 +3,16 @@ color = 9;
 glyphname = "okaraTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1052,-759);
+},
+{
+name = top;
+pos = (637,650);
+}
+);
 layerId = m009;
 shapes = (
 {

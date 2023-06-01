@@ -1,5 +1,6 @@
 {
 color = 7;
+export = 0;
 glyphname = "ha_tedung-bali";
 layers = (
 {
@@ -9,12 +10,8 @@ name = bottom;
 pos = (1113,0);
 },
 {
-name = class0;
-pos = (1493,0);
-},
-{
 name = top;
-pos = (548,650);
+pos = (414,650);
 }
 );
 layerId = m009;

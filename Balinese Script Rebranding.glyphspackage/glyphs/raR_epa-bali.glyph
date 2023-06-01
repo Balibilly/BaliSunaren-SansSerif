@@ -3,13 +3,23 @@ color = 9;
 glyphname = "raRepa-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
 layerId = m009;
 shapes = (
 {
 ref = "pa-bali";
 },
 {
-pos = (231,13);
+pos = (221,13);
 ref = _repa_;
 }
 );

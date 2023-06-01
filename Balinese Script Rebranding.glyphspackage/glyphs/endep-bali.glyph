@@ -5,11 +5,11 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (8,-990);
+pos = (0,-990);
 ref = "tegeh-bali";
 }
 );
-width = 0;
+width = 446;
 }
 );
 unicode = 7020;

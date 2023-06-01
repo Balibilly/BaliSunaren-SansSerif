@@ -1,5 +1,6 @@
 {
 color = 7;
+export = 0;
 glyphname = "naRambat_tedung-bali";
 layers = (
 {
@@ -9,11 +10,11 @@ shapes = (
 ref = "naRambat-bali";
 },
 {
-pos = (1197,0);
+pos = (1099,0);
 ref = _tedung_bali_;
 }
 );
-width = 1684;
+width = 1586;
 }
 );
 }

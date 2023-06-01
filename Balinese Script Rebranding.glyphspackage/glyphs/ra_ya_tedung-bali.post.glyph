@@ -3,15 +3,6 @@ glyphname = "ra_ya_tedung-bali.post";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-ref = "ra-bali";
-},
-{
-pos = (864,0);
-ref = "ya_tedung-bali";
-}
-);
 width = 2158;
 }
 );

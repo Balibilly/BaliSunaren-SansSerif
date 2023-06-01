@@ -2,6 +2,16 @@
 glyphname = "tzirSasak-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (844,0);
+},
+{
+name = bottom;
+pos = (844,-679);
+}
+);
 layerId = m009;
 shapes = (
 {

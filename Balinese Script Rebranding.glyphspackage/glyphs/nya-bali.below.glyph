@@ -5,19 +5,33 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (1635,0);
+pos = (1422,0);
 },
 {
 name = bottom;
-pos = (1254,-689);
+pos = (1442,-669);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (25,-679);
-ref = "nya-bali";
+pos = (58,-679);
+ref = _ba_bangkiang;
+},
+{
+alignment = -1;
+pos = (88,-679);
+ref = _nga_tenas;
+},
+{
+alignment = -1;
+pos = (65,-679);
+ref = _okara_tenas;
+},
+{
+pos = (125,-679);
+ref = _nya_ekor;
 }
 );
 width = 1675;

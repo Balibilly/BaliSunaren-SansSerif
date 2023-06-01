@@ -2,18 +2,26 @@
 glyphname = "uluSari_cecek-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (326,630);
+}
+);
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 ref = "uluSari-bali";
 },
 {
-pos = (485,0);
-ref = "cecek-bali";
+pos = (465,5);
+ref = _cecekbali_ulu;
 }
 );
-width = 0;
+width = 560;
 }
 );
 metricLeft = "ulu-bali";
+metricRight = "ulu-bali";
 }

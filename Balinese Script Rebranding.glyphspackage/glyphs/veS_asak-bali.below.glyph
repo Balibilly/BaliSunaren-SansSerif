@@ -2,6 +2,16 @@
 glyphname = "veSasak-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (842,0);
+},
+{
+name = bottom;
+pos = (687,-645);
+}
+);
 layerId = m009;
 shapes = (
 {

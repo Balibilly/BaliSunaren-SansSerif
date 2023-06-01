@@ -5,21 +5,36 @@ layers = (
 {
 anchors = (
 {
-name = lelengaTedung;
-pos = (1147,-254);
+name = bottom;
+pos = (981,-778);
+},
+{
+name = top;
+pos = (637,650);
 }
 );
 layerId = m009;
 shapes = (
 {
-ref = "nga-bali";
+alignment = -1;
+pos = (134,0);
+ref = "na-bali.below";
 },
 {
-pos = (164,0);
-ref = "na-bali.below";
+pos = (33,0);
+ref = _nga_tenas;
+},
+{
+pos = (10,0);
+ref = _okara_tenas;
+},
+{
+alignment = -1;
+pos = (-20,0);
+ref = _nga_bali_ekor;
 }
 );
-width = 1109;
+width = 1079;
 },
 {
 anchors = (

@@ -3,6 +3,16 @@ color = 9;
 glyphname = "aikara-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1122,-368);
+},
+{
+name = top;
+pos = (637,650);
+}
+);
 background = {
 shapes = (
 {

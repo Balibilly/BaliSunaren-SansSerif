@@ -2,6 +2,16 @@
 glyphname = "taTawa-bali.below";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (842,0);
+},
+{
+name = bottom;
+pos = (744,-567);
+}
+);
 layerId = m009;
 shapes = (
 {
@@ -9,7 +19,7 @@ alignment = 1;
 ref = "wa-bali.below";
 },
 {
-pos = (74,-769);
+pos = (-149,-645);
 ref = _suwet;
 }
 );
