@@ -19,7 +19,7 @@ ref = "ta-bali.below";
 },
 {
 alignment = -1;
-pos = (26,-727);
+pos = (-16,-717);
 ref = _suwet;
 }
 );

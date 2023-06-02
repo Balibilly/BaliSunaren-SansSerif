@@ -10,11 +10,11 @@ ref = "carikSiki-bali";
 },
 {
 alignment = -1;
-pos = (205,0);
+pos = (217,0);
 ref = "carikSiki-bali";
 }
 );
-width = 518;
+width = 560;
 }
 );
 metricLeft = "carikSiki-bali";
