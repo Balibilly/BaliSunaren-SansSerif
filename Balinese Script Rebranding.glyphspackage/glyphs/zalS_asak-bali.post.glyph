@@ -2,17 +2,25 @@
 glyphname = "zalSasak-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+ref = "sa-bali.post";
 },
 {
-pos = (310,0);
-ref = "zalSasak-bali";
+alignment = -1;
+pos = (-505,0);
+ref = _cecek_bangkiang;
 }
 );
-width = 1177;
+width = 623;
 }
 );
+metricRight = "ha-bali";
 }

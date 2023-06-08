@@ -3,17 +3,6 @@ glyphname = "laLengaMark-bali";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (1162,0);
-ref = "pepet-bali";
-},
-{
-pos = (180,0);
-ref = "la-bali.below";
-}
-);
 width = 1275;
 }
 );

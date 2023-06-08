@@ -2,17 +2,26 @@
 glyphname = "pa-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = -1;
+pos = (-581,0);
+ref = _ha_geluungan_ha;
 },
 {
-pos = (310,0);
-ref = "pa-bali";
+ref = _sa_sapa_tenas;
 }
 );
-width = 1212;
+width = 623;
 }
 );
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
 }

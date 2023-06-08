@@ -5,14 +5,17 @@ layers = (
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+ref = "pa-bali.post";
 },
 {
-pos = (310,0);
-ref = "efSasak-bali";
+alignment = -1;
+pos = (-182,0);
+ref = _suwet_ta;
 }
 );
-width = 1212;
+width = 623;
 }
 );
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
 }

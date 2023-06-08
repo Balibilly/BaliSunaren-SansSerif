@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = "daMurdaMahaprana-bali";
 layers = (
 {
@@ -30,7 +29,7 @@ pos = (10,0);
 ref = _daMudra;
 }
 );
-width = 817;
+width = 829;
 }
 );
 metricLeft = "ha-bali";

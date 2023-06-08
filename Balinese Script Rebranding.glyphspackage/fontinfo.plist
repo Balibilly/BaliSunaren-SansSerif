@@ -19,8 +19,13 @@ code = "ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bal
 name = belowForm;
 },
 {
-code = "dung-bali nya-bali.below zalSasak-bali.post bisah-bali veSasak-bali.below asyuraSasak-bali.below laLengaMark-bali ra-bali.below.003 ka-bali.below akaraTedung-bali veSasak-bali tzirSasak-bali.below kaMahaprana-bali.below taLatik-bali jaJera-bali.ccmp0 laLengaTedungMark-bali aikara-bali efSasak-bali saSaga-bali.below raRepaMark-bali ha-bali.below talingRepaTedung-bali panti-bali naRambat-bali.below carikSiki-bali ca-bali.below carikPareren-bali ikaraTedung-bali zalSasak-bali da-bali.below kaMahaprana-bali suku-bali ya-bali.post taLatik-bali.below kafSasak-bali deng-bali kafSasak-bali.below baKembang-bali.below ta-bali.below ra-bali.below.004 deung-bali taling-bali sukuIlut-bali jaJera-bali.post caLaca-bali.below sa-bali.post ra-bali.below2 taTawa-bali daMurdaMahaprana-bali.below ukara-bali laLenga-bali ba-bali.below talingTedung-bali raRepaTedung-bali raRepaTedungMark-bali ukaraTedung-bali daMurdaAlpaprana-bali.below talingRepa-bali la-bali.below saSapa-bali.post okaraTedung-bali tzirSasak-bali saSaga-bali okara-bali wa-bali.below jaJera-bali ma-bali.below na-bali.below ra-bali.below pa-bali.post daing-bali ja-bali.below saSapa-bali pamada-bali suku-bali.below efSasak-bali.post ga-bali.below taMurdaMahaprana-bali.below endep-bali adegadeg-bali akara-bali gaGora-bali.below ikara-bali laLengaTedung-bali sukuIlut-bali.below taTawa-bali.below raRepa-bali paKapal-bali.post dangGede-bali nga-bali.below daMadu-bali.below wa-bali.below2 ra_ya_sukuIlut-bali.post";
+code = "dung-bali nya-bali.below zalSasak-bali.post bisah-bali veSasak-bali.below asyuraSasak-bali.below laLengaMark-bali ra-bali.below.003 ka-bali.below akaraTedung-bali veSasak-bali tzirSasak-bali.below kaMahaprana-bali.below taLatik-bali jaJera-bali.ccmp0 laLengaTedungMark-bali aikara-bali efSasak-bali saSaga-bali.below raRepaMark-bali ha-bali.below talingRepaTedung-bali panti-bali naRambat-bali.below carikSiki-bali ca-bali.below carikPareren-bali ikaraTedung-bali zalSasak-bali da-bali.below kaMahaprana-bali suku-bali ya-bali.post taLatik-bali.below kafSasak-bali deng-bali kafSasak-bali.below baKembang-bali.below ta-bali.below ra-bali.below.004 deung-bali taling-bali sukuIlut-bali jaJera-bali.post caLaca-bali.below sa-bali.post ra-bali.below2 taTawa-bali daMurdaMahaprana-bali.below ukara-bali laLenga-bali ba-bali.below talingTedung-bali raRepaTedung-bali raRepaTedungMark-bali ukaraTedung-bali daMurdaAlpaprana-bali.below talingRepa-bali la-bali.below saSapa-bali.post okaraTedung-bali tzirSasak-bali saSaga-bali okara-bali wa-bali.below jaJera-bali ma-bali.below na-bali.below ra-bali.below pa-bali.post daing-bali ja-bali.below saSapa-bali pamada-bali suku-bali.below efSasak-bali.post ga-bali.below taMurdaMahaprana-bali.below endep-bali adegadeg-bali akara-bali gaGora-bali.below ikara-bali laLengaTedung-bali sukuIlut-bali.below taTawa-bali.below raRepa-bali paKapal-bali.post dangGede-bali nga-bali.below daMadu-bali.below wa-bali.below2 
+";
 name = LetterWithBelow;
+},
+{
+code = "ya-bali.post ya-bali.post.short ya-bali.post2 ya-bali.post2.short ra_ya-bali.post ra_ya_tedung-bali.post sa-bali.post saSapa-bali.post zalSasak-bali.post pa-bali.post paKapal-bali.post efSasak-bali.post jaJera-bali.post ";
+name = postForm;
 }
 );
 customParameters = (
@@ -50,6 +55,8 @@ features = (
 automatic = 1;
 code = "feature blwf;
 feature blws;
+feature pstf;
+feature psts;
 ";
 tag = aalt;
 },
@@ -129,7 +136,8 @@ code = "lookup suku-baliBelow {
 
 lookup ra-baliBelowWide {
 	sub [akara-bali ikara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali la-bali ga-bali ba-bali ya-bali nya-bali] ra-bali.below' by ra-bali.below.003;
-} ra-baliBelowWide;";
+} ra-baliBelowWide;
+";
 tag = blws;
 },
 {
@@ -793,6 +801,22 @@ pos @LetterWithBelow [paKapal-bali]' [na-bali.below] <${paKapal9bali_na9bali8bel
 
 } contextualKern;";
 tag = kern;
+},
+{
+code = "lookup pstf_bali_01 {
+	sub adegadeg-bali ya-bali by ya-bali.post;
+} pstf_bali_01;
+script bali;
+lookup pstf_bali_01;
+";
+tag = pstf;
+},
+{
+code = "lookup ya-bali.post2 {
+	sub [ha-bali.below na-bali.below naRambat-bali.below ca-bali.below caLaca-bali.below ra-bali.below ra-bali.below2 ka-bali.below kaMahaprana-bali.below kafSasak-bali.below da-bali.below daMadu-bali.below daMurdaAlpaprana-bali.below daMurdaMahaprana-bali.below ta-bali.below taMurdaMahaprana-bali.below taLatik-bali.below taTawa-bali.below tzirSasak-bali.below saSaga-bali.below asyuraSasak-bali.below wa-bali.below wa-bali.below2 veSasak-bali.below la-bali.below ma-bali.below ga-bali.below gaGora-bali.below ba-bali.below baKembang-bali.below nga-bali.below ja-bali.below nya-bali.below] ya-bali.post' by ya-bali.post2;
+} ya-bali.post2;
+";
+tag = psts;
 }
 );
 fontMaster = (
@@ -822,7 +846,7 @@ pos = (77,201);
 pos = (325,-769);
 },
 {
-pos = (295,-1267);
+pos = (139,-1176);
 },
 {
 pos = (325,630);
@@ -838,6 +862,15 @@ pos = (163,1422);
 },
 {
 pos = (648,650);
+},
+{
+pos = (750,-838);
+},
+{
+pos = (750,-838);
+},
+{
+pos = (476,-369);
 }
 );
 id = m009;
@@ -1250,7 +1283,7 @@ numberValues = (
 584
 );
 userData = {
-GSCornerRadius = 65;
+GSCornerRadius = 49;
 };
 }
 );
@@ -1265,6 +1298,13 @@ m009 = 1;
 name = Regular;
 }
 );
+kerningLTR = {
+m009 = {
+"ha-bali" = {
+"jaJera-bali.post" = -20;
+};
+};
+};
 metrics = (
 {
 type = ascender;

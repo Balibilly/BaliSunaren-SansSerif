@@ -1,12 +1,11 @@
 {
-color = 9;
 glyphname = "laLenga-bali";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (981,-778);
+pos = (1050,-376);
 },
 {
 name = top;

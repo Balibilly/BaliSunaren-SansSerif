@@ -2,10 +2,30 @@
 glyphname = "ra_ya_tedung-bali.post";
 layers = (
 {
-layerId = m009;
-width = 2158;
+anchors = (
+{
+name = _bottom;
+pos = (-109,0);
+},
+{
+name = bottom;
+pos = (267,-759);
 }
 );
-metricLeft = "ra-bali";
-metricRight = "ya_tedung-bali";
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+ref = _ra_ya_post_depan;
+},
+{
+pos = (-967,0);
+ref = _nya_ekor;
+}
+);
+width = 571;
+}
+);
+metricLeft = "ra_ya-bali.post";
+metricRight = "nya-bali";
 }

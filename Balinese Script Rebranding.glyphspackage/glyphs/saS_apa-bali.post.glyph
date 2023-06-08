@@ -2,17 +2,26 @@
 glyphname = "saSapa-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+}
+);
 layerId = m009;
 shapes = (
 {
-ref = _gantungan_h_;
+alignment = -1;
+pos = (-254,0);
+ref = _suwet;
 },
 {
-pos = (310,0);
-ref = "saSapa-bali";
+ref = "pa-bali.post";
 }
 );
-width = 1212;
+width = 623;
 }
 );
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
 }
