@@ -3,18 +3,7 @@ glyphname = "laLengaTedungMark-bali";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-alignment = -1;
-ref = "laLengaMark-bali";
-},
-{
-alignment = -1;
-pos = (1103,0);
-ref = "tedung-bali";
-}
-);
-width = 2000;
+width = 2034;
 }
 );
 metricLeft = "laLengaMark-bali";

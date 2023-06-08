@@ -2,6 +2,16 @@
 glyphname = "efSasak-bali.post";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
 layerId = m009;
 shapes = (
 {

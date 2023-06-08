@@ -9,14 +9,14 @@ pos = (752,0);
 },
 {
 name = bottom;
-pos = (722,-679);
+pos = (632,-679);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-9,-679);
+pos = (-99,-679);
 ref = "ekara-bali";
 }
 );

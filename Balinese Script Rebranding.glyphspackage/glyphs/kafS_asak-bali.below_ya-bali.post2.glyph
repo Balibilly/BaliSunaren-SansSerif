@@ -1,0 +1,19 @@
+{
+glyphname = "kafSasak-bali.below_ya-bali.post2";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-977,0);
+ref = "kafSasak-bali.below";
+}
+);
+width = 327;
+}
+);
+}

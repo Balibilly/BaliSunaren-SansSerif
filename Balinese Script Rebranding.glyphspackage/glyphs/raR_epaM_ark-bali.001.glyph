@@ -1,5 +1,5 @@
 {
-glyphname = "ra-bali.below.004";
+glyphname = "raRepaMark-bali.001";
 layers = (
 {
 anchors = (
@@ -48,6 +48,11 @@ shapes = (
 {
 alignment = 1;
 ref = "ra-bali.below.003";
+},
+{
+alignment = -1;
+pos = (-82,-714);
+ref = _cecek_bangkiang;
 }
 );
 width = 1253;

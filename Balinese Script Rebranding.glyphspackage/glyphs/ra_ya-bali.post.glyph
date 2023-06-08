@@ -16,7 +16,7 @@ background = {
 shapes = (
 {
 pos = (-1247,0);
-ref = "ra-bali.below.004";
+ref = "raRepaMark-bali.001";
 }
 );
 };
@@ -59,7 +59,7 @@ background = {
 shapes = (
 {
 pos = (-1247,0);
-ref = "ra-bali.below.004";
+ref = "raRepaMark-bali.001";
 }
 );
 };

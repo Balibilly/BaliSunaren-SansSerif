@@ -9,7 +9,7 @@ alignment = -1;
 ref = "taling-bali";
 },
 {
-pos = (25,1041);
+pos = (25,1090);
 ref = _repa_;
 scale = (0.8641,0.8641);
 }

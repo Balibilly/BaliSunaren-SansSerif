@@ -1,0 +1,19 @@
+{
+glyphname = "gaGora-bali.below_ya-bali.post2";
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-1277,-679);
+ref = "gaGora-bali";
+}
+);
+width = 327;
+}
+);
+}

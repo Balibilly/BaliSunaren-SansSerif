@@ -18,7 +18,7 @@ shapes = (
 ref = "nga-bali";
 },
 {
-pos = (428,13);
+pos = (428,0);
 ref = _repa_;
 }
 );

@@ -1,38 +1,38 @@
 {
-color = 5;
 glyphname = "ya-bali.post2.short";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (-50,-679);
+pos = (-38,-679);
 },
 {
 name = bottom;
-pos = (267,-759);
+pos = (141,-457);
 }
 );
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(267,-759,l),
-(267,0,l),
-(260,10,l),
-(196,10,l),
-(191,0,l),
-(191,-759,l)
-);
-},
-{
+alignment = -1;
 pos = (-877,0);
 ref = _ha_geluungan_ha;
 },
 {
 pos = (10,0);
 ref = _ya_bali_post2_awak;
+},
+{
+closed = 1;
+nodes = (
+(267,-368,l),
+(267,0,l),
+(260,10,l),
+(196,10,l),
+(191,0,l),
+(191,-368,l)
+);
 }
 );
 width = 327;

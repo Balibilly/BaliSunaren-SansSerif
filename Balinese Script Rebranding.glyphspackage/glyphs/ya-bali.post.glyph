@@ -1,5 +1,4 @@
 {
-color = 5;
 glyphname = "ya-bali.post";
 layers = (
 {
@@ -11,6 +10,10 @@ pos = (-60,0);
 {
 name = bottom;
 pos = (244,-759);
+},
+{
+name = top;
+pos = (-311,630);
 }
 );
 background = {
