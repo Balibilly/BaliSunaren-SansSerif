@@ -9,7 +9,7 @@ pos = (842,0);
 },
 {
 name = bottom;
-pos = (744,-567);
+pos = (851,-457);
 }
 );
 layerId = m009;
@@ -19,7 +19,8 @@ alignment = 1;
 ref = "wa-bali.below";
 },
 {
-pos = (154,-710);
+alignment = -1;
+pos = (15,-715);
 ref = _suwet;
 }
 );

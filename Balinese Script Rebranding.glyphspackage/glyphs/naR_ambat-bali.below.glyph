@@ -20,7 +20,8 @@ pos = (0,-669);
 ref = "naRambat-bali";
 }
 );
-width = 1187;
+width = 1089;
 }
 );
+metricRight = "ha-bali.below";
 }

@@ -9,7 +9,7 @@ pos = (-109,0);
 },
 {
 name = bottom;
-pos = (267,-759);
+pos = (131,-457);
 }
 );
 layerId = m009;

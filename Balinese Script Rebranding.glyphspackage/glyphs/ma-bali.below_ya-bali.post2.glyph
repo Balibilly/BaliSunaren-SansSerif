@@ -4,8 +4,8 @@ layers = (
 {
 anchors = (
 {
-name = bottom;
-pos = (-52,-723);
+name = top;
+pos = (-525,650);
 }
 );
 layerId = m009;

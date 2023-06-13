@@ -15,13 +15,12 @@ alignment = 1;
 ref = "uluSari-bali";
 },
 {
-pos = (465,5);
-ref = _cecekbali_ulu;
+pos = (1240,0);
+ref = _Cecek_komponen;
 }
 );
 width = 560;
 }
 );
 metricLeft = "ulu-bali";
-metricRight = "ulu-bali";
 }

@@ -6,6 +6,10 @@ anchors = (
 {
 name = _bottom;
 pos = (883,0);
+},
+{
+name = bottom;
+pos = (889,-457);
 }
 );
 background = {

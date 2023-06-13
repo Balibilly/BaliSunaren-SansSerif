@@ -1,0 +1,31 @@
+{
+glyphname = "raRepaTedungMark-bali.001";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (416,0);
+},
+{
+name = bottom;
+pos = (412,-457);
+}
+);
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (496,0);
+ref = "tedung-bali";
+},
+{
+pos = (-737,0);
+ref = "raRepaMark-bali.001";
+}
+);
+width = 1043;
+}
+);
+metricRight = "tedung-bali";
+}

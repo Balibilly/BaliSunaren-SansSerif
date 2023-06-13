@@ -1,0 +1,31 @@
+{
+glyphname = "efSasak-bali.alt";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m009;
+shapes = (
+{
+ref = "pa-bali.post";
+},
+{
+alignment = -1;
+pos = (-182,0);
+ref = _suwet_ta;
+}
+);
+width = 623;
+}
+);
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
+}

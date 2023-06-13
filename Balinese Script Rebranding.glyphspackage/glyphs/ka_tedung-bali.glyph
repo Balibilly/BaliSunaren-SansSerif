@@ -1,21 +1,16 @@
 {
 color = 0;
-export = 0;
 glyphname = "ka_tedung-bali";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (1022,0);
-},
-{
-name = class0;
-pos = (1403,0);
+pos = (1057,0);
 },
 {
 name = top;
-pos = (565,650);
+pos = (393,650);
 }
 );
 layerId = m009;
@@ -48,7 +43,7 @@ pos = (109,0);
 ref = _tedung_ekoran;
 }
 );
-width = 1403;
+width = 1452;
 }
 );
 metricLeft = "na-bali";

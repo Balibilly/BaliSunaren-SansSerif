@@ -10,28 +10,26 @@ pos = (-38,-679);
 {
 name = bottom;
 pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
 }
 );
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(267,-1095,l),
-(267,0,l),
-(260,10,l),
-(196,10,l),
-(191,0,l),
-(191,-1095,l)
-);
-},
-{
+alignment = -1;
 pos = (-877,0);
 ref = _ha_geluungan_ha;
 },
 {
+alignment = -1;
 pos = (10,0);
 ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
 }
 );
 width = 327;

@@ -1,0 +1,31 @@
+{
+glyphname = "pa-bali.alt";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-581,0);
+ref = _ha_geluungan_ha;
+},
+{
+ref = _sa_sapa_tenas;
+}
+);
+width = 623;
+}
+);
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
+}

@@ -3,17 +3,6 @@ glyphname = "pepetTedung-bali";
 layers = (
 {
 layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-39,0);
-ref = "pepet-bali";
-},
-{
-pos = (788,0);
-ref = _tedung_bali_;
-}
-);
 width = 1275;
 }
 );

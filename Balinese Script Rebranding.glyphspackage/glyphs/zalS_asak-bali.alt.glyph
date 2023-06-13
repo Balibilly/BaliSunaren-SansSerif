@@ -1,0 +1,30 @@
+{
+glyphname = "zalSasak-bali.alt";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m009;
+shapes = (
+{
+ref = "sa-bali.post";
+},
+{
+alignment = -1;
+pos = (-505,0);
+ref = _cecek_bangkiang;
+}
+);
+width = 623;
+}
+);
+metricRight = "ha-bali";
+}

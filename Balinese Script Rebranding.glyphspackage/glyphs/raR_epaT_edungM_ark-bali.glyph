@@ -2,6 +2,16 @@
 glyphname = "raRepaTedungMark-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (416,0);
+},
+{
+name = bottom;
+pos = (422,-457);
+}
+);
 layerId = m009;
 shapes = (
 {
@@ -9,12 +19,13 @@ pos = (-467,0);
 ref = "raRepaMark-bali";
 },
 {
-pos = (446,0);
+pos = (486,0);
 ref = "tedung-bali";
 }
 );
-width = 600;
+width = 1033;
 }
 );
+metricRight = "tedung-bali";
 unicode = 6971;
 }

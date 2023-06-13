@@ -12,6 +12,10 @@ layerId = m009;
 shapes = (
 {
 ref = _pepet_bawak;
+},
+{
+pos = (1374,15);
+ref = "cecek-bali";
 }
 );
 width = 966;

@@ -1,0 +1,29 @@
+{
+glyphname = "ga-bali.below_ya-bali.post2.short";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (141,-793);
+},
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m009;
+shapes = (
+{
+ref = "ya-bali.post2.short";
+},
+{
+alignment = -1;
+pos = (-944,0);
+ref = "ga-bali.below";
+}
+);
+width = 327;
+}
+);
+}

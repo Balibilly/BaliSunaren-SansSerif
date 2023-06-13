@@ -15,12 +15,12 @@ pos = (134,650);
 layerId = m009;
 shapes = (
 {
+ref = _sa_sapa_tenas;
+},
+{
 alignment = -1;
 pos = (-581,0);
 ref = _ha_geluungan_ha;
-},
-{
-ref = _sa_sapa_tenas;
 }
 );
 width = 623;
