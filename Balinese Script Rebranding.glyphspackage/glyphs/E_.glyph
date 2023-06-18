@@ -8,10 +8,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(468,327,l),
-(468,405,l),
-(139,405,l),
-(139,327,l)
+(478,327,l),
+(478,405,l),
+(149,405,l),
+(149,327,l)
 );
 }
 );
@@ -20,23 +20,23 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-14,0);
+pos = (-4,0);
 ref = _part.stem_E;
 },
 {
-pos = (-4,0);
+pos = (6,0);
 ref = _bottom_E;
 },
 {
-pos = (-4,0);
+pos = (6,0);
 ref = _top_E;
 },
 {
-pos = (-3,16);
+pos = (7,16);
 ref = _center_E;
 }
 );
-width = 532;
+width = 554;
 }
 );
 metricLeft = H;

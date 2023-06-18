@@ -6,6 +6,7 @@ layers = (
 background = {
 shapes = (
 {
+pos = (10,0);
 ref = E;
 }
 );
@@ -14,19 +15,19 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-14,0);
+pos = (-4,0);
 ref = _part.stem_F;
 },
 {
-pos = (-14,0);
+pos = (-4,0);
 ref = _top_E;
 },
 {
-pos = (-19,16);
+pos = (-9,16);
 ref = _center_E;
 }
 );
-width = 499;
+width = 515;
 }
 );
 metricLeft = H;

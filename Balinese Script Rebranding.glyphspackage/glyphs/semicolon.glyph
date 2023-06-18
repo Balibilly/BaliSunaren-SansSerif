@@ -12,25 +12,15 @@ ref = period;
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(145,455,l),
-(145,545,l),
-(50,545,l),
-(50,455,l)
-);
+alignment = 1;
+ref = comma;
 },
 {
-closed = 1;
-nodes = (
-(80,-100,l),
-(146,90,l),
-(50,90,l),
-(34,-100,l)
-);
+pos = (0,454);
+ref = period;
 }
 );
-width = 195;
+width = 172;
 }
 );
 unicode = 59;

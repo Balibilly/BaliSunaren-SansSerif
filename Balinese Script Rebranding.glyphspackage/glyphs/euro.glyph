@@ -10,7 +10,7 @@ pos = (75,0);
 ref = C;
 },
 {
-pos = (-28,8);
+pos = (-18,8);
 ref = _bar_hor_dbl_;
 }
 );

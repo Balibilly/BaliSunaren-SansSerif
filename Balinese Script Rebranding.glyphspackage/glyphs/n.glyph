@@ -5,22 +5,22 @@ layers = (
 {
 guides = (
 {
-pos = (299,398);
+pos = (309,398);
 }
 );
 layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (46,0);
+pos = (56,0);
 ref = _part.stem;
 },
 {
-pos = (38,0);
+pos = (48,0);
 ref = _part.shoulder;
 }
 );
-width = 586;
+width = 606;
 }
 );
 unicode = 110;

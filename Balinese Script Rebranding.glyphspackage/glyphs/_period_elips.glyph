@@ -1,34 +1,29 @@
 {
-glyphname = period;
+export = 0;
+glyphname = _period_elips;
 kernLeft = period;
 kernRight = period;
 layers = (
 {
 anchors = (
 {
-name = _colon;
+name = _elips;
 pos = (40,91);
 },
 {
-name = colon;
-pos = (40,545);
+name = elips;
+pos = (226,91);
 }
 );
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(138,0,l),
-(138,91,l),
-(40,91,l),
-(40,0,l)
-);
+alignment = 1;
+ref = period;
 }
 );
 width = 178;
 }
 );
 metricRight = "=|";
-unicode = 46;
 }

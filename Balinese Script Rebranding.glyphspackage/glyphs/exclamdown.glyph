@@ -1,17 +1,17 @@
 {
-export = 0;
 glyphname = exclamdown;
 layers = (
 {
 layerId = m009;
 shapes = (
 {
+alignment = 1;
 pos = (0,545);
 ref = exclam;
 scale = (1,-1);
 }
 );
-width = 196;
+width = 244;
 }
 );
 unicode = 161;

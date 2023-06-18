@@ -1,31 +1,27 @@
 {
-export = 0;
 glyphname = exclam;
 layers = (
 {
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(147,195,l),
-(158,700,l),
-(69,700,l),
-(80,195,l)
-);
+alignment = 1;
+pos = (33,0);
+ref = period;
 },
 {
 closed = 1;
 nodes = (
-(155,0,l),
-(155,90,l),
-(67,90,l),
-(67,0,l)
+(156,181,l),
+(176,700,l),
+(68,700,l),
+(88,181,l)
 );
 }
 );
-width = 223;
+width = 244;
 }
 );
+metricRight = "=|";
 unicode = 33;
 }
