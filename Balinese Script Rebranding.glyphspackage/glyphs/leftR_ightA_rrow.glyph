@@ -5,13 +5,48 @@ layers = (
 background = {
 shapes = (
 {
-pos = (864,-83);
+pos = (874,-83);
 ref = leftArrow;
 scale = (-1,1);
 }
 );
 };
 layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(673,321,l),
+(673,388,l),
+(113,388,l),
+(113,321,l)
+);
+},
+{
+pos = (776,-12);
+ref = _tandaPanah;
+scale = (-1,1);
+},
+{
+pos = (10,-12);
+ref = _tandaPanah;
+}
+);
+width = 786;
+},
+{
+associatedMasterId = m009;
+background = {
+shapes = (
+{
+pos = (864,-83);
+ref = leftArrow;
+scale = (-1,1);
+}
+);
+};
+layerId = "7F003606-CB83-48E8-B264-D038CC9DE259";
+name = "20 Jun 23 10.53";
 shapes = (
 {
 closed = 1;
@@ -42,5 +77,6 @@ nodes = (
 width = 872;
 }
 );
+metricRight = "=|";
 unicode = 8596;
 }

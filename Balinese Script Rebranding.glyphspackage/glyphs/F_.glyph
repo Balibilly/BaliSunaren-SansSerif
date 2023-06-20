@@ -3,6 +3,16 @@ color = 9;
 glyphname = F;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (258,700);
+}
+);
 background = {
 shapes = (
 {

@@ -7,15 +7,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(169,218,l),
-(169,340,l),
-(40,340,l),
-(40,218,l)
+(248,192,l),
+(248,353,l),
+(80,353,l),
+(80,192,l)
 );
 }
 );
-width = 209;
+width = 328;
 }
 );
+metricLeft = "=periodcentered*2";
+metricRight = "=|";
 unicode = 8226;
 }

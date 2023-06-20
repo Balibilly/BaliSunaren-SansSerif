@@ -5,12 +5,12 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (364,0);
+pos = (294,0);
 ref = braceleft;
 scale = (-1,1);
 }
 );
-width = 364;
+width = 294;
 }
 );
 metricLeft = "=|braceleft";

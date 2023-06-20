@@ -7,6 +7,14 @@ anchors = (
 {
 name = bar_ver;
 pos = (272,359);
+},
+{
+name = bottom;
+pos = (278,0);
+},
+{
+name = top;
+pos = (267,700);
 }
 );
 background = {

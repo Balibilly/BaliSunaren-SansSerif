@@ -5,8 +5,32 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (376,0);
+},
+{
+name = center;
+pos = (376,350);
+},
+{
+name = ogonek;
+pos = (429,0);
+},
+{
 name = tail_Q;
 pos = (399,41);
+},
+{
+name = top;
+pos = (376,700);
+},
+{
+name = topleft;
+pos = (20,700);
+},
+{
+name = topright;
+pos = (732,700);
 }
 );
 background = {

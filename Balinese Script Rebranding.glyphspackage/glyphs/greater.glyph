@@ -5,7 +5,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-95,0);
+pos = (-66,0);
 ref = plus;
 }
 );
@@ -13,21 +13,15 @@ ref = plus;
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(393,341,l),
-(393,363,l),
-(20,526,l),
-(20,466,l),
-(310,346,l),
-(310,358,l),
-(20,240,l),
-(20,180,l)
-);
+pos = (516,0);
+ref = less;
+scale = (-1,1);
 }
 );
-width = 413;
+width = 516;
 }
 );
+metricLeft = "=|less";
+metricRight = "=|less";
 unicode = 62;
 }

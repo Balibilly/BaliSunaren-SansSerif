@@ -1,0 +1,30 @@
+{
+glyphname = Lslash;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Eth;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = L;
+},
+{
+pos = (16,0);
+ref = _L_slashshortcomb;
+}
+);
+width = 514;
+}
+);
+metricLeft = Eth;
+metricRight = L;
+unicode = 321;
+}

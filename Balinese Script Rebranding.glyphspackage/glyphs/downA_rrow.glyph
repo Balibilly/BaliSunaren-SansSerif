@@ -5,13 +5,15 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (0,710);
+pos = (0,700);
 ref = upArrow;
 scale = (1,-1);
 }
 );
-width = 600;
+width = 813;
 }
 );
+metricLeft = upArrow;
+metricRight = upArrow;
 unicode = 8595;
 }

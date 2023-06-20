@@ -3,6 +3,20 @@ color = 9;
 glyphname = D;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (338,0);
+},
+{
+name = center;
+pos = (92,350);
+},
+{
+name = top;
+pos = (338,700);
+}
+);
 background = {
 shapes = (
 {

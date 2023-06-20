@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _H_strokelongcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (347,350);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(676,479,l),
+(676,545,l),
+(17,545,l),
+(17,479,l)
+);
+}
+);
+width = 693;
+}
+);
+}

@@ -2,16 +2,27 @@
 glyphname = quoteright;
 layers = (
 {
+anchors = (
+{
+name = _quoteleft;
+pos = (43,700);
+},
+{
+name = quoteleft;
+pos = (201,700);
+}
+);
 layerId = m009;
 shapes = (
 {
-angle = 180;
-pos = (212,1210);
-ref = quoteleft;
+pos = (4,609);
+ref = comma;
 }
 );
-width = 212;
+width = 176;
 }
 );
+metricLeft = "=|quoteleft";
+metricRight = "=|quoteleft";
 unicode = 8217;
 }

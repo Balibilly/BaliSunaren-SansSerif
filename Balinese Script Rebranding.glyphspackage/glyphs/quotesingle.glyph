@@ -2,20 +2,31 @@
 glyphname = quotesingle;
 layers = (
 {
+anchors = (
+{
+name = _quotesingle;
+pos = (40,700);
+},
+{
+name = quotesingle;
+pos = (171,700);
+}
+);
 layerId = m009;
 shapes = (
 {
 closed = 1;
 nodes = (
-(122,510,l),
-(146,700,l),
-(50,700,l),
-(76,510,l)
+(115,494,l),
+(115,700,l),
+(40,700,l),
+(40,494,l)
 );
 }
 );
-width = 196;
+width = 155;
 }
 );
+metricRight = "=|";
 unicode = 39;
 }

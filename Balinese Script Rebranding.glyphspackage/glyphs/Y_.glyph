@@ -6,7 +6,19 @@ layers = (
 anchors = (
 {
 name = bar_hor_dbl;
-pos = (325,179);
+pos = (325,256);
+},
+{
+name = bottom;
+pos = (285,0);
+},
+{
+name = top;
+pos = (285,700);
+},
+{
+name = topleft;
+pos = (20,700);
 }
 );
 background = {

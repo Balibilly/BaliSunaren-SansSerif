@@ -3,6 +3,24 @@ color = 9;
 glyphname = u;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (298,0);
+},
+{
+name = ogonek;
+pos = (504,0);
+},
+{
+name = top;
+pos = (298,545);
+},
+{
+name = topright;
+pos = (576,545);
+}
+);
 layerId = m009;
 shapes = (
 {

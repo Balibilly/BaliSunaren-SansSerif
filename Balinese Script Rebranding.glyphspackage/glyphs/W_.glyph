@@ -3,6 +3,16 @@ color = 9;
 glyphname = W;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (448,0);
+},
+{
+name = top;
+pos = (448,700);
+}
+);
 layerId = m009;
 shapes = (
 {

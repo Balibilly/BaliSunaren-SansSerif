@@ -2,19 +2,24 @@
 glyphname = quotesinglbase;
 layers = (
 {
+anchors = (
+{
+name = _quotesinglbase;
+pos = (39,91);
+},
+{
+name = quotesinglbase;
+pos = (197,91);
+}
+);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(109,-100,l),
-(175,90,l),
-(79,90,l),
-(63,-100,l)
-);
+alignment = 1;
+ref = comma;
 }
 );
-width = 238;
+width = 172;
 }
 );
 metricLeft = period;

@@ -41,22 +41,11 @@ pos = (193,568);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(180,662,l),
-(180,750,l),
-(85,750,l),
-(85,662,l)
-);
+ref = idotless;
 },
 {
-closed = 1;
-nodes = (
-(175,0,l),
-(175,545,l),
-(90,545,l),
-(90,0,l)
-);
+alignment = 1;
+ref = dotaccentcomb;
 }
 );
 width = 265;

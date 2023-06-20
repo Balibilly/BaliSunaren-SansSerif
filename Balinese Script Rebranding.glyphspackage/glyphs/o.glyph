@@ -3,6 +3,28 @@ color = 9;
 glyphname = o;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (307,0);
+},
+{
+name = center;
+pos = (307,273);
+},
+{
+name = ogonek;
+pos = (365,0);
+},
+{
+name = top;
+pos = (307,545);
+},
+{
+name = topright;
+pos = (594,545);
+}
+);
 background = {
 shapes = (
 {

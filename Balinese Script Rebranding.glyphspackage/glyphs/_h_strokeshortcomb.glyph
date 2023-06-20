@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _h_strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _connect;
+pos = (528,0);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(349,634,l),
+(349,700,l),
+(30,700,l),
+(30,634,l)
+);
+}
+);
+width = 619;
+}
+);
+}

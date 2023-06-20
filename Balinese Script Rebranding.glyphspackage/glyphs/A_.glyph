@@ -3,6 +3,20 @@ color = 9;
 glyphname = A;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = ogonek;
+pos = (592,0);
+},
+{
+name = top;
+pos = (302,700);
+}
+);
 background = {
 shapes = (
 {

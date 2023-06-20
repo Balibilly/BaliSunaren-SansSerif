@@ -1,0 +1,22 @@
+{
+glyphname = hbar;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = h;
+},
+{
+pos = (13,0);
+ref = _h_strokeshortcomb;
+}
+);
+width = 619;
+}
+);
+metricRight = n;
+unicode = 295;
+}

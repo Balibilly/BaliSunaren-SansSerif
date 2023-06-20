@@ -3,6 +3,16 @@ color = 9;
 glyphname = J;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (230,0);
+},
+{
+name = top;
+pos = (341,700);
+}
+);
 background = {
 shapes = (
 {

@@ -5,7 +5,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (15,0);
+pos = (-20,0);
 ref = comma;
 }
 );
@@ -15,15 +15,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(456,-100,l),
-(456,-38,l),
-(45,-38,l),
-(45,-100,l)
+(408,-108,l),
+(408,-38,l),
+(10,-38,l),
+(10,-108,l)
 );
 }
 );
-width = 501;
+width = 418;
 }
 );
+metricRight = "=|";
 unicode = 95;
 }

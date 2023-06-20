@@ -5,12 +5,12 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (453,0);
+pos = (512,0);
 ref = guillemetleft;
 scale = (-1,1);
 }
 );
-width = 453;
+width = 512;
 }
 );
 metricLeft = "=|guilsinglleft";

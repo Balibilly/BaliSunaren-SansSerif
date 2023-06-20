@@ -1,0 +1,23 @@
+{
+glyphname = Eth;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = D;
+},
+{
+pos = (16,0);
+ref = _D_strokeshortcomb;
+}
+);
+width = 692;
+}
+);
+metricLeft = Eth;
+metricRight = O;
+unicode = 208;
+}

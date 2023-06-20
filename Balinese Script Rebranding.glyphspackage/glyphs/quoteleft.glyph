@@ -2,19 +2,25 @@
 glyphname = quoteleft;
 layers = (
 {
+anchors = (
+{
+name = _quoteleft;
+pos = (35,504);
+},
+{
+name = quoteleft;
+pos = (193,504);
+}
+);
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(146,510,l),
-(162,700,l),
-(116,700,l),
-(50,510,l)
-);
+angle = 180;
+pos = (172,595);
+ref = comma;
 }
 );
-width = 212;
+width = 176;
 }
 );
 unicode = 8216;

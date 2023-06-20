@@ -3,6 +3,16 @@ color = 9;
 glyphname = n;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (303,0);
+},
+{
+name = top;
+pos = (333,545);
+}
+);
 guides = (
 {
 pos = (309,398);

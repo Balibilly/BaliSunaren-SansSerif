@@ -5,33 +5,14 @@ layers = (
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(255,125,l),
-(102,273,l),
-(102,281,l),
-(255,431,l),
-(215,471,l),
-(32,288,l),
-(32,266,l),
-(215,85,l)
-);
+ref = guilsinglleft;
 },
 {
-closed = 1;
-nodes = (
-(424,125,l),
-(271,273,l),
-(271,281,l),
-(424,431,l),
-(384,471,l),
-(201,288,l),
-(201,266,l),
-(384,85,l)
-);
+pos = (204,0);
+ref = guilsinglleft;
 }
 );
-width = 453;
+width = 512;
 }
 );
 metricLeft = guilsinglleft;

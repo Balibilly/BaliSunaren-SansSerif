@@ -1,0 +1,46 @@
+{
+glyphname = AE;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (552,0);
+},
+{
+name = top;
+pos = (552,700);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,0,l),
+(417,700,l),
+(340,700,l),
+(12,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(459,187,l),
+(459,262,l),
+(182,262,l),
+(162,187,l)
+);
+},
+{
+pos = (306,0);
+ref = E;
+}
+);
+width = 860;
+}
+);
+metricLeft = A;
+metricRight = E;
+unicode = 198;
+}

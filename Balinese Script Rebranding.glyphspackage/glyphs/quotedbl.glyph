@@ -5,26 +5,17 @@ layers = (
 layerId = m009;
 shapes = (
 {
-closed = 1;
-nodes = (
-(262,510,l),
-(286,700,l),
-(190,700,l),
-(216,510,l)
-);
+ref = quotesingle;
 },
 {
-closed = 1;
-nodes = (
-(122,510,l),
-(146,700,l),
-(50,700,l),
-(76,510,l)
-);
+pos = (131,0);
+ref = quotesingle;
 }
 );
-width = 336;
+width = 286;
 }
 );
+metricLeft = quotesingle;
+metricRight = quotesingle;
 unicode = 34;
 }

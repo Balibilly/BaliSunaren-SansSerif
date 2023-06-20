@@ -1,0 +1,18 @@
+{
+glyphname = Oslash;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = O;
+},
+{
+ref = _O_slashlongcomb;
+}
+);
+width = 752;
+}
+);
+unicode = 216;
+}

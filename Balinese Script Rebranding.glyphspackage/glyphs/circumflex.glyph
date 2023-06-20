@@ -1,0 +1,15 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = m009;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 265;
+}
+);
+unicode = 710;
+}

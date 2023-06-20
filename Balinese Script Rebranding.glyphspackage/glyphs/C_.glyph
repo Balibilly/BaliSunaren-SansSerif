@@ -9,8 +9,12 @@ name = bar_hor_dbl;
 pos = (212,363);
 },
 {
-name = tail_Q;
-pos = (386,43);
+name = bottom;
+pos = (404,0);
+},
+{
+name = top;
+pos = (375,700);
 }
 );
 background = {

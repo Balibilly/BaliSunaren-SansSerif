@@ -5,8 +5,16 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (283,0);
+},
+{
 name = connect;
 pos = (177,0);
+},
+{
+name = top;
+pos = (274,750);
 }
 );
 background = {

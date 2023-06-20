@@ -1,0 +1,31 @@
+{
+export = 0;
+glyphname = _L_slashshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (92,350);
+}
+);
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,254,l),
+(380,499,l),
+(374,477,l),
+(313,563,l),
+(349,562,l),
+(3,311,l),
+(8,336,l),
+(68,244,l)
+);
+}
+);
+width = 498;
+}
+);
+}

@@ -5,6 +5,51 @@ layers = (
 layerId = m009;
 shapes = (
 {
+alignment = -1;
+pos = (14,-10);
+ref = _bitang_;
+},
+{
+alignment = -1;
+pos = (14,1047);
+ref = _bitang_;
+scale = (1,-1);
+},
+{
+alignment = -1;
+angle = -60;
+pos = (-345,425);
+ref = _bitang_;
+},
+{
+alignment = -1;
+angle = -60;
+pos = (570,953);
+ref = _bitang_;
+scale = (1,-1);
+},
+{
+alignment = -1;
+angle = -120;
+pos = (-149,953);
+ref = _bitang_;
+},
+{
+alignment = -1;
+angle = -120;
+pos = (766,425);
+ref = _bitang_;
+scale = (1,-1);
+}
+);
+width = 421;
+},
+{
+associatedMasterId = m009;
+layerId = "CE8F13E1-A4EA-4E1B-9E96-00913C9BF2A0";
+name = "19 Jun 23 11.06";
+shapes = (
+{
 closed = 1;
 nodes = (
 (205,513,l),
@@ -33,5 +78,6 @@ nodes = (
 width = 394;
 }
 );
+metricRight = "=|";
 unicode = 42;
 }
