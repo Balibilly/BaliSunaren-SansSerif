@@ -22,6 +22,50 @@ ref = _L_slashshortcomb;
 }
 );
 width = 514;
+},
+{
+background = {
+shapes = (
+{
+ref = Eth;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = L;
+},
+{
+pos = (16,0);
+ref = _L_slashshortcomb;
+}
+);
+width = 514;
+},
+{
+background = {
+shapes = (
+{
+ref = Eth;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = L;
+},
+{
+pos = (16,0);
+ref = _L_slashshortcomb;
+}
+);
+width = 514;
 }
 );
 metricLeft = Eth;

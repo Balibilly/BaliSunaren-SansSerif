@@ -23,6 +23,46 @@ ref = period;
 }
 );
 width = 178;
+},
+{
+anchors = (
+{
+name = _elips;
+pos = (40,91);
+},
+{
+name = elips;
+pos = (226,91);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = period;
+}
+);
+width = 178;
+},
+{
+anchors = (
+{
+name = _elips;
+pos = (40,91);
+},
+{
+name = elips;
+pos = (226,91);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = period;
+}
+);
+width = 178;
 }
 );
 metricRight = "=|";

@@ -15,6 +15,32 @@ ref = _tedung_bali_;
 }
 );
 width = 1444;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "baKembang-bali";
+},
+{
+pos = (897,0);
+ref = _tedung_bali_;
+}
+);
+width = 1444;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "baKembang-bali";
+},
+{
+pos = (897,0);
+ref = _tedung_bali_;
+}
+);
+width = 1444;
 }
 );
 }

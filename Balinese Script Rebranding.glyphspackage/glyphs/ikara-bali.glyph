@@ -23,6 +23,52 @@ ref = _repa_;
 }
 );
 width = 1109;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (428,0);
+ref = _repa_;
+}
+);
+width = 1109;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (428,0);
+ref = _repa_;
+}
+);
+width = 1109;
 }
 );
 unicode = 6919;

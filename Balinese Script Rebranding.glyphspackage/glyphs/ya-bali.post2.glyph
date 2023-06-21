@@ -33,6 +33,72 @@ ref = _nania_panjang;
 }
 );
 width = 327;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
+}
+);
+width = 327;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
+}
+);
+width = 327;
 }
 );
 metricRight = "ya-bali.post";

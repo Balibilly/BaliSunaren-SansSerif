@@ -10,6 +10,26 @@ ref = "ulu-bali";
 }
 );
 width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (703,-442);
+ref = "ulu-bali";
+}
+);
+width = 600;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (703,-442);
+ref = "ulu-bali";
+}
+);
+width = 600;
 }
 );
 unicode = 7014;

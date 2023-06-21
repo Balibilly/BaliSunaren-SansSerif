@@ -13,6 +13,32 @@ ref = "tedung-bali";
 }
 );
 width = 1069;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "taling-bali";
+},
+{
+pos = (522,0);
+ref = "tedung-bali";
+}
+);
+width = 1069;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "taling-bali";
+},
+{
+pos = (522,0);
+ref = "tedung-bali";
+}
+);
+width = 1069;
 }
 );
 unicode = 6976;

@@ -10,6 +10,26 @@ ref = "surang-bali";
 }
 );
 width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (740,-451);
+ref = "surang-bali";
+}
+);
+width = 600;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (740,-451);
+ref = "surang-bali";
+}
+);
+width = 600;
 }
 );
 unicode = 7013;

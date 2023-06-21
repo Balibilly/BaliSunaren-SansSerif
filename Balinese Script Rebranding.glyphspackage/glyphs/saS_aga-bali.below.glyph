@@ -25,6 +25,56 @@ ref = _suwet;
 }
 );
 width = 1036;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (906,0);
+},
+{
+name = bottom;
+pos = (906,-679);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "ga-bali.below";
+},
+{
+alignment = -1;
+pos = (180,-679);
+ref = _suwet;
+}
+);
+width = 1036;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (906,0);
+},
+{
+name = bottom;
+pos = (906,-679);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "ga-bali.below";
+},
+{
+alignment = -1;
+pos = (180,-679);
+ref = _suwet;
+}
+);
+width = 1036;
 }
 );
 }

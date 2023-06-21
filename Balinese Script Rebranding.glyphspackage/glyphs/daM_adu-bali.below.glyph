@@ -41,6 +41,88 @@ ref = _daMadu_below;
 }
 );
 width = 993;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (912,0);
+},
+{
+name = bottom;
+pos = (912,-679);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (25,-679);
+ref = _daMadu_bawah;
+},
+{
+closed = 1;
+nodes = (
+(697,-689,o),
+(766,-593,o),
+(766,-452,c),
+(696,-453,l),
+(696,-569,o),
+(646,-617,o),
+(607,-617,c),
+(610,-689,l)
+);
+},
+{
+alignment = -1;
+pos = (142,-679);
+ref = _wa_ca_gelungan;
+},
+{
+ref = _daMadu_below;
+}
+);
+width = 993;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (912,0);
+},
+{
+name = bottom;
+pos = (912,-679);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (25,-679);
+ref = _daMadu_bawah;
+},
+{
+closed = 1;
+nodes = (
+(697,-689,o),
+(766,-593,o),
+(766,-452,c),
+(696,-453,l),
+(696,-569,o),
+(646,-617,o),
+(607,-617,c),
+(610,-689,l)
+);
+},
+{
+alignment = -1;
+pos = (142,-679);
+ref = _wa_ca_gelungan;
+},
+{
+ref = _daMadu_below;
+}
+);
+width = 993;
 }
 );
 }

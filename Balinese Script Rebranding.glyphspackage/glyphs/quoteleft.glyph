@@ -21,6 +21,48 @@ ref = comma;
 }
 );
 width = 176;
+},
+{
+anchors = (
+{
+name = _quoteleft;
+pos = (35,504);
+},
+{
+name = quoteleft;
+pos = (193,504);
+}
+);
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (172,595);
+ref = comma;
+}
+);
+width = 176;
+},
+{
+anchors = (
+{
+name = _quoteleft;
+pos = (35,504);
+},
+{
+name = quoteleft;
+pos = (193,504);
+}
+);
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (172,595);
+ref = comma;
+}
+);
+width = 176;
 }
 );
 unicode = 8216;

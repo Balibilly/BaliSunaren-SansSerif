@@ -20,6 +20,46 @@ ref = "daMadu-bali.below";
 }
 );
 width = 327;
+},
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-951,0);
+ref = "daMadu-bali.below";
+}
+);
+width = 327;
+},
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-951,0);
+ref = "daMadu-bali.below";
+}
+);
+width = 327;
 }
 );
 }

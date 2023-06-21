@@ -15,6 +15,36 @@ nodes = (
 }
 );
 width = 472;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,237,l),
+(427,319,l),
+(45,319,l),
+(45,237,l)
+);
+}
+);
+width = 472;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,237,l),
+(427,319,l),
+(45,319,l),
+(45,237,l)
+);
+}
+);
+width = 472;
 }
 );
 metricLeft = hyphen;

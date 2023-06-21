@@ -30,6 +30,66 @@ ref = _daMudra;
 }
 );
 width = 829;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (739,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = _la_tenas;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _daMadu_bawah;
+},
+{
+pos = (10,0);
+ref = _daMudra;
+}
+);
+width = 829;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (739,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = _la_tenas;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _daMadu_bawah;
+},
+{
+pos = (10,0);
+ref = _daMudra;
+}
+);
+width = 829;
 }
 );
 metricLeft = "ha-bali";

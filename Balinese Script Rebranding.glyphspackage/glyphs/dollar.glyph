@@ -13,6 +13,32 @@ ref = _bar_ver_;
 }
 );
 width = 516;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-23,0);
+ref = _bar_ver_;
+}
+);
+width = 516;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-23,0);
+ref = _bar_ver_;
+}
+);
+width = 516;
 }
 );
 unicode = 36;

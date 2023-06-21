@@ -21,6 +21,48 @@ ref = "naRambat-bali";
 }
 );
 width = 1089;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (1039,0);
+},
+{
+name = bottom;
+pos = (1039,-669);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (0,-669);
+ref = "naRambat-bali";
+}
+);
+width = 1089;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (1039,0);
+},
+{
+name = bottom;
+pos = (1039,-669);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,-669);
+ref = "naRambat-bali";
+}
+);
+width = 1089;
 }
 );
 metricRight = "ha-bali.below";

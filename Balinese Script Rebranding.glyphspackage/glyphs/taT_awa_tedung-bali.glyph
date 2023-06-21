@@ -15,6 +15,32 @@ ref = _tedung_bali_;
 }
 );
 width = 1442;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "taTawa-bali";
+},
+{
+pos = (895,0);
+ref = _tedung_bali_;
+}
+);
+width = 1442;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "taTawa-bali";
+},
+{
+pos = (895,0);
+ref = _tedung_bali_;
+}
+);
+width = 1442;
 }
 );
 }

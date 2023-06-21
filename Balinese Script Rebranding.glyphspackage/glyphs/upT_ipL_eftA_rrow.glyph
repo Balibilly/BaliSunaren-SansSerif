@@ -32,6 +32,70 @@ scale = (-1,1);
 }
 );
 width = 820;
+},
+{
+background = {
+shapes = (
+{
+pos = (-2,-98);
+ref = leftArrow;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(764,0,l),
+(764,421,l),
+(802,390,l),
+(127,390,l),
+(126,323,l),
+(751,323,l),
+(694,365,l),
+(694,0,l)
+);
+},
+{
+pos = (776,-12);
+ref = _tandaPanah;
+scale = (-1,1);
+}
+);
+width = 820;
+},
+{
+background = {
+shapes = (
+{
+pos = (-2,-98);
+ref = leftArrow;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(764,0,l),
+(764,421,l),
+(802,390,l),
+(127,390,l),
+(126,323,l),
+(751,323,l),
+(694,365,l),
+(694,0,l)
+);
+},
+{
+pos = (776,-12);
+ref = _tandaPanah;
+scale = (-1,1);
+}
+);
+width = 820;
 }
 );
 metricLeft = leftRightArrow;

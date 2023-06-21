@@ -9,6 +9,24 @@ ref = _gantungan_h_;
 }
 );
 width = 310;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = _gantungan_h_;
+}
+);
+width = 310;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = _gantungan_h_;
+}
+);
+width = 310;
 }
 );
 unicode = 6980;

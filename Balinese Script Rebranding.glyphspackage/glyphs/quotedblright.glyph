@@ -13,6 +13,32 @@ ref = quoteright;
 }
 );
 width = 334;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = quoteright;
+},
+{
+pos = (158,0);
+ref = quoteright;
+}
+);
+width = 334;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = quoteright;
+},
+{
+pos = (158,0);
+ref = quoteright;
+}
+);
+width = 334;
 }
 );
 metricLeft = quoteright;

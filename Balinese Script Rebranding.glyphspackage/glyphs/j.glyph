@@ -24,6 +24,52 @@ ref = dotaccentcomb;
 }
 );
 width = 257;
+},
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (250,500);
+ref = f;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+ref = jdotless;
+},
+{
+alignment = 1;
+pos = (3,0);
+ref = dotaccentcomb;
+}
+);
+width = 257;
+},
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (250,500);
+ref = f;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+ref = jdotless;
+},
+{
+alignment = 1;
+pos = (3,0);
+ref = dotaccentcomb;
+}
+);
+width = 257;
 }
 );
 unicode = 106;

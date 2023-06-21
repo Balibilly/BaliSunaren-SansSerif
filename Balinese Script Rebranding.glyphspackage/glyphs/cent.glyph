@@ -15,6 +15,36 @@ ref = _bar_ver_;
 }
 );
 width = 512;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (0,62);
+ref = c;
+},
+{
+pos = (-3,-23);
+ref = _bar_ver_;
+}
+);
+width = 512;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,62);
+ref = c;
+},
+{
+pos = (-3,-23);
+ref = _bar_ver_;
+}
+);
+width = 512;
 }
 );
 metricLeft = c;

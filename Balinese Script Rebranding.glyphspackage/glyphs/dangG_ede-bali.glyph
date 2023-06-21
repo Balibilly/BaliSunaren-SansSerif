@@ -9,6 +9,24 @@ ref = "bisah-bali";
 }
 );
 width = 400;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "bisah-bali";
+}
+);
+width = 400;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "bisah-bali";
+}
+);
+width = 400;
 }
 );
 unicode = 7018;

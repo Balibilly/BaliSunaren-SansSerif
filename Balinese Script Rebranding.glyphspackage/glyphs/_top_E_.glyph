@@ -22,6 +22,48 @@ nodes = (
 }
 );
 width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (143,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,622,l),
+(491,700,l),
+(143,700,l),
+(143,622,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (143,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,622,l),
+(491,700,l),
+(143,700,l),
+(143,622,l)
+);
+}
+);
+width = 600;
 }
 );
 }

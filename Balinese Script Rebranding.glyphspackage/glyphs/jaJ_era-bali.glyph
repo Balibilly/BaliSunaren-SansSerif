@@ -29,6 +29,64 @@ ref = _Ilut_duwur;
 }
 );
 width = 1330;
+},
+{
+anchors = (
+{
+name = top;
+pos = (637,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_tenas;
+},
+{
+pos = (10,0);
+ref = _aikara_ikuh;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _okara_tenas;
+},
+{
+ref = _Ilut_duwur;
+}
+);
+width = 1330;
+},
+{
+anchors = (
+{
+name = top;
+pos = (637,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_tenas;
+},
+{
+pos = (10,0);
+ref = _aikara_ikuh;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _okara_tenas;
+},
+{
+ref = _Ilut_duwur;
+}
+);
+width = 1330;
 }
 );
 metricLeft = "ha-bali";

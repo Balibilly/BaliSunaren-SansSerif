@@ -25,6 +25,56 @@ ref = _suwet_ka;
 }
 );
 width = 892;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (842,0);
+},
+{
+name = bottom;
+pos = (851,-457);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "wa-bali.below";
+},
+{
+alignment = -1;
+pos = (243,-769);
+ref = _suwet_ka;
+}
+);
+width = 892;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (842,0);
+},
+{
+name = bottom;
+pos = (851,-457);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "wa-bali.below";
+},
+{
+alignment = -1;
+pos = (243,-769);
+ref = _suwet_ka;
+}
+);
+width = 892;
 }
 );
 }

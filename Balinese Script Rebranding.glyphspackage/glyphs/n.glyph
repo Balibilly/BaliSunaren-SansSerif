@@ -6,6 +6,36 @@ layers = (
 anchors = (
 {
 name = bottom;
+pos = (254,0);
+},
+{
+name = top;
+pos = (284,545);
+}
+);
+guides = (
+{
+pos = (260,398);
+}
+);
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (7,0);
+ref = _part.stem;
+},
+{
+pos = (-1,0);
+ref = _part.shoulder;
+}
+);
+width = 499;
+},
+{
+anchors = (
+{
+name = bottom;
 pos = (303,0);
 },
 {
@@ -15,10 +45,10 @@ pos = (333,545);
 );
 guides = (
 {
-pos = (309,398);
+pos = (324,479);
 }
 );
-layerId = m009;
+layerId = m002;
 shapes = (
 {
 alignment = -1;
@@ -31,6 +61,31 @@ ref = _part.shoulder;
 }
 );
 width = 606;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (358,0);
+},
+{
+name = top;
+pos = (388,545);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (111,0);
+ref = _part.stem;
+},
+{
+pos = (103,0);
+ref = _part.shoulder;
+}
+);
+width = 650;
 }
 );
 unicode = 110;

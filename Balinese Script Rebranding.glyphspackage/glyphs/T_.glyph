@@ -44,6 +44,92 @@ nodes = (
 }
 );
 width = 547;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = center;
+pos = (274,350);
+},
+{
+name = top;
+pos = (274,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (-20,0);
+ref = E;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,0,l),
+(322,638,l),
+(310,622,l),
+(539,622,l),
+(539,700,l),
+(8,700,l),
+(8,622,l),
+(245,622,l),
+(235,635,l),
+(235,0,l)
+);
+}
+);
+width = 547;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = center;
+pos = (274,350);
+},
+{
+name = top;
+pos = (274,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (-20,0);
+ref = E;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,0,l),
+(322,638,l),
+(310,622,l),
+(539,622,l),
+(539,700,l),
+(8,700,l),
+(8,622,l),
+(245,622,l),
+(235,635,l),
+(235,0,l)
+);
+}
+);
+width = 547;
 }
 );
 metricRight = "=|";

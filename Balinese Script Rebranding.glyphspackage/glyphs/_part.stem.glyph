@@ -22,11 +22,71 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(127,0,l),
+(127,435,l),
+(119,525,l),
+(100,525,l),
+(100,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (121,0);
+}
+);
+background = {
+shapes = (
+{
+pos = (-8,0);
+ref = _part.shoulder;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
 (121,0,l),
 (121,466,l),
 (101,545,l),
 (36,545,l),
 (36,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (121,0);
+}
+);
+background = {
+shapes = (
+{
+pos = (-8,0);
+ref = _part.shoulder;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,0,l),
+(121,494,l),
+(81,565,l),
+(-47,565,l),
+(-47,0,l)
 );
 }
 );

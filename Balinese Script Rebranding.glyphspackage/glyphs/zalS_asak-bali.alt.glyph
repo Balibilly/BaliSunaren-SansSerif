@@ -24,6 +24,54 @@ ref = _cecek_bangkiang;
 }
 );
 width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "sa-bali.post";
+},
+{
+alignment = -1;
+pos = (-505,0);
+ref = _cecek_bangkiang;
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "sa-bali.post";
+},
+{
+alignment = -1;
+pos = (-505,0);
+ref = _cecek_bangkiang;
+}
+);
+width = 623;
 }
 );
 metricRight = "ha-bali";

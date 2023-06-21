@@ -12,6 +12,30 @@ ref = _O_slashlongcomb;
 }
 );
 width = 752;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+ref = _O_slashlongcomb;
+}
+);
+width = 752;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = O;
+},
+{
+ref = _O_slashlongcomb;
+}
+);
+width = 752;
 }
 );
 unicode = 216;

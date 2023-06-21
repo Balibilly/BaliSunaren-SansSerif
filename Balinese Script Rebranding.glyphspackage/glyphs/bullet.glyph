@@ -15,6 +15,36 @@ nodes = (
 }
 );
 width = 328;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(248,192,l),
+(248,353,l),
+(80,353,l),
+(80,192,l)
+);
+}
+);
+width = 328;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(248,192,l),
+(248,353,l),
+(80,353,l),
+(80,192,l)
+);
+}
+);
+width = 328;
 }
 );
 metricLeft = "=periodcentered*2";

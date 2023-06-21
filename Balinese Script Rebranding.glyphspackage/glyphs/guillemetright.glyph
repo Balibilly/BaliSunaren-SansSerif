@@ -11,6 +11,28 @@ scale = (-1,1);
 }
 );
 width = 512;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (512,0);
+ref = guillemetleft;
+scale = (-1,1);
+}
+);
+width = 512;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (512,0);
+ref = guillemetleft;
+scale = (-1,1);
+}
+);
+width = 512;
 }
 );
 metricLeft = "=|guilsinglleft";

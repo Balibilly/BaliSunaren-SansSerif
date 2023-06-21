@@ -11,6 +11,28 @@ scale = (-1,1);
 }
 );
 width = 294;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (294,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 294;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (294,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 294;
 }
 );
 metricLeft = "=|braceleft";

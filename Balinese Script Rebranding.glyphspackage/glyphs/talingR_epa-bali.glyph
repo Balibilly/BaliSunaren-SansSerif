@@ -15,6 +15,36 @@ scale = (0.8641,0.8641);
 }
 );
 width = 522;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = "taling-bali";
+},
+{
+pos = (25,1090);
+ref = _repa_;
+scale = (0.8641,0.8641);
+}
+);
+width = 522;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+ref = "taling-bali";
+},
+{
+pos = (25,1090);
+ref = _repa_;
+scale = (0.8641,0.8641);
+}
+);
+width = 522;
 }
 );
 metricLeft = "taling-bali";

@@ -20,6 +20,46 @@ ref = "surang-bali";
 }
 );
 width = 578;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "rerekan-bali";
+},
+{
+pos = (478,0);
+ref = "surang-bali";
+}
+);
+width = 578;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "rerekan-bali";
+},
+{
+pos = (478,0);
+ref = "surang-bali";
+}
+);
+width = 578;
 }
 );
 }

@@ -15,6 +15,32 @@ ref = _tedung_bali_;
 }
 );
 width = 1449;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "saSapa-bali";
+},
+{
+pos = (902,0);
+ref = _tedung_bali_;
+}
+);
+width = 1449;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "saSapa-bali";
+},
+{
+pos = (902,0);
+ref = _tedung_bali_;
+}
+);
+width = 1449;
 }
 );
 }

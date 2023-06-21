@@ -23,6 +23,52 @@ ref = _tedung_bali_;
 }
 );
 width = 1130;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (741,-769);
+},
+{
+name = top;
+pos = (299,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ukara-bali";
+},
+{
+pos = (583,0);
+ref = _tedung_bali_;
+}
+);
+width = 1130;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (741,-769);
+},
+{
+name = top;
+pos = (299,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "ukara-bali";
+},
+{
+pos = (583,0);
+ref = _tedung_bali_;
+}
+);
+width = 1130;
 }
 );
 unicode = 6922;

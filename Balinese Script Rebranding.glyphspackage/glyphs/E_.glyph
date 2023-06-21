@@ -55,6 +55,114 @@ ref = _center_E;
 }
 );
 width = 554;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (318,0);
+},
+{
+name = ogonek;
+pos = (502,0);
+},
+{
+name = top;
+pos = (298,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,327,l),
+(478,405,l),
+(149,405,l),
+(149,327,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_E;
+},
+{
+pos = (6,0);
+ref = _bottom_E;
+},
+{
+pos = (6,0);
+ref = _top_E;
+},
+{
+pos = (7,16);
+ref = _center_E;
+}
+);
+width = 554;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (318,0);
+},
+{
+name = ogonek;
+pos = (502,0);
+},
+{
+name = top;
+pos = (298,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,327,l),
+(478,405,l),
+(149,405,l),
+(149,327,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_E;
+},
+{
+pos = (6,0);
+ref = _bottom_E;
+},
+{
+pos = (6,0);
+ref = _top_E;
+},
+{
+pos = (7,16);
+ref = _center_E;
+}
+);
+width = 554;
 }
 );
 metricLeft = H;

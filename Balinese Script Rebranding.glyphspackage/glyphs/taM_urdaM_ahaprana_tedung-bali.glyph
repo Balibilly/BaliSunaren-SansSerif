@@ -15,6 +15,32 @@ ref = _tedung_bali_;
 }
 );
 width = 1636;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "taMurdaMahaprana-bali";
+},
+{
+pos = (1089,0);
+ref = _tedung_bali_;
+}
+);
+width = 1636;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "taMurdaMahaprana-bali";
+},
+{
+pos = (1089,0);
+ref = _tedung_bali_;
+}
+);
+width = 1636;
 }
 );
 }

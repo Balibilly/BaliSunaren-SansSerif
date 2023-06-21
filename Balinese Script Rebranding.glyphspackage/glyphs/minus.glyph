@@ -23,6 +23,52 @@ nodes = (
 }
 );
 width = 695;
+},
+{
+background = {
+shapes = (
+{
+pos = (-46,0);
+ref = plus;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(620,237,l),
+(620,305,l),
+(75,305,l),
+(75,237,l)
+);
+}
+);
+width = 695;
+},
+{
+background = {
+shapes = (
+{
+pos = (-46,0);
+ref = plus;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(620,237,l),
+(620,305,l),
+(75,305,l),
+(75,237,l)
+);
+}
+);
+width = 695;
 }
 );
 metricRight = "=|";

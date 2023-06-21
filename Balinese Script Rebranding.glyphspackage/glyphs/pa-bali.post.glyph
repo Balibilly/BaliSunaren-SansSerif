@@ -24,6 +24,54 @@ ref = _ha_geluungan_ha;
 }
 );
 width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = _sa_sapa_tenas;
+},
+{
+alignment = -1;
+pos = (-581,0);
+ref = _ha_geluungan_ha;
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = _sa_sapa_tenas;
+},
+{
+alignment = -1;
+pos = (-581,0);
+ref = _ha_geluungan_ha;
+}
+);
+width = 623;
 }
 );
 metricLeft = "pa-bali.post";

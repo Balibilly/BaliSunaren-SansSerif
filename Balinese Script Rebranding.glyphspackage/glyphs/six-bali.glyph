@@ -9,6 +9,24 @@ ref = "ekara-bali";
 }
 );
 width = 735;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "ekara-bali";
+}
+);
+width = 735;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "ekara-bali";
+}
+);
+width = 735;
 }
 );
 unicode = 6998;

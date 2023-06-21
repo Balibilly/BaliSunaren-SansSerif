@@ -50,6 +50,104 @@ nodes = (
 }
 );
 width = 570;
+},
+{
+anchors = (
+{
+name = bar_hor_dbl;
+pos = (325,256);
+},
+{
+name = bottom;
+pos = (285,0);
+},
+{
+name = top;
+pos = (285,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (-20,0);
+ref = V;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,0,l),
+(326,346,l),
+(316,279,l),
+(569,700,l),
+(471,700,l),
+(267,344,l),
+(302,341,l),
+(99,700,l),
+(1,700,l),
+(252,275,l),
+(240,346,l),
+(240,0,l)
+);
+}
+);
+width = 570;
+},
+{
+anchors = (
+{
+name = bar_hor_dbl;
+pos = (325,256);
+},
+{
+name = bottom;
+pos = (285,0);
+},
+{
+name = top;
+pos = (285,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (-20,0);
+ref = V;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,0,l),
+(326,346,l),
+(316,279,l),
+(569,700,l),
+(471,700,l),
+(267,344,l),
+(302,341,l),
+(99,700,l),
+(1,700,l),
+(252,275,l),
+(240,346,l),
+(240,0,l)
+);
+}
+);
+width = 570;
 }
 );
 metricRight = "=|";

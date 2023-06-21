@@ -20,6 +20,44 @@ scale = (-1,1);
 }
 );
 width = 516;
+},
+{
+background = {
+shapes = (
+{
+pos = (-29,0);
+ref = H;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+pos = (516,0);
+ref = S;
+scale = (-1,1);
+}
+);
+width = 516;
+},
+{
+background = {
+shapes = (
+{
+pos = (-29,0);
+ref = H;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+pos = (516,0);
+ref = S;
+scale = (-1,1);
+}
+);
+width = 516;
 }
 );
 }

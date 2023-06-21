@@ -29,6 +29,64 @@ nodes = (
 }
 );
 width = 265;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (133,0);
+},
+{
+name = ogonek;
+pos = (175,0);
+},
+{
+name = top;
+pos = (133,545);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,0,l),
+(175,545,l),
+(90,545,l),
+(90,0,l)
+);
+}
+);
+width = 265;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (133,0);
+},
+{
+name = ogonek;
+pos = (175,0);
+},
+{
+name = top;
+pos = (133,545);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,0,l),
+(175,545,l),
+(90,545,l),
+(90,0,l)
+);
+}
+);
+width = 265;
 }
 );
 unicode = 305;

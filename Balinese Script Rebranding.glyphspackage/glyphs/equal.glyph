@@ -32,6 +32,70 @@ nodes = (
 }
 );
 width = 609;
+},
+{
+background = {
+shapes = (
+{
+pos = (-45,0);
+ref = plus;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(534,327,l),
+(534,392,l),
+(75,392,l),
+(75,327,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,157,l),
+(534,222,l),
+(75,222,l),
+(75,157,l)
+);
+}
+);
+width = 609;
+},
+{
+background = {
+shapes = (
+{
+pos = (-45,0);
+ref = plus;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(534,327,l),
+(534,392,l),
+(75,392,l),
+(75,327,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,157,l),
+(534,222,l),
+(75,222,l),
+(75,157,l)
+);
+}
+);
+width = 609;
 }
 );
 metricLeft = minus;

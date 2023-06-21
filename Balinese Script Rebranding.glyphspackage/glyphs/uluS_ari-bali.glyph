@@ -28,6 +28,62 @@ ref = _ulu_cecek_;
 }
 );
 width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = dot_ulu_bali;
+pos = (303,746);
+},
+{
+name = top;
+pos = (805,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (0,-26);
+ref = _ulu_cecek_;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = dot_ulu_bali;
+pos = (303,746);
+},
+{
+name = top;
+pos = (805,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (0,-26);
+ref = _ulu_cecek_;
+}
+);
+width = 560;
 }
 );
 unicode = 6967;

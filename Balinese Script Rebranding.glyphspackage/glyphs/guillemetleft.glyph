@@ -13,6 +13,32 @@ ref = guilsinglleft;
 }
 );
 width = 512;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (204,0);
+ref = guilsinglleft;
+}
+);
+width = 512;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (204,0);
+ref = guilsinglleft;
+}
+);
+width = 512;
 }
 );
 metricLeft = guilsinglleft;

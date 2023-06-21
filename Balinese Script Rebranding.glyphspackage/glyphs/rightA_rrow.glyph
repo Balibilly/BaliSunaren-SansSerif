@@ -11,6 +11,28 @@ ref = upArrow;
 }
 );
 width = 755;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = -90;
+pos = (33,772);
+ref = upArrow;
+}
+);
+width = 755;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = -90;
+pos = (33,772);
+ref = upArrow;
+}
+);
+width = 755;
 }
 );
 unicode = 8594;

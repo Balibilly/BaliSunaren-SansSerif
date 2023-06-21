@@ -19,6 +19,44 @@ ref = _surang_bawak;
 }
 );
 width = 966;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (149,1);
+ref = _surang_bawak;
+}
+);
+width = 966;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (149,1);
+ref = _surang_bawak;
+}
+);
+width = 966;
 }
 );
 metricLeft = "pepet-bali";

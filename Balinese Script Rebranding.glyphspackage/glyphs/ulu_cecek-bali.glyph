@@ -24,6 +24,54 @@ ref = _Cecek_komponen;
 }
 );
 width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = top;
+pos = (808,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (1232,0);
+ref = _Cecek_komponen;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = top;
+pos = (808,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (1232,0);
+ref = _Cecek_komponen;
+}
+);
+width = 560;
 }
 );
 }

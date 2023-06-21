@@ -9,6 +9,24 @@ ref = "taling-bali";
 }
 );
 width = 522;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "taling-bali";
+}
+);
+width = 522;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "taling-bali";
+}
+);
+width = 522;
 }
 );
 unicode = 7010;

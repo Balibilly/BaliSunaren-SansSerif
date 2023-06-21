@@ -19,6 +19,44 @@ ref = _surang_bawak;
 }
 );
 width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (325,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+ref = _surang_bawak;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (325,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+ref = _surang_bawak;
+}
+);
+width = 560;
 }
 );
 }

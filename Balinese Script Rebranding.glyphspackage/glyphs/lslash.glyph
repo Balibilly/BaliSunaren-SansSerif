@@ -15,6 +15,36 @@ ref = _l_slash;
 }
 );
 width = 283;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (14,0);
+ref = l;
+},
+{
+pos = (14,0);
+ref = _l_slash;
+}
+);
+width = 283;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (14,0);
+ref = l;
+},
+{
+pos = (14,0);
+ref = _l_slash;
+}
+);
+width = 283;
 }
 );
 unicode = 322;

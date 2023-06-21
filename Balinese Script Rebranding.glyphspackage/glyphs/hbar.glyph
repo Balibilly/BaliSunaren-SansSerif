@@ -10,7 +10,37 @@ pos = (13,0);
 ref = h;
 },
 {
+pos = (-36,0);
+ref = _h_strokeshortcomb;
+}
+);
+width = 619;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
 pos = (13,0);
+ref = h;
+},
+{
+pos = (13,0);
+ref = _h_strokeshortcomb;
+}
+);
+width = 619;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = h;
+},
+{
+pos = (68,0);
 ref = _h_strokeshortcomb;
 }
 );

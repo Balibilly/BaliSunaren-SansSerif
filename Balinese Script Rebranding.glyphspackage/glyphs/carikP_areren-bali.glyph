@@ -15,6 +15,36 @@ ref = "carikSiki-bali";
 }
 );
 width = 560;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = "carikSiki-bali";
+},
+{
+alignment = -1;
+pos = (217,0);
+ref = "carikSiki-bali";
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+ref = "carikSiki-bali";
+},
+{
+alignment = -1;
+pos = (217,0);
+ref = "carikSiki-bali";
+}
+);
+width = 560;
 }
 );
 metricLeft = "carikSiki-bali";

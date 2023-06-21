@@ -41,6 +41,84 @@ ref = _ta_awak;
 }
 );
 width = 1415;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1168,0);
+},
+{
+name = class0;
+pos = (1414,0);
+},
+{
+name = top;
+pos = (549,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (-17,0);
+ref = _ha_bangkiang;
+},
+{
+alignment = -1;
+pos = (121,0);
+ref = _tedung_ekoran;
+},
+{
+pos = (10,0);
+ref = _ta_awak;
+}
+);
+width = 1415;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1168,0);
+},
+{
+name = class0;
+pos = (1414,0);
+},
+{
+name = top;
+pos = (549,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (-17,0);
+ref = _ha_bangkiang;
+},
+{
+alignment = -1;
+pos = (121,0);
+ref = _tedung_ekoran;
+},
+{
+pos = (10,0);
+ref = _ta_awak;
+}
+);
+width = 1415;
 }
 );
 metricLeft = "ha-bali";

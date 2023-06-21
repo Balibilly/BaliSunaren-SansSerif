@@ -20,6 +20,46 @@ ref = "la-bali";
 }
 );
 width = 327;
+},
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-1262,-679);
+ref = "la-bali";
+}
+);
+width = 327;
+},
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-1262,-679);
+ref = "la-bali";
+}
+);
+width = 327;
 }
 );
 }

@@ -21,6 +21,48 @@ scale = (-1,1);
 }
 );
 width = 308;
+},
+{
+anchors = (
+{
+name = _guilsinglleft;
+pos = (41,0);
+},
+{
+name = guilsinglleft;
+pos = (245,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (308,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 308;
+},
+{
+anchors = (
+{
+name = _guilsinglleft;
+pos = (41,0);
+},
+{
+name = guilsinglleft;
+pos = (245,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (308,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 308;
 }
 );
 metricLeft = "=|guilsinglleft";

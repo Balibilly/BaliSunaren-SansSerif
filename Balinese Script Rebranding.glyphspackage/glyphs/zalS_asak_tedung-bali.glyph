@@ -15,6 +15,32 @@ ref = "tedung-bali";
 }
 );
 width = 1414;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "zalSasak-bali";
+},
+{
+pos = (867,0);
+ref = "tedung-bali";
+}
+);
+width = 1414;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "zalSasak-bali";
+},
+{
+pos = (867,0);
+ref = "tedung-bali";
+}
+);
+width = 1414;
 }
 );
 }

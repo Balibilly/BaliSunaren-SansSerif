@@ -24,6 +24,54 @@ ref = _suwet_ta;
 }
 );
 width = 867;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (807,0);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "sa-bali";
+},
+{
+alignment = -1;
+pos = (148,0);
+ref = _suwet_ta;
+}
+);
+width = 867;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (807,0);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "sa-bali";
+},
+{
+alignment = -1;
+pos = (148,0);
+ref = _suwet_ta;
+}
+);
+width = 867;
 }
 );
 metricLeft = "na-bali";

@@ -42,6 +42,88 @@ ref = _bottom_E;
 }
 );
 width = 498;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (279,0);
+},
+{
+name = center;
+pos = (92,350);
+},
+{
+name = top;
+pos = (269,700);
+},
+{
+name = topright;
+pos = (485,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (17,0);
+ref = E;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_L;
+},
+{
+pos = (-11,0);
+ref = _bottom_E;
+}
+);
+width = 498;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (279,0);
+},
+{
+name = center;
+pos = (92,350);
+},
+{
+name = top;
+pos = (269,700);
+},
+{
+name = topright;
+pos = (485,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (17,0);
+ref = E;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_L;
+},
+{
+pos = (-11,0);
+ref = _bottom_E;
+}
+);
+width = 498;
 }
 );
 metricLeft = H;

@@ -42,6 +42,90 @@ ref = _ha_tundun_ha;
 }
 );
 width = 992;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (942,0);
+},
+{
+name = bottom;
+pos = (942,-679);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (76,-679);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (76,-679);
+ref = _ha_bali_core;
+},
+{
+closed = 1;
+nodes = (
+(942,-679,l),
+(942,-388,l),
+(933,-378,l),
+(876,-378,l),
+(866,-388,l),
+(866,-679,l)
+);
+},
+{
+alignment = -1;
+pos = (96,-679);
+ref = _ha_tundun_ha;
+}
+);
+width = 992;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (942,0);
+},
+{
+name = bottom;
+pos = (942,-679);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (76,-679);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (76,-679);
+ref = _ha_bali_core;
+},
+{
+closed = 1;
+nodes = (
+(942,-679,l),
+(942,-388,l),
+(933,-378,l),
+(876,-378,l),
+(866,-388,l),
+(866,-679,l)
+);
+},
+{
+alignment = -1;
+pos = (96,-679);
+ref = _ha_tundun_ha;
+}
+);
+width = 992;
 }
 );
 }

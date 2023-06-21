@@ -101,6 +101,208 @@ ref = _wa_ca_gelungan;
 }
 );
 width = 847;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (835,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+background = {
+shapes = (
+{
+pos = (-5,0);
+ref = "ca-bali";
+},
+{
+closed = 1;
+nodes = (
+(443,-10,ls),
+(563,-10,o),
+(692,61,o),
+(692,242,c),
+(618,242,l),
+(613,104,o),
+(523,66,o),
+(428,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = _wa_ca_gelungan;
+},
+{
+closed = 1;
+nodes = (
+(424,-10,ls),
+(559,-10,o),
+(688,59,o),
+(688,227,c),
+(618,226,l),
+(613,105,o),
+(522,66,o),
+(417,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+}
+);
+width = 895;
+},
+{
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (-35,0);
+ref = "ca-bali";
+}
+);
+};
+layerId = "23E9C44E-9066-4D37-9468-2952E961B001";
+name = "2 May 23 17.36";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,-10,o),
+(615,69,o),
+(615,232,c),
+(541,232,l),
+(539,105,o),
+(458,66,o),
+(357,66,c),
+(345,-10,l)
+);
+},
+{
+pos = (31,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (11,0);
+ref = _wa_ca_gelungan;
+}
+);
+width = 847;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (835,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+background = {
+shapes = (
+{
+pos = (-5,0);
+ref = "ca-bali";
+},
+{
+closed = 1;
+nodes = (
+(443,-10,ls),
+(563,-10,o),
+(692,61,o),
+(692,242,c),
+(618,242,l),
+(613,104,o),
+(523,66,o),
+(428,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = _wa_ca_gelungan;
+},
+{
+closed = 1;
+nodes = (
+(424,-10,ls),
+(559,-10,o),
+(688,59,o),
+(688,227,c),
+(618,226,l),
+(613,105,o),
+(522,66,o),
+(417,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+}
+);
+width = 895;
+},
+{
+associatedMasterId = m003;
+background = {
+shapes = (
+{
+pos = (-35,0);
+ref = "ca-bali";
+}
+);
+};
+layerId = "84D4C9A1-49DC-427F-A206-8B492E2861D6";
+name = "2 May 23 17.36";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,-10,o),
+(615,69,o),
+(615,232,c),
+(541,232,l),
+(539,105,o),
+(458,66,o),
+(357,66,c),
+(345,-10,l)
+);
+},
+{
+pos = (31,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (11,0);
+ref = _wa_ca_gelungan;
+}
+);
+width = 847;
 }
 );
 metricLeft = "ha-bali";

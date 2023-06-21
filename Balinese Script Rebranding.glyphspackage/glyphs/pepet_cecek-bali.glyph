@@ -19,6 +19,44 @@ ref = "cecek-bali";
 }
 );
 width = 966;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (1374,15);
+ref = "cecek-bali";
+}
+);
+width = 966;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (1374,15);
+ref = "cecek-bali";
+}
+);
+width = 966;
 }
 );
 metricLeft = "pepet-bali";

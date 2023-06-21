@@ -15,6 +15,32 @@ ref = _tedung_bali_;
 }
 );
 width = 1656;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (1109,0);
+ref = _tedung_bali_;
+}
+);
+width = 1656;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (1109,0);
+ref = _tedung_bali_;
+}
+);
+width = 1656;
 }
 );
 }

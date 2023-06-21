@@ -53,6 +53,112 @@ ref = _nga_bali_ekor;
 }
 );
 width = 1109;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(651,309,l),
+(672,418,o),
+(720,479,o),
+(797,479,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(808,555,ls),
+(725,555,o),
+(676,513,o),
+(645,451,c)
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_body;
+},
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_top;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _nga_bali_ekor;
+}
+);
+width = 1109;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(651,309,l),
+(672,418,o),
+(720,479,o),
+(797,479,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(808,555,ls),
+(725,555,o),
+(676,513,o),
+(645,451,c)
+);
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_body;
+},
+{
+alignment = -1;
+pos = (33,0);
+ref = _nga_top;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _nga_bali_ekor;
+}
+);
+width = 1109;
 }
 );
 metricLeft = "ha-bali";

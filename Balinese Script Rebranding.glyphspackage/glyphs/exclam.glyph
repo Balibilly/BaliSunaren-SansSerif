@@ -20,6 +20,46 @@ nodes = (
 }
 );
 width = 244;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+pos = (33,0);
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(156,155,l),
+(176,700,l),
+(68,700,l),
+(88,155,l)
+);
+}
+);
+width = 244;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+pos = (33,0);
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(156,155,l),
+(176,700,l),
+(68,700,l),
+(88,155,l)
+);
+}
+);
+width = 244;
 }
 );
 metricRight = "=|";

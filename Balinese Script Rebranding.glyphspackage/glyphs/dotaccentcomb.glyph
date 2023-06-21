@@ -25,6 +25,56 @@ nodes = (
 }
 );
 width = 265;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (133,545);
+},
+{
+name = top;
+pos = (133,750);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,662,l),
+(180,750,l),
+(85,750,l),
+(85,662,l)
+);
+}
+);
+width = 265;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (133,545);
+},
+{
+name = top;
+pos = (133,750);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,662,l),
+(180,750,l),
+(85,750,l),
+(85,662,l)
+);
+}
+);
+width = 265;
 }
 );
 unicode = 775;

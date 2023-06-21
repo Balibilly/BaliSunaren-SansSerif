@@ -20,6 +20,46 @@ ref = _ulucandra_bawak;
 }
 );
 width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "uluSari-bali";
+},
+{
+pos = (523,0);
+ref = _ulucandra_bawak;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = 1;
+ref = "uluSari-bali";
+},
+{
+pos = (523,0);
+ref = _ulucandra_bawak;
+}
+);
+width = 560;
 }
 );
 metricLeft = "ulu-bali";

@@ -23,6 +23,52 @@ ref = _repa_;
 }
 );
 width = 902;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+pos = (221,0);
+ref = _repa_;
+}
+);
+width = 902;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+pos = (221,0);
+ref = _repa_;
+}
+);
+width = 902;
 }
 );
 metricLeft = "pa-bali";

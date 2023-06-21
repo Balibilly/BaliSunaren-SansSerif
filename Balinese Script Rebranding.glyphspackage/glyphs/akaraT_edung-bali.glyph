@@ -34,6 +34,74 @@ ref = _nya_ekor;
 }
 );
 width = 1377;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1172,0);
+},
+{
+name = top;
+pos = (650,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (15,0);
+ref = _akara;
+},
+{
+alignment = -1;
+pos = (15,0);
+ref = _akara_bangkiang;
+},
+{
+pos = (15,0);
+ref = _cecek_bangkiang;
+},
+{
+pos = (-161,0);
+ref = _nya_ekor;
+}
+);
+width = 1377;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1172,0);
+},
+{
+name = top;
+pos = (650,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (15,0);
+ref = _akara;
+},
+{
+alignment = -1;
+pos = (15,0);
+ref = _akara_bangkiang;
+},
+{
+pos = (15,0);
+ref = _cecek_bangkiang;
+},
+{
+pos = (-161,0);
+ref = _nya_ekor;
+}
+);
+width = 1377;
 }
 );
 metricLeft = "akara-bali";

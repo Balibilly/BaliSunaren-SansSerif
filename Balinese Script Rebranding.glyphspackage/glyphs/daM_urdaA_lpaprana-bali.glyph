@@ -48,6 +48,102 @@ ref = _ha_geluungan_ha;
 }
 );
 width = 941;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (881,0);
+},
+{
+name = class0;
+pos = (921,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(677,-10,o),
+(722,59,o),
+(722,155,cs),
+(722,308,l),
+(654,308,l),
+(654,156,ls),
+(654,111,o),
+(637,62,o),
+(592,62,c),
+(595,-10,l)
+);
+},
+{
+pos = (23,0);
+ref = _la_tenas;
+},
+{
+pos = (10,0);
+ref = _daMadu_bawah;
+},
+{
+alignment = -1;
+pos = (-263,0);
+ref = _ha_geluungan_ha;
+}
+);
+width = 941;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (881,0);
+},
+{
+name = class0;
+pos = (921,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(677,-10,o),
+(722,59,o),
+(722,155,cs),
+(722,308,l),
+(654,308,l),
+(654,156,ls),
+(654,111,o),
+(637,62,o),
+(592,62,c),
+(595,-10,l)
+);
+},
+{
+pos = (23,0);
+ref = _la_tenas;
+},
+{
+pos = (10,0);
+ref = _daMadu_bawah;
+},
+{
+alignment = -1;
+pos = (-263,0);
+ref = _ha_geluungan_ha;
+}
+);
+width = 941;
 }
 );
 metricLeft = "ha-bali";

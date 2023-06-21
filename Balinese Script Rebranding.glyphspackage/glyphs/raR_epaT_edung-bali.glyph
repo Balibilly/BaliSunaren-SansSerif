@@ -23,6 +23,52 @@ ref = _tedung_bali_;
 }
 );
 width = 1449;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "raRepa-bali";
+},
+{
+pos = (902,0);
+ref = _tedung_bali_;
+}
+);
+width = 1449;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "raRepa-bali";
+},
+{
+pos = (902,0);
+ref = _tedung_bali_;
+}
+);
+width = 1449;
 }
 );
 unicode = 6924;

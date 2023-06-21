@@ -23,6 +23,52 @@ ref = _kaMahaprana;
 }
 );
 width = 927;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (877,0);
+},
+{
+name = bottom;
+pos = (877,-679);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ka-bali.below";
+},
+{
+pos = (80,-628);
+ref = _kaMahaprana;
+}
+);
+width = 927;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (877,0);
+},
+{
+name = bottom;
+pos = (877,-679);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "ka-bali.below";
+},
+{
+pos = (80,-628);
+ref = _kaMahaprana;
+}
+);
+width = 927;
 }
 );
 }

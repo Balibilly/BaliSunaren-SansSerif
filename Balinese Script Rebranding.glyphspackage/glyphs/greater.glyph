@@ -19,6 +19,44 @@ scale = (-1,1);
 }
 );
 width = 516;
+},
+{
+background = {
+shapes = (
+{
+pos = (-66,0);
+ref = plus;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+pos = (516,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 516;
+},
+{
+background = {
+shapes = (
+{
+pos = (-66,0);
+ref = plus;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+pos = (516,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 516;
 }
 );
 metricLeft = "=|less";

@@ -4,6 +4,14 @@ layers = (
 {
 layerId = m009;
 width = 2034;
+},
+{
+layerId = m002;
+width = 2034;
+},
+{
+layerId = m003;
+width = 2034;
 }
 );
 metricLeft = "laLengaMark-bali";

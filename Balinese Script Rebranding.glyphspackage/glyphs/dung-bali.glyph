@@ -10,6 +10,26 @@ ref = "suku-bali";
 }
 );
 width = 493;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (502,535);
+ref = "suku-bali";
+}
+);
+width = 493;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (502,535);
+ref = "suku-bali";
+}
+);
+width = 493;
 }
 );
 unicode = 7011;

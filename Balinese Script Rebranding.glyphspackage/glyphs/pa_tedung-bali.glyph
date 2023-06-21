@@ -47,6 +47,96 @@ ref = _tedung_ekoran;
 }
 );
 width = 1100;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (852,0);
+},
+{
+name = class0;
+pos = (1100,0);
+},
+{
+name = top;
+pos = (423,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,-10,ls),
+(599,-10,o),
+(683,99,o),
+(683,260,cs),
+(683,291,l),
+(615,291,l),
+(615,266,ls),
+(615,138,o),
+(558,66,o),
+(449,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+},
+{
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (-194,0);
+ref = _tedung_ekoran;
+}
+);
+width = 1100;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (852,0);
+},
+{
+name = class0;
+pos = (1100,0);
+},
+{
+name = top;
+pos = (423,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,-10,ls),
+(599,-10,o),
+(683,99,o),
+(683,260,cs),
+(683,291,l),
+(615,291,l),
+(615,266,ls),
+(615,138,o),
+(558,66,o),
+(449,66,cs),
+(387,66,l),
+(375,-10,l)
+);
+},
+{
+pos = (61,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (-194,0);
+ref = _tedung_ekoran;
+}
+);
+width = 1100;
 }
 );
 metricLeft = "ha-bali";

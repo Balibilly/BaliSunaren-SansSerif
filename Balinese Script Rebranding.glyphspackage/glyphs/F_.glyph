@@ -38,6 +38,80 @@ ref = _center_E;
 }
 );
 width = 515;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (258,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (10,0);
+ref = E;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_F;
+},
+{
+pos = (-4,0);
+ref = _top_E;
+},
+{
+pos = (-9,16);
+ref = _center_E;
+}
+);
+width = 515;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (258,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (10,0);
+ref = E;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = _part.stem_F;
+},
+{
+pos = (-4,0);
+ref = _top_E;
+},
+{
+pos = (-9,16);
+ref = _center_E;
+}
+);
+width = 515;
 }
 );
 metricLeft = H;

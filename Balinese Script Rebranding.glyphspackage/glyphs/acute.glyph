@@ -9,6 +9,24 @@ ref = acutecomb;
 }
 );
 width = 265;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 265;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 265;
 }
 );
 unicode = 180;

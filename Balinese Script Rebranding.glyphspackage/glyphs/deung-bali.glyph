@@ -10,6 +10,26 @@ ref = "sukuIlut-bali";
 }
 );
 width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (376,535);
+ref = "sukuIlut-bali";
+}
+);
+width = 600;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (376,535);
+ref = "sukuIlut-bali";
+}
+);
+width = 600;
 }
 );
 unicode = 7016;

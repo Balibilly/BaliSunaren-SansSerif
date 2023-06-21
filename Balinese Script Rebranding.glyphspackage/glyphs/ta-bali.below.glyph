@@ -36,6 +36,78 @@ nodes = (
 }
 );
 width = 887;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (844,0);
+},
+{
+name = bottom;
+pos = (844,-679);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (56,-679);
+ref = _ha_tenas_ha;
+},
+{
+pos = (5,-679);
+ref = _ta_awak;
+},
+{
+closed = 1;
+nodes = (
+(844,-679,l),
+(844,-388,l),
+(835,-378,l),
+(778,-378,l),
+(768,-388,l),
+(768,-679,l)
+);
+}
+);
+width = 887;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (844,0);
+},
+{
+name = bottom;
+pos = (844,-679);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (56,-679);
+ref = _ha_tenas_ha;
+},
+{
+pos = (5,-679);
+ref = _ta_awak;
+},
+{
+closed = 1;
+nodes = (
+(844,-679,l),
+(844,-388,l),
+(835,-378,l),
+(778,-378,l),
+(768,-388,l),
+(768,-679,l)
+);
+}
+);
+width = 887;
 }
 );
 }

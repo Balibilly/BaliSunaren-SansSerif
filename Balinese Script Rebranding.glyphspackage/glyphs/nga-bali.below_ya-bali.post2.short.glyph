@@ -24,6 +24,54 @@ ref = "nga-bali";
 }
 );
 width = 327;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (141,-793);
+},
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ya-bali.post2.short";
+},
+{
+alignment = -1;
+pos = (-1087,-679);
+ref = "nga-bali";
+}
+);
+width = 327;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (141,-793);
+},
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = "ya-bali.post2.short";
+},
+{
+alignment = -1;
+pos = (-1087,-679);
+ref = "nga-bali";
+}
+);
+width = 327;
 }
 );
 }

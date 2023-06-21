@@ -20,6 +20,46 @@ ref = comma;
 }
 );
 width = 176;
+},
+{
+anchors = (
+{
+name = _quoteleft;
+pos = (43,700);
+},
+{
+name = quoteleft;
+pos = (201,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (4,609);
+ref = comma;
+}
+);
+width = 176;
+},
+{
+anchors = (
+{
+name = _quoteleft;
+pos = (43,700);
+},
+{
+name = quoteleft;
+pos = (201,700);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (4,609);
+ref = comma;
+}
+);
+width = 176;
 }
 );
 metricLeft = "=|quoteleft";

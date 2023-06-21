@@ -9,6 +9,24 @@ ref = "jaJera-bali";
 }
 );
 width = 1330;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = "jaJera-bali";
+}
+);
+width = 1330;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "jaJera-bali";
+}
+);
+width = 1330;
 }
 );
 }

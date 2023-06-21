@@ -48,6 +48,100 @@ ref = _perut_b;
 }
 );
 width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (342,545);
+}
+);
+background = {
+shapes = (
+{
+pos = (34,0);
+ref = b;
+}
+);
+};
+guides = (
+{
+pos = (1053,869);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,-205,l),
+(177,95,l),
+(166,102,l),
+(166,394,l),
+(182,427,l),
+(182,449,l),
+(156,545,l),
+(92,545,l),
+(92,-205,l)
+);
+},
+{
+pos = (14,0);
+ref = _perut_b;
+}
+);
+width = 623;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (342,545);
+}
+);
+background = {
+shapes = (
+{
+pos = (34,0);
+ref = b;
+}
+);
+};
+guides = (
+{
+pos = (1053,869);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,-205,l),
+(177,95,l),
+(166,102,l),
+(166,394,l),
+(182,427,l),
+(182,449,l),
+(156,545,l),
+(92,545,l),
+(92,-205,l)
+);
+},
+{
+pos = (14,0);
+ref = _perut_b;
+}
+);
+width = 623;
 }
 );
 metricLeft = n;

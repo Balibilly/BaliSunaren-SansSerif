@@ -13,6 +13,32 @@ ref = _bar_hor_dbl_;
 }
 );
 width = 570;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (20,-99);
+ref = _bar_hor_dbl_;
+}
+);
+width = 570;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (20,-99);
+ref = _bar_hor_dbl_;
+}
+);
+width = 570;
 }
 );
 unicode = 165;
