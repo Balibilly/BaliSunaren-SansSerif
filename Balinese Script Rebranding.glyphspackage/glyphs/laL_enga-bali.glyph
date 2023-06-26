@@ -381,7 +381,7 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-pos = (134,0);
+pos = (144,0);
 ref = "na-bali.below";
 },
 {

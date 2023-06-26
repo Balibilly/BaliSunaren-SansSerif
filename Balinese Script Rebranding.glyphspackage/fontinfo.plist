@@ -1205,7 +1205,7 @@ pos = (325,-769);
 pos = (209,-1105);
 },
 {
-pos = (383,68);
+pos = (365,89);
 },
 {
 pos = (163,1422);
@@ -1220,13 +1220,19 @@ pos = (750,-838);
 pos = (476,-369);
 },
 {
-pos = (92,-205);
+pos = (92,-195);
 },
 {
 pos = (57,-10);
 },
 {
 pos = (321,612);
+},
+{
+pos = (135,436);
+},
+{
+pos = (135,436);
 }
 );
 iconName = Light;
@@ -1238,11 +1244,11 @@ pos = 750;
 },
 {
 over = 10;
-pos = 680;
+pos = 700;
 },
 {
 over = 10;
-pos = 525;
+pos = 537;
 },
 {
 over = -10;
@@ -2465,6 +2471,7 @@ numberValues = (
 userData = {
 GSCornerRadius = 15;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -2514,7 +2521,13 @@ pos = (57,-10);
 pos = (321,612);
 },
 {
-pos = (333,415);
+pos = (339,433);
+},
+{
+pos = (214,503);
+},
+{
+pos = (314,105);
 }
 );
 iconName = Bold;
@@ -2526,11 +2539,11 @@ pos = 750;
 },
 {
 over = 10;
-pos = 720;
+pos = 700;
 },
 {
 over = 10;
-pos = 565;
+pos = 553;
 },
 {
 over = -10;
@@ -3293,7 +3306,9 @@ type = "italic angle";
 }
 );
 note = "1. Scrip ra-bali.below supaya tidak nuabrak
-2. Bagaimana dengan vertical metric? harmoni antara aksara bali dan latin
+2. Bagaimana dengan vertical metric? harmoni antara aksara bali dan latin + Cara pisahin
+3. Template proffing
+
 
 
 
@@ -5082,10 +5097,16 @@ nV = "18";
 HV = "185";
 nV = "178";
 };
+m002 = {
+HV = "87";
+nV = "85";
+};
 m003 = {
-nV = "168";
+HV = "148";
+nV = "146";
 };
 m009 = {
+HV = "28";
 nV = "27";
 };
 };

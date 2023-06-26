@@ -8,10 +8,11 @@ shapes = (
 ref = O;
 },
 {
+pos = (-105,0);
 ref = _O_slashlongcomb;
 }
 );
-width = 752;
+width = 543;
 },
 {
 layerId = m002;
@@ -32,10 +33,11 @@ shapes = (
 ref = O;
 },
 {
+pos = (-6,10);
 ref = _O_slashlongcomb;
 }
 );
-width = 752;
+width = 740;
 }
 );
 unicode = 216;

@@ -1,24 +1,24 @@
 {
-color = 9;
+color = 4;
 glyphname = I;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (136,0);
+pos = (118,0);
 },
 {
 name = ogonek;
-pos = (179,0);
+pos = (131,0);
 },
 {
 name = top;
-pos = (136,700);
+pos = (118,680);
 },
 {
 name = topleft;
-pos = (20,700);
+pos = (-28,680);
 }
 );
 layerId = m009;
@@ -26,14 +26,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(179,0,l),
-(179,700,l),
-(92,700,l),
-(92,0,l)
+(131,0,l),
+(131,700,l),
+(102,700,l),
+(102,0,l)
 );
 }
 );
-width = 271;
+width = 233;
 },
 {
 anchors = (
@@ -72,19 +72,19 @@ width = 271;
 anchors = (
 {
 name = bottom;
-pos = (136,0);
+pos = (123,0);
 },
 {
 name = ogonek;
-pos = (179,0);
+pos = (197,0);
 },
 {
 name = top;
-pos = (136,700);
+pos = (123,720);
 },
 {
 name = topleft;
-pos = (20,700);
+pos = (38,720);
 }
 );
 layerId = m003;
@@ -92,14 +92,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(179,0,l),
-(179,700,l),
-(92,700,l),
-(92,0,l)
+(197,0,l),
+(197,700,l),
+(49,700,l),
+(49,0,l)
 );
 }
 );
-width = 271;
+width = 246;
 }
 );
 metricLeft = H;

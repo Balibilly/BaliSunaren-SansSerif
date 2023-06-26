@@ -37,7 +37,7 @@ piece = {
 crotchDepth = 0;
 shoulderWidth = 100;
 };
-pos = (-1,0);
+pos = (31,0);
 ref = _part.shoulder;
 }
 );
@@ -88,21 +88,21 @@ width = 606;
 anchors = (
 {
 name = bottom;
-pos = (358,0);
+pos = (330,0);
 },
 {
 name = center;
-pos = (358,375);
+pos = (330,375);
 },
 {
 name = top;
-pos = (358,750);
+pos = (330,750);
 }
 );
 background = {
 shapes = (
 {
-pos = (61,0);
+pos = (33,0);
 ref = n;
 }
 );
@@ -111,7 +111,7 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (96,0);
+pos = (68,0);
 ref = _part.stem_l;
 },
 {
@@ -119,11 +119,11 @@ piece = {
 crotchDepth = 0;
 shoulderWidth = 100;
 };
-pos = (103,0);
+pos = (90,0);
 ref = _part.shoulder;
 }
 );
-width = 650;
+width = 642;
 }
 );
 metricRight = n;

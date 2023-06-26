@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = n;
 layers = (
 {
@@ -43,9 +43,16 @@ name = top;
 pos = (333,545);
 }
 );
+background = {
+shapes = (
+{
+ref = b;
+}
+);
+};
 guides = (
 {
-pos = (324,479);
+pos = (180,468);
 }
 );
 layerId = m002;
@@ -66,26 +73,34 @@ width = 606;
 anchors = (
 {
 name = bottom;
-pos = (358,0);
+pos = (315,0);
 },
 {
 name = top;
-pos = (388,545);
+pos = (345,545);
 }
 );
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = b;
+}
+);
+};
 layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (111,0);
+pos = (68,0);
 ref = _part.stem;
 },
 {
-pos = (103,0);
+pos = (75,0);
 ref = _part.shoulder;
 }
 );
-width = 650;
+width = 642;
 }
 );
 unicode = 110;

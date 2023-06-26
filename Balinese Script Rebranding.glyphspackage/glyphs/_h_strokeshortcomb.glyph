@@ -48,7 +48,7 @@ width = 619;
 anchors = (
 {
 name = _connect;
-pos = (528,0);
+pos = (614,0);
 }
 );
 layerId = m003;
@@ -63,7 +63,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 664;
 }
 );
 }

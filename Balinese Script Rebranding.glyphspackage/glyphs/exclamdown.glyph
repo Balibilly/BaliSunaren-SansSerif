@@ -6,7 +6,7 @@ layerId = m009;
 shapes = (
 {
 alignment = 1;
-pos = (0,525);
+pos = (0,537);
 ref = exclam;
 scale = (1,-1);
 }
@@ -30,7 +30,7 @@ layerId = m003;
 shapes = (
 {
 alignment = 1;
-pos = (0,545);
+pos = (0,553);
 ref = exclam;
 scale = (1,-1);
 }
