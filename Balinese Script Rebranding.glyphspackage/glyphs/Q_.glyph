@@ -89,11 +89,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (-90,-2);
+pos = (-10,-2);
 ref = _tail_Q;
 }
 );
-width = 543;
+width = 703;
 },
 {
 anchors = (
@@ -423,7 +423,7 @@ pos = (9,-2);
 ref = _tail_Q;
 }
 );
-width = 740;
+width = 743;
 },
 {
 anchors = (
