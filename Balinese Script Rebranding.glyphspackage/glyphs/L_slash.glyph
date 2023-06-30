@@ -5,6 +5,7 @@ layers = (
 background = {
 shapes = (
 {
+pos = (-13,0);
 ref = Eth;
 }
 );
@@ -13,15 +14,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (16,0);
+pos = (3,0);
 ref = L;
 },
 {
-pos = (16,0);
+pos = (13,0);
 ref = _L_slashshortcomb;
 }
 );
-width = 514;
+width = 488;
 },
 {
 background = {
@@ -49,6 +50,7 @@ width = 514;
 background = {
 shapes = (
 {
+pos = (-40,0);
 ref = Eth;
 }
 );
@@ -57,15 +59,15 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (16,0);
+pos = (-24,0);
 ref = L;
 },
 {
-pos = (16,0);
+pos = (-6,0);
 ref = _L_slashshortcomb;
 }
 );
-width = 514;
+width = 469;
 }
 );
 metricLeft = Eth;

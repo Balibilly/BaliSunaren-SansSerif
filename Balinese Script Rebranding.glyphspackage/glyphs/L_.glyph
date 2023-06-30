@@ -1,30 +1,29 @@
 {
-color = 9;
+color = 4;
 glyphname = L;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (279,0);
+pos = (289,0);
 },
 {
 name = center;
-pos = (92,350);
+pos = (102,350);
 },
 {
 name = top;
-pos = (269,700);
+pos = (279,700);
 },
 {
 name = topright;
-pos = (485,700);
+pos = (495,700);
 }
 );
 background = {
 shapes = (
 {
-pos = (17,0);
 ref = E;
 }
 );
@@ -33,15 +32,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-4,0);
+pos = (6,0);
 ref = _part.stem_L;
 },
 {
-pos = (-11,0);
+pos = (-21,0);
 ref = _bottom_E;
 }
 );
-width = 498;
+width = 485;
 },
 {
 anchors = (
@@ -65,7 +64,6 @@ pos = (485,700);
 background = {
 shapes = (
 {
-pos = (17,0);
 ref = E;
 }
 );
@@ -88,25 +86,24 @@ width = 498;
 anchors = (
 {
 name = bottom;
-pos = (279,0);
+pos = (297,0);
 },
 {
 name = center;
-pos = (92,350);
+pos = (110,350);
 },
 {
 name = top;
-pos = (269,700);
+pos = (287,700);
 },
 {
 name = topright;
-pos = (485,700);
+pos = (503,700);
 }
 );
 background = {
 shapes = (
 {
-pos = (17,0);
 ref = E;
 }
 );
@@ -115,15 +112,15 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (-4,0);
+pos = (14,0);
 ref = _part.stem_L;
 },
 {
-pos = (-11,0);
+pos = (-23,0);
 ref = _bottom_E;
 }
 );
-width = 498;
+width = 493;
 }
 );
 metricLeft = H;

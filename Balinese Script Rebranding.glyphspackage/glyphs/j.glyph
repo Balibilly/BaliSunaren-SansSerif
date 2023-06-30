@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = j;
 layers = (
 {
@@ -19,7 +19,7 @@ ref = jdotless;
 },
 {
 alignment = 1;
-pos = (3,20);
+pos = (2,20);
 ref = dotaccentcomb;
 }
 );
@@ -65,7 +65,7 @@ ref = jdotless;
 },
 {
 alignment = 1;
-pos = (3,-20);
+pos = (4,-12);
 ref = dotaccentcomb;
 }
 );

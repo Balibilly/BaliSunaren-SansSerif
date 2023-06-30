@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = i;
 layers = (
 {
@@ -45,11 +45,11 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (-12,0);
+pos = (-30,0);
 ref = dotaccentcomb;
 }
 );
-width = 241;
+width = 205;
 },
 {
 background = {
@@ -94,10 +94,11 @@ ref = idotless;
 },
 {
 alignment = 1;
+pos = (-8,0);
 ref = dotaccentcomb;
 }
 );
-width = 265;
+width = 249;
 },
 {
 background = {
@@ -142,11 +143,11 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (-2,0);
+pos = (13,0);
 ref = dotaccentcomb;
 }
 );
-width = 262;
+width = 292;
 }
 );
 metricRight = "=|";

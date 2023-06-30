@@ -48,7 +48,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 585;
 },
 {
 layerId = m002;
@@ -97,7 +97,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 571;
 },
 {
 layerId = m003;
@@ -146,7 +146,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 553;
 }
 );
 metricRight = o;

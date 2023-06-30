@@ -6,15 +6,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (16,0);
+pos = (-57,0);
 ref = H;
 },
 {
-pos = (86,0);
+pos = (13,0);
 ref = _H_strokelongcomb;
 }
 );
-width = 725;
+width = 719;
 },
 {
 layerId = m002;
@@ -36,15 +36,15 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (16,0);
+pos = (54,0);
 ref = H;
 },
 {
-pos = (-44,0);
+pos = (-6,0);
 ref = _H_strokelongcomb;
 }
 );
-width = 725;
+width = 684;
 }
 );
 metricLeft = Eth;
