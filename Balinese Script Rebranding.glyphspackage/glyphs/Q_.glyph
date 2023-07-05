@@ -80,11 +80,8 @@ layerId = "229C0EB5-1FD5-41FB-8082-67BB23A0F5E7";
 name = "27 Apr 23 09.18";
 shapes = (
 {
+alignment = -1;
 ref = O;
-},
-{
-pos = (-10,-2);
-ref = _tail_Q;
 }
 );
 width = 703;
@@ -239,11 +236,8 @@ layerId = "D87E79E7-6120-492B-B958-B88B5EF4B68D";
 name = "27 Apr 23 09.18";
 shapes = (
 {
+alignment = -1;
 ref = O;
-},
-{
-pos = (15,-2);
-ref = _tail_Q;
 }
 );
 width = 752;
@@ -357,8 +351,8 @@ nodes = (
 (587,101,l),
 (530,164,l),
 (417,304,l),
-(455,298,l),
-(321,181,l),
+(450,302,l),
+(316,185,l),
 (323,208,l),
 (420,97,l),
 (474,28,l),
@@ -398,11 +392,8 @@ layerId = "A4D68B99-2D41-4B99-A6FC-BB7F1EEF07A9";
 name = "27 Apr 23 09.18";
 shapes = (
 {
+alignment = -1;
 ref = O;
-},
-{
-pos = (9,-2);
-ref = _tail_Q;
 }
 );
 width = 743;

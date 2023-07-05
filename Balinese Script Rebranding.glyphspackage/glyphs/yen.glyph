@@ -8,11 +8,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (20,-99);
+pos = (-26,-99);
 ref = _bar_hor_dbl_;
 }
 );
-width = 570;
+width = 479;
 },
 {
 layerId = m002;
@@ -34,11 +34,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (20,-99);
+pos = (60,-99);
 ref = _bar_hor_dbl_;
 }
 );
-width = 570;
+width = 640;
 }
 );
 unicode = 165;
