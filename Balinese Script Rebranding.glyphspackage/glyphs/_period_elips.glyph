@@ -22,7 +22,7 @@ alignment = 1;
 ref = period;
 }
 );
-width = 178;
+width = 180;
 },
 {
 anchors = (
@@ -62,7 +62,7 @@ alignment = 1;
 ref = period;
 }
 );
-width = 178;
+width = 218;
 }
 );
 metricRight = "=|";

@@ -14,12 +14,12 @@ ref = H;
 layerId = m009;
 shapes = (
 {
-pos = (516,0);
+pos = (491,0);
 ref = S;
 scale = (-1,1);
 }
 );
-width = 516;
+width = 491;
 },
 {
 background = {
@@ -52,12 +52,12 @@ ref = H;
 layerId = m003;
 shapes = (
 {
-pos = (516,0);
+pos = (568,0);
 ref = S;
 scale = (-1,1);
 }
 );
-width = 516;
+width = 568;
 }
 );
 }

@@ -16,7 +16,7 @@ alignment = 1;
 ref = comma;
 },
 {
-pos = (0,454);
+pos = (-26,490);
 ref = period;
 }
 );
@@ -37,7 +37,7 @@ alignment = 1;
 ref = comma;
 },
 {
-pos = (0,454);
+pos = (-1,454);
 ref = period;
 }
 );
@@ -58,11 +58,11 @@ alignment = 1;
 ref = comma;
 },
 {
-pos = (0,454);
+pos = (9,407);
 ref = period;
 }
 );
-width = 172;
+width = 235;
 }
 );
 unicode = 59;

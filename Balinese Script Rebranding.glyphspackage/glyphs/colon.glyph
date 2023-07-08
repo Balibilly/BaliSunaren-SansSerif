@@ -10,11 +10,11 @@ ref = period;
 },
 {
 alignment = 1;
-pos = (0,454);
+pos = (0,490);
 ref = period;
 }
 );
-width = 178;
+width = 180;
 },
 {
 layerId = m002;
@@ -40,11 +40,11 @@ ref = period;
 },
 {
 alignment = 1;
-pos = (0,454);
+pos = (0,407);
 ref = period;
 }
 );
-width = 178;
+width = 218;
 }
 );
 metricRight = "=|";

@@ -8,7 +8,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (-26,-99);
+pos = (-59,-99);
 ref = _bar_hor_dbl_;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (60,-99);
+pos = (55,-180);
 ref = _bar_hor_dbl_;
 }
 );

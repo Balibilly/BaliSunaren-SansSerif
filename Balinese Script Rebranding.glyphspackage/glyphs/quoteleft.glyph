@@ -51,14 +51,14 @@ pos = (35,504);
 },
 {
 name = quoteleft;
-pos = (193,504);
+pos = (233,504);
 }
 );
 layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (172,595);
+pos = (232,595);
 ref = comma;
 }
 );

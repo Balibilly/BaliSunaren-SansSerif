@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _quotesingle;
-pos = (40,700);
+pos = (70,700);
 },
 {
 name = quotesingle;
-pos = (171,700);
+pos = (151,700);
 }
 );
 layerId = m009;
@@ -17,14 +17,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(115,494,l),
-(115,700,l),
-(40,700,l),
-(40,494,l)
+(95,504,l),
+(95,700,l),
+(70,700,l),
+(70,504,l)
 );
 }
 );
-width = 155;
+width = 165;
 },
 {
 anchors = (
@@ -55,11 +55,11 @@ width = 155;
 anchors = (
 {
 name = _quotesingle;
-pos = (40,700);
+pos = (20,700);
 },
 {
 name = quotesingle;
-pos = (171,700);
+pos = (191,700);
 }
 );
 layerId = m003;
@@ -67,10 +67,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(115,494,l),
-(115,700,l),
-(40,700,l),
-(40,494,l)
+(135,464,l),
+(135,700,l),
+(20,700,l),
+(20,464,l)
 );
 }
 );

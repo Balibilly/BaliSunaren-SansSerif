@@ -27,12 +27,12 @@ width = 280;
 layerId = m003;
 shapes = (
 {
-pos = (280,0);
+pos = (340,0);
 ref = parenleft;
 scale = (-1,1);
 }
 );
-width = 280;
+width = 340;
 }
 );
 metricLeft = "=|parenleft";

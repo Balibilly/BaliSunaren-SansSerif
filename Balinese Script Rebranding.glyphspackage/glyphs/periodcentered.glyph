@@ -5,11 +5,11 @@ layers = (
 layerId = m009;
 shapes = (
 {
-pos = (0,227);
+pos = (0,249);
 ref = period;
 }
 );
-width = 178;
+width = 180;
 },
 {
 layerId = m002;
@@ -25,11 +25,11 @@ width = 178;
 layerId = m003;
 shapes = (
 {
-pos = (0,227);
+pos = (0,201);
 ref = period;
 }
 );
-width = 178;
+width = 218;
 }
 );
 metricLeft = period;

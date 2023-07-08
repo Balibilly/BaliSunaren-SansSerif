@@ -6,38 +6,38 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (14,-10);
+pos = (14,20);
 ref = _bitang_;
 },
 {
 alignment = -1;
-pos = (14,1047);
+pos = (14,1077);
 ref = _bitang_;
 scale = (1,-1);
 },
 {
 alignment = -1;
 angle = -60;
-pos = (-345,425);
+pos = (-345,455);
 ref = _bitang_;
 },
 {
 alignment = -1;
 angle = -60;
-pos = (570,953);
+pos = (570,983);
 ref = _bitang_;
 scale = (1,-1);
 },
 {
 alignment = -1;
 angle = -120;
-pos = (-149,953);
+pos = (-149,983);
 ref = _bitang_;
 },
 {
 alignment = -1;
 angle = -120;
-pos = (766,425);
+pos = (766,455);
 ref = _bitang_;
 scale = (1,-1);
 }
@@ -158,38 +158,38 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (14,-10);
+pos = (14,-30);
 ref = _bitang_;
 },
 {
 alignment = -1;
-pos = (14,1047);
+pos = (14,1027);
 ref = _bitang_;
 scale = (1,-1);
 },
 {
 alignment = -1;
 angle = -60;
-pos = (-345,425);
+pos = (-345,405);
 ref = _bitang_;
 },
 {
 alignment = -1;
 angle = -60;
-pos = (570,953);
+pos = (570,933);
 ref = _bitang_;
 scale = (1,-1);
 },
 {
 alignment = -1;
 angle = -120;
-pos = (-149,953);
+pos = (-149,933);
 ref = _bitang_;
 },
 {
 alignment = -1;
 angle = -120;
-pos = (766,425);
+pos = (766,405);
 ref = _bitang_;
 scale = (1,-1);
 }

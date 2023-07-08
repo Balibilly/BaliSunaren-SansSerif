@@ -11,7 +11,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 244;
+width = 246;
 },
 {
 layerId = m002;
