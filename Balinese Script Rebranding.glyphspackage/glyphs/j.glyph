@@ -19,7 +19,7 @@ ref = jdotless;
 },
 {
 alignment = 1;
-pos = (2,20);
+pos = (2,0);
 ref = dotaccentcomb;
 }
 );
@@ -65,7 +65,7 @@ ref = jdotless;
 },
 {
 alignment = 1;
-pos = (4,-12);
+pos = (4,0);
 ref = dotaccentcomb;
 }
 );

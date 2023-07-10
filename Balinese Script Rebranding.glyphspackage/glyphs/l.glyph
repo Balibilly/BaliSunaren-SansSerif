@@ -18,7 +18,7 @@ pos = (91,750);
 },
 {
 name = topright;
-pos = (235,750);
+pos = (195,750);
 }
 );
 background = {
@@ -73,7 +73,7 @@ pos = (103,750);
 },
 {
 name = topright;
-pos = (247,750);
+pos = (211,750);
 }
 );
 background = {
@@ -120,7 +120,7 @@ pos = (121,0);
 },
 {
 name = center;
-pos = (121,375);
+pos = (103,375);
 },
 {
 name = top;
@@ -128,7 +128,7 @@ pos = (121,750);
 },
 {
 name = topright;
-pos = (265,750);
+pos = (267,750);
 }
 );
 background = {
@@ -165,7 +165,7 @@ nodes = (
 );
 }
 );
-width = 285;
+width = 305;
 }
 );
 unicode = 108;

@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (206,545);
+pos = (206,537);
 },
 {
 name = top;
@@ -20,7 +20,7 @@ ref = acutecomb;
 },
 {
 alignment = -1;
-pos = (131,0);
+pos = (89,0);
 ref = acutecomb;
 }
 );
@@ -55,11 +55,11 @@ width = 396;
 anchors = (
 {
 name = _top;
-pos = (206,545);
+pos = (216,553);
 },
 {
 name = top;
-pos = (206,750);
+pos = (216,750);
 }
 );
 layerId = m003;
@@ -70,11 +70,11 @@ ref = acutecomb;
 },
 {
 alignment = -1;
-pos = (131,0);
+pos = (161,0);
 ref = acutecomb;
 }
 );
-width = 396;
+width = 426;
 }
 );
 metricLeft = acutecomb;

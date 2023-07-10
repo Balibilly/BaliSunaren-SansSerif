@@ -32,7 +32,7 @@ ref = upArrow;
 scale = (1,-1);
 }
 );
-width = 813;
+width = 812;
 }
 );
 metricLeft = upArrow;

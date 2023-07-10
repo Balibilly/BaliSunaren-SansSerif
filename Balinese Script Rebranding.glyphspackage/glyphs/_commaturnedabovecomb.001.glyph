@@ -1,5 +1,6 @@
 {
-glyphname = commaturnedabovecomb;
+export = 0;
+glyphname = _commaturnedabovecomb.001;
 layers = (
 {
 layerId = m009;
@@ -83,5 +84,4 @@ nodes = (
 width = 176;
 }
 );
-unicode = 786;
 }

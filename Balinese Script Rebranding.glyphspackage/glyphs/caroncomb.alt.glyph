@@ -2,16 +2,73 @@
 glyphname = caroncomb.alt;
 layers = (
 {
+anchors = (
+{
+name = _topright;
+pos = (59,750);
+}
+);
 layerId = m009;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(26,573,l),
+(73,573,l),
+(55,559,l),
+(87,750,l),
+(59,750,l),
+(38,549,l)
+);
+}
+);
+width = 265;
 },
 {
+anchors = (
+{
+name = _topright;
+pos = (62,750);
+}
+);
 layerId = m002;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,563,l),
+(151,563,l),
+(87,532,l),
+(133,750,l),
+(62,750,l),
+(39,532,l)
+);
+}
+);
+width = 270;
 },
 {
+anchors = (
+{
+name = _topright;
+pos = (59,750);
+}
+);
 layerId = m003;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(13,553,l),
+(143,553,l),
+(103,525,l),
+(161,750,l),
+(59,750,l),
+(36,532,l)
+);
+}
+);
+width = 265;
 }
 );
 }

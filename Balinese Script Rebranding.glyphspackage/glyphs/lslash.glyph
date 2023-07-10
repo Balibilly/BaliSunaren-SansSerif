@@ -35,16 +35,14 @@ width = 283;
 layerId = m003;
 shapes = (
 {
-alignment = -1;
-pos = (14,0);
 ref = l;
 },
 {
-pos = (14,0);
+pos = (-18,0);
 ref = _l_slash;
 }
 );
-width = 283;
+width = 305;
 }
 );
 unicode = 322;
