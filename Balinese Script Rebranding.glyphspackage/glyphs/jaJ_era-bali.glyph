@@ -5,59 +5,32 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (637,650);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (33,0);
-ref = _nga_tenas;
-},
-{
-pos = (10,0);
-ref = _aikara_ikuh;
-},
-{
-alignment = -1;
-pos = (10,0);
-ref = _okara_tenas;
-},
-{
-ref = _Ilut_duwur;
-}
-);
-width = 1330;
-},
-{
-anchors = (
-{
-name = top;
-pos = (637,650);
+pos = (649,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (33,0);
+pos = (45,0);
 ref = _nga_tenas;
 },
 {
-pos = (10,0);
+pos = (22,0);
 ref = _aikara_ikuh;
 },
 {
 alignment = -1;
-pos = (10,0);
+pos = (22,0);
 ref = _okara_tenas;
 },
 {
+pos = (12,0);
 ref = _Ilut_duwur;
 }
 );
-width = 1330;
+width = 1342;
 },
 {
 anchors = (
@@ -66,7 +39,9 @@ name = top;
 pos = (637,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

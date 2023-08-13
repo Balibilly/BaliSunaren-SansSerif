@@ -1,38 +1,51 @@
 {
 glyphname = questiondown;
+kernLeft = questiondown;
+kernRight = questiondown;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-angle = 180;
-pos = (453,537);
-ref = question;
-}
-);
-width = 427;
-},
 {
 layerId = m002;
 shapes = (
 {
-angle = 180;
-pos = (453,545);
-ref = question;
-}
+closed = 1;
+nodes = (
+(374,-165,o),
+(468,-81,o),
+(455,65,c),
+(467,44,l),
+(353,48,l),
+(369,59,l),
+(375,-42,o),
+(316,-91,o),
+(233,-91,cs),
+(144,-91,o),
+(112,-35,o),
+(112,28,cs),
+(112,153,o),
+(295,205,o),
+(295,347,cs),
+(295,390,l),
+(217,390,l),
+(217,349,ls),
+(217,237,o),
+(26,182,o),
+(26,28,cs),
+(26,-95,o),
+(109,-165,o),
+(235,-165,cs)
 );
-width = 427;
 },
 {
-layerId = m003;
-shapes = (
-{
-angle = 180;
-pos = (453,553);
-ref = question;
+closed = 1;
+nodes = (
+(305,454,l),
+(305,545,l),
+(207,545,l),
+(207,454,l)
+);
 }
 );
-width = 427;
+width = 466;
 }
 );
 unicode = 191;

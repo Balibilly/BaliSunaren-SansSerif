@@ -2,31 +2,14 @@
 glyphname = acute;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = acutecomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = acutecomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = acutecomb;
-}
-);
-width = 265;
+width = 292;
 }
 );
 unicode = 180;

@@ -12,31 +12,8 @@ name = top;
 pos = (134,650);
 }
 );
-layerId = m009;
-shapes = (
-{
-ref = "sa-bali.post";
-},
-{
-alignment = -1;
-pos = (-505,0);
-ref = _cecek_bangkiang;
-}
-);
-width = 623;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (563,0);
-},
-{
-name = top;
-pos = (134,650);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "sa-bali.post";
@@ -47,7 +24,7 @@ pos = (-505,0);
 ref = _cecek_bangkiang;
 }
 );
-width = 623;
+width = 643;
 },
 {
 anchors = (
@@ -60,7 +37,9 @@ name = top;
 pos = (134,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "sa-bali.post";

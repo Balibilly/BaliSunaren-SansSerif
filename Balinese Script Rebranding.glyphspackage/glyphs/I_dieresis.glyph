@@ -1,0 +1,38 @@
+{
+glyphname = Idieresis;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
+{
+name = ogonek;
+pos = (179,0);
+},
+{
+name = top;
+pos = (136,882);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+ref = _dieresiscom;
+}
+);
+width = 271;
+}
+);
+unicode = 207;
+}

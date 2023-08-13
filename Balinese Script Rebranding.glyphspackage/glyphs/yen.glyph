@@ -1,19 +1,8 @@
 {
 glyphname = yen;
+kernLeft = Y;
+kernRight = Y;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (-59,-99);
-ref = _bar_hor_dbl_;
-}
-);
-width = 479;
-},
 {
 layerId = m002;
 shapes = (
@@ -21,24 +10,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (20,-99);
+pos = (29,-99);
 ref = _bar_hor_dbl_;
 }
 );
-width = 570;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (55,-180);
-ref = _bar_hor_dbl_;
-}
-);
-width = 640;
+width = 588;
 }
 );
 unicode = 165;

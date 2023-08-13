@@ -2,37 +2,25 @@
 glyphname = "leftHandOpenPang-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(421,246,l),
-(421,308,l),
-(30,308,l),
-(30,246,l)
-);
-}
-);
-width = 451;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(421,246,l),
-(421,308,l),
-(30,308,l),
-(30,246,l)
+(449,237,l),
+(449,319,l),
+(67,319,l),
+(67,237,l)
 );
 }
 );
-width = 451;
+width = 516;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

@@ -1,38 +1,8 @@
 {
 glyphname = brokenbar;
+kernLeft = H;
+kernRight = H;
 layers = (
-{
-background = {
-shapes = (
-{
-pos = (200,0);
-ref = bar;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(130,-205,l),
-(130,176,l),
-(102,176,l),
-(102,-205,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(130,396,l),
-(130,750,l),
-(102,750,l),
-(102,396,l)
-);
-}
-);
-width = 232;
-},
 {
 background = {
 shapes = (
@@ -64,38 +34,6 @@ nodes = (
 }
 );
 width = 256;
-},
-{
-background = {
-shapes = (
-{
-pos = (147,0);
-ref = bar;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(183,-205,l),
-(183,176,l),
-(49,176,l),
-(49,-205,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(183,396,l),
-(183,750,l),
-(49,750,l),
-(49,396,l)
-);
-}
-);
-width = 232;
 }
 );
 metricLeft = bar;

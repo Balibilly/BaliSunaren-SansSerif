@@ -1,0 +1,61 @@
+{
+glyphname = vsuperior;
+layers = (
+{
+anchors = (
+{
+name = ytail;
+pos = (165,357);
+}
+);
+background = {
+shapes = (
+{
+pos = (-20,0);
+ref = V;
+},
+{
+pos = (-31,0);
+ref = o;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,357,l),
+(317,700,l),
+(258,700,l),
+(173,430,ls),
+(167,410,o),
+(165,402,o),
+(162,384,c),
+(166,384,l),
+(164,402,o),
+(161,412,o),
+(155,431,cs),
+(70,700,l),
+(10,700,l),
+(129,357,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 357;
+weight = -27;
+width = 62;
+};
+};
+width = 327;
+}
+);
+userData = {
+RMXScaler = {
+source = v;
+};
+};
+}

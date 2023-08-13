@@ -1,0 +1,19 @@
+{
+glyphname = s_t.ordn;
+kernRight = asterisk;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = ssuperior;
+},
+{
+pos = (309,0);
+ref = tsuperior;
+}
+);
+width = 544;
+}
+);
+}

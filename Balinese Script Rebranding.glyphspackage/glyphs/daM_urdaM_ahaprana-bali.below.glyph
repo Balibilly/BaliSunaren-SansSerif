@@ -5,61 +5,36 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (698,0);
+pos = (-241,0);
 },
 {
 name = bottom;
-pos = (535,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-60,-679);
-ref = _daMadu_bawah;
+pos = (-404,-679);
 },
 {
-alignment = -1;
-pos = (-85,0);
-ref = _daMadu_below;
-},
-{
-pos = (-60,-679);
-ref = _daMudra;
-}
-);
-width = 697;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (698,0);
-},
-{
-name = bottom;
-pos = (535,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (-60,-679);
+pos = (-999,-679);
 ref = _daMadu_bawah;
 },
 {
 alignment = -1;
-pos = (-85,0);
+pos = (-1024,0);
 ref = _daMadu_below;
 },
 {
-pos = (-60,-679);
+pos = (-999,-679);
 ref = _daMudra;
 }
 );
-width = 697;
+width = 0;
 },
 {
 anchors = (
@@ -72,7 +47,9 @@ name = bottom;
 pos = (535,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

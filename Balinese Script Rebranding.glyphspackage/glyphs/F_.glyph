@@ -1,43 +1,8 @@
 {
-color = 4;
 glyphname = F;
+kernLeft = H;
+kernRight = F;
 layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (268,0);
-},
-{
-name = top;
-pos = (268,700);
-}
-);
-background = {
-shapes = (
-{
-ref = E;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (6,0);
-ref = _part.stem_F;
-},
-{
-pos = (-6,0);
-ref = _top_E;
-},
-{
-pos = (-9,16);
-ref = _center_E;
-}
-);
-width = 525;
-},
 {
 anchors = (
 {
@@ -60,56 +25,25 @@ ref = E;
 layerId = m002;
 shapes = (
 {
-alignment = -1;
-pos = (-4,0);
-ref = _part.stem_F;
-},
-{
-pos = (-4,0);
-ref = _top_E;
-},
-{
-pos = (-9,16);
-ref = _center_E;
+closed = 1;
+nodes = (
+(179,0,l),
+(179,339,l),
+(163,323,l),
+(462,323,l),
+(462,399,l),
+(157,399,l),
+(179,377,l),
+(179,643,l),
+(158,622,l),
+(487,622,l),
+(487,700,l),
+(92,700,l),
+(92,0,l)
+);
 }
 );
-width = 515;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (246,0);
-},
-{
-name = top;
-pos = (246,700);
-}
-);
-background = {
-shapes = (
-{
-ref = E;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-alignment = -1;
-pos = (-16,0);
-ref = _part.stem_F;
-},
-{
-pos = (1,0);
-ref = _top_E;
-},
-{
-pos = (-8,9);
-ref = _center_E;
-}
-);
-width = 513;
+width = 519;
 }
 );
 metricLeft = H;

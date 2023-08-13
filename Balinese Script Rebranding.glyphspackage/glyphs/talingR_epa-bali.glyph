@@ -2,22 +2,8 @@
 glyphname = "talingRepa-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-ref = "taling-bali";
-},
-{
-pos = (25,1090);
-ref = _repa_;
-scale = (0.8641,0.8641);
-}
-);
-width = 522;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
@@ -32,7 +18,9 @@ scale = (0.8641,0.8641);
 width = 522;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

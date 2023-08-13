@@ -2,15 +2,21 @@
 glyphname = "dang-bali";
 layers = (
 {
-layerId = m009;
-width = 600;
-},
-{
 layerId = m002;
-width = 600;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-520,293);
+ref = _cecek_bangkiang;
+}
+);
+width = 342;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 width = 600;
 }
 );

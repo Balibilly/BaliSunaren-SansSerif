@@ -1,21 +1,8 @@
 {
 glyphname = bar;
+kernLeft = H;
+kernRight = H;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(130,-205,l),
-(130,750,l),
-(102,750,l),
-(102,-205,l)
-);
-}
-);
-width = 232;
-},
 {
 layerId = m002;
 shapes = (
@@ -30,21 +17,6 @@ nodes = (
 }
 );
 width = 256;
-},
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(183,-205,l),
-(183,750,l),
-(49,750,l),
-(49,-205,l)
-);
-}
-);
-width = 232;
 }
 );
 metricLeft = H;

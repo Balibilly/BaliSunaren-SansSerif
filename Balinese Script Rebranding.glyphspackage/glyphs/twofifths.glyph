@@ -1,0 +1,25 @@
+{
+glyphname = twofifths;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (255,0);
+ref = fraction;
+},
+{
+pos = (395,0);
+ref = five.dnom;
+}
+);
+width = 653;
+}
+);
+metricLeft = two.numr;
+metricRight = two.numr;
+unicode = 8534;
+}

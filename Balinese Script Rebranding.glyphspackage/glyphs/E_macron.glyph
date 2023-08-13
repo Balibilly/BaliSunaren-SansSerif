@@ -1,0 +1,21 @@
+{
+glyphname = Emacron;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (137,145);
+ref = macroncomb.case;
+}
+);
+width = 563;
+}
+);
+unicode = 274;
+}

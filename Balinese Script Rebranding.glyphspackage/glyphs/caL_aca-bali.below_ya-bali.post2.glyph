@@ -8,34 +8,15 @@ name = top;
 pos = (-525,650);
 }
 );
-layerId = m009;
-shapes = (
-{
-ref = "ya-bali.post2";
-},
-{
-alignment = -1;
-pos = (-1041,-679);
-ref = "caLaca-bali";
-}
-);
-width = 327;
-},
-{
-anchors = (
-{
-name = top;
-pos = (-525,650);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "ya-bali.post2";
 },
 {
 alignment = -1;
-pos = (-1041,-679);
+pos = (-1094,-679);
 ref = "caLaca-bali";
 }
 );
@@ -48,7 +29,9 @@ name = top;
 pos = (-525,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "ya-bali.post2";

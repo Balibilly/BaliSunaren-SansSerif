@@ -1,0 +1,66 @@
+{
+glyphname = semicolon.case;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+anchors = (
+{
+name = colon;
+pos = (72,994);
+}
+);
+background = {
+shapes = (
+{
+ref = period;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(58,-26,l),
+(129,-22,o),
+(170,24,o),
+(170,98,cs),
+(170,194,l),
+(72,194,l),
+(72,103,l),
+(111,103,ls),
+(116,103,o),
+(120,100,o),
+(120,94,cs),
+(120,40,o),
+(93,15,o),
+(50,7,c),
+(54,11,l),
+(62,-30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,503,l),
+(170,594,l),
+(72,594,l),
+(72,503,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 103;
+};
+};
+width = 242;
+}
+);
+userData = {
+RMXScaler = {
+source = semicolon;
+};
+};
+}

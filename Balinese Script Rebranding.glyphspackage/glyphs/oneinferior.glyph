@@ -1,0 +1,48 @@
+{
+glyphname = oneinferior;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-30,0);
+ref = two;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,-151,l),
+(136,164,l),
+(84,164,l),
+(1,107,l),
+(3,119,l),
+(34,67,l),
+(20,73,l),
+(101,110,l),
+(83,134,l),
+(83,-151,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = -151;
+weight = -27;
+width = 47;
+};
+};
+width = 188;
+}
+);
+unicode = 8321;
+userData = {
+RMXScaler = {
+source = one;
+};
+};
+}

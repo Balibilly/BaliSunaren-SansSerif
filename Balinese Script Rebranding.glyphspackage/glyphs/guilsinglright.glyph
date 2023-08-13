@@ -1,68 +1,32 @@
 {
 glyphname = guilsinglright;
+kernLeft = guillemetright;
+kernRight = guillemetright;
 layers = (
 {
 anchors = (
 {
 name = _guilsinglleft;
-pos = (41,0);
+pos = (111,0);
 },
 {
 name = guilsinglleft;
-pos = (245,0);
-}
-);
-layerId = m009;
-shapes = (
-{
-pos = (308,0);
-ref = guilsinglleft;
-scale = (-1,1);
-}
-);
-width = 308;
+pos = (315,0);
 },
 {
-anchors = (
-{
-name = _guilsinglleft;
-pos = (41,0);
-},
-{
-name = guilsinglleft;
-pos = (245,0);
+name = guilsinglright;
+pos = (109,0);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (308,0);
+pos = (399,0);
 ref = guilsinglleft;
 scale = (-1,1);
 }
 );
-width = 308;
-},
-{
-anchors = (
-{
-name = _guilsinglleft;
-pos = (41,0);
-},
-{
-name = guilsinglleft;
-pos = (245,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-pos = (308,0);
-ref = guilsinglleft;
-scale = (-1,1);
-}
-);
-width = 308;
+width = 399;
 }
 );
 metricLeft = "=|guilsinglleft";

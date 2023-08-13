@@ -5,83 +5,48 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (912,0);
+pos = (-93,0);
 },
 {
 name = bottom;
-pos = (912,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-pos = (25,-679);
-ref = _daMadu_bawah;
+pos = (-93,-679);
 },
 {
-closed = 1;
-nodes = (
-(697,-689,o),
-(766,-593,o),
-(766,-452,c),
-(696,-453,l),
-(696,-569,o),
-(646,-617,o),
-(607,-617,c),
-(610,-689,l)
-);
-},
-{
-alignment = -1;
-pos = (142,-679);
-ref = _wa_ca_gelungan;
-},
-{
-ref = _daMadu_below;
-}
-);
-width = 993;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (912,0);
-},
-{
-name = bottom;
-pos = (912,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (25,-679);
+pos = (-980,-679);
 ref = _daMadu_bawah;
 },
 {
 closed = 1;
 nodes = (
-(697,-689,o),
-(766,-593,o),
-(766,-452,c),
-(696,-453,l),
-(696,-569,o),
-(646,-617,o),
-(607,-617,c),
-(610,-689,l)
+(-308,-689,o),
+(-239,-593,o),
+(-239,-452,c),
+(-309,-453,l),
+(-309,-569,o),
+(-359,-617,o),
+(-398,-617,c),
+(-395,-689,l)
 );
 },
 {
 alignment = -1;
-pos = (142,-679);
+pos = (-863,-679);
 ref = _wa_ca_gelungan;
 },
 {
+pos = (-1005,0);
 ref = _daMadu_below;
 }
 );
-width = 993;
+width = 0;
 },
 {
 anchors = (
@@ -94,7 +59,9 @@ name = bottom;
 pos = (912,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (25,-679);

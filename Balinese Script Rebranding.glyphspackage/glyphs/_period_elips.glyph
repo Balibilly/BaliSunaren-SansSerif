@@ -8,31 +8,11 @@ layers = (
 anchors = (
 {
 name = _elips;
-pos = (40,91);
+pos = (52,91);
 },
 {
 name = elips;
-pos = (226,91);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = period;
-}
-);
-width = 180;
-},
-{
-anchors = (
-{
-name = _elips;
-pos = (40,91);
-},
-{
-name = elips;
-pos = (226,91);
+pos = (239,91);
 }
 );
 layerId = m002;
@@ -42,27 +22,7 @@ alignment = 1;
 ref = period;
 }
 );
-width = 178;
-},
-{
-anchors = (
-{
-name = _elips;
-pos = (40,91);
-},
-{
-name = elips;
-pos = (226,91);
-}
-);
-layerId = m003;
-shapes = (
-{
-alignment = 1;
-ref = period;
-}
-);
-width = 218;
+width = 242;
 }
 );
 metricRight = "=|";

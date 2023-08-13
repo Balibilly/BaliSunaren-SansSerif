@@ -3,41 +3,7 @@ export = 0;
 glyphname = _nania_panjang;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(267,-1095,l),
-(267,0,l),
-(260,10,l),
-(196,10,l),
-(191,0,l),
-(191,-1095,l)
-);
-}
-);
-width = 327;
-},
-{
 layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(267,-1095,l),
-(267,0,l),
-(260,10,l),
-(196,10,l),
-(191,0,l),
-(191,-1095,l)
-);
-}
-);
-width = 327;
-},
-{
-layerId = m003;
 shapes = (
 {
 closed = 1;

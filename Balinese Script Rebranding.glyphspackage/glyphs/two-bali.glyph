@@ -2,31 +2,25 @@
 glyphname = "two-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "laLenga-bali";
-}
-);
-width = 1079;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "laLenga-bali";
 }
 );
-width = 1079;
+width = 1091;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "laLenga-bali";
 }
 );
-width = 1079;
+width = 1091;
 }
 );
 unicode = 6994;

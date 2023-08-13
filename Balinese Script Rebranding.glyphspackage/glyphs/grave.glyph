@@ -2,31 +2,14 @@
 glyphname = grave;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = gravecomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = gravecomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = gravecomb;
-}
-);
-width = 265;
+width = 292;
 }
 );
 unicode = 96;

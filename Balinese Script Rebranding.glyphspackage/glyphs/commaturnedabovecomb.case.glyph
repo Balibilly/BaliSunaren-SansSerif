@@ -1,0 +1,28 @@
+{
+glyphname = commaturnedabovecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (120,555);
+},
+{
+name = top;
+pos = (131,743);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,22);
+ref = commaturnedabovecomb;
+scale = (1,0.913);
+}
+);
+width = 270;
+}
+);
+metricLeft = dotaccentcomb;
+metricRight = "=|";
+}

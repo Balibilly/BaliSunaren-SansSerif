@@ -1,0 +1,75 @@
+{
+glyphname = usuperior;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (184,357);
+},
+{
+name = ogonek;
+pos = (313,357);
+},
+{
+name = top;
+pos = (184,700);
+},
+{
+name = topright;
+pos = (358,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,351,o),
+(234,373,o),
+(257,405,c),
+(265,405,l),
+(263,486,l),
+(258,486,l),
+(252,446,o),
+(221,399,o),
+(168,399,cs),
+(127,399,o),
+(102,427,o),
+(102,489,cs),
+(102,700,l),
+(47,700,l),
+(47,483,ls),
+(47,404,o),
+(87,351,o),
+(155,351,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(313,357,l),
+(313,700,l),
+(258,700,l),
+(258,407,l),
+(272,357,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 357;
+weight = -27;
+width = 62;
+};
+};
+width = 366;
+}
+);
+userData = {
+RMXScaler = {
+source = u;
+};
+};
+}

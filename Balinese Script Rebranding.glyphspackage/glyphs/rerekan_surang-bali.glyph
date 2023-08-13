@@ -8,27 +8,8 @@ name = _top;
 pos = (284,630);
 }
 );
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = "rerekan-bali";
-},
-{
-pos = (478,0);
-ref = "surang-bali";
-}
-);
-width = 578;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (284,630);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = 1;
@@ -39,7 +20,7 @@ pos = (478,0);
 ref = "surang-bali";
 }
 );
-width = 578;
+width = 0;
 },
 {
 anchors = (
@@ -48,13 +29,16 @@ name = _top;
 pos = (284,630);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = "rerekan-bali";
 },
 {
+alignment = -1;
 pos = (478,0);
 ref = "surang-bali";
 }

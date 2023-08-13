@@ -2,37 +2,44 @@
 glyphname = greaterequal;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (493,0);
-ref = lessequal;
-scale = (-1,1);
-}
-);
-width = 493;
-},
-{
 layerId = m002;
 shapes = (
 {
-pos = (493,0);
-ref = lessequal;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(27,154,l),
+(491,333,l),
+(471,306,l),
+(471,411,l),
+(487,380,l),
+(32,552,l),
+(82,557,l),
+(50,460,l),
+(30,484,l),
+(335,374,ls),
+(363,364,o),
+(402,354,o),
+(419,355,c),
+(419,358,l),
+(403,358,o),
+(364,347,o),
+(335,336,cs),
+(27,220,l),
+(50,242,l),
+(88,148,l)
 );
-width = 493;
 },
 {
-layerId = m003;
-shapes = (
-{
-pos = (493,0);
-ref = lessequal;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(471,0,l),
+(471,60,l),
+(53,60,l),
+(53,0,l)
+);
 }
 );
-width = 493;
+width = 521;
 }
 );
 metricLeft = "=|lessequal";

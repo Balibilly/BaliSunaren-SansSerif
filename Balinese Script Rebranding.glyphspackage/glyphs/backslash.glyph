@@ -1,38 +1,22 @@
 {
 glyphname = backslash;
+kernLeft = Y;
+kernRight = A;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-pos = (362,0);
-ref = slash;
-scale = (-1,1);
-}
-);
-width = 364;
-},
 {
 layerId = m002;
 shapes = (
 {
-pos = (364,0);
-ref = slash;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(409,-10,l),
+(69,710,l),
+(-11,710,l),
+(328,-10,l)
+);
 }
 );
-width = 364;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (404,0);
-ref = slash;
-scale = (-1,1);
-}
-);
-width = 404;
+width = 410;
 }
 );
 metricLeft = "=|slash";

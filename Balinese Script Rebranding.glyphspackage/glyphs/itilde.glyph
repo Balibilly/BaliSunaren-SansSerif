@@ -1,0 +1,21 @@
+{
+glyphname = itilde;
+kernLeft = h;
+kernRight = i;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-11,-120);
+ref = _tildecomb;
+}
+);
+width = 249;
+}
+);
+unicode = 297;
+}

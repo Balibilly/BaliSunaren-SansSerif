@@ -1,65 +1,44 @@
 {
 glyphname = quoteright;
+kernLeft = asterisk;
+kernRight = asterisk;
 layers = (
 {
 anchors = (
 {
 name = _quoteleft;
-pos = (43,700);
+pos = (54,700);
 },
 {
 name = quoteleft;
-pos = (201,700);
-}
-);
-layerId = m009;
-shapes = (
-{
-pos = (4,609);
-ref = comma;
-}
-);
-width = 176;
-},
-{
-anchors = (
-{
-name = _quoteleft;
-pos = (43,700);
-},
-{
-name = quoteleft;
-pos = (201,700);
+pos = (212,700);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (4,609);
-ref = comma;
+closed = 1;
+nodes = (
+(53,459,l),
+(124,467,o),
+(165,515,o),
+(165,611,cs),
+(165,700,l),
+(67,700,l),
+(67,616,l),
+(108,616,ls),
+(113,616,o),
+(117,613,o),
+(117,607,cs),
+(116,544,o),
+(103,504,o),
+(45,492,c),
+(49,496,l),
+(59,455,l)
+);
 }
 );
-width = 176;
-},
-{
-anchors = (
-{
-name = _quoteleft;
-pos = (43,700);
-},
-{
-name = quoteleft;
-pos = (201,700);
-}
-);
-layerId = m003;
-shapes = (
-{
-pos = (4,609);
-ref = comma;
-}
-);
-width = 176;
+width = 216;
 }
 );
 metricLeft = "=|quoteleft";

@@ -1,0 +1,21 @@
+{
+glyphname = Zacute;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (160,145);
+ref = acutecomb.case;
+}
+);
+width = 554;
+}
+);
+unicode = 377;
+}

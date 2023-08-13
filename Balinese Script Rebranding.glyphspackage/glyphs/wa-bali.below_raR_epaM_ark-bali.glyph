@@ -1,0 +1,37 @@
+{
+color = 4;
+glyphname = "wa-bali.below_raRepaMark-bali";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-80,0);
+},
+{
+name = bottom;
+pos = (-8,-794);
+},
+{
+name = cecekbawah;
+pos = (-431,-868);
+},
+{
+name = top;
+pos = (-314,862);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "wa-bali.below_ra-bali.post";
+},
+{
+pos = (-1084,-1130);
+ref = _cecek_bawah;
+}
+);
+width = 163;
+}
+);
+}

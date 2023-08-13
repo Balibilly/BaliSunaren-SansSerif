@@ -2,45 +2,25 @@
 glyphname = "rightHandClosedTak-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (58,0);
-ref = "rightHandOpenDag-bali";
-},
-{
-closed = 1;
-nodes = (
-(359,257,l),
-(63,590,l),
-(30,556,l),
-(332,231,l)
-);
-}
-);
-width = 575;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (58,0);
+alignment = 1;
 ref = "rightHandOpenDag-bali";
 },
 {
-closed = 1;
-nodes = (
-(359,257,l),
-(63,590,l),
-(30,556,l),
-(332,231,l)
-);
+alignment = -1;
+pos = (64,0);
+ref = _segtitga_bali;
 }
 );
-width = 575;
+width = 588;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (58,0);
@@ -59,5 +39,7 @@ nodes = (
 width = 575;
 }
 );
+metricLeft = "rightHandOpenDag-bali";
+metricRight = "rightHandOpenDag-bali";
 unicode = 7031;
 }

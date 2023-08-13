@@ -1,4 +1,5 @@
 {
+category = Letter;
 glyphname = "pa-bali.post";
 layers = (
 {
@@ -12,31 +13,8 @@ name = top;
 pos = (134,650);
 }
 );
-layerId = m009;
-shapes = (
-{
-ref = _sa_sapa_tenas;
-},
-{
-alignment = -1;
-pos = (-581,0);
-ref = _ha_geluungan_ha;
-}
-);
-width = 623;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (563,0);
-},
-{
-name = top;
-pos = (134,650);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = _sa_sapa_tenas;
@@ -47,7 +25,7 @@ pos = (-581,0);
 ref = _ha_geluungan_ha;
 }
 );
-width = 623;
+width = 643;
 },
 {
 anchors = (
@@ -60,7 +38,9 @@ name = top;
 pos = (134,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = _sa_sapa_tenas;

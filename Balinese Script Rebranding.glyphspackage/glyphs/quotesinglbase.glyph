@@ -1,35 +1,17 @@
 {
 glyphname = quotesinglbase;
+kernLeft = period;
+kernRight = period;
 layers = (
 {
 anchors = (
 {
 name = _quotesinglbase;
-pos = (39,91);
+pos = (212,91);
 },
 {
 name = quotesinglbase;
-pos = (142,91);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-}
-);
-width = 172;
-},
-{
-anchors = (
-{
-name = _quotesinglbase;
-pos = (39,91);
-},
-{
-name = quotesinglbase;
-pos = (197,91);
+pos = (370,91);
 }
 );
 layerId = m002;
@@ -39,27 +21,7 @@ alignment = 1;
 ref = comma;
 }
 );
-width = 172;
-},
-{
-anchors = (
-{
-name = _quotesinglbase;
-pos = (39,91);
-},
-{
-name = quotesinglbase;
-pos = (237,91);
-}
-);
-layerId = m003;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-}
-);
-width = 235;
+width = 242;
 }
 );
 metricLeft = period;

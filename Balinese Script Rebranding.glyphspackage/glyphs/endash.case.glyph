@@ -1,0 +1,32 @@
+{
+glyphname = endash.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(449,308,l),
+(449,390,l),
+(67,390,l),
+(67,308,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 516;
+}
+);
+userData = {
+RMXScaler = {
+source = endash;
+};
+};
+}

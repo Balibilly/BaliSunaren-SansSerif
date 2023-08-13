@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = _dieresiscom;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (136,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,780,l),
+(105,855,l),
+(28,855,l),
+(28,780,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(244,780,l),
+(244,855,l),
+(167,855,l),
+(167,780,l)
+);
+}
+);
+width = 271;
+}
+);
+}

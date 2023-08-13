@@ -2,31 +2,14 @@
 glyphname = cedilla;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = cedillacomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = cedillacomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = cedillacomb;
-}
-);
-width = 265;
+width = 255;
 }
 );
 unicode = 184;

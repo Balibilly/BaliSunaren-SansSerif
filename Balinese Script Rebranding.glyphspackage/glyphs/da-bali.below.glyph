@@ -5,43 +5,27 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (752,0);
+pos = (-97,0);
 },
 {
 name = bottom;
-pos = (682,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-49,-679);
-ref = "ekara-bali";
-}
-);
-width = 772;
+pos = (-167,-679);
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (752,0);
-},
-{
-name = bottom;
-pos = (682,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (-49,-679);
+pos = (-898,-679);
 ref = "ekara-bali";
 }
 );
-width = 772;
+width = 0;
 },
 {
 anchors = (
@@ -54,7 +38,9 @@ name = bottom;
 pos = (682,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

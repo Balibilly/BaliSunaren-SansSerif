@@ -2,37 +2,53 @@
 glyphname = upDownArrow;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-angle = 90;
-pos = (621,-33);
-ref = leftRightArrow;
-}
-);
-width = 537;
-},
-{
 layerId = m002;
 shapes = (
 {
-angle = 90;
-pos = (621,-33);
-ref = leftRightArrow;
-}
+closed = 1;
+nodes = (
+(451,417,l),
+(520,486,l),
+(526,459,l),
+(255,729,l),
+(319,729,l),
+(54,464,l),
+(58,488,l),
+(128,418,l),
+(102,416,l),
+(312,630,l),
+(257,630,l),
+(477,413,l)
 );
-width = 537;
 },
 {
-layerId = m003;
-shapes = (
+closed = 1;
+nodes = (
+(526,215,l),
+(520,188,l),
+(451,257,l),
+(477,261,l),
+(257,44,l),
+(312,44,l),
+(102,258,l),
+(128,256,l),
+(58,186,l),
+(54,210,l),
+(319,-55,l),
+(255,-55,l)
+);
+},
 {
-angle = 90;
-pos = (621,-33);
-ref = leftRightArrow;
+closed = 1;
+nodes = (
+(320,57,l),
+(320,617,l),
+(253,617,l),
+(253,57,l)
+);
 }
 );
-width = 537;
+width = 577;
 }
 );
 metricRight = "=|";

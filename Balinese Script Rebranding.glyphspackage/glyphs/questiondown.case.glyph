@@ -1,0 +1,27 @@
+{
+glyphname = questiondown.case;
+kernLeft = questiondown;
+kernRight = questiondown;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,155);
+ref = questiondown;
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 155;
+};
+};
+width = 466;
+}
+);
+userData = {
+RMXScaler = {
+source = questiondown;
+};
+};
+}

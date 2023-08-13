@@ -5,65 +5,37 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (133,537);
+pos = (198,545);
 },
 {
 name = top;
-pos = (133,750);
-}
-);
-layerId = m009;
-shapes = (
-{
-pos = (0,1413);
-ref = circumflexcomb;
-scale = (1,-1);
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (133,545);
-},
-{
-name = top;
-pos = (133,750);
+pos = (198,783);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (0,1362);
-ref = circumflexcomb;
-scale = (1,-1);
+closed = 1;
+nodes = (
+(226,636,l),
+(334,796,l),
+(339,783,l),
+(242,783,l),
+(260,794,l),
+(181,691,l),
+(208,691,l),
+(132,794,l),
+(160,783,l),
+(44,783,l),
+(48,809,l),
+(164,636,l)
+);
 }
 );
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (133,553);
-},
-{
-name = top;
-pos = (133,750);
+width = 390;
 }
 );
-layerId = m003;
-shapes = (
-{
-pos = (0,1345);
-ref = circumflexcomb;
-scale = (1,-1);
-}
-);
-width = 265;
-}
-);
+metricLeft = circumflexcomb;
+metricRight = circumflexcomb;
 unicode = 780;
 }

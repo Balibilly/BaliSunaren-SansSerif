@@ -1,38 +1,18 @@
 {
 glyphname = guillemetright;
+kernLeft = guillemetright;
+kernRight = guillemetright;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-pos = (512,0);
-ref = guillemetleft;
-scale = (-1,1);
-}
-);
-width = 512;
-},
 {
 layerId = m002;
 shapes = (
 {
-pos = (512,0);
+pos = (585,0);
 ref = guillemetleft;
 scale = (-1,1);
 }
 );
-width = 512;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (512,0);
-ref = guillemetleft;
-scale = (-1,1);
-}
-);
-width = 512;
+width = 585;
 }
 );
 metricLeft = "=|guilsinglleft";

@@ -2,15 +2,14 @@
 glyphname = "pepetTedung-bali";
 layers = (
 {
-layerId = m009;
-width = 1275;
-},
-{
 layerId = m002;
+name = Regular;
 width = 1275;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 width = 1275;
 }
 );

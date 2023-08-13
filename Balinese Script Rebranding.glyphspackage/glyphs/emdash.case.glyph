@@ -1,0 +1,40 @@
+{
+glyphname = emdash.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-15,0);
+ref = M;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(737,309,l),
+(737,390,l),
+(67,390,l),
+(67,309,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 804;
+}
+);
+userData = {
+RMXScaler = {
+source = emdash;
+};
+};
+}

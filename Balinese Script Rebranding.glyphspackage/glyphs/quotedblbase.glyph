@@ -1,56 +1,25 @@
 {
 glyphname = quotedblbase;
+kernLeft = period;
+kernRight = period;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (29,0);
-ref = quotesinglbase;
-},
-{
-alignment = 1;
-pos = (132,0);
-ref = quotesinglbase;
-}
-);
-width = 286;
-},
 {
 layerId = m002;
 shapes = (
 {
 alignment = -1;
-pos = (5,0);
 ref = quotesinglbase;
 },
 {
 alignment = 1;
-pos = (163,0);
+pos = (158,0);
 ref = quotesinglbase;
 }
 );
-width = 340;
-},
-{
-layerId = m003;
-shapes = (
-{
-alignment = -1;
-pos = (-8,0);
-ref = quotesinglbase;
-},
-{
-alignment = 1;
-pos = (190,0);
-ref = quotesinglbase;
+width = 400;
 }
 );
-width = 417;
-}
-);
-metricLeft = period;
-metricRight = period;
+metricLeft = comma;
+metricRight = comma;
 unicode = 8222;
 }

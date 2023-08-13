@@ -2,16 +2,8 @@
 glyphname = "deng-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "taling-bali";
-}
-);
-width = 522;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "taling-bali";
@@ -20,7 +12,9 @@ ref = "taling-bali";
 width = 522;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "taling-bali";

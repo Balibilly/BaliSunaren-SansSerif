@@ -1,52 +1,13 @@
 {
-color = 4;
 glyphname = L;
+kernLeft = H;
+kernRight = L;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (289,0);
-},
-{
-name = center;
-pos = (102,350);
-},
-{
-name = top;
-pos = (120,700);
-},
-{
-name = topright;
-pos = (269,700);
-}
-);
-background = {
-shapes = (
-{
-ref = E;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (6,0);
-ref = _part.stem_L;
-},
-{
-pos = (-21,0);
-ref = _bottom_E;
-}
-);
-width = 485;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (279,0);
+pos = (319,0);
 },
 {
 name = center;
@@ -54,7 +15,7 @@ pos = (92,350);
 },
 {
 name = top;
-pos = (139,700);
+pos = (143,700);
 },
 {
 name = topright;
@@ -71,56 +32,19 @@ ref = E;
 layerId = m002;
 shapes = (
 {
-alignment = -1;
-pos = (-4,0);
-ref = _part.stem_L;
-},
-{
-pos = (-11,0);
-ref = _bottom_E;
+closed = 1;
+nodes = (
+(485,0,l),
+(485,78,l),
+(134,78,l),
+(179,33,l),
+(179,700,l),
+(92,700,l),
+(92,0,l)
+);
 }
 );
-width = 498;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (297,0);
-},
-{
-name = center;
-pos = (48,350);
-},
-{
-name = top;
-pos = (129,700);
-},
-{
-name = topright;
-pos = (298,700);
-}
-);
-background = {
-shapes = (
-{
-ref = E;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-alignment = -1;
-pos = (14,0);
-ref = _part.stem_L;
-},
-{
-pos = (-23,0);
-ref = _bottom_E;
-}
-);
-width = 493;
+width = 514;
 }
 );
 metricLeft = H;

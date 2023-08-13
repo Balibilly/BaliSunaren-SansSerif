@@ -1,0 +1,54 @@
+{
+glyphname = tenge;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (316,0);
+},
+{
+name = center;
+pos = (283,350);
+},
+{
+name = top;
+pos = (283,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(331,0,l),
+(331,548,l),
+(319,532,l),
+(548,532,l),
+(548,600,l),
+(17,600,l),
+(17,532,l),
+(254,532,l),
+(244,545,l),
+(244,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(548,632,l),
+(548,700,l),
+(17,700,l),
+(17,632,l)
+);
+}
+);
+width = 565;
+}
+);
+metricLeft = T;
+metricRight = T;
+unicode = 8376;
+}

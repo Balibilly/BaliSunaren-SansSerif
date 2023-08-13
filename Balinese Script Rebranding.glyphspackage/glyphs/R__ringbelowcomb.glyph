@@ -1,0 +1,20 @@
+{
+glyphname = R_ringbelowcomb;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (249,0);
+ref = ringbelowcomb;
+}
+);
+width = 619;
+}
+);
+}

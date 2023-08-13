@@ -1,0 +1,27 @@
+{
+glyphname = bullet.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,70);
+ref = bullet;
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 482;
+}
+);
+userData = {
+RMXScaler = {
+source = bullet;
+};
+};
+}

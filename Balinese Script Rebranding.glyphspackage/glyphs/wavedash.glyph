@@ -1,0 +1,41 @@
+{
+glyphname = wavedash;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(538,204,o),
+(601,209,o),
+(646,234,c),
+(628,304,l),
+(597,290,o),
+(541,282,o),
+(498,282,cs),
+(381,282,o),
+(325,342,o),
+(211,342,cs),
+(186,342,o),
+(119,339,o),
+(67,312,c),
+(86,241,l),
+(136,264,o),
+(190,264,o),
+(201,264,cs),
+(301,264,o),
+(364,204,o),
+(499,204,cs)
+);
+}
+);
+width = 713;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 12316;
+}

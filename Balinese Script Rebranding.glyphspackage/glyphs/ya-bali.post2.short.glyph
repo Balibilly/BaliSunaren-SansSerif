@@ -16,47 +16,8 @@ name = top;
 pos = (-311,630);
 }
 );
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-877,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (10,0);
-ref = _ya_bali_post2_awak;
-},
-{
-closed = 1;
-nodes = (
-(267,-689,l),
-(267,0,l),
-(260,10,l),
-(196,10,l),
-(191,0,l),
-(191,-689,l)
-);
-}
-);
-width = 327;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (-38,-679);
-},
-{
-name = bottom;
-pos = (141,-793);
-},
-{
-name = top;
-pos = (-311,630);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
@@ -79,7 +40,7 @@ nodes = (
 );
 }
 );
-width = 327;
+width = 347;
 },
 {
 anchors = (
@@ -96,7 +57,9 @@ name = top;
 pos = (-311,630);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;
@@ -123,5 +86,5 @@ width = 327;
 }
 );
 metricLeft = "ya-bali.post2";
-metricRight = "ya-bali.post";
+metricRight = "ha-bali";
 }

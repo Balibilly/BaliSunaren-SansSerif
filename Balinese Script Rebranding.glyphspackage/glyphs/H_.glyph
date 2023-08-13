@@ -1,60 +1,8 @@
 {
-color = 4;
 glyphname = H;
+kernLeft = H;
+kernRight = H;
 layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (324,0);
-},
-{
-name = center;
-pos = (324,350);
-},
-{
-name = top;
-pos = (324,700);
-},
-{
-name = topleft;
-pos = (86,700);
-}
-);
-background = {
-shapes = (
-{
-pos = (55,0);
-ref = O;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(127,0,l),
-(127,353,l),
-(116,343,l),
-(529,343,l),
-(520,350,l),
-(520,0,l),
-(549,0,l),
-(549,700,l),
-(520,700,l),
-(520,360,l),
-(533,369,l),
-(116,369,l),
-(127,359,l),
-(127,700,l),
-(98,700,l),
-(98,0,l)
-);
-}
-);
-width = 647;
-},
 {
 anchors = (
 {
@@ -107,59 +55,6 @@ nodes = (
 }
 );
 width = 693;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (357,0);
-},
-{
-name = center;
-pos = (357,350);
-},
-{
-name = top;
-pos = (357,700);
-},
-{
-name = topleft;
-pos = (-17,700);
-}
-);
-background = {
-shapes = (
-{
-pos = (-48,0);
-ref = O;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(220,0,l),
-(220,315,l),
-(200,291,l),
-(507,291,l),
-(494,311,l),
-(494,0,l),
-(642,0,l),
-(642,700,l),
-(494,700,l),
-(494,399,l),
-(511,423,l),
-(200,423,l),
-(220,396,l),
-(220,700,l),
-(72,700,l),
-(72,0,l)
-);
-}
-);
-width = 714;
 }
 );
 metricRight = "=|";

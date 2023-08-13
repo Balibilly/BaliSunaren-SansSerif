@@ -1,0 +1,16 @@
+{
+glyphname = five.tf;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (39,0);
+ref = five;
+}
+);
+width = 617;
+}
+);
+}

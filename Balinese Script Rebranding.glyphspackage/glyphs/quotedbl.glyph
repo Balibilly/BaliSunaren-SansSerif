@@ -1,19 +1,8 @@
 {
 glyphname = quotedbl;
+kernLeft = asterisk;
+kernRight = asterisk;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (81,0);
-ref = quotesingle;
-}
-);
-width = 246;
-},
 {
 layerId = m002;
 shapes = (
@@ -21,24 +10,11 @@ shapes = (
 ref = quotesingle;
 },
 {
-pos = (131,0);
+pos = (141,0);
 ref = quotesingle;
 }
 );
-width = 286;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (171,0);
-ref = quotesingle;
-}
-);
-width = 286;
+width = 338;
 }
 );
 metricLeft = quotesingle;

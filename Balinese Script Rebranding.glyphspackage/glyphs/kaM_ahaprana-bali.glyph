@@ -12,30 +12,8 @@ name = top;
 pos = (393,650);
 }
 );
-layerId = m009;
-shapes = (
-{
-ref = "na-bali";
-},
-{
-pos = (58,0);
-ref = _kaMahaprana;
-}
-);
-width = 915;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (893,-260);
-},
-{
-name = top;
-pos = (393,650);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "na-bali";
@@ -45,7 +23,7 @@ pos = (58,0);
 ref = _kaMahaprana;
 }
 );
-width = 915;
+width = 935;
 },
 {
 anchors = (
@@ -58,7 +36,9 @@ name = top;
 pos = (393,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "na-bali";
@@ -68,7 +48,7 @@ pos = (58,0);
 ref = _kaMahaprana;
 }
 );
-width = 915;
+width = 935;
 }
 );
 unicode = 6932;

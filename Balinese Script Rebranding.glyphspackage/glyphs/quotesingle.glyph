@@ -1,40 +1,17 @@
 {
 glyphname = quotesingle;
+kernLeft = asterisk;
+kernRight = asterisk;
 layers = (
 {
 anchors = (
 {
 name = _quotesingle;
-pos = (70,700);
+pos = (61,700);
 },
 {
 name = quotesingle;
-pos = (151,700);
-}
-);
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(95,504,l),
-(95,700,l),
-(70,700,l),
-(70,504,l)
-);
-}
-);
-width = 165;
-},
-{
-anchors = (
-{
-name = _quotesingle;
-pos = (40,700);
-},
-{
-name = quotesingle;
-pos = (171,700);
+pos = (202,700);
 }
 );
 layerId = m002;
@@ -42,41 +19,44 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(115,494,l),
-(115,700,l),
-(40,700,l),
-(40,494,l)
+(116,446,l),
+(146,700,l),
+(61,700,l),
+(51,446,l)
 );
 }
 );
-width = 155;
+width = 197;
 },
 {
 anchors = (
 {
 name = _quotesingle;
-pos = (20,700);
+pos = (69,700);
 },
 {
 name = quotesingle;
-pos = (191,700);
+pos = (210,700);
 }
 );
-layerId = m003;
+associatedMasterId = m002;
+layerId = "DC896D8E-19FA-4951-B6A7-9E22C728A43A";
+name = "14 Jul 23 09.00";
 shapes = (
 {
 closed = 1;
 nodes = (
-(135,464,l),
-(135,700,l),
-(20,700,l),
-(20,464,l)
+(144,446,l),
+(144,700,l),
+(69,700,l),
+(69,446,l)
 );
 }
 );
-width = 155;
+width = 213;
 }
 );
+metricLeft = quoteleft;
 metricRight = "=|";
 unicode = 39;
 }

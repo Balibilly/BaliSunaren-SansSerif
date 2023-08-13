@@ -5,73 +5,37 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (-60,0);
+pos = (-80,0);
 },
 {
 name = bottom;
-pos = (131,-457);
+pos = (111,-457);
 },
 {
 name = top;
-pos = (-311,630);
-}
-);
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(257,-368,l),
-(257,0,l),
-(250,10,l),
-(186,10,l),
-(181,0,l),
-(181,-368,l)
-);
-},
-{
-pos = (-887,0);
-ref = _ha_geluungan_ha;
-},
-{
-ref = ya_bali_post;
-}
-);
-width = 317;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (-60,0);
-},
-{
-name = bottom;
-pos = (131,-457);
-},
-{
-name = top;
-pos = (-311,630);
+pos = (-331,630);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(257,-368,l),
-(257,0,l),
-(250,10,l),
-(186,10,l),
-(181,0,l),
-(181,-368,l)
+(237,-368,l),
+(237,0,l),
+(230,10,l),
+(166,10,l),
+(161,0,l),
+(161,-368,l)
 );
 },
 {
-pos = (-887,0);
+pos = (-907,0);
 ref = _ha_geluungan_ha;
 },
 {
+pos = (-20,0);
 ref = ya_bali_post;
 }
 );
@@ -92,7 +56,9 @@ name = top;
 pos = (-311,630);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

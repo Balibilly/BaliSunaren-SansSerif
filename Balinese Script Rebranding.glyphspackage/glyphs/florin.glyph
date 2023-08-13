@@ -1,0 +1,29 @@
+{
+glyphname = florin;
+kernLeft = florin;
+kernRight = florin;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,470,l),
+(334,545,l),
+(53,545,l),
+(53,470,l)
+);
+},
+{
+alignment = 1;
+ref = integral;
+}
+);
+width = 373;
+}
+);
+metricLeft = integral;
+metricRight = integral;
+unicode = 402;
+}

@@ -1,50 +1,22 @@
 {
 glyphname = endash;
+kernLeft = periodcentered;
+kernRight = periodcentered;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(412,265,l),
-(412,291,l),
-(60,291,l),
-(60,265,l)
-);
-}
-);
-width = 472;
-},
 {
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(427,237,l),
-(427,319,l),
-(45,319,l),
-(45,237,l)
+(449,237,l),
+(449,319,l),
+(67,319,l),
+(67,237,l)
 );
 }
 );
-width = 472;
-},
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(447,215,l),
-(447,340,l),
-(25,340,l),
-(25,215,l)
-);
-}
-);
-width = 472;
+width = 516;
 }
 );
 metricLeft = hyphen;

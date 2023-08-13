@@ -5,64 +5,28 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (133,537);
+pos = (146,545);
 },
 {
 name = top;
-pos = (133,750);
-}
-);
-layerId = m009;
-shapes = (
-{
-pos = (269,0);
-ref = gravecomb;
-scale = (-1,1);
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (133,545);
-},
-{
-name = top;
-pos = (133,750);
+pos = (146,783);
 }
 );
 layerId = m002;
 shapes = (
 {
-pos = (270,0);
-ref = gravecomb;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(91,636,l),
+(163,636,l),
+(142,625,l),
+(250,783,l),
+(147,783,l),
+(100,622,l)
+);
 }
 );
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (133,553);
-},
-{
-name = top;
-pos = (133,750);
-}
-);
-layerId = m003;
-shapes = (
-{
-pos = (268,0);
-ref = gravecomb;
-scale = (-1,1);
-}
-);
-width = 265;
+width = 292;
 }
 );
 unicode = 769;

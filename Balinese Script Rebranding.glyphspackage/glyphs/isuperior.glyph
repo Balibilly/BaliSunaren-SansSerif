@@ -1,0 +1,91 @@
+{
+glyphname = isuperior;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (78,357);
+},
+{
+name = ogonek;
+pos = (105,357);
+},
+{
+name = top;
+pos = (78,830);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,609,l),
+(202,609,l),
+(202,740,l),
+(46,740,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(52,0,l),
+(198,0,l),
+(198,542,l),
+(52,542,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (219,201);
+},
+{
+angle = 270;
+pos = (51,201);
+},
+{
+pos = (193,568);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,357,l),
+(105,700,l),
+(50,700,l),
+(50,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,773,l),
+(108,830,l),
+(47,830,l),
+(47,773,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 357;
+weight = -27;
+width = 62;
+};
+};
+width = 155;
+}
+);
+userData = {
+RMXScaler = {
+source = i;
+};
+};
+}

@@ -2,20 +2,8 @@
 glyphname = "talingRepaTedung-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "talingRepa-bali";
-},
-{
-pos = (522,0);
-ref = "tedung-bali";
-}
-);
-width = 1069;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "talingRepa-bali";
@@ -28,7 +16,9 @@ ref = "tedung-bali";
 width = 1069;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "talingRepa-bali";

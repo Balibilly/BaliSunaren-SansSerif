@@ -1,19 +1,8 @@
 {
 glyphname = igrave;
+kernLeft = h;
+kernRight = i;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-30,0);
-ref = gravecomb;
-}
-);
-width = 205;
-},
 {
 layerId = m002;
 shapes = (
@@ -21,24 +10,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-8,0);
+pos = (-21,0);
 ref = gravecomb;
 }
 );
 width = 249;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (13,0);
-ref = gravecomb;
-}
-);
-width = 292;
 }
 );
 unicode = 236;

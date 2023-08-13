@@ -1,27 +1,8 @@
 {
 glyphname = semicolon;
+kernLeft = colon;
+kernRight = colon;
 layers = (
-{
-background = {
-shapes = (
-{
-ref = period;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-pos = (-26,490);
-ref = period;
-}
-);
-width = 172;
-},
 {
 background = {
 shapes = (
@@ -37,32 +18,11 @@ alignment = 1;
 ref = comma;
 },
 {
-pos = (-1,454);
+pos = (0,400);
 ref = period;
 }
 );
-width = 172;
-},
-{
-background = {
-shapes = (
-{
-ref = period;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-pos = (9,407);
-ref = period;
-}
-);
-width = 235;
+width = 242;
 }
 );
 unicode = 59;

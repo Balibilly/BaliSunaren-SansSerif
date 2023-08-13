@@ -2,31 +2,25 @@
 glyphname = "six-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "ekara-bali";
-}
-);
-width = 735;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "ekara-bali";
 }
 );
-width = 735;
+width = 812;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "ekara-bali";
 }
 );
-width = 735;
+width = 812;
 }
 );
 unicode = 6998;

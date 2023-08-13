@@ -4,39 +4,12 @@ layers = (
 {
 anchors = (
 {
-name = bottom;
-pos = (141,-793);
-},
-{
-name = top;
-pos = (-525,650);
-}
-);
-layerId = m009;
-shapes = (
-{
-ref = "ya-bali.post2.short";
-},
-{
-alignment = -1;
-pos = (-893,-679);
-ref = "na-bali";
-}
-);
-width = 327;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (141,-793);
-},
-{
 name = top;
 pos = (-525,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "ya-bali.post2.short";
@@ -52,18 +25,16 @@ width = 327;
 {
 anchors = (
 {
-name = bottom;
-pos = (141,-793);
-},
-{
 name = top;
 pos = (-525,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
-ref = "ya-bali.post2.short";
+ref = "ya-bali.post2";
 },
 {
 alignment = -1;

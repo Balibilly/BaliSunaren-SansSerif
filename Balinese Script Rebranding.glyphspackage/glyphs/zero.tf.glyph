@@ -1,0 +1,16 @@
+{
+glyphname = zero.tf;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = zero;
+}
+);
+width = 617;
+}
+);
+}

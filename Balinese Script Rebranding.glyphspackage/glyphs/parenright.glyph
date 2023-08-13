@@ -1,38 +1,36 @@
 {
 glyphname = parenright;
+kernLeft = parenright;
+kernRight = parenright;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-pos = (280,0);
-ref = parenleft;
-scale = (-1,1);
-}
-);
-width = 280;
-},
 {
 layerId = m002;
 shapes = (
 {
-pos = (280,0);
-ref = parenleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(195,-64,o),
+(244,88,o),
+(244,234,cs),
+(244,390,o),
+(194,545,o),
+(72,730,c),
+(96,724,l),
+(11,678,l),
+(17,709,l),
+(132,510,o),
+(166,372,o),
+(166,239,cs),
+(166,84,o),
+(124,-37,o),
+(20,-208,c),
+(14,-182,l),
+(95,-230,l),
+(74,-231,l)
+);
 }
 );
-width = 280;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (340,0);
-ref = parenleft;
-scale = (-1,1);
-}
-);
-width = 340;
+width = 315;
 }
 );
 metricLeft = "=|parenleft";

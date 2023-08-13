@@ -2,16 +2,8 @@
 glyphname = "dong-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "tedung-bali";
-}
-);
-width = 547;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = "tedung-bali";
@@ -20,7 +12,9 @@ ref = "tedung-bali";
 width = 547;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "tedung-bali";

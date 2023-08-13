@@ -1,0 +1,21 @@
+{
+glyphname = Ddotbelow;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (181,0);
+ref = dotbelowcomb;
+}
+);
+width = 681;
+}
+);
+unicode = 7692;
+}

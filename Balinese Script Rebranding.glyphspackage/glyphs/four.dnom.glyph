@@ -1,0 +1,60 @@
+{
+glyphname = four.dnom;
+kernLeft = four.dnom;
+kernRight = four.dnom;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,0,l),
+(214,84,l),
+(204,63,l),
+(250,63,l),
+(250,110,l),
+(204,110,l),
+(213,97,l),
+(213,315,l),
+(140,315,l),
+(175,332,l),
+(-3,87,l),
+(8,124,l),
+(8,63,l),
+(166,63,l),
+(160,81,l),
+(160,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,244,l),
+(169,247,l),
+(163,239,o),
+(162,230,o),
+(162,222,cs),
+(162,103,l),
+(166,109,l),
+(55,109,l),
+(61,98,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+weight = -27;
+width = 47;
+};
+};
+width = 260;
+}
+);
+userData = {
+RMXScaler = {
+source = four;
+};
+};
+}

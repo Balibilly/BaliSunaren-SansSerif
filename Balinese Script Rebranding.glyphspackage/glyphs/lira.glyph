@@ -1,0 +1,38 @@
+{
+glyphname = lira;
+kernLeft = sterling;
+kernRight = sterling;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,339,l),
+(461,409,l),
+(54,409,l),
+(54,339,l)
+);
+},
+{
+pos = (-13,0);
+ref = _sterling_kom_;
+},
+{
+closed = 1;
+nodes = (
+(461,239,l),
+(461,309,l),
+(54,309,l),
+(54,239,l)
+);
+}
+);
+width = 566;
+}
+);
+metricLeft = sterling;
+metricRight = sterling;
+unicode = 8356;
+}

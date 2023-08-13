@@ -5,58 +5,21 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (163,0);
+pos = (140,0);
 },
 {
 name = bottom;
-pos = (132,-87);
-}
-);
-layerId = m009;
-shapes = (
-{
-ref = commaaccentcomb;
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (160,0);
-},
-{
-name = bottom;
-pos = (113,-138);
+pos = (81,-158);
 }
 );
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = commaaccentcomb;
 }
 );
-width = 265;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (156,0);
-},
-{
-name = bottom;
-pos = (103,-155);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = commaaccentcomb;
-}
-);
-width = 265;
+width = 235;
 }
 );
 }

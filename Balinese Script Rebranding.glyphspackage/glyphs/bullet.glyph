@@ -1,50 +1,22 @@
 {
 glyphname = bullet;
+kernLeft = periodcentered;
+kernRight = periodcentered;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(213,226,l),
-(213,319,l),
-(115,319,l),
-(115,226,l)
-);
-}
-);
-width = 328;
-},
 {
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(248,192,l),
-(248,353,l),
-(80,353,l),
-(80,192,l)
+(338,179,l),
+(338,366,l),
+(144,366,l),
+(144,179,l)
 );
 }
 );
-width = 328;
-},
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(296,159,l),
-(296,386,l),
-(60,386,l),
-(60,159,l)
-);
-}
-);
-width = 356;
+width = 482;
 }
 );
 metricLeft = "=periodcentered*2";

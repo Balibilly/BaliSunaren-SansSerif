@@ -1,42 +1,33 @@
 {
 glyphname = exclamdown;
+kernLeft = colon;
+kernRight = colon;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-pos = (0,537);
-ref = exclam;
-scale = (1,-1);
-}
-);
-width = 246;
-},
 {
 layerId = m002;
 shapes = (
 {
-alignment = 1;
-pos = (0,545);
-ref = exclam;
-scale = (1,-1);
-}
+closed = 1;
+nodes = (
+(206,-155,l),
+(186,390,l),
+(118,390,l),
+(98,-155,l)
 );
-width = 244;
 },
 {
-layerId = m003;
-shapes = (
-{
-alignment = 1;
-pos = (0,553);
-ref = exclam;
-scale = (1,-1);
+closed = 1;
+nodes = (
+(201,454,l),
+(201,545,l),
+(103,545,l),
+(103,454,l)
+);
 }
 );
-width = 244;
+width = 304;
 }
 );
+metricRight = "=|";
 unicode = 161;
 }

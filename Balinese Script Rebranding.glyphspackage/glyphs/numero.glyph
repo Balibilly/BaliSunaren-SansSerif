@@ -1,0 +1,30 @@
+{
+glyphname = numero;
+kernLeft = H;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (664,0);
+ref = osuperior;
+},
+{
+closed = 1;
+nodes = (
+(993,231,l),
+(993,290,l),
+(717,290,l),
+(717,231,l)
+);
+}
+);
+width = 1063;
+}
+);
+metricLeft = N;
+unicode = 8470;
+}

@@ -2,39 +2,8 @@
 glyphname = "jegogan-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(283,671,o),
-(364,778,o),
-(423,977,c),
-(333,977,l),
-(295,835,o),
-(237,727,o),
-(100,632,c),
-(129,584,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(585,632,l),
-(468,713,o),
-(408,804,o),
-(370,918,c),
-(317,833,l),
-(371,721,o),
-(444,647,o),
-(556,584,c)
-);
-}
-);
-width = 685;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -66,7 +35,9 @@ nodes = (
 width = 685;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

@@ -2,37 +2,50 @@
 glyphname = rightHookArrow;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (829,0);
-ref = leftHookArrow;
-scale = (-1,1);
-}
-);
-width = 829;
-},
-{
 layerId = m002;
 shapes = (
 {
-pos = (829,0);
-ref = leftHookArrow;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(775,386,l),
+(306,386,ls),
+(199,386,o),
+(146,434,o),
+(146,520,cs),
+(146,595,o),
+(193,647,o),
+(292,647,cs),
+(315,647,l),
+(315,710,l),
+(291,710,ls),
+(152,710,o),
+(79,634,o),
+(79,518,cs),
+(79,392,o),
+(161,319,o),
+(306,319,cs),
+(775,319,l)
 );
-width = 829;
 },
 {
-layerId = m003;
-shapes = (
-{
-pos = (829,0);
-ref = leftHookArrow;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(879,386,l),
+(879,322,l),
+(614,587,l),
+(638,583,l),
+(568,513,l),
+(566,539,l),
+(780,329,l),
+(780,384,l),
+(563,164,l),
+(567,190,l),
+(636,121,l),
+(609,115,l)
+);
 }
 );
-width = 829;
+width = 912;
 }
 );
 metricLeft = "=|leftHookArrow";

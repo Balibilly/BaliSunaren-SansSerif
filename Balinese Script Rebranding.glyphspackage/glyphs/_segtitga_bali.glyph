@@ -1,0 +1,21 @@
+{
+export = 0;
+glyphname = _segtitga_bali;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,191,l),
+(73,545,l),
+(-1,545,l),
+(289,160,l)
+);
+}
+);
+width = 585;
+}
+);
+}

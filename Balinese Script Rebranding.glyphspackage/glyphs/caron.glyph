@@ -2,31 +2,14 @@
 glyphname = caron;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = caroncomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = caroncomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = caroncomb;
-}
-);
-width = 265;
+width = 390;
 }
 );
 unicode = 711;

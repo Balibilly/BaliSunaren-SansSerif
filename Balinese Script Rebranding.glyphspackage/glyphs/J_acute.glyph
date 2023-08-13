@@ -1,0 +1,20 @@
+{
+glyphname = Jacute;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (313,145);
+ref = acutecomb.case;
+}
+);
+width = 556;
+}
+);
+}

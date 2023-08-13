@@ -1,0 +1,21 @@
+{
+glyphname = whitelenticularbracketright;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (447,0);
+ref = whitelenticularbracketleft;
+scale = (-1,1);
+}
+);
+width = 447;
+}
+);
+metricLeft = blacklenticularbracketright;
+metricRight = blacklenticularbracketright;
+unicode = 12311;
+}

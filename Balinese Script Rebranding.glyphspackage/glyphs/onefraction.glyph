@@ -1,0 +1,21 @@
+{
+glyphname = onefraction;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (188,0);
+ref = fraction;
+}
+);
+width = 328;
+}
+);
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 8543;
+}

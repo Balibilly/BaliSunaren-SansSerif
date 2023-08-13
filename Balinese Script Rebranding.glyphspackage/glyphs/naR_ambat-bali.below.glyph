@@ -5,43 +5,27 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (1039,0);
+pos = (-92,0);
 },
 {
 name = bottom;
-pos = (1039,-669);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (0,-669);
-ref = "naRambat-bali";
-}
-);
-width = 1089;
+pos = (-92,-669);
 },
 {
-anchors = (
-{
-name = _bottom;
-pos = (1039,0);
-},
-{
-name = bottom;
-pos = (1039,-669);
+name = top;
+pos = (-466,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (0,-669);
+pos = (-1131,-669);
 ref = "naRambat-bali";
 }
 );
-width = 1089;
+width = 0;
 },
 {
 anchors = (
@@ -54,7 +38,9 @@ name = bottom;
 pos = (1039,-669);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;
@@ -65,5 +51,4 @@ ref = "naRambat-bali";
 width = 1089;
 }
 );
-metricRight = "ha-bali.below";
 }

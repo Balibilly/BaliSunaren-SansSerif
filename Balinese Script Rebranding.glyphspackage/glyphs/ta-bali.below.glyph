@@ -5,73 +5,46 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (844,0);
+pos = (-92,0);
 },
 {
 name = bottom;
-pos = (844,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (56,-679);
-ref = _ha_tenas_ha;
+pos = (-92,-679);
 },
 {
-pos = (5,-679);
-ref = _ta_awak;
+name = cecekbawah;
+pos = (-535,-438);
 },
 {
-closed = 1;
-nodes = (
-(844,-679,l),
-(844,-388,l),
-(835,-378,l),
-(778,-378,l),
-(768,-388,l),
-(768,-679,l)
-);
-}
-);
-width = 887;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (844,0);
-},
-{
-name = bottom;
-pos = (844,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (56,-679);
+pos = (-880,-679);
 ref = _ha_tenas_ha;
 },
 {
-pos = (5,-679);
+pos = (-931,-679);
 ref = _ta_awak;
 },
 {
 closed = 1;
 nodes = (
-(844,-679,l),
-(844,-388,l),
-(835,-378,l),
-(778,-378,l),
-(768,-388,l),
-(768,-679,l)
+(-92,-679,l),
+(-92,-388,l),
+(-101,-378,l),
+(-158,-378,l),
+(-168,-388,l),
+(-168,-679,l)
 );
 }
 );
-width = 887;
+width = 0;
 },
 {
 anchors = (
@@ -84,7 +57,9 @@ name = bottom;
 pos = (844,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

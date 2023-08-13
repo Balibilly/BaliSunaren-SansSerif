@@ -1,0 +1,55 @@
+{
+glyphname = whitelenticularbracketleft.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(418,-109,l),
+(305,69,o),
+(250,205,o),
+(250,340,cs),
+(250,479,o),
+(307,616,o),
+(417,796,c),
+(97,796,l),
+(97,-109,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(159,779,l),
+(114,739,l),
+(354,739,l),
+(326,766,l),
+(237,600,o),
+(189,468,o),
+(189,336,cs),
+(189,208,o),
+(234,80,o),
+(327,-80,c),
+(353,-52,l),
+(114,-52,l),
+(159,-92,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 96;
+};
+};
+width = 440;
+}
+);
+metricLeft = blacklenticularbracketleft.case;
+metricRight = blacklenticularbracketleft.case;
+userData = {
+RMXScaler = {
+source = whitelenticularbracketleft;
+};
+};
+}

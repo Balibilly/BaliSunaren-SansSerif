@@ -1,0 +1,21 @@
+{
+glyphname = Aring;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (206,145);
+ref = ringcomb.case;
+}
+);
+width = 608;
+}
+);
+unicode = 197;
+}

@@ -1,48 +1,22 @@
 {
 glyphname = lslash;
+kernLeft = l;
+kernRight = l;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (14,0);
-ref = l;
-},
-{
-pos = (-16,0);
-ref = _l_slash;
-}
-);
-width = 283;
-},
 {
 layerId = m002;
 shapes = (
 {
 alignment = -1;
-pos = (14,0);
+pos = (15,0);
 ref = l;
 },
 {
-pos = (-4,0);
+pos = (6,53);
 ref = _l_slash;
 }
 );
-width = 283;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = l;
-},
-{
-pos = (-18,0);
-ref = _l_slash;
-}
-);
-width = 305;
+width = 273;
 }
 );
 unicode = 322;

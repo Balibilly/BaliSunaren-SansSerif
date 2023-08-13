@@ -2,31 +2,14 @@
 glyphname = tilde;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = tildecomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = tildecomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = tildecomb;
-}
-);
-width = 265;
+width = 392;
 }
 );
 unicode = 732;

@@ -5,36 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (206,537);
+pos = (224,545);
 },
 {
 name = top;
-pos = (206,750);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (89,0);
-ref = acutecomb;
-}
-);
-width = 396;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (206,545);
-},
-{
-name = top;
-pos = (206,750);
+pos = (224,750);
 }
 );
 layerId = m002;
@@ -45,36 +20,11 @@ ref = acutecomb;
 },
 {
 alignment = -1;
-pos = (131,0);
+pos = (151,0);
 ref = acutecomb;
 }
 );
-width = 396;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (216,553);
-},
-{
-name = top;
-pos = (216,750);
-}
-);
-layerId = m003;
-shapes = (
-{
-alignment = -1;
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (161,0);
-ref = acutecomb;
-}
-);
-width = 426;
+width = 443;
 }
 );
 metricLeft = acutecomb;

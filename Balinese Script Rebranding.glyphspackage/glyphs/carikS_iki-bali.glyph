@@ -2,12 +2,13 @@
 glyphname = "carikSiki-bali";
 layers = (
 {
-layerId = m009;
+layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(366,-240,l),
+(339,-244,l),
 (327,-278,l),
 (302,-68,o),
 (265,218,o),
@@ -20,24 +21,24 @@ nodes = (
 (8,450,c),
 (8,486,l),
 (70,415,l),
-(41,420,l),
-(65,444,o),
-(93,467,o),
-(112,467,cs),
-(128,467,o),
+(41,410,l),
+(65,434,o),
+(93,457,o),
+(112,457,cs),
+(128,457,o),
 (142,433,o),
 (156,376,cs),
 (187,240,o),
 (235,-30,o),
 (274,-284,c),
-(219,-260,l)
+(247,-257,l)
 );
 }
 );
-width = 343;
+width = 443;
 },
 {
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "CFC91371-BC2F-4DEE-9F36-D4134491A63A";
 name = "31 May 23 10.54";
 shapes = (
@@ -68,7 +69,7 @@ nodes = (
 width = 272;
 },
 {
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "E3566BE0-563A-499B-BCCB-0E22CFF620A9";
 name = "31 May 23 16.33";
 shapes = (
@@ -103,7 +104,7 @@ nodes = (
 width = 252;
 },
 {
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "44C0B287-72F6-48B9-B8E6-34FB6F324A0B";
 name = "2 Jun 23 15.48";
 shapes = (
@@ -138,44 +139,9 @@ nodes = (
 width = 313;
 },
 {
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(366,-240,l),
-(327,-278,l),
-(302,-68,o),
-(265,218,o),
-(229,395,cs),
-(209,492,o),
-(178,555,o),
-(136,555,cs),
-(106,555,o),
-(61,521,o),
-(8,450,c),
-(8,486,l),
-(70,415,l),
-(41,420,l),
-(65,444,o),
-(93,467,o),
-(112,467,cs),
-(128,467,o),
-(142,433,o),
-(156,376,cs),
-(187,240,o),
-(235,-30,o),
-(274,-284,c),
-(219,-260,l)
-);
-}
-);
-width = 343;
-},
-{
 associatedMasterId = m002;
 layerId = "F8B5E49F-3773-4E74-A734-8B6B0631A864";
-name = "31 May 23 10.54";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -206,7 +172,7 @@ width = 272;
 {
 associatedMasterId = m002;
 layerId = "3DEDEAB9-261B-4DCD-92E2-304B283E2B96";
-name = "31 May 23 16.33";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -241,7 +207,7 @@ width = 252;
 {
 associatedMasterId = m002;
 layerId = "9E06A59A-0FF5-40B7-BBD2-373FC4ECA728";
-name = "2 Jun 23 15.48";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -274,7 +240,9 @@ nodes = (
 width = 313;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -309,9 +277,9 @@ nodes = (
 width = 343;
 },
 {
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "2293E386-858F-4C68-9704-5422605A9679";
-name = "31 May 23 10.54";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -340,9 +308,9 @@ nodes = (
 width = 272;
 },
 {
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "82025768-C28B-40CE-BEC4-50BECFB29CA3";
-name = "31 May 23 16.33";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -375,9 +343,9 @@ nodes = (
 width = 252;
 },
 {
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "C5C5E5A9-96C8-423A-904F-142A1129A163";
-name = "2 Jun 23 15.48";
+name = Bold;
 shapes = (
 {
 closed = 1;

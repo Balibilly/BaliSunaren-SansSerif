@@ -1,0 +1,50 @@
+{
+glyphname = seveninferior;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (56,0);
+ref = four;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,-151,l),
+(109,-28,o),
+(148,35,o),
+(211,128,c),
+(211,164,l),
+(10,164,l),
+(10,117,l),
+(162,117,l),
+(154,128,l),
+(94,44,o),
+(53,-29,o),
+(49,-151,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = -151;
+weight = -27;
+width = 47;
+};
+};
+width = 217;
+}
+);
+unicode = 8327;
+userData = {
+RMXScaler = {
+source = seven;
+};
+};
+}

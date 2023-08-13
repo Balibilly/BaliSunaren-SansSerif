@@ -5,35 +5,36 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1050,-376);
+pos = (916,-458);
 },
 {
 name = top;
-pos = (637,650);
+pos = (649,650);
 }
 );
-layerId = m009;
+layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (134,0);
+pos = (1111,0);
 ref = "na-bali.below";
 },
 {
-pos = (33,0);
+pos = (45,0);
 ref = _nga_tenas;
 },
 {
-pos = (10,0);
+pos = (22,0);
 ref = _okara_tenas;
 },
 {
 alignment = -1;
-pos = (-20,0);
+pos = (-8,0);
 ref = _nga_bali_ekor;
 }
 );
-width = 1079;
+width = 1091;
 },
 {
 anchors = (
@@ -42,7 +43,7 @@ name = lelengaTedung;
 pos = (1009,-356);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "04FFB923-97E8-4A61-BC67-7481B0DBA579";
 name = "9 May 23 11.30";
 shapes = (
@@ -121,7 +122,7 @@ name = lelengaTedung;
 pos = (1009,-356);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "7A37948E-DA52-4DCD-BF3A-4D9E362D07ED";
 name = "23 May 23 15.18";
 shapes = (
@@ -221,7 +222,7 @@ name = lelengaTedung;
 pos = (1071,-164);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "4029F0CA-CBC2-4EE1-86D0-C862F21786DF";
 name = "24 May 23 16.00";
 shapes = (
@@ -300,7 +301,7 @@ name = lelengaTedung;
 pos = (1066,-203);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "7AD635C4-B2E8-4A34-B4FC-4C5FF1CE90BC";
 name = "26 May 23 13.36";
 shapes = (
@@ -369,47 +370,13 @@ width = 1099;
 {
 anchors = (
 {
-name = bottom;
-pos = (1050,-376);
-},
-{
-name = top;
-pos = (637,650);
-}
-);
-layerId = m002;
-shapes = (
-{
-alignment = -1;
-pos = (144,0);
-ref = "na-bali.below";
-},
-{
-pos = (33,0);
-ref = _nga_tenas;
-},
-{
-pos = (10,0);
-ref = _okara_tenas;
-},
-{
-alignment = -1;
-pos = (-20,0);
-ref = _nga_bali_ekor;
-}
-);
-width = 1079;
-},
-{
-anchors = (
-{
 name = lelengaTedung;
 pos = (1009,-356);
 }
 );
 associatedMasterId = m002;
 layerId = "7B397F8F-8C44-4615-A4C2-9D752E470B3B";
-name = "9 May 23 11.30";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -488,7 +455,7 @@ pos = (1009,-356);
 );
 associatedMasterId = m002;
 layerId = "4A759BB2-0DA5-427F-82C0-D9C66B7B27E4";
-name = "23 May 23 15.18";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -588,7 +555,7 @@ pos = (1071,-164);
 );
 associatedMasterId = m002;
 layerId = "1641569E-EC8D-4387-A793-519787E3FADF";
-name = "24 May 23 16.00";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -667,7 +634,7 @@ pos = (1066,-203);
 );
 associatedMasterId = m002;
 layerId = "17FC16D3-3311-46D5-B4AC-DF555BE6D906";
-name = "26 May 23 13.36";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -742,7 +709,9 @@ name = top;
 pos = (637,650);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;
@@ -772,9 +741,9 @@ name = lelengaTedung;
 pos = (1009,-356);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "3D508390-0BD5-4CD1-AC32-08723CD3DFA5";
-name = "9 May 23 11.30";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -851,9 +820,9 @@ name = lelengaTedung;
 pos = (1009,-356);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "03C57B7C-77E5-44CC-8053-72F4044A3E1B";
-name = "23 May 23 15.18";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -951,9 +920,9 @@ name = lelengaTedung;
 pos = (1071,-164);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "D220D70E-0ECE-4386-8AED-AE5733B3A316";
-name = "24 May 23 16.00";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -1030,9 +999,9 @@ name = lelengaTedung;
 pos = (1066,-203);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "C2007098-52C2-4444-8CDE-C80AA5FC77BC";
-name = "26 May 23 13.36";
+name = Bold;
 shapes = (
 {
 closed = 1;

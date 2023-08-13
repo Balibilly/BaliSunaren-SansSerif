@@ -2,27 +2,20 @@
 glyphname = "daeng-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (889,-441);
-ref = "pepet-bali";
-}
-);
-width = 956;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (889,-441);
+pos = (-34,-490);
 ref = "pepet-bali";
 }
 );
-width = 956;
+width = 816;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (889,-441);

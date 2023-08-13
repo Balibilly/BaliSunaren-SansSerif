@@ -10,33 +10,14 @@ pos = (-109,0);
 {
 name = bottom;
 pos = (131,-457);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-ref = _ra_ya_post_depan;
 },
 {
-pos = (-967,0);
-ref = _nya_ekor;
-}
-);
-width = 571;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (-109,0);
-},
-{
-name = bottom;
-pos = (131,-457);
+name = top;
+pos = (-465,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
@@ -60,7 +41,9 @@ name = bottom;
 pos = (131,-457);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

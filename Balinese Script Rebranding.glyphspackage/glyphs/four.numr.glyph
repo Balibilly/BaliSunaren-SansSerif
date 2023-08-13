@@ -1,0 +1,61 @@
+{
+glyphname = four.numr;
+kernLeft = four.numr;
+kernRight = four.numr;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,385,l),
+(214,469,l),
+(204,448,l),
+(250,448,l),
+(250,495,l),
+(204,495,l),
+(213,482,l),
+(213,700,l),
+(140,700,l),
+(175,717,l),
+(-3,472,l),
+(8,509,l),
+(8,448,l),
+(166,448,l),
+(160,466,l),
+(160,385,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,629,l),
+(169,632,l),
+(163,624,o),
+(162,615,o),
+(162,607,cs),
+(162,488,l),
+(166,494,l),
+(55,494,l),
+(61,483,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = 385;
+weight = -27;
+width = 47;
+};
+};
+width = 260;
+}
+);
+userData = {
+RMXScaler = {
+source = four;
+};
+};
+}

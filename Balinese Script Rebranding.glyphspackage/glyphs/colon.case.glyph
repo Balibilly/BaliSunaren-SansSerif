@@ -1,0 +1,47 @@
+{
+glyphname = colon.case;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+anchors = (
+{
+name = colon;
+pos = (72,994);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,103,l),
+(170,194,l),
+(72,194,l),
+(72,103,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,503,l),
+(170,594,l),
+(72,594,l),
+(72,503,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 103;
+};
+};
+width = 242;
+}
+);
+userData = {
+RMXScaler = {
+source = colon;
+};
+};
+}

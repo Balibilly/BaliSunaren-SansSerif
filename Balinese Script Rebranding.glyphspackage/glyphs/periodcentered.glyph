@@ -1,35 +1,22 @@
 {
 glyphname = periodcentered;
+kernLeft = periodcentered;
+kernRight = periodcentered;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-pos = (0,249);
-ref = period;
-}
-);
-width = 180;
-},
 {
 layerId = m002;
 shapes = (
 {
-pos = (0,227);
-ref = period;
+closed = 1;
+nodes = (
+(170,227,l),
+(170,318,l),
+(72,318,l),
+(72,227,l)
+);
 }
 );
-width = 178;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (0,201);
-ref = period;
-}
-);
-width = 218;
+width = 242;
 }
 );
 metricLeft = period;

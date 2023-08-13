@@ -5,85 +5,48 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (942,0);
+pos = (-92,0);
 },
 {
 name = bottom;
-pos = (942,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (76,-679);
-ref = _ha_tenas_ha;
+pos = (-92,-679);
 },
 {
-alignment = -1;
-pos = (76,-679);
-ref = _ha_bali_core;
-},
-{
-closed = 1;
-nodes = (
-(942,-679,l),
-(942,-388,l),
-(933,-378,l),
-(876,-378,l),
-(866,-388,l),
-(866,-679,l)
-);
-},
-{
-alignment = -1;
-pos = (96,-679);
-ref = _ha_tundun_ha;
-}
-);
-width = 992;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (942,0);
-},
-{
-name = bottom;
-pos = (942,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (76,-679);
+pos = (-958,-679);
 ref = _ha_tenas_ha;
 },
 {
 alignment = -1;
-pos = (76,-679);
+pos = (-958,-679);
 ref = _ha_bali_core;
 },
 {
 closed = 1;
 nodes = (
-(942,-679,l),
-(942,-388,l),
-(933,-378,l),
-(876,-378,l),
-(866,-388,l),
-(866,-679,l)
+(-92,-679,l),
+(-92,-388,l),
+(-101,-378,l),
+(-158,-378,l),
+(-168,-388,l),
+(-168,-679,l)
 );
 },
 {
 alignment = -1;
-pos = (96,-679);
+pos = (-938,-679);
 ref = _ha_tundun_ha;
 }
 );
-width = 992;
+width = 0;
 },
 {
 anchors = (
@@ -96,7 +59,9 @@ name = bottom;
 pos = (942,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

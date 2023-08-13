@@ -1,0 +1,15 @@
+{
+glyphname = ordmasculine;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = osuperior;
+}
+);
+width = 376;
+}
+);
+unicode = 186;
+}

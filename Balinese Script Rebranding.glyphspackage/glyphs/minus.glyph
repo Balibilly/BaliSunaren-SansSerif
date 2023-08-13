@@ -5,30 +5,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-46,0);
-ref = plus;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(620,261,l),
-(620,285,l),
-(75,285,l),
-(75,261,l)
-);
-}
-);
-width = 695;
-},
-{
-background = {
-shapes = (
-{
-pos = (-46,0);
+pos = (-56,0);
 ref = plus;
 }
 );
@@ -38,37 +15,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(620,237,l),
-(620,305,l),
-(75,305,l),
-(75,237,l)
+(590,312,l),
+(590,380,l),
+(75,380,l),
+(75,312,l)
 );
 }
 );
-width = 695;
-},
-{
-background = {
-shapes = (
-{
-pos = (-46,0);
-ref = plus;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(620,211,l),
-(620,334,l),
-(75,334,l),
-(75,211,l)
-);
-}
-);
-width = 695;
+width = 665;
 }
 );
 metricRight = "=|";

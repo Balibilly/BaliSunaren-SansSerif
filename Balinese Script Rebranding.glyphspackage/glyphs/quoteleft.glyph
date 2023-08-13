@@ -1,68 +1,44 @@
 {
 glyphname = quoteleft;
+kernLeft = asterisk;
+kernRight = asterisk;
 layers = (
 {
 anchors = (
 {
 name = _quoteleft;
-pos = (35,504);
+pos = (64,504);
 },
 {
 name = quoteleft;
-pos = (193,504);
-}
-);
-layerId = m009;
-shapes = (
-{
-angle = 180;
-pos = (172,595);
-ref = comma;
-}
-);
-width = 176;
-},
-{
-anchors = (
-{
-name = _quoteleft;
-pos = (35,504);
-},
-{
-name = quoteleft;
-pos = (193,504);
+pos = (222,504);
 }
 );
 layerId = m002;
 shapes = (
 {
-angle = 180;
-pos = (172,595);
-ref = comma;
+closed = 1;
+nodes = (
+(149,460,l),
+(149,544,l),
+(110,544,ls),
+(103,544,o),
+(99,547,o),
+(99,555,cs),
+(99,617,o),
+(113,656,o),
+(171,668,c),
+(167,664,l),
+(157,705,l),
+(163,701,l),
+(92,693,o),
+(51,645,o),
+(51,549,cs),
+(51,460,l)
+);
 }
 );
-width = 176;
-},
-{
-anchors = (
-{
-name = _quoteleft;
-pos = (35,504);
-},
-{
-name = quoteleft;
-pos = (233,504);
-}
-);
-layerId = m003;
-shapes = (
-{
-angle = 180;
-pos = (232,595);
-ref = comma;
-}
-);
-width = 176;
+width = 216;
 }
 );
 unicode = 8216;

@@ -2,37 +2,8 @@
 glyphname = "kempliJegogan-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(207,628,o),
-(266,677,o),
-(313,740,c),
-(359,677,o),
-(418,628,o),
-(496,584,c),
-(525,632,l),
-(458,679,o),
-(410,728,o),
-(373,784,c),
-(251,784,l),
-(215,728,o),
-(167,679,o),
-(100,632,c),
-(129,584,l)
-);
-},
-{
-pos = (23,0);
-ref = "kempli-bali";
-}
-);
-width = 625;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -62,7 +33,9 @@ ref = "kempli-bali";
 width = 625;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

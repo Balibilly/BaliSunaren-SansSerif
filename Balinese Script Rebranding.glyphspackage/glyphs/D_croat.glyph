@@ -1,0 +1,25 @@
+{
+glyphname = Dcroat;
+kernLeft = H;
+kernRight = O;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (27,0);
+ref = D;
+},
+{
+pos = (27,0);
+ref = _D_strokeshortcomb;
+}
+);
+width = 708;
+}
+);
+metricLeft = Eth;
+metricRight = O;
+unicode = 272;
+}

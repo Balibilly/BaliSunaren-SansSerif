@@ -1,0 +1,19 @@
+{
+glyphname = r_d.ordn;
+kernRight = asterisk;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = rsuperior;
+},
+{
+pos = (236,0);
+ref = dsuperior;
+}
+);
+width = 612;
+}
+);
+}

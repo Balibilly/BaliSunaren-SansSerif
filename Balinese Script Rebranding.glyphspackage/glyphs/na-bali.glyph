@@ -28,63 +28,8 @@ ref = "sa-bali";
 }
 );
 };
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-8,0);
-ref = _na_baong;
-},
-{
-alignment = -1;
-pos = (-8,0);
-ref = _na_tenas;
-},
-{
-alignment = -1;
-pos = (10,0);
-ref = _na_bangkiang;
-},
-{
-alignment = -1;
-pos = (10,0);
-ref = _na_batis;
-},
-{
-pos = (35,0);
-ref = _stem_ending;
-}
-);
-width = 915;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (855,0);
-},
-{
-name = kaMahaprana;
-pos = (779,0);
-},
-{
-name = top;
-pos = (393,650);
-}
-);
-background = {
-shapes = (
-{
-pos = (53,-988);
-ref = _tail_na;
-},
-{
-pos = (-10,0);
-ref = "sa-bali";
-}
-);
-};
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
@@ -111,7 +56,7 @@ pos = (35,0);
 ref = _stem_ending;
 }
 );
-width = 915;
+width = 935;
 },
 {
 anchors = (
@@ -128,6 +73,7 @@ name = top;
 pos = (393,650);
 }
 );
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -141,6 +87,7 @@ ref = "sa-bali";
 );
 };
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

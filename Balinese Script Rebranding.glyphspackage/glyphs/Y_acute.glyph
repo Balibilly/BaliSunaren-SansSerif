@@ -1,0 +1,21 @@
+{
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (161,145);
+ref = acutecomb.case;
+}
+);
+width = 588;
+}
+);
+unicode = 221;
+}

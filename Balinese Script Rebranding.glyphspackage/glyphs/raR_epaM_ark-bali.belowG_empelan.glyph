@@ -1,0 +1,33 @@
+{
+glyphname = "raRepaMark-bali.belowGempelan";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-80,0);
+},
+{
+name = bottom;
+pos = (-140,-458);
+},
+{
+name = cecekbawah;
+pos = (-373,-452);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = "ra-bali.belowGempelan";
+},
+{
+pos = (-1026,-714);
+ref = _cecek_bawah;
+}
+);
+width = 0;
+}
+);
+}

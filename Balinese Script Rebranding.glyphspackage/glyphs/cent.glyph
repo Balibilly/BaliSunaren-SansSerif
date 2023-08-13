@@ -1,50 +1,88 @@
 {
 glyphname = cent;
+kernLeft = o;
+kernRight = c;
 layers = (
 {
-layerId = m009;
-shapes = (
+anchors = (
 {
-alignment = -1;
-pos = (0,62);
-ref = c;
+name = bar_ver;
+pos = (295,336);
 },
 {
-pos = (-30,-23);
-ref = _bar_ver_;
+name = bottom;
+pos = (295,62);
+},
+{
+name = top;
+pos = (295,607);
 }
 );
-width = 512;
-},
-{
 layerId = m002;
 shapes = (
 {
-alignment = -1;
-pos = (0,62);
-ref = c;
+closed = 1;
+nodes = (
+(327,-90,l),
+(327,790,l),
+(263,790,l),
+(263,-90,l)
+);
 },
 {
-pos = (-10,-23);
-ref = _bar_ver_;
+pos = (0,87);
+ref = c;
 }
 );
-width = 512;
+width = 559;
 },
 {
-layerId = m003;
+anchors = (
+{
+name = bar_ver;
+pos = (295,336);
+},
+{
+name = bottom;
+pos = (295,62);
+},
+{
+name = top;
+pos = (295,607);
+}
+);
+associatedMasterId = m002;
+attr = {
+axisRules = (
+);
+};
+layerId = "5CD2E281-45F3-48D3-A8C1-357D9AF37B5F";
+name = "17 Jul 23 14.39";
 shapes = (
 {
-alignment = -1;
-pos = (0,62);
-ref = c;
+closed = 1;
+nodes = (
+(327,-90,l),
+(327,107,l),
+(263,107,l),
+(263,-90,l)
+);
 },
 {
-pos = (3,-23);
-ref = _bar_ver_;
+closed = 1;
+nodes = (
+(327,578,l),
+(327,790,l),
+(263,790,l),
+(263,578,l)
+);
+},
+{
+pos = (0,87);
+ref = c;
 }
 );
-width = 512;
+width = 559;
 }
 );
 metricLeft = c;

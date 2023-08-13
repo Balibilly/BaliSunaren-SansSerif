@@ -1,0 +1,25 @@
+{
+glyphname = onequarter;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (188,0);
+ref = fraction;
+},
+{
+pos = (328,0);
+ref = four.dnom;
+}
+);
+width = 588;
+}
+);
+metricLeft = one.numr;
+metricRight = one.numr;
+unicode = 188;
+}

@@ -5,105 +5,54 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (898,0);
+pos = (916,0);
 },
 {
 name = top;
-pos = (414,650);
+pos = (432,650);
 }
 );
 background = {
 shapes = (
 {
-pos = (10,0);
-ref = _daMadu_bawah;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-pos = (23,0);
-ref = _la_tenas;
-},
-{
-closed = 1;
-nodes = (
-(686,-10,o),
-(751,76,o),
-(751,214,cs),
-(751,227,l),
-(681,226,l),
-(681,211,ls),
-(681,119,o),
-(649,62,o),
-(592,62,c),
-(595,-10,l)
-);
-},
-{
-alignment = -1;
-pos = (127,0);
-ref = _wa_ca_gelungan;
-},
-{
-pos = (10,0);
-ref = _daMadu_bawah;
-}
-);
-width = 958;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (898,0);
-},
-{
-name = top;
-pos = (414,650);
-}
-);
-background = {
-shapes = (
-{
-pos = (10,0);
+pos = (28,0);
 ref = _daMadu_bawah;
 }
 );
 };
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (23,0);
+pos = (41,0);
 ref = _la_tenas;
 },
 {
 closed = 1;
 nodes = (
-(686,-10,o),
-(751,76,o),
-(751,214,cs),
-(751,227,l),
-(681,226,l),
-(681,211,ls),
-(681,119,o),
-(649,62,o),
-(592,62,c),
-(595,-10,l)
+(704,-10,o),
+(769,76,o),
+(769,214,cs),
+(769,227,l),
+(699,226,l),
+(699,211,ls),
+(699,119,o),
+(667,62,o),
+(610,62,c),
+(613,-10,l)
 );
 },
 {
 alignment = -1;
-pos = (127,0);
+pos = (145,0);
 ref = _wa_ca_gelungan;
 },
 {
-pos = (10,0);
+pos = (28,0);
 ref = _daMadu_bawah;
 }
 );
-width = 958;
+width = 996;
 },
 {
 anchors = (
@@ -116,6 +65,7 @@ name = top;
 pos = (414,650);
 }
 );
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -125,6 +75,7 @@ ref = _daMadu_bawah;
 );
 };
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (23,0);

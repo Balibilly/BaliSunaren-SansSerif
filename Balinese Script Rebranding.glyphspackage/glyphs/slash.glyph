@@ -1,50 +1,22 @@
 {
 glyphname = slash;
+kernLeft = AE;
+kernRight = V;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(26,-10,l),
-(365,710,l),
-(339,710,l),
-(-1,-10,l)
-);
-}
-);
-width = 364;
-},
 {
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(57,-10,l),
-(396,710,l),
-(316,710,l),
-(-24,-10,l)
+(82,-10,l),
+(421,710,l),
+(341,710,l),
+(1,-10,l)
 );
 }
 );
-width = 364;
-},
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(102,-10,l),
-(441,710,l),
-(312,710,l),
-(-28,-10,l)
-);
-}
-);
-width = 404;
+width = 410;
 }
 );
 unicode = 47;

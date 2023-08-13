@@ -1,56 +1,8 @@
 {
-color = 4;
 glyphname = i;
+kernLeft = h;
+kernRight = i;
 layers = (
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(46,609,l),
-(202,609,l),
-(202,740,l),
-(46,740,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(52,0,l),
-(198,0,l),
-(198,542,l),
-(52,542,l)
-);
-}
-);
-};
-guides = (
-{
-angle = 90;
-pos = (219,201);
-},
-{
-angle = 270;
-pos = (51,201);
-},
-{
-pos = (193,568);
-}
-);
-layerId = m009;
-shapes = (
-{
-ref = idotless;
-},
-{
-alignment = 1;
-pos = (-30,0);
-ref = dotaccentcomb;
-}
-);
-width = 205;
-},
 {
 background = {
 shapes = (
@@ -99,55 +51,6 @@ ref = dotaccentcomb;
 }
 );
 width = 249;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(46,609,l),
-(202,609,l),
-(202,740,l),
-(46,740,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(52,0,l),
-(198,0,l),
-(198,542,l),
-(52,542,l)
-);
-}
-);
-};
-guides = (
-{
-angle = 90;
-pos = (219,201);
-},
-{
-angle = 270;
-pos = (51,201);
-},
-{
-pos = (193,568);
-}
-);
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-alignment = 1;
-pos = (13,0);
-ref = dotaccentcomb;
-}
-);
-width = 292;
 }
 );
 metricRight = "=|";

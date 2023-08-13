@@ -9,27 +9,6 @@ name = connect;
 pos = (136,0);
 }
 );
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(136,0,l),
-(136,750,l),
-(109,750,l),
-(109,0,l)
-);
-}
-);
-width = 600;
-},
-{
-anchors = (
-{
-name = connect;
-pos = (136,0);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -39,27 +18,6 @@ nodes = (
 (136,750,l),
 (51,750,l),
 (51,0,l)
-);
-}
-);
-width = 600;
-},
-{
-anchors = (
-{
-name = connect;
-pos = (101,0);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(136,0,l),
-(136,750,l),
-(-10,750,l),
-(-10,0,l)
 );
 }
 );

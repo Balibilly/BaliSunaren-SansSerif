@@ -2,31 +2,19 @@
 glyphname = "windu-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (61,258);
-ref = "zero-bali";
-scale = (0.7346,0.7346);
-}
-);
-width = 600;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-alignment = -1;
-pos = (61,258);
 ref = "zero-bali";
-scale = (0.7346,0.7346);
 }
 );
-width = 600;
+width = 588;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

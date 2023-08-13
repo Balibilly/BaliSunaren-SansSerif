@@ -1,0 +1,51 @@
+{
+glyphname = seven.numr;
+kernLeft = seven.numr;
+kernRight = seven.numr;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (56,0);
+ref = four;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,385,l),
+(109,508,o),
+(148,571,o),
+(211,664,c),
+(211,700,l),
+(10,700,l),
+(10,653,l),
+(162,653,l),
+(154,664,l),
+(94,580,o),
+(53,507,o),
+(49,385,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = 385;
+weight = -27;
+width = 47;
+};
+};
+width = 217;
+}
+);
+userData = {
+RMXScaler = {
+source = seven;
+};
+};
+}

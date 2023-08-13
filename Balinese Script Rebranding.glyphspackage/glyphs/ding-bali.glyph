@@ -2,27 +2,20 @@
 glyphname = "ding-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (703,-442);
-ref = "ulu-bali";
-}
-);
-width = 600;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (703,-442);
+pos = (-1,-442);
 ref = "ulu-bali";
 }
 );
-width = 600;
+width = 560;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (703,-442);

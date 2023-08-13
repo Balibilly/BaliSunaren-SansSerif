@@ -2,45 +2,23 @@
 glyphname = "rightHandClosedTuk-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(359,257,l),
-(63,590,l),
-(30,556,l),
-(332,231,l)
-);
-},
-{
-pos = (58,0);
-ref = "rightHandOpenDug-bali";
-}
-);
-width = 585;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
-{
-closed = 1;
-nodes = (
-(359,257,l),
-(63,590,l),
-(30,556,l),
-(332,231,l)
-);
-},
 {
 pos = (58,0);
 ref = "rightHandOpenDug-bali";
+},
+{
+ref = _segtitga_bali;
 }
 );
 width = 585;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

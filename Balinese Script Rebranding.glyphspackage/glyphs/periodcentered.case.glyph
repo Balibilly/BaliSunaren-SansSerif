@@ -1,0 +1,27 @@
+{
+glyphname = periodcentered.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,71);
+ref = periodcentered;
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 242;
+}
+);
+userData = {
+RMXScaler = {
+source = periodcentered;
+};
+};
+}

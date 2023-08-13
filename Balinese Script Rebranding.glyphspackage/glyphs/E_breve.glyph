@@ -1,0 +1,21 @@
+{
+glyphname = Ebreve;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (165,145);
+ref = brevecomb.case;
+}
+);
+width = 563;
+}
+);
+unicode = 276;
+}

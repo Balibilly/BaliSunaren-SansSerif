@@ -3,15 +3,14 @@ export = 0;
 glyphname = "ra_ya_suku-bali.post";
 layers = (
 {
-layerId = m009;
-width = 1969;
-},
-{
 layerId = m002;
+name = Regular;
 width = 1969;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 width = 1969;
 }
 );

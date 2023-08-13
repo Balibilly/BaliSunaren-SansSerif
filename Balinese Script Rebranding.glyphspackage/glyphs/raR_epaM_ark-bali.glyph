@@ -1,77 +1,20 @@
 {
+color = 5;
 glyphname = "raRepaMark-bali";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (883,0);
+pos = (-80,0);
 },
 {
 name = bottom;
-pos = (889,-457);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(1563,-769,o),
-(1623,-661,o),
-(1652,-500,cs),
-(1665,-429,o),
-(1672,-345,o),
-(1672,-257,cs),
-(1672,0,l),
-(1596,0,l),
-(1595,-257,ls),
-(1595,-331,o),
-(1585,-427,o),
-(1572,-493,cs),
-(1553,-593,o),
-(1513,-690,o),
-(1451,-690,cs),
-(1420,-690,o),
-(1404,-669,o),
-(1404,-628,cs),
-(1404,-494,o),
-(1561,-289,o),
-(1561,-52,c),
-(1498,-52,l),
-(1488,-302,o),
-(1320,-486,o),
-(1320,-644,cs),
-(1320,-716,o),
-(1365,-769,o),
-(1444,-769,cs)
-);
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = "ra-bali.below";
+pos = (-168,-458);
 },
 {
-alignment = -1;
-pos = (-152,-714);
-ref = _cecek_bangkiang;
-}
-);
-width = 851;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (883,0);
-},
-{
-name = bottom;
-pos = (889,-457);
+name = top;
+pos = (-466,650);
 }
 );
 background = {
@@ -112,18 +55,18 @@ nodes = (
 );
 };
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = 1;
 ref = "ra-bali.below";
 },
 {
-alignment = -1;
-pos = (-152,-714);
-ref = _cecek_bangkiang;
+pos = (-1189,-714);
+ref = _cecek_bawah;
 }
 );
-width = 851;
+width = 0;
 },
 {
 anchors = (
@@ -136,6 +79,7 @@ name = bottom;
 pos = (889,-457);
 }
 );
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -174,6 +118,7 @@ nodes = (
 );
 };
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = 1;

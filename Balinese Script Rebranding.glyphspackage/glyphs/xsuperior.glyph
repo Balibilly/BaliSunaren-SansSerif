@@ -1,0 +1,64 @@
+{
+glyphname = xsuperior;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = v;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(71,357,l),
+(171,510,l),
+(187,525,l),
+(306,700,l),
+(245,700,l),
+(155,559,l),
+(140,544,l),
+(7,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,357,l),
+(186,545,l),
+(153,511,l),
+(256,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(173,559,l),
+(80,700,l),
+(17,700,l),
+(139,526,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 357;
+weight = -27;
+width = 62;
+};
+};
+width = 328;
+}
+);
+subCategory = "";
+unicode = 739;
+userData = {
+RMXScaler = {
+source = x;
+};
+};
+}

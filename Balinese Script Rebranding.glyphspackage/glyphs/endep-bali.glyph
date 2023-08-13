@@ -2,27 +2,20 @@
 glyphname = "endep-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (0,-990);
-ref = "tegeh-bali";
-}
-);
-width = 446;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (0,-990);
+pos = (0,-1090);
 ref = "tegeh-bali";
 }
 );
 width = 446;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (0,-990);

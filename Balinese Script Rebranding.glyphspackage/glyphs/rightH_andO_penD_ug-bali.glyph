@@ -2,45 +2,29 @@
 glyphname = "rightHandOpenDug-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(86,0,l),
-(279,468,l),
-(265,468,l),
-(442,0,l),
-(497,0,l),
-(284,545,l),
-(262,545,l),
-(30,0,l)
-);
-}
-);
-width = 527;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(86,0,l),
-(279,468,l),
-(265,468,l),
-(442,0,l),
-(497,0,l),
-(284,545,l),
-(262,545,l),
-(30,0,l)
+(84,0,l),
+(277,468,l),
+(226,468,l),
+(403,0,l),
+(477,0,l),
+(264,545,l),
+(242,545,l),
+(10,0,l)
 );
 }
 );
-width = 527;
+width = 477;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

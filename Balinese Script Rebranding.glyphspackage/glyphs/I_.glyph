@@ -1,40 +1,8 @@
 {
-color = 4;
 glyphname = I;
+kernLeft = H;
+kernRight = H;
 layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (118,0);
-},
-{
-name = ogonek;
-pos = (131,0);
-},
-{
-name = top;
-pos = (118,680);
-},
-{
-name = topleft;
-pos = (-28,680);
-}
-);
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(131,0,l),
-(131,700,l),
-(102,700,l),
-(102,0,l)
-);
-}
-);
-width = 233;
-},
 {
 anchors = (
 {
@@ -67,39 +35,6 @@ nodes = (
 }
 );
 width = 271;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (123,0);
-},
-{
-name = ogonek;
-pos = (197,0);
-},
-{
-name = top;
-pos = (123,720);
-},
-{
-name = topleft;
-pos = (38,720);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(197,0,l),
-(197,700,l),
-(49,700,l),
-(49,0,l)
-);
-}
-);
-width = 246;
 }
 );
 metricLeft = H;

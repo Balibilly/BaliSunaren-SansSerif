@@ -1,44 +1,24 @@
 {
 glyphname = Oslash;
+kernLeft = O;
+kernRight = O;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (-23,0);
-ref = _O_slashlongcomb;
-}
-);
-width = 707;
-},
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
+pos = (4,0);
 ref = O;
 },
 {
+pos = (9,0);
 ref = _O_slashlongcomb;
 }
 );
-width = 752;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (-6,10);
-ref = _O_slashlongcomb;
+width = 770;
 }
 );
-width = 743;
-}
-);
+metricRight = "=|";
 unicode = 216;
 }

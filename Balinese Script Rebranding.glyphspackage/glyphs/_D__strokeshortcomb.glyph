@@ -9,27 +9,6 @@ name = _center;
 pos = (92,350);
 }
 );
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(404,340,l),
-(404,365,l),
-(37,365,l),
-(37,340,l)
-);
-}
-);
-width = 689;
-},
-{
-anchors = (
-{
-name = _center;
-pos = (92,350);
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -39,27 +18,6 @@ nodes = (
 (444,393,l),
 (17,393,l),
 (17,321,l)
-);
-}
-);
-width = 689;
-},
-{
-anchors = (
-{
-name = _center;
-pos = (92,350);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(424,298,l),
-(424,416,l),
-(17,416,l),
-(17,298,l)
 );
 }
 );

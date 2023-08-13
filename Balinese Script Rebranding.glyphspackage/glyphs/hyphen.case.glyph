@@ -1,0 +1,32 @@
+{
+glyphname = hyphen.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,307,l),
+(287,390,l),
+(67,390,l),
+(67,307,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 354;
+}
+);
+userData = {
+RMXScaler = {
+source = hyphen;
+};
+};
+}

@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (136,700);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(231,757,l),
+(231,813,l),
+(38,813,l),
+(38,757,l)
+);
+}
+);
+width = 271;
+}
+);
+}

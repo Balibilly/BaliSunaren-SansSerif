@@ -2,31 +2,14 @@
 glyphname = macron;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = macroncomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = macroncomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = macroncomb;
-}
-);
-width = 265;
+width = 374;
 }
 );
 unicode = 175;

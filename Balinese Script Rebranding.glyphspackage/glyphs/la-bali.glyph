@@ -5,74 +5,46 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1224,0);
+pos = (1242,0);
 },
 {
 name = top;
-pos = (474,650);
+pos = (492,650);
 }
 );
 background = {
 shapes = (
 {
-pos = (29,0);
+pos = (47,0);
 ref = "ha-bali";
 }
 );
 };
-layerId = m009;
+layerId = m002;
+name = Regular;
 shapes = (
 {
-closed = 1;
-nodes = (
-(1016,-10,o),
-(1065,96,o),
-(1065,250,cs),
-(1065,291,l),
-(997,291,l),
-(997,255,ls),
-(997,118,o),
-(960,64,o),
-(844,64,cs),
-(737,64,o),
-(691,102,o),
-(691,177,cs),
-(691,223,o),
-(699,291,o),
-(699,348,cs),
-(699,486,o),
-(619,555,o),
-(499,555,c),
-(498,479,l),
-(586,479,o),
-(624,429,o),
-(624,329,cs),
-(624,284,o),
-(616,228,o),
-(616,181,cs),
-(616,38,o),
-(700,-10,o),
-(841,-10,cs)
-);
-},
-{
-pos = (23,0);
+alignment = -1;
+pos = (41,0);
 ref = _la_tenas;
 },
 {
 alignment = -1;
-pos = (80,0);
+pos = (98,0);
 ref = _ha_geluungan_ha;
 },
 {
-pos = (23,0);
+pos = (41,0);
 ref = _la_baong;
-}
-);
-width = 1284;
 },
 {
-associatedMasterId = m009;
+ref = _la_bali_awak_lantang;
+}
+);
+width = 1322;
+},
+{
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -134,7 +106,7 @@ ref = _la_baong;
 width = 1218;
 },
 {
-associatedMasterId = m009;
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -196,76 +168,6 @@ ref = _la_baong;
 width = 1207;
 },
 {
-anchors = (
-{
-name = bottom;
-pos = (1224,0);
-},
-{
-name = top;
-pos = (474,650);
-}
-);
-background = {
-shapes = (
-{
-pos = (29,0);
-ref = "ha-bali";
-}
-);
-};
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(1016,-10,o),
-(1065,96,o),
-(1065,250,cs),
-(1065,291,l),
-(997,291,l),
-(997,255,ls),
-(997,118,o),
-(960,64,o),
-(844,64,cs),
-(737,64,o),
-(691,102,o),
-(691,177,cs),
-(691,223,o),
-(699,291,o),
-(699,348,cs),
-(699,486,o),
-(619,555,o),
-(499,555,c),
-(498,479,l),
-(586,479,o),
-(624,429,o),
-(624,329,cs),
-(624,284,o),
-(616,228,o),
-(616,181,cs),
-(616,38,o),
-(700,-10,o),
-(841,-10,cs)
-);
-},
-{
-pos = (23,0);
-ref = _la_tenas;
-},
-{
-alignment = -1;
-pos = (80,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (23,0);
-ref = _la_baong;
-}
-);
-width = 1284;
-},
-{
 associatedMasterId = m002;
 background = {
 shapes = (
@@ -276,7 +178,7 @@ ref = "ha-bali";
 );
 };
 layerId = "5CF0E851-A077-49AB-99C0-D746304598B2";
-name = "2 May 23 15.20";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -338,7 +240,7 @@ ref = "ha-bali";
 );
 };
 layerId = "C2E64617-8BB0-40F4-8835-9E578FB2D657";
-name = "2 May 23 16.05";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -400,6 +302,7 @@ name = top;
 pos = (474,650);
 }
 );
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -409,6 +312,7 @@ ref = "ha-bali";
 );
 };
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -460,7 +364,7 @@ ref = _la_baong;
 width = 1284;
 },
 {
-associatedMasterId = m003;
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -470,7 +374,7 @@ ref = "ha-bali";
 );
 };
 layerId = "84E3CFAA-19C5-409F-BAB1-F3626B5A7A8F";
-name = "2 May 23 15.20";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -522,7 +426,7 @@ ref = _la_baong;
 width = 1218;
 },
 {
-associatedMasterId = m003;
+associatedMasterId = m002;
 background = {
 shapes = (
 {
@@ -532,7 +436,7 @@ ref = "ha-bali";
 );
 };
 layerId = "80CE3BE5-8461-4D57-85C2-910EA4FE3001";
-name = "2 May 23 16.05";
+name = Bold;
 shapes = (
 {
 closed = 1;

@@ -2,31 +2,14 @@
 glyphname = ring;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = ringcomb;
-}
-);
-width = 239;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = ringcomb;
 }
 );
-width = 239;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = ringcomb;
-}
-);
-width = 239;
+width = 195;
 }
 );
 unicode = 730;

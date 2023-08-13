@@ -2,43 +2,25 @@
 glyphname = "leftHandClosedPlak-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = "leftHandOpenPang-bali";
-},
-{
-closed = 1;
-nodes = (
-(389,147,l),
-(93,480,l),
-(60,446,l),
-(362,121,l)
-);
-}
-);
-width = 451;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
+alignment = 1;
 ref = "leftHandOpenPang-bali";
 },
 {
-closed = 1;
-nodes = (
-(389,147,l),
-(93,480,l),
-(60,446,l),
-(362,121,l)
-);
+alignment = -1;
+pos = (69,0);
+ref = _segtitga_bali;
 }
 );
-width = 451;
+width = 516;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 ref = "leftHandOpenPang-bali";
@@ -56,5 +38,7 @@ nodes = (
 width = 451;
 }
 );
+metricLeft = "leftHandOpenPang-bali";
+metricRight = "leftHandOpenPang-bali";
 unicode = 7034;
 }

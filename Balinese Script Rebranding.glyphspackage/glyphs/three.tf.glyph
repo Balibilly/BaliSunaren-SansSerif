@@ -1,0 +1,16 @@
+{
+glyphname = three.tf;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (62,0);
+ref = three;
+}
+);
+width = 617;
+}
+);
+}

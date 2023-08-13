@@ -1,0 +1,21 @@
+{
+glyphname = eacute;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (151,0);
+ref = acutecomb;
+}
+);
+width = 576;
+}
+);
+unicode = 233;
+}

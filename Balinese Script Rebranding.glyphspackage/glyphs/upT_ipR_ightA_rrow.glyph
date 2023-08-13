@@ -2,37 +2,40 @@
 glyphname = upTipRightArrow;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (820,0);
-ref = upTipLeftArrow;
-scale = (-1,1);
-}
-);
-width = 820;
-},
-{
 layerId = m002;
 shapes = (
 {
-pos = (820,0);
-ref = upTipLeftArrow;
-scale = (-1,1);
-}
+closed = 1;
+nodes = (
+(190,0,l),
+(190,365,l),
+(133,323,l),
+(758,323,l),
+(757,390,l),
+(82,390,l),
+(120,421,l),
+(120,0,l)
 );
-width = 820;
 },
 {
-layerId = m003;
-shapes = (
-{
-pos = (820,0);
-ref = upTipLeftArrow;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(883,386,l),
+(883,322,l),
+(618,587,l),
+(642,583,l),
+(572,513,l),
+(570,539,l),
+(784,329,l),
+(784,384,l),
+(567,164,l),
+(571,190,l),
+(640,121,l),
+(613,115,l)
+);
 }
 );
-width = 820;
+width = 916;
 }
 );
 metricLeft = "=|upTipLeftArrow";

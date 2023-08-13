@@ -1,45 +1,89 @@
 {
 glyphname = dollar;
+kernLeft = S;
+kernRight = S;
 layers = (
 {
-layerId = m009;
-shapes = (
+anchors = (
 {
-ref = S;
+name = bar_ver;
+pos = (266,359);
 },
 {
-pos = (-37,0);
-ref = _bar_ver_;
+name = bottom;
+pos = (283,0);
+},
+{
+name = top;
+pos = (261,700);
 }
 );
-width = 491;
-},
-{
 layerId = m002;
 shapes = (
 {
-ref = S;
+closed = 1;
+nodes = (
+(324,-90,l),
+(324,790,l),
+(260,790,l),
+(260,-90,l)
+);
 },
 {
-pos = (-23,0);
-ref = _bar_ver_;
+ref = S;
 }
 );
-width = 516;
+width = 594;
 },
 {
-layerId = m003;
+anchors = (
+{
+name = bar_ver;
+pos = (266,359);
+},
+{
+name = bottom;
+pos = (283,0);
+},
+{
+name = top;
+pos = (261,700);
+}
+);
+associatedMasterId = m002;
+attr = {
+axisRules = (
+);
+};
+layerId = "A4F0F5C7-C9B7-4699-8100-26EAB1232CB0";
+name = "17 Jul 23 14.40";
 shapes = (
 {
-ref = S;
+closed = 1;
+nodes = (
+(324,-90,l),
+(324,30,l),
+(260,30,l),
+(260,-90,l)
+);
 },
 {
-pos = (5,0);
-ref = _bar_ver_;
+closed = 1;
+nodes = (
+(324,680,l),
+(324,790,l),
+(260,790,l),
+(260,680,l)
+);
+},
+{
+ref = S;
 }
 );
-width = 568;
+width = 594;
 }
 );
+metricLeft = S;
+metricRight = S;
 unicode = 36;
 }

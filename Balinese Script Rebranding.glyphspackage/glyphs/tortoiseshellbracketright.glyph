@@ -1,0 +1,20 @@
+{
+glyphname = tortoiseshellbracketright;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (339,0);
+ref = tortoiseshellbracketleft;
+scale = (-1,1);
+}
+);
+width = 339;
+}
+);
+metricRight = bracketright;
+unicode = 12309;
+}

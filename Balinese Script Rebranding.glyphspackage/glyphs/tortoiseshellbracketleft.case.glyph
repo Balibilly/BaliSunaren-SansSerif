@@ -1,0 +1,38 @@
+{
+glyphname = tortoiseshellbracketleft.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,-57,l),
+(151,18,l),
+(172,-17,l),
+(172,704,l),
+(148,666,l),
+(317,744,l),
+(287,806,l),
+(59,706,l),
+(97,744,l),
+(97,-57,l),
+(59,-19,l),
+(287,-119,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 96;
+};
+};
+width = 349;
+}
+);
+userData = {
+RMXScaler = {
+source = tortoiseshellbracketleft;
+};
+};
+}

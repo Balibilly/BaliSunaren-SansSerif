@@ -1,0 +1,44 @@
+{
+glyphname = parenleft.case;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,-134,l),
+(301,-86,l),
+(295,-112,l),
+(191,59,o),
+(149,180,o),
+(149,335,cs),
+(149,468,o),
+(183,606,o),
+(298,805,c),
+(304,774,l),
+(219,820,l),
+(243,826,l),
+(121,641,o),
+(71,486,o),
+(71,330,cs),
+(71,184,o),
+(120,32,o),
+(241,-135,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 96;
+};
+};
+width = 315;
+}
+);
+userData = {
+RMXScaler = {
+source = parenleft;
+};
+};
+}

@@ -1,0 +1,21 @@
+{
+glyphname = edotbelow;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (208,0);
+ref = dotbelowcomb;
+}
+);
+width = 576;
+}
+);
+unicode = 7865;
+}

@@ -1,38 +1,50 @@
 {
 glyphname = braceright;
+kernLeft = parenright;
+kernRight = parenright;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-pos = (294,0);
-ref = braceleft;
-scale = (-1,1);
-}
-);
-width = 294;
-},
 {
 layerId = m002;
 shapes = (
 {
-pos = (294,0);
-ref = braceleft;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(182,-205,o),
+(246,-154,o),
+(246,-25,cs),
+(246,170,ls),
+(246,226,o),
+(264,244,o),
+(314,253,c),
+(314,302,l),
+(264,311,o),
+(246,328,o),
+(246,384,cs),
+(246,520,ls),
+(246,649,o),
+(182,700,o),
+(49,700,c),
+(49,640,l),
+(120,635,o),
+(174,625,o),
+(174,532,cs),
+(174,404,ls),
+(174,344,o),
+(189,293,o),
+(225,278,c),
+(225,277,l),
+(189,263,o),
+(174,229,o),
+(174,161,cs),
+(174,-27,ls),
+(174,-120,o),
+(120,-140,o),
+(49,-145,c),
+(49,-205,l)
+);
 }
 );
-width = 294;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (294,0);
-ref = braceleft;
-scale = (-1,1);
-}
-);
-width = 294;
+width = 388;
 }
 );
 metricLeft = "=|braceleft";

@@ -2,27 +2,20 @@
 glyphname = "dung-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (502,535);
-ref = "suku-bali";
-}
-);
-width = 493;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (502,535);
+pos = (100,535);
 ref = "suku-bali";
 }
 );
-width = 493;
+width = 513;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (502,535);

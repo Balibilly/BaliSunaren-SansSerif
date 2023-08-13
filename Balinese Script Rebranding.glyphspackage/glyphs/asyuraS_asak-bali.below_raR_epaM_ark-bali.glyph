@@ -1,0 +1,37 @@
+{
+color = 4;
+glyphname = "asyuraSasak-bali.below_raRepaMark-bali";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-97,0);
+},
+{
+name = bottom;
+pos = (-186,-794);
+},
+{
+name = cecekbawah;
+pos = (-841,-815);
+},
+{
+name = top;
+pos = (-767,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "asyuraSasak-bali.below_ra-bali.below";
+},
+{
+pos = (-1494,-1077);
+ref = _cecek_bawah;
+}
+);
+width = 0;
+}
+);
+}

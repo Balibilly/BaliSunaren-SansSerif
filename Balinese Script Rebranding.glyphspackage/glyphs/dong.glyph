@@ -1,0 +1,29 @@
+{
+glyphname = dong;
+kernLeft = o;
+kernRight = i;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = dcroat;
+},
+{
+closed = 1;
+nodes = (
+(591,-156,l),
+(591,-90,l),
+(53,-90,l),
+(53,-156,l)
+);
+}
+);
+width = 628;
+}
+);
+metricLeft = o;
+metricRight = "=|hbar";
+unicode = 8363;
+}

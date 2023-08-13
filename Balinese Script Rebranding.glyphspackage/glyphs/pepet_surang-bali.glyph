@@ -8,26 +8,8 @@ name = _top;
 pos = (371,630);
 }
 );
-layerId = m009;
-shapes = (
-{
-ref = _pepet_bawak;
-},
-{
-pos = (149,1);
-ref = _surang_bawak;
-}
-);
-width = 966;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (371,630);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 ref = _pepet_bawak;
@@ -37,7 +19,7 @@ pos = (149,1);
 ref = _surang_bawak;
 }
 );
-width = 966;
+width = 0;
 },
 {
 anchors = (
@@ -46,17 +28,21 @@ name = _top;
 pos = (371,630);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
+alignment = -1;
 ref = _pepet_bawak;
 },
 {
+alignment = -1;
 pos = (149,1);
 ref = _surang_bawak;
 }
 );
-width = 966;
+width = 1050;
 }
 );
 metricLeft = "pepet-bali";

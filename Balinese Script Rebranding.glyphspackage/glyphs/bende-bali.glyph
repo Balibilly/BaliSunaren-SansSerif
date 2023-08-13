@@ -2,34 +2,8 @@
 glyphname = "bende-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(331,578,l),
-(384,712,o),
-(477,819,o),
-(599,907,c),
-(509,942,l),
-(404,860,o),
-(349,742,o),
-(316,641,c),
-(330,644,l),
-(253,712,o),
-(197,816,o),
-(177,890,c),
-(100,849,l),
-(166,715,o),
-(235,642,o),
-(339,581,c)
-);
-}
-);
-width = 699;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -56,7 +30,9 @@ nodes = (
 width = 699;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;

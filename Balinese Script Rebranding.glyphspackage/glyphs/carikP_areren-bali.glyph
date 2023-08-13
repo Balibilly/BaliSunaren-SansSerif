@@ -2,22 +2,8 @@
 glyphname = "carikPareren-bali";
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-ref = "carikSiki-bali";
-},
-{
-alignment = -1;
-pos = (217,0);
-ref = "carikSiki-bali";
-}
-);
-width = 560;
-},
-{
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
@@ -25,14 +11,16 @@ ref = "carikSiki-bali";
 },
 {
 alignment = -1;
-pos = (217,0);
+pos = (229,0);
 ref = "carikSiki-bali";
 }
 );
-width = 560;
+width = 672;
 },
 {
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

@@ -5,93 +5,52 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (838,0);
+pos = (-92,0);
 },
 {
 name = bottom;
-pos = (838,-679);
-}
-);
-layerId = m009;
-shapes = (
-{
-alignment = -1;
-pos = (-60,-679);
-ref = _daMadu_bawah;
+pos = (-92,-679);
 },
 {
-closed = 1;
-nodes = (
-(612,-689,o),
-(679,-593,o),
-(679,-452,cs),
-(679,-388,l),
-(611,-388,l),
-(611,-453,ls),
-(611,-569,o),
-(561,-617,o),
-(522,-617,c),
-(525,-689,l)
-);
-},
-{
-alignment = -1;
-pos = (-306,-679);
-ref = _ha_geluungan_ha;
-},
-{
-alignment = -1;
-pos = (-85,0);
-ref = _daMadu_below;
-}
-);
-width = 888;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (838,0);
-},
-{
-name = bottom;
-pos = (838,-679);
+name = top;
+pos = (-467,650);
 }
 );
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (-60,-679);
+pos = (-990,-679);
 ref = _daMadu_bawah;
 },
 {
 closed = 1;
 nodes = (
-(612,-689,o),
-(679,-593,o),
-(679,-452,cs),
-(679,-388,l),
-(611,-388,l),
-(611,-453,ls),
-(611,-569,o),
-(561,-617,o),
-(522,-617,c),
-(525,-689,l)
+(-318,-689,o),
+(-251,-593,o),
+(-251,-452,cs),
+(-251,-388,l),
+(-319,-388,l),
+(-319,-453,ls),
+(-319,-569,o),
+(-369,-617,o),
+(-408,-617,c),
+(-405,-689,l)
 );
 },
 {
 alignment = -1;
-pos = (-306,-679);
+pos = (-1236,-679);
 ref = _ha_geluungan_ha;
 },
 {
 alignment = -1;
-pos = (-85,0);
+pos = (-1015,0);
 ref = _daMadu_below;
 }
 );
-width = 888;
+width = 0;
 },
 {
 anchors = (
@@ -104,7 +63,9 @@ name = bottom;
 pos = (838,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 alignment = -1;

@@ -5,31 +5,6 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (133,537);
-},
-{
-name = top;
-pos = (133,750);
-}
-);
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(154,692,l),
-(154,750,l),
-(111,750,l),
-(111,692,l)
-);
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (133,545);
 },
 {
@@ -46,31 +21,6 @@ nodes = (
 (180,750,l),
 (85,750,l),
 (85,662,l)
-);
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (133,553);
-},
-{
-name = top;
-pos = (133,750);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(211,608,l),
-(211,750,l),
-(55,750,l),
-(55,608,l)
 );
 }
 );

@@ -16,35 +16,8 @@ name = top;
 pos = (805,630);
 }
 );
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-ref = "ulu-bali";
-},
-{
-pos = (0,-26);
-ref = _ulu_cecek_;
-}
-);
-width = 560;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (326,630);
-},
-{
-name = dot_ulu_bali;
-pos = (303,746);
-},
-{
-name = top;
-pos = (805,630);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
 alignment = 1;
@@ -55,7 +28,7 @@ pos = (0,-26);
 ref = _ulu_cecek_;
 }
 );
-width = 560;
+width = 0;
 },
 {
 anchors = (
@@ -72,13 +45,16 @@ name = top;
 pos = (805,630);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = "ulu-bali";
 },
 {
+alignment = -1;
 pos = (0,-26);
 ref = _ulu_cecek_;
 }

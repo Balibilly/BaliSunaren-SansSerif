@@ -2,31 +2,14 @@
 glyphname = breve;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = brevecomb;
-}
-);
-width = 265;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = brevecomb;
 }
 );
-width = 265;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = brevecomb;
-}
-);
-width = 265;
+width = 336;
 }
 );
 unicode = 728;

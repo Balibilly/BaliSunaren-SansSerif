@@ -1,0 +1,15 @@
+{
+glyphname = ordfeminine;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = asuperior;
+}
+);
+width = 338;
+}
+);
+unicode = 170;
+}

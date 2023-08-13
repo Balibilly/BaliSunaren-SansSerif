@@ -1,19 +1,8 @@
 {
 glyphname = idieresis;
+kernLeft = h;
+kernRight = i;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-77,0);
-ref = dieresiscomb;
-}
-);
-width = 205;
-},
 {
 layerId = m002;
 shapes = (
@@ -21,24 +10,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-76,0);
-ref = dieresiscomb;
+pos = (-11,-155);
+ref = _dieresiscom;
 }
 );
 width = 249;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-59,0);
-ref = dieresiscomb;
-}
-);
-width = 292;
 }
 );
 unicode = 239;

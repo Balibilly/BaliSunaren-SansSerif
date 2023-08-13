@@ -1,54 +1,24 @@
 {
-color = 4;
 glyphname = Saltillo;
+kernLeft = H;
+kernRight = H;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(131,224,l),
-(131,700,l),
-(102,700,l),
-(102,224,l)
-);
-}
-);
-width = 233;
-},
 {
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(179,224,l),
-(179,700,l),
-(92,700,l),
-(92,224,l)
+(151,224,l),
+(151,700,l),
+(64,700,l),
+(64,224,l)
 );
 }
 );
-width = 271;
-},
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(197,224,l),
-(197,700,l),
-(49,700,l),
-(49,224,l)
-);
+width = 215;
 }
 );
-width = 246;
-}
-);
-metricLeft = H;
-metricRight = H;
+metricRight = "=|";
 unicode = 42891;
 }

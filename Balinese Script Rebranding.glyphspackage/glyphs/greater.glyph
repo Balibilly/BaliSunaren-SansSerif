@@ -5,26 +5,7 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-66,0);
-ref = plus;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-pos = (516,0);
-ref = less;
-scale = (-1,1);
-}
-);
-width = 516;
-},
-{
-background = {
-shapes = (
-{
-pos = (-66,0);
+pos = (-24,0);
 ref = plus;
 }
 );
@@ -32,31 +13,32 @@ ref = plus;
 layerId = m002;
 shapes = (
 {
-pos = (516,0);
-ref = less;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(76,97,l),
+(512,328,l),
+(498,303,l),
+(498,392,l),
+(514,373,l),
+(80,586,l),
+(105,588,l),
+(65,500,l),
+(38,536,l),
+(349,383,ls),
+(394,361,o),
+(417,354,o),
+(446,350,c),
+(446,353,l),
+(417,350,o),
+(384,333,o),
+(356,318,cs),
+(52,155,l),
+(58,189,l),
+(110,92,l)
+);
 }
 );
-width = 516;
-},
-{
-background = {
-shapes = (
-{
-pos = (-66,0);
-ref = plus;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-pos = (516,0);
-ref = less;
-scale = (-1,1);
-}
-);
-width = 516;
+width = 548;
 }
 );
 metricLeft = "=|less";

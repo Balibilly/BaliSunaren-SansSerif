@@ -1,0 +1,39 @@
+{
+glyphname = blacklenticularbracketright.case;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(217,834,l),
+(255,796,l),
+(24,796,l),
+(134,606,o),
+(168,468,o),
+(168,335,cs),
+(168,180,o),
+(126,59,o),
+(24,-109,c),
+(255,-109,l),
+(217,-147,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 96;
+};
+};
+width = 314;
+}
+);
+userData = {
+RMXScaler = {
+source = blacklenticularbracketright;
+};
+};
+}

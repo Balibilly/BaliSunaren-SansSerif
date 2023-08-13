@@ -1,0 +1,49 @@
+{
+glyphname = one.numr;
+kernLeft = one.numr;
+kernRight = one.numr;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-30,0);
+ref = two;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,385,l),
+(136,700,l),
+(84,700,l),
+(1,643,l),
+(3,655,l),
+(34,603,l),
+(20,609,l),
+(101,646,l),
+(83,670,l),
+(83,385,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = 385;
+weight = -27;
+width = 47;
+};
+};
+width = 188;
+}
+);
+userData = {
+RMXScaler = {
+source = one;
+};
+};
+}

@@ -5,58 +5,137 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (1018,0);
+pos = (-80,0);
 },
 {
 name = bottom;
-pos = (884,-679);
+pos = (-80,-679);
+},
+{
+name = top;
+pos = (-467,650);
 }
 );
-layerId = m009;
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (-80,0);
+},
+{
+name = bottom;
+pos = (-80,-679);
+}
+);
+shapes = (
+{
+alignment = -1;
+pos = (-1169,-679);
+ref = _la_tenas;
+},
+{
+closed = 1;
+nodes = (
+(-836,-689,o),
+(-787,-641,o),
+(-787,-569,cs),
+(-787,-500,o),
+(-810,-443,o),
+(-810,-337,cs),
+(-810,-240,o),
+(-760,-200,o),
+(-687,-200,c),
+(-677,-197,l),
+(-676,-126,l),
+(-686,-124,l),
+(-798,-124,o),
+(-882,-200,o),
+(-882,-332,cs),
+(-882,-447,o),
+(-860,-496,o),
+(-860,-571,cs),
+(-860,-606,o),
+(-882,-624,o),
+(-907,-624,c),
+(-906,-689,l)
+);
+},
+{
+ref = _calaca_gantungan;
+},
+{
+pos = (-789,-679);
+ref = _daMudra;
+}
+);
+};
+layerId = m002;
+name = Regular;
 shapes = (
 {
 closed = 1;
 nodes = (
-(969,-689,o),
-(1018,-583,o),
-(1018,-429,cs),
-(1018,-134,l),
-(942,-134,l),
-(942,-424,ls),
-(942,-561,o),
-(905,-615,o),
-(827,-615,cs),
-(760,-615,o),
-(714,-577,o),
-(714,-502,cs),
-(714,-456,o),
-(722,-388,o),
-(722,-331,cs),
-(722,-193,o),
-(642,-124,o),
-(522,-124,c),
-(521,-200,l),
-(609,-200,o),
-(647,-250,o),
-(647,-350,cs),
-(647,-395,o),
-(639,-451,o),
-(639,-498,cs),
-(639,-641,o),
-(723,-689,o),
-(824,-689,cs)
+(-691,-689,o),
+(-642,-643,o),
+(-642,-565,cs),
+(-642,-512,o),
+(-665,-423,o),
+(-665,-352,cs),
+(-665,-241,o),
+(-610,-200,o),
+(-535,-200,cs),
+(-459,-200,o),
+(-411,-243,o),
+(-411,-338,cs),
+(-411,-366,o),
+(-415,-441,o),
+(-415,-476,cs),
+(-415,-606,o),
+(-358,-689,o),
+(-223,-689,cs),
+(-58,-689,o),
+(15,-565,o),
+(15,-418,cs),
+(15,-321,o),
+(-17,-217,o),
+(-77,-128,c),
+(-54,-136,l),
+(-141,-182,l),
+(-143,-153,l),
+(-87,-242,o),
+(-59,-337,o),
+(-59,-421,cs),
+(-59,-531,o),
+(-107,-619,o),
+(-219,-619,cs),
+(-301,-619,o),
+(-342,-571,o),
+(-342,-473,cs),
+(-342,-436,o),
+(-338,-362,o),
+(-338,-327,cs),
+(-338,-208,o),
+(-406,-124,o),
+(-533,-124,cs),
+(-645,-124,o),
+(-737,-190,o),
+(-737,-348,cs),
+(-737,-424,o),
+(-715,-514,o),
+(-715,-562,cs),
+(-715,-606,o),
+(-733,-624,o),
+(-762,-624,c),
+(-761,-689,l)
 );
 },
 {
-pos = (46,-679);
+alignment = -1;
+pos = (-1026,-679);
 ref = _la_tenas;
-},
-{
-pos = (46,-679);
-ref = _la_baong;
 }
 );
-width = 1120;
+width = 0;
 },
 {
 anchors = (
@@ -69,7 +148,7 @@ name = bottom;
 pos = (1007,-689);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "22D7A865-C8EF-48AB-9989-6300FBBDF51E";
 name = "31 May 23 16.51";
 shapes = (
@@ -134,7 +213,7 @@ name = bottom;
 pos = (824,-679);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "C215CD42-2F63-4D0C-BD2F-554986C04958";
 name = "1 Jun 23 10.35";
 shapes = (
@@ -193,7 +272,7 @@ name = bottom;
 pos = (1032,-679);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "66034491-0167-4E43-A932-9846EA7A12C5";
 name = "1 Jun 23 10.46";
 shapes = (
@@ -258,7 +337,7 @@ name = bottom;
 pos = (1032,-679);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "5F7353D6-E6B9-4D29-ADAD-99CE626442F1";
 name = "6 Jun 23 11.51";
 shapes = (
@@ -337,7 +416,7 @@ name = bottom;
 pos = (884,-679);
 }
 );
-associatedMasterId = m009;
+associatedMasterId = m002;
 layerId = "A39F2852-F4EE-434A-826E-C5C26F3E05B1";
 name = "6 Jun 23 12.04";
 shapes = (
@@ -391,63 +470,6 @@ width = 1120;
 anchors = (
 {
 name = _bottom;
-pos = (1018,0);
-},
-{
-name = bottom;
-pos = (884,-679);
-}
-);
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(969,-689,o),
-(1018,-583,o),
-(1018,-429,cs),
-(1018,-134,l),
-(942,-134,l),
-(942,-424,ls),
-(942,-561,o),
-(905,-615,o),
-(827,-615,cs),
-(760,-615,o),
-(714,-577,o),
-(714,-502,cs),
-(714,-456,o),
-(722,-388,o),
-(722,-331,cs),
-(722,-193,o),
-(642,-124,o),
-(522,-124,c),
-(521,-200,l),
-(609,-200,o),
-(647,-250,o),
-(647,-350,cs),
-(647,-395,o),
-(639,-451,o),
-(639,-498,cs),
-(639,-641,o),
-(723,-689,o),
-(824,-689,cs)
-);
-},
-{
-pos = (46,-679);
-ref = _la_tenas;
-},
-{
-pos = (46,-679);
-ref = _la_baong;
-}
-);
-width = 1120;
-},
-{
-anchors = (
-{
-name = _bottom;
 pos = (955,0);
 },
 {
@@ -457,7 +479,7 @@ pos = (1007,-689);
 );
 associatedMasterId = m002;
 layerId = "304B935F-03D9-49C2-9295-1A98FAA53815";
-name = "31 May 23 16.51";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -522,7 +544,7 @@ pos = (824,-679);
 );
 associatedMasterId = m002;
 layerId = "70A7BF0A-E8C6-4304-BF78-DE4BCFEE39C8";
-name = "1 Jun 23 10.35";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -581,7 +603,7 @@ pos = (1032,-679);
 );
 associatedMasterId = m002;
 layerId = "39438E7B-DD9C-4CBA-B5AA-EC896092C1BA";
-name = "1 Jun 23 10.46";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -646,7 +668,7 @@ pos = (1032,-679);
 );
 associatedMasterId = m002;
 layerId = "234AFD43-A520-4DCB-A940-4249BE6C3C6D";
-name = "6 Jun 23 11.51";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -725,7 +747,7 @@ pos = (884,-679);
 );
 associatedMasterId = m002;
 layerId = "6DD42FA6-C389-406C-9A1C-9516B9F81C49";
-name = "6 Jun 23 12.04";
+name = Regular;
 shapes = (
 {
 closed = 1;
@@ -784,7 +806,9 @@ name = bottom;
 pos = (884,-679);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -841,9 +865,9 @@ name = bottom;
 pos = (1007,-689);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "63DE78D1-65B1-4D23-93FB-B8CC1FB37DED";
-name = "31 May 23 16.51";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -906,9 +930,9 @@ name = bottom;
 pos = (824,-679);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "0BA6AC11-FDBA-4295-B301-138685D42EC5";
-name = "1 Jun 23 10.35";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -965,9 +989,9 @@ name = bottom;
 pos = (1032,-679);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "9AE91CBD-6353-4973-B1DE-50650B10F75A";
-name = "1 Jun 23 10.46";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -1030,9 +1054,9 @@ name = bottom;
 pos = (1032,-679);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "58DE1649-92D8-4E46-A695-FDDCB0E21136";
-name = "6 Jun 23 11.51";
+name = Bold;
 shapes = (
 {
 closed = 1;
@@ -1109,9 +1133,9 @@ name = bottom;
 pos = (884,-679);
 }
 );
-associatedMasterId = m003;
+associatedMasterId = m002;
 layerId = "66FFCAA1-968E-4C66-9468-ED3B90EB3235";
-name = "6 Jun 23 12.04";
+name = Bold;
 shapes = (
 {
 closed = 1;

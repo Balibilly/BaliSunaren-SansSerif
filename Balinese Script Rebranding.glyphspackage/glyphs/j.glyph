@@ -1,36 +1,14 @@
 {
-color = 4;
 glyphname = j;
+kernLeft = j;
+kernRight = i;
 layers = (
 {
 background = {
 shapes = (
 {
 angle = 180;
-pos = (250,500);
-ref = f;
-}
-);
-};
-layerId = m009;
-shapes = (
-{
-ref = jdotless;
-},
-{
-alignment = 1;
-pos = (2,0);
-ref = dotaccentcomb;
-}
-);
-width = 257;
-},
-{
-background = {
-shapes = (
-{
-angle = 180;
-pos = (250,500);
+pos = (249,500);
 ref = f;
 }
 );
@@ -42,34 +20,11 @@ ref = jdotless;
 },
 {
 alignment = 1;
-pos = (3,0);
+pos = (-5,0);
 ref = dotaccentcomb;
 }
 );
-width = 257;
-},
-{
-background = {
-shapes = (
-{
-angle = 180;
-pos = (250,500);
-ref = f;
-}
-);
-};
-layerId = m003;
-shapes = (
-{
-ref = jdotless;
-},
-{
-alignment = 1;
-pos = (4,0);
-ref = dotaccentcomb;
-}
-);
-width = 257;
+width = 244;
 }
 );
 unicode = 106;

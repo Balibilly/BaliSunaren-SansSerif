@@ -2,37 +2,28 @@
 glyphname = northWestArrow;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-pos = (749,0);
-ref = northEastArrow;
-scale = (-1,1);
-}
-);
-width = 749;
-},
-{
 layerId = m002;
 shapes = (
 {
-pos = (749,0);
-ref = northEastArrow;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(628,21,l),
+(712,104,l),
+(727,53,l),
+(206,610,l),
+(196,574,l),
+(689,574,l),
+(689,650,l),
+(108,650,l),
+(108,33,l),
+(185,33,l),
+(185,583,l),
+(141,572,l),
+(666,5,l)
+);
 }
 );
-width = 749;
-},
-{
-layerId = m003;
-shapes = (
-{
-pos = (749,0);
-ref = northEastArrow;
-scale = (-1,1);
-}
-);
-width = 749;
+width = 771;
 }
 );
 metricLeft = "=|northEastArrow";

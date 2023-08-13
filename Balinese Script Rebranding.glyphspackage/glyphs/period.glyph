@@ -7,36 +7,11 @@ layers = (
 anchors = (
 {
 name = _colon;
-pos = (65,47);
+pos = (72,91);
 },
 {
 name = colon;
-pos = (65,537);
-}
-);
-layerId = m009;
-shapes = (
-{
-closed = 1;
-nodes = (
-(115,0,l),
-(115,47,l),
-(65,47,l),
-(65,0,l)
-);
-}
-);
-width = 180;
-},
-{
-anchors = (
-{
-name = _colon;
-pos = (40,91);
-},
-{
-name = colon;
-pos = (40,545);
+pos = (72,491);
 }
 );
 layerId = m002;
@@ -44,39 +19,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(138,0,l),
-(138,91,l),
-(40,91,l),
-(40,0,l)
+(170,0,l),
+(170,91,l),
+(72,91,l),
+(72,0,l)
 );
 }
 );
-width = 178;
-},
-{
-anchors = (
-{
-name = _colon;
-pos = (30,146);
-},
-{
-name = colon;
-pos = (30,553);
-}
-);
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(188,0,l),
-(188,146,l),
-(30,146,l),
-(30,0,l)
-);
-}
-);
-width = 218;
+width = 242;
 }
 );
 metricRight = "=|";

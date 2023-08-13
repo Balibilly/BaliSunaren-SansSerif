@@ -1,0 +1,21 @@
+{
+glyphname = Atilde;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (151,145);
+ref = tildecomb.case;
+}
+);
+width = 608;
+}
+);
+unicode = 195;
+}

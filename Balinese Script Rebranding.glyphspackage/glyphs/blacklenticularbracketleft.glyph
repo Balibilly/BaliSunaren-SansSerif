@@ -1,0 +1,29 @@
+{
+glyphname = blacklenticularbracketleft;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(59,-205,l),
+(290,-205,l),
+(188,-37,o),
+(146,84,o),
+(146,239,cs),
+(146,372,o),
+(180,510,o),
+(290,700,c),
+(59,700,l),
+(97,738,l),
+(97,-243,l)
+);
+}
+);
+width = 328;
+}
+);
+metricLeft = bracketleft;
+unicode = 12304;
+}

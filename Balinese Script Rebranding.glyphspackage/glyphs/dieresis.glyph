@@ -2,31 +2,14 @@
 glyphname = dieresis;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = dieresiscomb;
-}
-);
-width = 402;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = dieresiscomb;
 }
 );
-width = 402;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = dieresiscomb;
-}
-);
-width = 402;
+width = 442;
 }
 );
 unicode = 168;

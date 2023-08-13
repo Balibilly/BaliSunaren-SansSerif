@@ -1,0 +1,50 @@
+{
+glyphname = sevensuperior;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (56,0);
+ref = four;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,526,l),
+(109,649,o),
+(148,712,o),
+(211,805,c),
+(211,841,l),
+(10,841,l),
+(10,794,l),
+(162,794,l),
+(154,805,l),
+(94,721,o),
+(53,648,o),
+(49,526,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 45;
+verticalShift = 526;
+weight = -27;
+width = 47;
+};
+};
+width = 217;
+}
+);
+unicode = 8311;
+userData = {
+RMXScaler = {
+source = seven;
+};
+};
+}

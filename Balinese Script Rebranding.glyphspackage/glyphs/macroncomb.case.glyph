@@ -1,0 +1,32 @@
+{
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (161,555);
+},
+{
+name = top;
+pos = (161,751);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,612,l),
+(291,668,l),
+(43,668,l),
+(43,612,l)
+);
+}
+);
+width = 334;
+}
+);
+metricLeft = tildecomb;
+metricRight = tildecomb;
+}

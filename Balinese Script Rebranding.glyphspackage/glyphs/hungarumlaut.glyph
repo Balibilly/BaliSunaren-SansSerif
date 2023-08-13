@@ -2,31 +2,14 @@
 glyphname = hungarumlaut;
 layers = (
 {
-layerId = m009;
-shapes = (
-{
-ref = hungarumlautcomb;
-}
-);
-width = 396;
-},
-{
 layerId = m002;
 shapes = (
 {
+alignment = 1;
 ref = hungarumlautcomb;
 }
 );
-width = 396;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = hungarumlautcomb;
-}
-);
-width = 396;
+width = 443;
 }
 );
 unicode = 733;

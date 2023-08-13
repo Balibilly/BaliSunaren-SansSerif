@@ -1,66 +1,31 @@
 {
 glyphname = exclam;
+kernLeft = colon;
+kernRight = colon;
 layers = (
-{
-layerId = m009;
-shapes = (
-{
-alignment = 1;
-pos = (33,0);
-ref = period;
-},
-{
-closed = 1;
-nodes = (
-(132,105,l),
-(144,700,l),
-(102,700,l),
-(112,105,l)
-);
-}
-);
-width = 246;
-},
 {
 layerId = m002;
 shapes = (
 {
-alignment = 1;
-pos = (33,0);
-ref = period;
+closed = 1;
+nodes = (
+(214,0,l),
+(214,91,l),
+(116,91,l),
+(116,0,l)
+);
 },
 {
 closed = 1;
 nodes = (
-(156,155,l),
-(176,700,l),
-(68,700,l),
-(88,155,l)
+(199,155,l),
+(219,700,l),
+(111,700,l),
+(131,155,l)
 );
 }
 );
-width = 244;
-},
-{
-layerId = m003;
-shapes = (
-{
-alignment = 1;
-pos = (28,0);
-ref = period;
-scale = (0.8508,0.8508);
-},
-{
-closed = 1;
-nodes = (
-(182,195,l),
-(209,700,l),
-(33,700,l),
-(62,195,l)
-);
-}
-);
-width = 244;
+width = 330;
 }
 );
 metricRight = "=|";

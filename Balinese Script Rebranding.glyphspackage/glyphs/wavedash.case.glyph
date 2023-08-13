@@ -1,0 +1,29 @@
+{
+glyphname = wavedash.case;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,71);
+ref = wavedash;
+}
+);
+userData = {
+RMXScaler = {
+verticalShift = 71;
+};
+};
+width = 713;
+}
+);
+metricLeft = hyphen.001;
+metricRight = hyphen.001;
+userData = {
+RMXScaler = {
+source = wavedash;
+};
+};
+}

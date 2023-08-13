@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "raRepaTedungMark-bali";
 layers = (
 {
@@ -12,42 +13,18 @@ name = bottom;
 pos = (422,-457);
 }
 );
-layerId = m009;
-shapes = (
-{
-pos = (-467,0);
-ref = "raRepaMark-bali";
-},
-{
-pos = (486,0);
-ref = "tedung-bali";
-}
-);
-width = 1033;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (416,0);
-},
-{
-name = bottom;
-pos = (422,-457);
-}
-);
 layerId = m002;
+name = Regular;
 shapes = (
 {
-pos = (-467,0);
+alignment = 1;
 ref = "raRepaMark-bali";
 },
 {
-pos = (486,0);
 ref = "tedung-bali";
 }
 );
-width = 1033;
+width = 547;
 },
 {
 anchors = (
@@ -60,7 +37,9 @@ name = bottom;
 pos = (422,-457);
 }
 );
+associatedMasterId = m002;
 layerId = m003;
+name = Bold;
 shapes = (
 {
 pos = (-467,0);
