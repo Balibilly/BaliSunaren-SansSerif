@@ -113,7 +113,6 @@ displayStrings = (
 
 ",
 "/da-bali.below_ra-bali.below",
-"/da-bali.below_raRepaMark-bali",
 "ᬏᬉᬨᬠ
 
 /ra-bali.below 
@@ -153,6 +152,20 @@ displayStrings = (
 /veSasak-bali.below_ra-bali.post 
 /asyuraSasak-bali.below_ra-bali.below 
 /daMurdaMahaprana-bali.below_ra-bali.below",
-"/ra-bali.below1"
+"/wa-bali.below_ra-bali.post 
+
+ᬦ
+     /ha-bali.below    /Placeholder  ᬳ/ra-bali.below1 
+
+/ra-bali.below1     /raRepaMark-bali.below1       /ra-bali.below.ss01 
+/suku-bali.alt 
+/ra-bali.below2      /raRepaMark-bali.below2 
+
+/ra-bali.below3       /ra-bali.below3       /raRepaMark-bali.below3          
+
+
+/_ha_geluungan_ha   ᬳ/_nga_tenas ᬛ/jaJera-bali.ccmp0/_iluk_duwur ᬐ ",
+"/raRepaMark-bali.below1      /raRepaMark-bali.below2      /raRepaMark-bali.below3",
+"/suku-bali.alt"
 );
 }
