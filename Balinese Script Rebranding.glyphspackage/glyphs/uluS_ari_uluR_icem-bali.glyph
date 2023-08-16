@@ -20,7 +20,7 @@ pos = (479,0);
 ref = "uluRicem-bali";
 }
 );
-width = 0;
+width = 574;
 },
 {
 anchors = (
@@ -42,7 +42,7 @@ pos = (479,0);
 ref = "uluRicem-bali";
 }
 );
-width = 0;
+width = 574;
 }
 );
 metricLeft = "ulu-bali";

@@ -15,11 +15,11 @@ shapes = (
 ref = _pepet_bawak;
 },
 {
-pos = (1374,15);
+pos = (614,15);
 ref = "cecek-bali";
 }
 );
-width = 0;
+width = 727;
 },
 {
 anchors = (
@@ -36,11 +36,11 @@ shapes = (
 ref = _pepet_bawak;
 },
 {
-pos = (1374,15);
+pos = (614,15);
 ref = "cecek-bali";
 }
 );
-width = 0;
+width = 727;
 }
 );
 metricLeft = "pepet-bali";

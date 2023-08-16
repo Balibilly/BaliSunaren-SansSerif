@@ -1,0 +1,39 @@
+{
+glyphname = "jaJera_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (649,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (45,0);
+ref = _nga_tenas;
+},
+{
+pos = (22,0);
+ref = _aikara_ikuh;
+},
+{
+alignment = -1;
+pos = (22,0);
+ref = _okara_tenas;
+},
+{
+pos = (12,0);
+ref = _Ilut_duwur;
+},
+{
+pos = (1342,0);
+ref = "tedung-bali";
+}
+);
+width = 1889;
+}
+);
+}

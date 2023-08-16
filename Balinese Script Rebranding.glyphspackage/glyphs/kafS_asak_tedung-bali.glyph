@@ -1,0 +1,88 @@
+{
+glyphname = "kafSasak_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1216,0);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(257,-10,o),
+(290,124,o),
+(294,220,c),
+(283,213,l),
+(329,230,o),
+(383,232,o),
+(432,228,c),
+(438,288,l),
+(355,288,o),
+(302,278,o),
+(279,272,c),
+(239,264,l),
+(131,231,o),
+(63,152,o),
+(63,78,cs),
+(63,23,o),
+(101,-10,o),
+(153,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,51,o),
+(130,65,o),
+(130,85,cs),
+(130,123,o),
+(168,176,o),
+(240,200,c),
+(228,217,l),
+(226,139,o),
+(198,51,o),
+(157,51,cs)
+);
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = _na_tenas;
+},
+{
+pos = (62,0);
+ref = _na_batis;
+},
+{
+alignment = -1;
+pos = (62,0);
+ref = _na_bangkiang;
+},
+{
+pos = (41,0);
+ref = _ha_bangkiang;
+},
+{
+pos = (71,0);
+ref = _ha_geluungan_ha;
+},
+{
+ref = _suwet_ka;
+},
+{
+pos = (1295,0);
+ref = "tedung-bali";
+}
+);
+width = 1842;
+}
+);
+}

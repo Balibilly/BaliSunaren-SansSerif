@@ -1,0 +1,54 @@
+{
+category = Letter;
+glyphname = "rerekan_surang-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-579,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-863,0);
+ref = "rerekan-bali";
+},
+{
+alignment = -1;
+pos = (-385,0);
+ref = "surang-bali";
+}
+);
+width = 444;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = "rerekan-bali";
+},
+{
+alignment = -1;
+pos = (478,0);
+ref = "surang-bali";
+}
+);
+width = 578;
+}
+);
+metricLeft = "ulu-bali.01";
+metricRight = "ulu-bali.01";
+}

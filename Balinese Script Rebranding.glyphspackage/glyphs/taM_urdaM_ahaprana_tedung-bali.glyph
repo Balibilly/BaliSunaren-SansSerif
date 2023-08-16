@@ -1,0 +1,58 @@
+{
+glyphname = "taMurdaMahaprana_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1044,0);
+},
+{
+name = top;
+pos = (677,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,-10,o),
+(580,89,o),
+(561,263,c),
+(574,250,l),
+(474,241,l),
+(492,261,l),
+(502,134,o),
+(453,66,o),
+(376,66,c),
+(364,-10,l)
+);
+},
+{
+pos = (25,0);
+ref = _taMudra_tenas;
+},
+{
+pos = (28,0);
+ref = _nga_top;
+},
+{
+alignment = -1;
+pos = (5,0);
+ref = _nga_bali_ekor;
+},
+{
+alignment = -1;
+pos = (50,0);
+ref = _ha_tenas_ha;
+},
+{
+pos = (1124,0);
+ref = "tedung-bali";
+}
+);
+width = 1671;
+}
+);
+}

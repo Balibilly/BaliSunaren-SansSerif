@@ -1,0 +1,40 @@
+{
+glyphname = "nga_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1061,0);
+},
+{
+name = top;
+pos = (674,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (45,0);
+ref = _nga_body;
+},
+{
+alignment = -1;
+pos = (45,0);
+ref = _nga_top;
+},
+{
+alignment = -1;
+pos = (22,0);
+ref = _nga_bali_ekor;
+},
+{
+pos = (1141,0);
+ref = "tedung-bali";
+}
+);
+width = 1688;
+}
+);
+}

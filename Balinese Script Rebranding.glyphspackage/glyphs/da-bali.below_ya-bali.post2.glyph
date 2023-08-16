@@ -46,10 +46,11 @@ pos = (-770,-679);
 ref = _ekara_tenas;
 },
 {
+alignment = -1;
 ref = "ya-bali.post2";
 }
 );
-width = 327;
+width = 347;
 },
 {
 anchors = (
@@ -105,4 +106,5 @@ ref = _ekara_tenas;
 width = 327;
 }
 );
+metricRight = "ha-bali";
 }

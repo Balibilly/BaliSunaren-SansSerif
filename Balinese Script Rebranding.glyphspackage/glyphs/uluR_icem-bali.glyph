@@ -16,11 +16,11 @@ alignment = 1;
 ref = "ulu-bali";
 },
 {
-pos = (56,-26);
+pos = (60,-26);
 ref = _dot_ulu_bali;
 }
 );
-width = 0;
+width = 574;
 },
 {
 anchors = (

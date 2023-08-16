@@ -1,0 +1,86 @@
+{
+glyphname = "khotSasak_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1850,0);
+},
+{
+name = top;
+pos = (393,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,-5,l),
+(1010,62,l),
+(1002,66,l),
+(923,66,o),
+(856,87,o),
+(856,177,cs),
+(856,225,o),
+(856,258,o),
+(855,291,c),
+(779,291,l),
+(778,254,o),
+(778,216,o),
+(778,184,cs),
+(778,38,o),
+(868,-10,o),
+(990,-10,c)
+);
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = _na_baong;
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = _na_tenas;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _na_batis;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _na_bangkiang;
+},
+{
+alignment = -1;
+pos = (676,0);
+ref = _ha_bali_core;
+},
+{
+alignment = -1;
+pos = (676,0);
+ref = _ha_bangkiang;
+},
+{
+alignment = -1;
+pos = (696,0);
+ref = _ha_tundun_ha;
+},
+{
+alignment = -1;
+pos = (706,0);
+ref = _ha_geluungan_ha;
+},
+{
+pos = (1930,0);
+ref = "tedung-bali";
+}
+);
+width = 2477;
+}
+);
+}

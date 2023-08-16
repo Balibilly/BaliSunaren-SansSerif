@@ -1,0 +1,52 @@
+{
+category = Letter;
+glyphname = "pepet_cecek-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-462,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-833,0);
+ref = _pepet_bawak;
+},
+{
+alignment = -1;
+pos = (-219,15);
+ref = "cecek-bali";
+}
+);
+width = 354;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (614,15);
+ref = "cecek-bali";
+}
+);
+width = 727;
+}
+);
+metricLeft = "ulu-bali.01";
+metricRight = "ulu-bali.01";
+}

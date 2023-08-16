@@ -1,0 +1,49 @@
+{
+glyphname = "caLaca_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1056,0);
+},
+{
+name = top;
+pos = (467,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(848,-10,o),
+(897,96,o),
+(897,250,cs),
+(897,291,l),
+(829,291,l),
+(829,255,ls),
+(829,118,o),
+(792,64,o),
+(676,64,c),
+(673,-10,l)
+);
+},
+{
+pos = (53,0);
+ref = _caLaca;
+},
+{
+alignment = -1;
+pos = (-88,0);
+ref = _ha_geluungan_ha;
+},
+{
+pos = (1136,0);
+ref = "tedung-bali";
+}
+);
+width = 1683;
+}
+);
+}

@@ -9,7 +9,7 @@ shapes = (
 ref = _gantungan_h_;
 }
 );
-width = 310;
+width = 360;
 },
 {
 associatedMasterId = m002;
@@ -20,7 +20,7 @@ shapes = (
 ref = _gantungan_h_;
 }
 );
-width = 310;
+width = 360;
 }
 );
 unicode = 6980;

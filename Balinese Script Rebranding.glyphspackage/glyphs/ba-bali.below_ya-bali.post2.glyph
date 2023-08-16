@@ -12,6 +12,7 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
+alignment = -1;
 ref = "ya-bali.post2";
 },
 {
@@ -20,7 +21,7 @@ pos = (-1384,-679);
 ref = "ba-bali";
 }
 );
-width = 327;
+width = 347;
 },
 {
 anchors = (
@@ -45,4 +46,5 @@ ref = "ba-bali";
 width = 327;
 }
 );
+metricRight = "ha-bali";
 }

@@ -4,6 +4,14 @@ layers = (
 {
 anchors = (
 {
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (115,-770);
+},
+{
 name = top;
 pos = (-525,650);
 }
@@ -12,6 +20,7 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
+alignment = -1;
 ref = "ya-bali.post2.short";
 },
 {
@@ -45,4 +54,5 @@ ref = "daMurdaAlpaprana-bali.below";
 width = 347;
 }
 );
+metricRight = "ha-bali";
 }

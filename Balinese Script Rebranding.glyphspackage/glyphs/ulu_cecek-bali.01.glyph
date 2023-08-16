@@ -1,0 +1,61 @@
+{
+category = Letter;
+glyphname = "ulu_cecek-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-487,630);
+},
+{
+name = top;
+pos = (-5,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-813,0);
+ref = "ulu-bali";
+},
+{
+alignment = -1;
+pos = (-337,0);
+ref = _Cecek_komponen;
+}
+);
+width = 236;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = top;
+pos = (808,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (476,0);
+ref = _Cecek_komponen;
+}
+);
+width = 574;
+}
+);
+metricLeft = "ulu-bali.01";
+metricRight = "ulu-bali.01";
+}

@@ -1,0 +1,54 @@
+{
+category = Letter;
+glyphname = "pepet_surang-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-462,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-833,0);
+ref = _pepet_bawak;
+},
+{
+alignment = -1;
+pos = (-684,1);
+ref = _surang_bawak;
+}
+);
+width = 447;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = _pepet_bawak;
+},
+{
+alignment = -1;
+pos = (149,1);
+ref = _surang_bawak;
+}
+);
+width = 1050;
+}
+);
+metricLeft = "ulu-bali.01";
+metricRight = "ulu-bali.01";
+}

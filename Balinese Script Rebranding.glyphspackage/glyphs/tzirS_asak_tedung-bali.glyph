@@ -1,0 +1,32 @@
+{
+glyphname = "tzirSasak_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1146,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ta-bali";
+},
+{
+pos = (8,0);
+ref = _suwet_ta;
+},
+{
+pos = (1226,0);
+ref = "tedung-bali";
+}
+);
+width = 1773;
+}
+);
+}

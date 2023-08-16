@@ -23,6 +23,7 @@ nodes = (
 );
 },
 {
+alignment = -1;
 pos = (-877,0);
 ref = _ha_geluungan_ha;
 },
@@ -67,7 +68,7 @@ pos = (-1622,-679);
 ref = "nya-bali";
 }
 );
-width = 327;
+width = 347;
 },
 {
 anchors = (
@@ -139,4 +140,5 @@ ref = "nya-bali";
 width = 327;
 }
 );
+metricRight = "ha-bali";
 }

@@ -1,0 +1,33 @@
+{
+glyphname = "efSasak_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (831,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = _suwet_ta;
+},
+{
+pos = (911,0);
+ref = "tedung-bali";
+}
+);
+width = 1458;
+}
+);
+}

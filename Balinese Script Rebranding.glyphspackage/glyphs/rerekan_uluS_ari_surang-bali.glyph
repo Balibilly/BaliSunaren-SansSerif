@@ -20,7 +20,7 @@ pos = (498,0);
 ref = "uluSari_surang-bali";
 }
 );
-width = 0;
+width = 578;
 },
 {
 anchors = (
@@ -42,7 +42,7 @@ pos = (498,0);
 ref = "uluSari_surang-bali";
 }
 );
-width = 0;
+width = 578;
 }
 );
 }

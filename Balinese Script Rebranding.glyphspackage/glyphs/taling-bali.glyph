@@ -1,7 +1,14 @@
 {
+category = Letter;
 glyphname = "taling-bali";
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (291,650);
+}
+);
 layerId = m002;
 name = Regular;
 shapes = (

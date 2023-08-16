@@ -3,6 +3,16 @@ color = 4;
 glyphname = "talingTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (854,0);
+},
+{
+name = top;
+pos = (854,650);
+}
+);
 layerId = m002;
 name = Regular;
 shapes = (
@@ -10,11 +20,16 @@ shapes = (
 ref = "taling-bali";
 },
 {
+alignment = 1;
 pos = (522,0);
+ref = dottedCircle;
+},
+{
+pos = (1187,0);
 ref = "tedung-bali";
 }
 );
-width = 1069;
+width = 1734;
 },
 {
 associatedMasterId = m002;

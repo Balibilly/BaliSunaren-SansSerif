@@ -1,0 +1,53 @@
+{
+glyphname = "daMadu_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (916,0);
+},
+{
+name = top;
+pos = (432,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (41,0);
+ref = _la_tenas;
+},
+{
+closed = 1;
+nodes = (
+(704,-10,o),
+(769,76,o),
+(769,214,cs),
+(769,227,l),
+(699,226,l),
+(699,211,ls),
+(699,119,o),
+(667,62,o),
+(610,62,c),
+(613,-10,l)
+);
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = _wa_ca_gelungan;
+},
+{
+pos = (28,0);
+ref = _daMadu_bawah;
+},
+{
+pos = (996,0);
+ref = "tedung-bali";
+}
+);
+width = 1543;
+}
+);
+}

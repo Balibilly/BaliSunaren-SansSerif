@@ -19,7 +19,7 @@ ref = "uluSari-bali";
 ref = _surang_bawak;
 }
 );
-width = 0;
+width = 574;
 },
 {
 anchors = (
@@ -40,7 +40,7 @@ ref = "uluSari-bali";
 ref = _surang_bawak;
 }
 );
-width = 0;
+width = 574;
 }
 );
 metricLeft = "ulu-bali";

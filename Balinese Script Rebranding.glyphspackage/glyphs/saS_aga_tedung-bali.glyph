@@ -1,0 +1,33 @@
+{
+glyphname = "saSaga_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1183,0);
+},
+{
+name = top;
+pos = (594,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "ga-bali";
+},
+{
+alignment = -1;
+pos = (167,0);
+ref = _suwet;
+},
+{
+pos = (1263,0);
+ref = "tedung-bali";
+}
+);
+width = 1810;
+}
+);
+}

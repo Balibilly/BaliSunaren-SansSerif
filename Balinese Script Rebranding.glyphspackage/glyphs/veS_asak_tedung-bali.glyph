@@ -1,0 +1,33 @@
+{
+glyphname = "veSasak_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "wa-bali";
+},
+{
+alignment = -1;
+pos = (52,0);
+ref = _suwet_ta;
+},
+{
+pos = (904,0);
+ref = "tedung-bali";
+}
+);
+width = 1451;
+}
+);
+}

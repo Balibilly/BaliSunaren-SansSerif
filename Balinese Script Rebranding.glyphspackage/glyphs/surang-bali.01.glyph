@@ -1,0 +1,68 @@
+{
+category = Letter;
+glyphname = "surang-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-519,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-333,696,l),
+(-320,685,l),
+(-546,690,o),
+(-695,776,o),
+(-686,1006,c),
+(-668,996,l),
+(-775,996,l),
+(-762,1010,l),
+(-783,744,o),
+(-568,628,o),
+(-329,632,c),
+(-338,620,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (345,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,696,l),
+(544,685,l),
+(318,690,o),
+(169,776,o),
+(178,1006,c),
+(196,996,l),
+(89,996,l),
+(102,1010,l),
+(81,744,o),
+(296,628,o),
+(535,632,c),
+(526,620,l)
+);
+}
+);
+width = 630;
+}
+);
+metricLeft = "ulu-bali.01";
+}

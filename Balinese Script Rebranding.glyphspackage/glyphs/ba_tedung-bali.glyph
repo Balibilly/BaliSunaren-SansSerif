@@ -1,0 +1,43 @@
+{
+glyphname = "ba_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1346,0);
+},
+{
+name = top;
+pos = (674,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (202,0);
+ref = _ha_geluungan_ha;
+},
+{
+pos = (45,0);
+ref = _nga_body;
+},
+{
+pos = (45,0);
+ref = _nga_top;
+},
+{
+alignment = -1;
+pos = (45,0);
+ref = _ba_bangkiang;
+},
+{
+pos = (1426,0);
+ref = "tedung-bali";
+}
+);
+width = 1973;
+}
+);
+}

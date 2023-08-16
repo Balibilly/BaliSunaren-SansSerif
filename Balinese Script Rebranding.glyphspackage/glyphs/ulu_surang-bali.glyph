@@ -16,10 +16,11 @@ alignment = 1;
 ref = "ulu-bali";
 },
 {
+pos = (4,0);
 ref = _surang_bawak;
 }
 );
-width = 0;
+width = 574;
 },
 {
 anchors = (

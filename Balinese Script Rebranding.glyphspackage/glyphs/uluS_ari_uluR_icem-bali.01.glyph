@@ -1,0 +1,53 @@
+{
+category = Letter;
+glyphname = "uluSari_uluRicem-bali.01";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-487,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-813,0);
+ref = "uluSari-bali";
+},
+{
+alignment = -1;
+pos = (-334,0);
+ref = "uluRicem-bali";
+}
+);
+width = 479;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "uluSari-bali";
+},
+{
+pos = (479,0);
+ref = "uluRicem-bali";
+}
+);
+width = 574;
+}
+);
+metricLeft = "ulu-bali.01";
+metricRight = "ulu-bali.01";
+}
