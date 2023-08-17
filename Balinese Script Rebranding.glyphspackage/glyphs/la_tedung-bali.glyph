@@ -20,11 +20,6 @@ pos = (41,0);
 ref = _la_tenas;
 },
 {
-alignment = -1;
-pos = (98,0);
-ref = _ha_geluungan_ha;
-},
-{
 pos = (41,0);
 ref = _la_baong;
 },
@@ -32,11 +27,12 @@ ref = _la_baong;
 ref = _la_bali_awak_lantang;
 },
 {
-pos = (1322,0);
-ref = "tedung-bali";
+pos = (206,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1869;
+width = 1551;
 }
 );
+metricRight = "tedung-bali";
 }

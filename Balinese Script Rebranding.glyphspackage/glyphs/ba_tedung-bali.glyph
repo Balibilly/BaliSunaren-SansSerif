@@ -16,14 +16,11 @@ layerId = m002;
 shapes = (
 {
 alignment = -1;
-pos = (202,0);
-ref = _ha_geluungan_ha;
-},
-{
 pos = (45,0);
 ref = _nga_body;
 },
 {
+alignment = -1;
 pos = (45,0);
 ref = _nga_top;
 },
@@ -33,11 +30,39 @@ pos = (45,0);
 ref = _ba_bangkiang;
 },
 {
-pos = (1426,0);
-ref = "tedung-bali";
+alignment = -1;
+pos = (480,0);
+ref = _ha_bangkiang;
+},
+{
+pos = (618,0);
+ref = _tedung_ekoran;
+},
+{
+closed = 1;
+nodes = (
+(1346,291,l),
+(1346,376,ls),
+(1346,498,o),
+(1301,550,o),
+(1178,550,cs),
+(1168,550,l),
+(1119,507,l),
+(1119,291,l),
+(1129,281,l),
+(1176,281,l),
+(1187,291,l),
+(1187,502,l),
+(1180,482,l),
+(1248,484,o),
+(1270,447,o),
+(1270,372,cs),
+(1270,291,l)
+);
 }
 );
-width = 1973;
+width = 1963;
 }
 );
+metricRight = "tedung-bali";
 }

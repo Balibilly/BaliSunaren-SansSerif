@@ -18,12 +18,11 @@ pos = (-863,0);
 ref = "rerekan-bali";
 },
 {
-alignment = -1;
 pos = (-366,0);
-ref = "uluSari-bali";
+ref = "uluSari_cecek-bali";
 }
 );
-width = 447;
+width = 448;
 },
 {
 anchors = (
@@ -49,5 +48,5 @@ width = 578;
 }
 );
 metricLeft = "ulu-bali.01";
-metricRight = "ulu-bali.01";
+metricRight = "cecek-bali";
 }

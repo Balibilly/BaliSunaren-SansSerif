@@ -1,5 +1,6 @@
 {
 glyphname = "ca_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -14,6 +15,15 @@ pos = (395,650);
 );
 layerId = m002;
 shapes = (
+{
+pos = (-6,0);
+ref = _ca_awak;
+},
+{
+alignment = -1;
+pos = (-8,0);
+ref = _na_tenas;
+},
 {
 closed = 1;
 nodes = (
@@ -35,25 +45,15 @@ nodes = (
 );
 },
 {
-pos = (-6,0);
-ref = _ca_awak;
+pos = (-28,0);
+ref = _tedung_ekoran;
 },
 {
-alignment = -1;
-pos = (-8,0);
-ref = _na_tenas;
-},
-{
-alignment = -1;
-pos = (78,0);
-ref = _wa_ca_gelungan;
-},
-{
-pos = (929,0);
-ref = "tedung-bali";
+ref = _rejuna_;
 }
 );
-width = 1476;
+width = 1317;
 }
 );
+metricRight = "tedung-bali";
 }

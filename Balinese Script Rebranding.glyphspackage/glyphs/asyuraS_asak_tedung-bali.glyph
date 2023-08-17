@@ -1,5 +1,6 @@
 {
 glyphname = "asyuraSasak_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -42,6 +43,8 @@ nodes = (
 (1435,50,o),
 (1435,231,cs),
 (1435,291,l),
+(1432,301,l),
+(1371,301,l),
 (1367,291,l),
 (1367,258,ls),
 (1367,107,o),
@@ -90,15 +93,12 @@ pos = (-8,0);
 ref = _na_tenas;
 },
 {
-pos = (450,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1674,0);
-ref = "tedung-bali";
+pos = (558,0);
+ref = _tedung_ekoran;
 }
 );
-width = 2221;
+width = 1903;
 }
 );
+metricRight = "tedung-bali";
 }

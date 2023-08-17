@@ -180,6 +180,7 @@ nga-bali.below
 naRambat-bali.below
 la-bali.below
 
+laLengaTedungMark-bali
 ";
 name = Gantungan4;
 },
@@ -193,14 +194,13 @@ name = Gantungan5;
 },
 {
 code = "gaGora-bali.below
-
-";
+ra_ya-bali.post.short
+ra_ya-bali.post
+ra_ya_tedung-bali.post";
 name = Gantungan6;
 },
 {
 code = "asyuraSasak-bali.below
-ra_ya-bali.post.short
-ra_ya-bali.post
 nya-bali.below
 ba-bali.below_suku-bali.below
 ba-bali.below_sukuIlut-bali.below
@@ -262,7 +262,6 @@ taMurdaMahaprana-bali.below_suku-bali.below
 taLatik-bali.below_suku-bali.below
 la-bali.below_suku-bali.below
 ma-bali.below_suku-bali.below
-ba-bali.below_suku-bali.below
 nya-bali.below_suku-bali.below
 caLaca-bali.below_sukuIlut-bali.below
 daMurdaMahaprana-bali.below_sukuIlut-bali.below
@@ -371,6 +370,8 @@ suku-bali.alt
 sukuIlut-bali.alt
 ja-bali.below
 nya-bali.below
+ra_ya_suku-bali.post
+ra_ya_sukuIlut-bali.post
 ";
 name = TundunAksara;
 },
@@ -381,7 +382,8 @@ okara-bali
 kaMahaprana-bali
 nya-bali.below_suku-bali.below
 three-bali
-pamada-bali";
+pamada-bali
+";
 name = AksaraBatisNganjuh;
 },
 {
@@ -442,7 +444,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Ceraka Coba 02";
+familyName = "Bali Cerakan";
 featurePrefixes = (
 {
 automatic = 1;
@@ -490,7 +492,6 @@ feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
@@ -511,7 +512,7 @@ lookup ccmp_Other_3 {
 } ccmp_Other_3;
 
 lookup ccmp_bali_1 {
-	lookupflag 0;
+lookupflag UseMarkFilteringSet @UluningAksara; 
 	sub rerekan-bali pepet-bali cecek-bali by rerekan_pepet_cecek-bali;
 	sub rerekan-bali pepet-bali surang-bali by rerekan_pepet_surang-bali;
 	sub rerekan-bali uluSari-bali cecek-bali by rerekan_uluSari_cecek-bali;
@@ -595,11 +596,14 @@ code = "lookup pstf_bali_01 {
 } pstf_bali_01;
 script bali;
 lookup pstf_bali_01;
+
+
 ";
 tag = pstf;
 },
 {
-code = "lookup sukuCenik {
+code = "
+lookup sukuCenik {
 	sub [@Gantungan] suku-bali' by suku-bali.below;
 	sub [@Gantungan] sukuIlut-bali' by sukuIlut-bali.below;
 } sukuCenik;
@@ -670,8 +674,14 @@ lookup naniaSukuGantung {
 } naniaSukuGantung;
 
 lookup NaniaGantunganRaLigatur {
-	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' ya-bali.post' by ra_ya-bali.post;
-	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' ya-bali.post' tedung-bali' by ra_ya_tedung-bali.post;
+	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' [ya-bali.post ya-bali.post2]' by ra_ya-bali.post;
+	
+	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' [ya-bali.post ya-bali.post2]' tedung-bali' by ra_ya_tedung-bali.post;
+
+	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' [ya-bali.post2.short]' suku-bali.alt' by ra_ya_suku-bali.post ;
+	
+	sub [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3 ra-bali.below.ss01]' [ya-bali.post2.short]' sukuIlut-bali.alt' by ra_ya_sukuIlut-bali.post ;
+
 } NaniaGantunganRaLigatur;
 
 
@@ -707,8 +717,10 @@ sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] rerekan_uluSari_surang-bali' by rerekan_uluSari_surang-bali.01 ;
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] rerekan_pepet_cecek-bali' by rerekan_pepet_cecek-bali.01 ;
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] rerekan_pepet_surang-bali' by rerekan_pepet_surang-bali.01 ;
+} UluTumpukTelu;
 
-} UluTumpukTelu ;
+
+
 ";
 tag = abvs;
 },
@@ -804,6 +816,8 @@ lookup LigaturGantunganSukuIlutCenik;
 
 lookup LigaturSukuKembungCenik {
 	sub ba-bali.below wa-bali.below2 by ba-bali.below_wa-bali.below2 ;
+	sub la-bali.below wa-bali.below2 by la-bali.below_wa-bali.below2 ;
+
 } LigaturSukuKembungCenik ;
 script bali;
 
@@ -850,11 +864,32 @@ sub pa-bali tedung-bali by pa_tedung-bali ;
 sub efSasak-bali tedung-bali by efSasak_tedung-bali ;
 sub jaJera-bali tedung-bali by jaJera_tedung-bali ;
 sub ya-bali tedung-bali by ya_tedung-bali ;
+
+sub ulu-bali cecek-bali by ulu_cecek-bali;
+
 ";
 tag = liga;
 },
 {
-code = "lookup specialKern { 
+code = "lookup lalengaPepet {
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <300 0 300 0> [@Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5] ;
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <500 0 500 0> @Gantungan6 ;
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <800 0 800 0> @Gantungan7 ;
+pos laLengaMark-bali [@Aksara1 @Aksara2 @Aksara3]' <400 0 400 0> [@Gantungan1 @Gantungan2 @Gantungan3] [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
+
+pos laLengaMark-bali [ @Aksara4 @Aksara5 @Aksara6 @Aksara7]' <300 0 300 0> @LetterWithBelow [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
+} lalengaPepet ;
+
+lookup CampurSari {
+pos ma-bali.below [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @Gantungan7 ;
+pos suku-bali.alt [@Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7] ' <200 0 200 0> [ra-bali.below ra-bali.below.ss01] ;
+pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelow [ @GuwungBelow2 @GuwungBelow3] ;
+pos suku-bali.alt [taling-bali talingRepa-bali talingTedung-bali talingRepaTedung-bali]' <100 0 100 0> [@Aksara1 @Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7 adegadeg-bali carikSiki-bali carikPareren-bali] ; 
+
+} CampurSari ;
+
+
+lookup specialKern { 
 lookupflag UseMarkFilteringSet @LetterWithBelow; 
 pos @TundunAksara @Aksara1' <0 0 0 0> @Gantungan1 ;
 pos @TundunAksara @Aksara1' <0 0 0 0> @Gantungan2 ;
@@ -932,7 +967,6 @@ pos nya-bali.below [@Aksara2 @Aksara3]' <600 0 600 0> @Gantungan6 ;
 pos nya-bali.below [@Aksara2 @Aksara3]' <700 0 700 0> @Gantungan7 ;
 pos nya-bali.below [@Aksara1 @Aksara2 @Aksara3]' <400 0 400 0> [@Gantungan1 @Gantungan2 @Gantungan3] [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
 pos nya-bali.below [ @Aksara4 @Aksara5 @Aksara6 @Aksara7]' <300 0 300 0> @LetterWithBelow [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
-
 } GantunganNya;
 
 
@@ -966,12 +1000,15 @@ pos [@Aksara1 @Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7] ba-bali.bel
 lookup Bisah {
 lookupflag UseMarkFilteringSet @LetterWithBelow;
 pos [suku-bali.alt sukuIlut-bali.alt] bisah-bali' <100 0 100 0> [@Aksara1 @Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7 adegadeg-bali carikSiki-bali carikPareren-bali] ;
+
+pos [nya-bali.below_suku-bali.below nya-bali.below_sukuIlut-bali.below ukara-bali] bisah-bali' <100 0 100 0> [@Aksara1 @Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7 adegadeg-bali carikSiki-bali carikPareren-bali] ;
 } Bisah;
 
 lookup RaRepa {
 lookupflag UseMarkFilteringSet @LetterWithBelow;
 pos raRepa-bali [@Aksara1 @Aksara2 @Aksara3]' <250 0 250 0> @Gantungan7 ;
 } RaRepa ;
+
 
 
 
@@ -2013,6 +2050,9 @@ underscore = 33;
 "@MMK_R_z" = -19;
 ae = -9;
 };
+"@MMK_L_panti-bali" = {
+"@MMK_R_ka-bali" = 50;
+};
 "@MMK_L_percent" = {
 "@MMK_R_seven" = -40;
 "@MMK_R_zero" = -20;
@@ -2313,22 +2353,7 @@ type = descender;
 type = "italic angle";
 }
 );
-note = "1. Scrip ra-bali.below supaya tidak nuabrak
-2. Bagaimana dengan vertical metric? harmoni antara aksara bali dan latin + Cara pisahin
-3. Template proffing
-
-
-
-
-
-
-
-
-
-
-
-
-
+note = "
 
 
 
@@ -2618,7 +2643,7 @@ lookup ccmp_bali_2;
 
 
 
-";
+sub ulu-bali' suku-bali' cecek-bali' by ulu_cecek-bali ;";
 properties = (
 {
 key = copyrights;

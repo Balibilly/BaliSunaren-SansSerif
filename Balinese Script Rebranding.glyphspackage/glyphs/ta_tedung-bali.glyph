@@ -25,20 +25,16 @@ pos = (-28,0);
 ref = _ha_bangkiang;
 },
 {
-alignment = -1;
-pos = (2,0);
-ref = _ha_geluungan_ha;
-},
-{
 pos = (-1,0);
 ref = _ta_awak;
 },
 {
-pos = (1226,0);
-ref = "tedung-bali";
+pos = (110,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1773;
+width = 1455;
 }
 );
+metricRight = "tedung-bali";
 }

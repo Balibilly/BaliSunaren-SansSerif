@@ -1,5 +1,6 @@
 {
-glyphname = "ya-bali.post2";
+export = 0;
+glyphname = "_ya-bali.post_komp_";
 layers = (
 {
 anchors = (
@@ -25,10 +26,12 @@ pos = (-877,0);
 ref = _ha_geluungan_ha;
 },
 {
-ref = _nania_panjang;
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
 },
 {
-ref = _nania_baru;
+ref = _nania_panjang;
 }
 );
 width = 347;

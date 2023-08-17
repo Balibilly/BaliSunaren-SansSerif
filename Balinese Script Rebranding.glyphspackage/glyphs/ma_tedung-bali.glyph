@@ -21,6 +21,8 @@ nodes = (
 (692,80,o),
 (692,261,cs),
 (692,291,l),
+(685,301,l),
+(630,301,l),
 (624,291,l),
 (624,266,ls),
 (624,123,o),
@@ -82,16 +84,12 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (-293,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (931,0);
-ref = "tedung-bali";
+pos = (-185,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1478;
+width = 1160;
 }
 );
+metricRight = "tedung-bali";
 }

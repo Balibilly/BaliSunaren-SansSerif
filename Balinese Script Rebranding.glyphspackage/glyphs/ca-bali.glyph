@@ -1,5 +1,6 @@
 {
 glyphname = "ca-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (

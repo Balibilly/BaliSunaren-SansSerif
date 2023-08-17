@@ -76,16 +76,12 @@ pos = (-135,0);
 ref = _ha_bangkiang;
 },
 {
-alignment = -1;
-pos = (-105,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1119,0);
-ref = "tedung-bali";
+pos = (3,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1666;
+width = 1348;
 }
 );
+metricRight = "tedung-bali";
 }

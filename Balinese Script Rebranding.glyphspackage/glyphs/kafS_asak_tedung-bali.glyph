@@ -1,5 +1,6 @@
 {
 glyphname = "kafSasak_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -71,18 +72,15 @@ pos = (41,0);
 ref = _ha_bangkiang;
 },
 {
-pos = (71,0);
-ref = _ha_geluungan_ha;
-},
-{
 ref = _suwet_ka;
 },
 {
-pos = (1295,0);
-ref = "tedung-bali";
+pos = (179,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1842;
+width = 1524;
 }
 );
+metricRight = "tedung-bali";
 }

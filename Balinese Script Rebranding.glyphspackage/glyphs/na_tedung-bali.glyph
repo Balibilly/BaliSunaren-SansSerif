@@ -1,5 +1,6 @@
 {
 glyphname = "na_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -31,23 +32,34 @@ ref = _na_tenas;
 {
 alignment = -1;
 pos = (10,0);
-ref = _na_bangkiang;
-},
-{
-alignment = -1;
-pos = (10,0);
 ref = _na_batis;
 },
 {
-pos = (35,0);
-ref = _stem_ending;
+closed = 1;
+nodes = (
+(424,409,o),
+(489,479,o),
+(605,479,cs),
+(689,479,o),
+(780,426,o),
+(789,291,c),
+(829,291,l),
+(838,472,o),
+(739,555,o),
+(607,555,cs),
+(467,555,o),
+(353,465,o),
+(356,249,c),
+(427,247,l)
+);
 },
 {
-pos = (935,0);
-ref = "tedung-bali";
+pos = (-20,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1482;
+width = 1325;
 }
 );
+metricRight = "tedung-bali";
 }

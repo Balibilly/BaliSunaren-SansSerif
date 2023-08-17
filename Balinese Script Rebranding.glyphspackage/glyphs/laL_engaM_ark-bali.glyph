@@ -2,9 +2,24 @@
 glyphname = "laLengaMark-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
 layerId = m002;
 name = Regular;
-width = 1275;
+shapes = (
+{
+ref = "pepet-bali";
+},
+{
+pos = (1062,0);
+ref = "la-bali.below";
+}
+);
+width = 865;
 },
 {
 associatedMasterId = m002;

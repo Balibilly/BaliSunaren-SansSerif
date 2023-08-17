@@ -1,11 +1,48 @@
 {
-export = 0;
 glyphname = "ra_ya_suku-bali.post";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (-109,0);
+},
+{
+name = bottom;
+pos = (113,-468);
+},
+{
+name = top;
+pos = (-471,650);
+}
+);
 layerId = m002;
 name = Regular;
-width = 1969;
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,-398,l),
+(267,0,l),
+(260,10,l),
+(196,10,l),
+(191,0,l),
+(191,-398,l)
+);
+},
+{
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+ref = _ra_ya_post_depan;
+},
+{
+pos = (501,-80);
+ref = "suku-bali.alt";
+}
+);
+width = 347;
 },
 {
 associatedMasterId = m002;

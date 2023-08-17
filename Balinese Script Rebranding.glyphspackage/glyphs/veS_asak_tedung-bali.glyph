@@ -15,7 +15,24 @@ pos = (414,650);
 layerId = m002;
 shapes = (
 {
-ref = "wa-bali";
+alignment = -1;
+pos = (50,0);
+ref = _ha_tenas_ha;
+},
+{
+closed = 1;
+nodes = (
+(413,-10,ls),
+(548,-10,o),
+(677,59,o),
+(677,227,c),
+(607,226,l),
+(602,105,o),
+(511,66,o),
+(406,66,cs),
+(376,66,l),
+(364,-10,l)
+);
 },
 {
 alignment = -1;
@@ -23,11 +40,16 @@ pos = (52,0);
 ref = _suwet_ta;
 },
 {
-pos = (904,0);
-ref = "tedung-bali";
+pos = (-53,0);
+ref = _tedung_ekoran;
+},
+{
+pos = (-25,0);
+ref = _rejuna_;
 }
 );
-width = 1451;
+width = 1292;
 }
 );
+metricRight = "tedung-bali";
 }

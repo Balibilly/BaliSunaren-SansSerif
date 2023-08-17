@@ -16,8 +16,8 @@ alignment = 1;
 ref = "rerekan-bali";
 },
 {
-pos = (493,0);
-ref = "ulu-bali";
+pos = (497,0);
+ref = "ulu_cecek-bali";
 }
 );
 width = 578;

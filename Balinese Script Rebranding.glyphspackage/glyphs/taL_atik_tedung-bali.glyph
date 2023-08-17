@@ -67,16 +67,27 @@ pos = (32,0);
 ref = _nga_top;
 },
 {
-alignment = -1;
-pos = (9,0);
-ref = _nga_bali_ekor;
+closed = 1;
+nodes = (
+(1027,291,l),
+(1036,462,o),
+(962,555,o),
+(850,555,c),
+(840,550,l),
+(831,485,l),
+(841,479,l),
+(914,479,o),
+(978,426,o),
+(987,291,c)
+);
 },
 {
-pos = (1128,0);
-ref = "tedung-bali";
+pos = (178,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1675;
+width = 1523;
 }
 );
+metricRight = "tedung-bali";
 }

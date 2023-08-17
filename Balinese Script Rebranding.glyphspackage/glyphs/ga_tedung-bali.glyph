@@ -77,16 +77,12 @@ pos = (45,0);
 ref = _nga_tenas;
 },
 {
-alignment = -1;
-pos = (39,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1263,0);
-ref = "tedung-bali";
+pos = (147,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1810;
+width = 1492;
 }
 );
+metricRight = "tedung-bali";
 }

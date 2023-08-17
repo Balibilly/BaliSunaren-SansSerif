@@ -17,14 +17,11 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
+alignment = -1;
 ref = "taling-bali";
 },
 {
-alignment = 1;
-pos = (522,0);
-ref = dottedCircle;
-},
-{
+alignment = -1;
 pos = (1187,0);
 ref = "tedung-bali";
 }
@@ -47,5 +44,7 @@ ref = "tedung-bali";
 width = 1069;
 }
 );
+metricLeft = "taling-bali";
+metricRight = "tedung-bali";
 unicode = 6976;
 }

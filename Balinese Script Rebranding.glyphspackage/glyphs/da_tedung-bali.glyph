@@ -17,6 +17,30 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(506,404,o),
+(570,479,o),
+(686,479,cs),
+(778,479,o),
+(867,432,o),
+(878,291,c),
+(918,291,l),
+(926,467,o),
+(828,555,o),
+(687,555,cs),
+(549,555,o),
+(432,470,o),
+(436,249,c),
+(510,247,l)
+);
+},
+{
+alignment = -1;
+pos = (41,0);
+ref = _la_tenas;
+},
+{
+closed = 1;
+nodes = (
 (390,-10,o),
 (442,33,o),
 (489,77,c),
@@ -52,11 +76,6 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (41,0);
-ref = _la_tenas;
-},
-{
 closed = 1;
 nodes = (
 (594,52,o),
@@ -75,21 +94,12 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (117,0);
-ref = _stem_ending;
-},
-{
-alignment = -1;
-pos = (92,0);
-ref = _na_bangkiang;
-},
-{
-pos = (1017,0);
-ref = "tedung-bali";
+pos = (69,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1564;
+width = 1414;
 }
 );
+metricRight = "tedung-bali";
 }

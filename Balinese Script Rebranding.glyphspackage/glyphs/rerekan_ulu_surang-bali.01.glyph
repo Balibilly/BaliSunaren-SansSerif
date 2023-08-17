@@ -23,7 +23,7 @@ pos = (-365,0);
 ref = "ulu_surang-bali";
 }
 );
-width = 770;
+width = 531;
 },
 {
 anchors = (
@@ -49,5 +49,5 @@ width = 578;
 }
 );
 metricLeft = "ulu-bali.01";
-metricRight = "ulu-bali.01";
+metricRight = "surang-bali";
 }

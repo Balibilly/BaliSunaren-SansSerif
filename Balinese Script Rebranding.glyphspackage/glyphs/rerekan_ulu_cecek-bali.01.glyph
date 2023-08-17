@@ -15,15 +15,10 @@ shapes = (
 {
 alignment = -1;
 pos = (-863,0);
-ref = "rerekan-bali";
-},
-{
-alignment = -1;
-pos = (-370,0);
-ref = "ulu-bali";
+ref = "rerekan_ulu_cecek-bali";
 }
 );
-width = 443;
+width = 444;
 },
 {
 anchors = (
@@ -50,5 +45,5 @@ width = 578;
 }
 );
 metricLeft = "ulu-bali.01";
-metricRight = "ulu-bali.01";
+metricRight = "cecek-bali";
 }

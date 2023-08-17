@@ -13,7 +13,7 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-ref = "ya-bali.post2";
+ref = "_ya-bali.post_komp_";
 },
 {
 alignment = -1;

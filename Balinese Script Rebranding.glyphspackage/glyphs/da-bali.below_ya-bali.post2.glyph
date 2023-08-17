@@ -47,7 +47,7 @@ ref = _ekara_tenas;
 },
 {
 alignment = -1;
-ref = "ya-bali.post2";
+ref = "_ya-bali.post_komp_";
 }
 );
 width = 347;

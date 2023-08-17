@@ -1,5 +1,6 @@
 {
 glyphname = "khotSasak_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -71,16 +72,12 @@ pos = (696,0);
 ref = _ha_tundun_ha;
 },
 {
-alignment = -1;
-pos = (706,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1930,0);
-ref = "tedung-bali";
+pos = (814,0);
+ref = _tedung_ekoran;
 }
 );
-width = 2477;
+width = 2159;
 }
 );
+metricRight = "tedung-bali";
 }

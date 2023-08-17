@@ -20,15 +20,12 @@ pos = (34,0);
 ref = _ya_bali;
 },
 {
-pos = (-74,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1150,0);
-ref = "tedung-bali";
+pos = (34,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1697;
+width = 1379;
 }
 );
+metricRight = "tedung-bali";
 }

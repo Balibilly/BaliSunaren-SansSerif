@@ -2,9 +2,32 @@
 glyphname = "pepetTedung-bali";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (730,0);
+},
+{
+name = _top;
+pos = (371,630);
+},
+{
+name = bottom;
+pos = (730,-679);
+}
+);
 layerId = m002;
 name = Regular;
-width = 1275;
+shapes = (
+{
+ref = "pepet-bali";
+},
+{
+pos = (733,0);
+ref = "tedung-bali";
+}
+);
+width = 1280;
 },
 {
 associatedMasterId = m002;
@@ -13,6 +36,7 @@ name = Bold;
 width = 1275;
 }
 );
-metricRight = "nya-bali";
+metricRight = "tedung-bali";
+subCategory = Spacing;
 unicode = 6979;
 }

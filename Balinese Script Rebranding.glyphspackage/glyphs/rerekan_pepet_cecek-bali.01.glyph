@@ -18,12 +18,11 @@ pos = (-863,0);
 ref = "rerekan-bali";
 },
 {
-alignment = -1;
 pos = (-411,0);
-ref = "pepet-bali";
+ref = "pepet_cecek-bali";
 }
 );
-width = 693;
+width = 537;
 },
 {
 anchors = (
@@ -50,5 +49,5 @@ width = 578;
 }
 );
 metricLeft = "ulu-bali.01";
-metricRight = "ulu-bali.01";
+metricRight = "cecek-bali";
 }

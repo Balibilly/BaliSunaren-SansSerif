@@ -36,4 +36,5 @@ ref = "tedung-bali";
 width = 1889;
 }
 );
+metricRight = "tedung-bali";
 }

@@ -21,7 +21,7 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-ref = "ya-bali.post2.short";
+ref = "_ya-bali.post2.short_kom_";
 },
 {
 closed = 1;

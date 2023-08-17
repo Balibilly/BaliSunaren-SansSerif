@@ -89,20 +89,31 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (41,0);
-ref = _stem_ending;
+closed = 1;
+nodes = (
+(430,404,o),
+(494,479,o),
+(610,479,cs),
+(702,479,o),
+(791,432,o),
+(802,291,c),
+(842,291,l),
+(850,467,o),
+(752,555,o),
+(611,555,cs),
+(473,555,o),
+(356,470,o),
+(360,249,c),
+(434,247,l)
+);
 },
 {
-pos = (16,0);
-ref = _na_bangkiang;
-},
-{
-pos = (941,0);
-ref = "tedung-bali";
+pos = (-7,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1488;
+width = 1338;
 }
 );
+metricRight = "tedung-bali";
 }

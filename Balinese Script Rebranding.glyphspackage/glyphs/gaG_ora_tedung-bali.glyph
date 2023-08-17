@@ -79,16 +79,16 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (486,0);
-ref = _wa_ca_gelungan;
+pos = (380,0);
+ref = _tedung_ekoran;
 },
 {
-pos = (1337,0);
-ref = "tedung-bali";
+pos = (408,0);
+ref = _rejuna_;
 }
 );
-width = 1884;
+width = 1725;
 }
 );
+metricRight = "tedung-bali";
 }

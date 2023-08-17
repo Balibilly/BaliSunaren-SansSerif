@@ -21,6 +21,8 @@ nodes = (
 (897,96,o),
 (897,250,cs),
 (897,291,l),
+(892,301,l),
+(833,301,l),
 (829,291,l),
 (829,255,ls),
 (829,118,o),
@@ -34,16 +36,12 @@ pos = (53,0);
 ref = _caLaca;
 },
 {
-alignment = -1;
-pos = (-88,0);
-ref = _ha_geluungan_ha;
-},
-{
-pos = (1136,0);
-ref = "tedung-bali";
+pos = (20,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1683;
+width = 1365;
 }
 );
+metricRight = "tedung-bali";
 }

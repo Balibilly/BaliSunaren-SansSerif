@@ -34,20 +34,20 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (145,0);
-ref = _wa_ca_gelungan;
-},
-{
 pos = (28,0);
 ref = _daMadu_bawah;
 },
 {
-pos = (996,0);
-ref = "tedung-bali";
+pos = (39,0);
+ref = _tedung_ekoran;
+},
+{
+pos = (67,0);
+ref = _rejuna_;
 }
 );
-width = 1543;
+width = 1384;
 }
 );
+metricRight = "tedung-bali";
 }

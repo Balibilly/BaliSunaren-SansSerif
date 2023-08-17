@@ -1,5 +1,6 @@
 {
 glyphname = "ka_tedung-bali";
+kernLeft = "ka-bali";
 layers = (
 {
 anchors = (
@@ -34,19 +35,16 @@ pos = (-11,0);
 ref = _ha_bangkiang;
 },
 {
-pos = (19,0);
-ref = _ha_geluungan_ha;
-},
-{
 pos = (10,0);
 ref = _na_batis;
 },
 {
-pos = (1243,0);
-ref = "tedung-bali";
+pos = (127,0);
+ref = _tedung_ekoran;
 }
 );
-width = 1790;
+width = 1472;
 }
 );
+metricRight = "tedung-bali";
 }

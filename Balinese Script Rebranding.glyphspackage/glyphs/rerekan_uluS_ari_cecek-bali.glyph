@@ -17,7 +17,7 @@ ref = "rerekan-bali";
 },
 {
 pos = (497,0);
-ref = "uluSari-bali";
+ref = "uluSari_cecek-bali";
 }
 );
 width = 578;
