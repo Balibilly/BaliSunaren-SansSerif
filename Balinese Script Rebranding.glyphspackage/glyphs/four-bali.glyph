@@ -7,11 +7,11 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (3,0);
+pos = (27,0);
 ref = _akara;
 }
 );
-width = 584;
+width = 608;
 },
 {
 associatedMasterId = m002;

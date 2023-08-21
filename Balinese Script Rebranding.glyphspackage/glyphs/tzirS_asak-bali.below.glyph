@@ -23,7 +23,7 @@ shapes = (
 ref = "ta-bali.below";
 },
 {
-pos = (-1188,-700);
+pos = (-1188,-730);
 ref = _cecek_bawah;
 }
 );

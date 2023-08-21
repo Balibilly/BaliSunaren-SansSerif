@@ -20,6 +20,7 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
+pos = (858,0);
 ref = "laLengaMark-bali";
 },
 {
@@ -36,7 +37,6 @@ name = Bold;
 width = 2034;
 }
 );
-metricLeft = "laLengaMark-bali";
 metricRight = "tedung-bali";
 unicode = 6973;
 }

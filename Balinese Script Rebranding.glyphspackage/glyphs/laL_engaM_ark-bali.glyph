@@ -4,22 +4,23 @@ layers = (
 {
 anchors = (
 {
-name = _top;
-pos = (371,630);
+name = _bottom;
+pos = (-80,0);
 }
 );
 layerId = m002;
 name = Regular;
 shapes = (
 {
+pos = (-1018,0);
 ref = "pepet-bali";
 },
 {
-pos = (1062,0);
+pos = (-99,0);
 ref = "la-bali.below";
 }
 );
-width = 865;
+width = 0;
 },
 {
 associatedMasterId = m002;

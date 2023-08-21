@@ -40,7 +40,7 @@ pos = (20,0);
 ref = _tedung_ekoran;
 }
 );
-width = 1365;
+width = 1354;
 }
 );
 metricRight = "tedung-bali";

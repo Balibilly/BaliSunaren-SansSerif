@@ -31,13 +31,11 @@ ref = _la_tenas;
 closed = 1;
 nodes = (
 (704,-10,o),
-(769,76,o),
-(769,214,cs),
-(769,227,l),
-(699,226,l),
-(699,211,ls),
-(699,119,o),
-(667,62,o),
+(762,84,o),
+(762,214,c),
+(692,213,l),
+(692,132,o),
+(666,62,o),
 (610,62,c),
 (613,-10,l)
 );
@@ -107,6 +105,60 @@ ref = _daMadu_bawah;
 }
 );
 width = 958;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (916,0);
+},
+{
+name = top;
+pos = (432,650);
+}
+);
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (28,0);
+ref = _daMadu_bawah;
+}
+);
+};
+layerId = "B74DBB3A-8F7C-4B81-9AA2-BE2E07AA23AB";
+name = "21 Aug 23 09.15";
+shapes = (
+{
+pos = (41,0);
+ref = _la_tenas;
+},
+{
+closed = 1;
+nodes = (
+(704,-10,o),
+(769,76,o),
+(769,224,cs),
+(769,227,l),
+(699,226,l),
+(699,221,ls),
+(699,119,o),
+(667,62,o),
+(610,62,c),
+(613,-10,l)
+);
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = _wa_ca_gelungan;
+},
+{
+pos = (28,0);
+ref = _daMadu_bawah;
+}
+);
+width = 996;
 }
 );
 metricLeft = "ha-bali";

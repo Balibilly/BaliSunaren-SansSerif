@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3213";
 .formatVersion = 3;
 classes = (
 {
@@ -444,7 +444,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Cerakan";
+familyName = "Bali Cerakan Langkir Medangsya";
 featurePrefixes = (
 {
 automatic = 1;
@@ -577,7 +577,14 @@ code = "lookup blwf_bali_01 {
 script bali;
 lookup blwf_bali_01;
 
-";
+
+
+lookup blwf_bali_02 {
+sub laLengaMark-bali by la-bali.below pepet-bali;
+sub laLengaTedungMark-bali by la-bali.below pepet-bali tedung-bali;
+} blwf_bali_02 ;
+script bali;
+lookup blwf_bali_02;";
 tag = blwf;
 },
 {
@@ -690,7 +697,9 @@ lookup NaniaGantunganRaLigatur {
 tag = psts;
 },
 {
-code = "lookup UluTumpukTelu {
+code = "
+
+lookup UluTumpukTelu {
 	sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] ulu-bali' by ulu-bali.01 ;
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] ulu_uluRicem-bali' by ulu_uluRicem-bali.01 ;
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] ulu_uluCandra-bali' by ulu_uluCandra-bali.01 ;
@@ -718,8 +727,6 @@ sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] rerekan_pepet_cecek-bali' by rerekan_pepet_cecek-bali.01 ;
 sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5 @Gantungan6 @Gantungan7] rerekan_pepet_surang-bali' by rerekan_pepet_surang-bali.01 ;
 } UluTumpukTelu;
-
-
 
 ";
 tag = abvs;
@@ -871,19 +878,12 @@ sub ulu-bali cecek-bali by ulu_cecek-bali;
 tag = liga;
 },
 {
-code = "lookup lalengaPepet {
-pos laLengaMark-bali [@Aksara2 @Aksara3]' <300 0 300 0> [@Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5] ;
-pos laLengaMark-bali [@Aksara2 @Aksara3]' <500 0 500 0> @Gantungan6 ;
-pos laLengaMark-bali [@Aksara2 @Aksara3]' <800 0 800 0> @Gantungan7 ;
-pos laLengaMark-bali [@Aksara1 @Aksara2 @Aksara3]' <400 0 400 0> [@Gantungan1 @Gantungan2 @Gantungan3] [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
-
-pos laLengaMark-bali [ @Aksara4 @Aksara5 @Aksara6 @Aksara7]' <300 0 300 0> @LetterWithBelow [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
-} lalengaPepet ;
+code = "
 
 lookup CampurSari {
 pos ma-bali.below [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @Gantungan7 ;
 pos suku-bali.alt [@Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7] ' <200 0 200 0> [ra-bali.below ra-bali.below.ss01] ;
-pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelow [ @GuwungBelow2 @GuwungBelow3] ;
+
 pos suku-bali.alt [taling-bali talingRepa-bali talingTedung-bali talingRepaTedung-bali]' <100 0 100 0> [@Aksara1 @Aksara2 @Aksara3 @Aksara4 @Aksara5 @Aksara6 @Aksara7 adegadeg-bali carikSiki-bali carikPareren-bali] ; 
 
 } CampurSari ;
@@ -1393,6 +1393,7 @@ stemValues = (
 userData = {
 GSCornerRadius = 15;
 };
+visible = 1;
 }
 );
 instances = (
@@ -2643,7 +2644,33 @@ lookup ccmp_bali_2;
 
 
 
-sub ulu-bali' suku-bali' cecek-bali' by ulu_cecek-bali ;";
+sub ulu-bali' suku-bali' cecek-bali' by ulu_cecek-bali ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+lookup lalengaPepet {
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <300 0 300 0> [@Gantungan2 @Gantungan3 @Gantungan4 @Gantungan5] ;
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <500 0 500 0> @Gantungan6 ;
+pos laLengaMark-bali [@Aksara2 @Aksara3]' <800 0 800 0> @Gantungan7 ;
+pos laLengaMark-bali [@Aksara1 @Aksara2 @Aksara3]' <400 0 400 0> [@Gantungan1 @Gantungan2 @Gantungan3] [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
+
+pos laLengaMark-bali [ @Aksara4 @Aksara5 @Aksara6 @Aksara7]' <300 0 300 0> @LetterWithBelow [@GuwungBelow1 @GuwungBelow2 @GuwungBelow3] ;
+} lalengaPepet ;
+
+
+
+
+pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelow [ @GuwungBelow2 @GuwungBelow3] ;";
 properties = (
 {
 key = copyrights;

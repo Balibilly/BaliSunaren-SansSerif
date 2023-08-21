@@ -15,36 +15,14 @@ pos = (674,650);
 layerId = m002;
 shapes = (
 {
-alignment = -1;
-pos = (45,0);
-ref = _nga_body;
+ref = "nga-bali";
 },
 {
-alignment = -1;
-pos = (45,0);
-ref = _nga_top;
-},
-{
-closed = 1;
-nodes = (
-(1045,291,l),
-(1054,462,o),
-(979,555,o),
-(867,555,c),
-(857,550,l),
-(849,485,l),
-(859,479,l),
-(932,479,o),
-(996,426,o),
-(1005,291,c)
-);
-},
-{
-pos = (196,0);
-ref = _tedung_ekoran;
+pos = (1141,0);
+ref = "tedung-bali";
 }
 );
-width = 1541;
+width = 1688;
 }
 );
 metricRight = "tedung-bali";
