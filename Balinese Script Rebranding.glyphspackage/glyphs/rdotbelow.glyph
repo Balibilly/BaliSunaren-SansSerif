@@ -1,0 +1,21 @@
+{
+glyphname = rdotbelow;
+kernLeft = n;
+kernRight = r;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (3,0);
+ref = dotbelowcomb;
+}
+);
+width = 379;
+}
+);
+unicode = 7771;
+}
