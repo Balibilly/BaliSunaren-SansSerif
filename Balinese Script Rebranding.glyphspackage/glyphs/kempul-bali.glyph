@@ -2,6 +2,12 @@
 glyphname = "kempul-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (330,630);
+}
+);
 layerId = m002;
 name = Regular;
 shapes = (

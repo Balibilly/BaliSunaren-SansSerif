@@ -444,7 +444,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Cerakan Langkir Medangsya";
+familyName = "Bali Sunaren Cerakan";
 featurePrefixes = (
 {
 automatic = 1;
@@ -1318,7 +1318,7 @@ value = 1070;
 },
 {
 name = hheaDescender;
-value = -1305;
+value = -1375;
 },
 {
 name = hheaLineGap;
@@ -1330,7 +1330,7 @@ value = 1070;
 },
 {
 name = typoDescender;
-value = -1305;
+value = -1375;
 },
 {
 name = typoLineGap;
@@ -1342,15 +1342,15 @@ value = 1070;
 },
 {
 name = winDescent;
-value = 1305;
+value = 1375;
 }
 );
 guides = (
 {
-pos = (406,650);
+pos = (30,630);
 },
 {
-pos = (-350,-769);
+pos = (256,-1303);
 }
 );
 id = m002;
@@ -2712,7 +2712,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "Bali Billy Sans is a trademark of Balibilly Design";
+value = " is a trademark of Balibilly Design";
 }
 );
 }

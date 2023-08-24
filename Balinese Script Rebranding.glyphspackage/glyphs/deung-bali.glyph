@@ -6,7 +6,7 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
-pos = (-30,535);
+pos = (312,535);
 ref = "sukuIlut-bali";
 }
 );

@@ -2,6 +2,12 @@
 glyphname = "gong-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (280,630);
+}
+);
 layerId = m002;
 name = Regular;
 shapes = (

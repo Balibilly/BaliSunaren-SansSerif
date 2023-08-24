@@ -1,8 +1,17 @@
 {
-export = 0;
 glyphname = dottedCircle;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (601,0);
+},
+{
+name = top;
+pos = (328,650);
+}
+);
 layerId = m002;
 shapes = (
 {

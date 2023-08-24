@@ -6,7 +6,7 @@ layerId = m002;
 name = Regular;
 shapes = (
 {
-pos = (-1,-442);
+pos = (-21,-442);
 ref = "ulu-bali";
 }
 );

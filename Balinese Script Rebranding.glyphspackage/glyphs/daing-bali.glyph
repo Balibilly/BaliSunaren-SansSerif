@@ -92,7 +92,7 @@ pos = (167,0);
 ref = _ha_geluungan_ha;
 }
 );
-width = 1361;
+width = 1391;
 },
 {
 associatedMasterId = m002;
@@ -478,5 +478,6 @@ width = 1349;
 }
 );
 metricLeft = "okara-bali";
+metricRight = "ha-bali";
 unicode = 7017;
 }

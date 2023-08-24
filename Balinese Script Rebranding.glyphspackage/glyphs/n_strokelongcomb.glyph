@@ -1,0 +1,25 @@
+{
+glyphname = n_strokelongcomb;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = n;
+},
+{
+closed = 1;
+nodes = (
+(548,198,l),
+(548,264,l),
+(52,264,l),
+(52,198,l)
+);
+}
+);
+width = 598;
+}
+);
+}

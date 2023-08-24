@@ -2,6 +2,12 @@
 glyphname = "tegeh-bali";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (272,630);
+}
+);
 layerId = m002;
 name = Regular;
 shapes = (
