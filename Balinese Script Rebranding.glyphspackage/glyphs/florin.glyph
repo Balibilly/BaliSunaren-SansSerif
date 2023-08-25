@@ -23,7 +23,5 @@ ref = integral;
 width = 373;
 }
 );
-metricLeft = integral;
-metricRight = integral;
 unicode = 402;
 }

@@ -196,7 +196,8 @@ name = Gantungan5;
 code = "gaGora-bali.below
 ra_ya-bali.post.short
 ra_ya-bali.post
-ra_ya_tedung-bali.post";
+ra_ya_tedung-bali.post
+";
 name = Gantungan6;
 },
 {
@@ -206,6 +207,7 @@ ba-bali.below_suku-bali.below
 ba-bali.below_sukuIlut-bali.below
 la-bali.below_suku-bali.below
 la-bali.below_sukuIlut-bali.below
+la-bali.below_wa-bali.below2
 nya-bali.below_suku-bali.below
 nya-bali.below_sukuIlut-bali.below
 ";
@@ -372,7 +374,10 @@ ja-bali.below
 nya-bali.below
 ra_ya_suku-bali.post
 ra_ya_sukuIlut-bali.post
-";
+nya_suku-bali
+nya_sukuIlut-bali
+ra-bali.belowGempelan
+wa-bali.below2";
 name = TundunAksara;
 },
 {
@@ -394,17 +399,23 @@ name = SukuCenikNganjuh;
 },
 {
 code = "ra-bali.below1
-raRepaMark-bali.below1";
+raRepaMark-bali.below1
+
+";
 name = GuwungBelow1;
 },
 {
 code = "ra-bali.below2
-raRepaMark-bali.below2";
+raRepaMark-bali.below2
+
+";
 name = GuwungBelow2;
 },
 {
 code = "ra-bali.below3
-raRepaMark-bali.below3";
+raRepaMark-bali.below3
+
+";
 name = GuwungBelow3;
 }
 );
@@ -444,7 +455,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Sunaren Cerakan";
+familyName = "Bali Sunaren Patuding 01";
 featurePrefixes = (
 {
 automatic = 1;
@@ -589,8 +600,8 @@ tag = blwf;
 },
 {
 code = "lookup pstf_bali_01 {
+lookupflag UseMarkFilteringSet @LetterWithBelow; 
 	sub adegadeg-bali ya-bali by ya-bali.post;
-	sub ya-bali.post suku-bali by ya-bali.post.short;
 	sub adegadeg-bali sa-bali by sa-bali.post;
 	sub adegadeg-bali saSapa-bali by saSapa-bali.post;
 	sub adegadeg-bali zalSasak-bali by zalSasak-bali.post;
@@ -647,20 +658,21 @@ tag = blws;
 },
 {
 code = "script bali;
-
 lookup naniaGantungan {
 	sub [@Gantungan] ya-bali.post' by ya-bali.post2;
+	sub [@Gantungan] ya-bali.post2' suku-bali by ya-bali.post2.short;
+	sub [@Gantungan] ya-bali.post2' sukuIlut-bali by ya-bali.post2.short;
 } naniaGantungan;
 
 lookup naniaSuku {
+lookupflag UseMarkFilteringSet @LetterWithBelow; 
 	sub ya-bali.post' suku-bali by ya-bali.post.short;
 	sub ya-bali.post.short suku-bali' by suku-bali.alt;
-} naniaSuku;
-
-lookup naniaSukuIlut {
 	sub ya-bali.post' sukuIlut-bali by ya-bali.post.short;
 	sub ya-bali.post.short sukuIlut-bali' by sukuIlut-bali.alt;
-} naniaSukuIlut;
+} naniaSuku;
+
+
 
 lookup naniaLigaturSuku {
 	sub ra_ya-bali.post' [suku-bali sukuIlut-bali] by ra_ya-bali.post.short;
@@ -670,10 +682,7 @@ lookup naniaLigaturSuku {
 	sub ra_ya_tedung-bali.post sukuIlut-bali' by sukuIlut-bali.alt;
 } naniaLigaturSuku;
 	
-lookup naniaGantunganSuku {
-	sub [@Gantungan] ya-bali.post2' suku-bali by ya-bali.post2.short;
-	sub [@Gantungan] ya-bali.post2' sukuIlut-bali by ya-bali.post2.short;
-} naniaGantunganSuku;
+
 
 lookup naniaSukuGantung {
 	sub ya-bali.post2' suku-bali by ya-bali.post2.short;
@@ -733,6 +742,7 @@ tag = abvs;
 },
 {
 code = "lookup LigaturNya {
+lookupflag UseMarkFilteringSet @LetterWithBelow; 
 	sub nya-bali suku-bali by nya_suku-bali ;
 	sub nya-bali sukuIlut-bali by nya_sukuIlut-bali ;
 } LigaturNya ;
@@ -871,7 +881,6 @@ sub pa-bali tedung-bali by pa_tedung-bali ;
 sub efSasak-bali tedung-bali by efSasak_tedung-bali ;
 sub jaJera-bali tedung-bali by jaJera_tedung-bali ;
 sub ya-bali tedung-bali by ya_tedung-bali ;
-
 sub ulu-bali cecek-bali by ulu_cecek-bali;
 
 ";
@@ -911,7 +920,7 @@ pos @TundunAksara @Aksara3' <0 0 0 0> @Gantungan3 ;
 pos @TundunAksara @Aksara3' <150 0 150 0> @Gantungan4 ;
 pos @TundunAksara @Aksara3' <180 0 180 0> @Gantungan5 ;
 pos @TundunAksara @Aksara3' <260 0 260 0> @Gantungan6 ;
-pos @TundunAksara @Aksara3' <400 0 400 0> @Gantungan7 ;
+pos @TundunAksara @Aksara3' <500 0 500 0> @Gantungan7 ;
 pos @TundunAksara @Aksara4' <0 0 0 0> @Gantungan1 ;
 pos @TundunAksara @Aksara4' <0 0 0 0> @Gantungan2 ;
 pos @TundunAksara @Aksara4' <0 0 0 0> @Gantungan3 ;
@@ -1351,6 +1360,10 @@ pos = (30,630);
 },
 {
 pos = (256,-1303);
+},
+{
+angle = 270;
+pos = (1061,-10);
 }
 );
 id = m002;
@@ -1398,13 +1411,6 @@ visible = 1;
 );
 instances = (
 {
-customParameters = (
-{
-disabled = 1;
-name = fileName;
-value = "BaliBilly Sans-Regular";
-}
-);
 instanceInterpolations = {
 m002 = 1;
 };
@@ -2670,14 +2676,44 @@ pos laLengaMark-bali [ @Aksara4 @Aksara5 @Aksara6 @Aksara7]' <300 0 300 0> @Lett
 
 
 
-pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelow [ @GuwungBelow2 @GuwungBelow3] ;";
+pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelow [ @GuwungBelow2 @GuwungBelow3] ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	sub adegadeg-bali ya-bali suku-bali by ya-bali.post.short;";
 properties = (
 {
 key = copyrights;
 values = (
 {
-language = dflt;
-value = "Copyright© 2023 by Balibilly Design. All rights reserved.";
+language = ENG;
+value = "Copyright © 2023 by Balibilly Design. All rights reserved.";
 }
 );
 },
@@ -2685,8 +2721,8 @@ value = "Copyright© 2023 by Balibilly Design. All rights reserved.";
 key = designers;
 values = (
 {
-language = dflt;
-value = "Bill Natih & Wantara Putra";
+language = ENG;
+value = "Bill Natih, & Wantara Putra";
 }
 );
 },
@@ -2698,7 +2734,7 @@ value = "https://balibillydesign.com";
 key = manufacturers;
 values = (
 {
-language = dflt;
+language = ENG;
 value = "Balibilly Design";
 }
 );
@@ -2711,8 +2747,30 @@ value = "https://balibillydesign.com";
 key = trademarks;
 values = (
 {
-language = dflt;
-value = " is a trademark of Balibilly Design";
+language = ENG;
+value = " Bali Sunaren is a trademark of Balibilly Design";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = descriptions;
+values = (
+{
+language = ENG;
+value = "Designed by Bill Natih, & Wantara Putra";
 }
 );
 }

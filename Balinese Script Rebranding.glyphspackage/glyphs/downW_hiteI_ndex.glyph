@@ -1,0 +1,30 @@
+{
+glyphname = downWhiteIndex;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+angle = -90;
+pos = (-33,780);
+ref = rightWhiteIndex;
+}
+);
+width = 434;
+},
+{
+associatedMasterId = m002;
+layerId = "7A02ED13-E390-44E5-822D-81FD0DDAAF57";
+name = Black;
+shapes = (
+{
+angle = -90;
+pos = (-33,780);
+ref = rightWhiteIndex;
+}
+);
+width = 434;
+}
+);
+unicode = 9759;
+}

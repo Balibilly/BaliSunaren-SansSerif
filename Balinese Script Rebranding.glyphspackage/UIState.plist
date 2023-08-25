@@ -1,9 +1,12 @@
 {
 displayStrings = (
-"/uluCandra-bali.01 ᬁ/raRepaMark-bali.below1     /la-bali.below     /ulu_uluRicem-bali",
-"ᬳ◌",
-"@",
-"ᬾ᭢᭡",
-"/N_strokelongcomb/n_strokelongcomb ȷɟynɳnʂ"
+"/Placeholder/ma_tedung-bali",
+"ᬩᬾᬫᬶᬸᬧ᭄ᬬᬶᬸᬦᬶᬸᬤ
+/ya-bali.post    /ya-bali.post.short ᬟᬳ
+/ha-bali.below_ya-bali.post2     /ha-bali.below_ya-bali.post2.short 
+/ya-bali.post    /ya-bali.post.short  /ya-bali.post2    /ya-bali.post2.short 
+
+n
+/ra-bali.belowGempelan"
 );
 }

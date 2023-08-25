@@ -9,7 +9,7 @@ pos = (-110,0);
 },
 {
 name = bottom;
-pos = (-110,-679);
+pos = (-92,-679);
 },
 {
 name = top;
