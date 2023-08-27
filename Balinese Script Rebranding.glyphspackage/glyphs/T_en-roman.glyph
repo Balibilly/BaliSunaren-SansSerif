@@ -1,0 +1,17 @@
+{
+glyphname = "Ten-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = X;
+}
+);
+width = 634;
+}
+);
+metricLeft = X;
+metricRight = X;
+unicode = 8553;
+}

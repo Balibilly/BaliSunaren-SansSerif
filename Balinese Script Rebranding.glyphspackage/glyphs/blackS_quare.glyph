@@ -1,0 +1,36 @@
+{
+color = 9;
+glyphname = blackSquare;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(736,0,ls),
+(772,0,o),
+(792,20,o),
+(792,56,cs),
+(792,644,ls),
+(792,680,o),
+(772,700,o),
+(736,700,cs),
+(148,700,ls),
+(112,700,o),
+(92,680,o),
+(92,644,cs),
+(92,56,ls),
+(92,20,o),
+(112,0,o),
+(148,0,cs)
+);
+}
+);
+width = 884;
+}
+);
+metricLeft = H;
+metricRight = "=|";
+unicode = 9632;
+}

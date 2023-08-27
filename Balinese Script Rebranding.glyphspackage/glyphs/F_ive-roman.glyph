@@ -1,0 +1,17 @@
+{
+glyphname = "Five-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = V;
+}
+);
+width = 596;
+}
+);
+metricLeft = V;
+metricRight = V;
+unicode = 8548;
+}

@@ -1,0 +1,73 @@
+{
+color = 9;
+glyphname = blackSunWithRays;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,194,o),
+(328,269,o),
+(328,357,cs),
+(328,445,o),
+(394,520,o),
+(488,520,cs),
+(582,520,o),
+(648,445,o),
+(648,357,cs),
+(648,269,o),
+(582,194,o),
+(488,194,cs)
+);
+},
+{
+pos = (203,0);
+ref = _matan_ai;
+},
+{
+pos = (773,0);
+ref = _matan_ai;
+scale = (-1,1);
+},
+{
+angle = -90;
+pos = (131,639);
+ref = _matan_ai;
+},
+{
+angle = 90;
+pos = (131,74);
+ref = _matan_ai;
+scale = (1,-1);
+},
+{
+angle = -45;
+pos = (36,304);
+ref = _matan_ai;
+},
+{
+angle = 135;
+pos = (435,-95);
+ref = _matan_ai;
+scale = (1,-1);
+},
+{
+angle = -135;
+pos = (435,809);
+ref = _matan_ai;
+},
+{
+angle = 45;
+pos = (36,410);
+ref = _matan_ai;
+scale = (1,-1);
+}
+);
+width = 976;
+}
+);
+metricRight = "=|";
+unicode = 9728;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = "Fifty-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+}
+);
+width = 514;
+}
+);
+metricLeft = L;
+metricRight = L;
+unicode = 8556;
+}

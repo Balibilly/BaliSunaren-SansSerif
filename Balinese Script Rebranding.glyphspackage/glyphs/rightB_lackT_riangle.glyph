@@ -1,0 +1,41 @@
+{
+color = 9;
+glyphname = rightBlackTriangle;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,-10,o),
+(180,-6,o),
+(195,4,cs),
+(697,319,ls),
+(720,333,o),
+(732,351,o),
+(732,368,cs),
+(732,386,o),
+(720,404,o),
+(697,418,cs),
+(195,733,ls),
+(180,743,o),
+(166,747,o),
+(153,747,cs),
+(126,747,o),
+(108,725,o),
+(108,685,cs),
+(108,52,ls),
+(108,12,o),
+(126,-10,o),
+(153,-10,cs)
+);
+}
+);
+width = 797;
+}
+);
+metricLeft = "=|northEastArrow";
+metricRight = rightArrow;
+unicode = 9654;
+}

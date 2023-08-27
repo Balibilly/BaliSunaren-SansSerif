@@ -1,0 +1,29 @@
+{
+glyphname = "Eight-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = V;
+},
+{
+pos = (596,0);
+ref = I;
+},
+{
+pos = (867,0);
+ref = I;
+},
+{
+pos = (1138,0);
+ref = I;
+}
+);
+width = 1409;
+}
+);
+metricLeft = V;
+metricRight = I;
+unicode = 8551;
+}

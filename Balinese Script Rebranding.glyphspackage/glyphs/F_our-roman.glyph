@@ -1,0 +1,21 @@
+{
+glyphname = "Four-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (271,0);
+ref = V;
+}
+);
+width = 867;
+}
+);
+metricLeft = I;
+metricRight = V;
+unicode = 8547;
+}

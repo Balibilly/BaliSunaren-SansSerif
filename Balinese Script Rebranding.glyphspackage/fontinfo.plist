@@ -455,7 +455,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Sunaren Patuding 01";
+familyName = "Bali Sunaren Patuding 02";
 featurePrefixes = (
 {
 automatic = 1;
@@ -1404,7 +1404,7 @@ stemValues = (
 75
 );
 userData = {
-GSCornerRadius = 15;
+GSCornerRadius = 98;
 };
 visible = 1;
 }

@@ -1,0 +1,24 @@
+{
+color = 9;
+glyphname = exclamdouble;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (190,0);
+ref = exclam;
+}
+);
+width = 520;
+}
+);
+metricLeft = exclam;
+metricRight = exclam;
+unicode = 8252;
+}

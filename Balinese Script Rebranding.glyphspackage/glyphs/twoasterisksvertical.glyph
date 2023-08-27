@@ -1,0 +1,23 @@
+{
+color = 9;
+glyphname = twoasterisksvertical;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,50);
+ref = asterisk;
+},
+{
+pos = (0,-387);
+ref = asterisk;
+}
+);
+width = 449;
+}
+);
+metricLeft = asterisk;
+metricRight = asterisk;
+unicode = 8273;
+}

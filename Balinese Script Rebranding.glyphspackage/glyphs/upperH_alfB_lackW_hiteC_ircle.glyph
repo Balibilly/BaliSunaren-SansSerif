@@ -1,0 +1,19 @@
+{
+color = 9;
+glyphname = upperHalfBlackWhiteCircle;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,700);
+ref = lowerHalfBlackWhiteCircle;
+scale = (1,-1);
+}
+);
+width = 823;
+}
+);
+metricRight = "=|";
+unicode = 9683;
+}

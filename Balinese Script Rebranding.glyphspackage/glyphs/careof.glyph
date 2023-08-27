@@ -1,0 +1,32 @@
+{
+color = 9;
+glyphname = careof;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,-60,l),
+(632,740,l),
+(569,740,l),
+(169,-60,l)
+);
+},
+{
+pos = (24,0);
+ref = csuperior;
+},
+{
+pos = (424,-357);
+ref = osuperior;
+}
+);
+width = 834;
+}
+);
+metricLeft = percent;
+metricRight = percent;
+unicode = 8453;
+}

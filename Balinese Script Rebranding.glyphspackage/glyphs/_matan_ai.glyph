@@ -1,0 +1,23 @@
+{
+export = 0;
+glyphname = _matan_ai;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(639,333,l),
+(639,381,l),
+(479,381,l),
+(481,368,o),
+(481,346,o),
+(479,333,c)
+);
+}
+);
+width = 600;
+}
+);
+}

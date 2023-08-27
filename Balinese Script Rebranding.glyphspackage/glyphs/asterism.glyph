@@ -1,0 +1,26 @@
+{
+color = 9;
+glyphname = asterism;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+pos = (251,0);
+ref = asterisk;
+},
+{
+pos = (501,-337);
+ref = asterisk;
+},
+{
+pos = (1,-337);
+ref = asterisk;
+}
+);
+width = 951;
+}
+);
+metricRight = "=|";
+unicode = 8258;
+}

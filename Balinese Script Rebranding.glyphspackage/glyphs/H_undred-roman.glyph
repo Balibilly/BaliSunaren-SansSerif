@@ -1,0 +1,17 @@
+{
+glyphname = "Hundred-roman";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = C;
+}
+);
+width = 719;
+}
+);
+metricLeft = C;
+metricRight = C;
+unicode = 8557;
+}
