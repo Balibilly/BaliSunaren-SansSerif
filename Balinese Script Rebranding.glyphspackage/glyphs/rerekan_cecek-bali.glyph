@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (284,630);
+pos = (496,630);
 }
 );
 layerId = m002;
@@ -16,7 +16,7 @@ alignment = 1;
 ref = "rerekan-bali";
 },
 {
-pos = (665,0);
+pos = (555,0);
 ref = "cecek-bali";
 }
 );

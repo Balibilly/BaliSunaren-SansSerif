@@ -1,0 +1,27 @@
+{
+category = Letter;
+glyphname = "nya_kaMahaprana-bali.below";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (1171,0);
+ref = "kaMahaprana-bali.below";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

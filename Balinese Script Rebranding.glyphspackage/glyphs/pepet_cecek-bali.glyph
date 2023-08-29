@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (371,630);
+pos = (539,630);
 }
 );
 layerId = m002;
@@ -15,7 +15,8 @@ shapes = (
 ref = _pepet_bawak;
 },
 {
-pos = (614,15);
+alignment = -1;
+pos = (634,15);
 ref = "cecek-bali";
 }
 );

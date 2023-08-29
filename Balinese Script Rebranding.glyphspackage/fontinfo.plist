@@ -16,7 +16,7 @@ ya-bali.post ya-bali.post.short ya-bali.post2 ya-bali.post2.short jaJera-bali.cc
 name = LetterWithBelow;
 },
 {
-code = "akara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali kaMahaprana-bali kafSasak-bali khotSasak-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali asyuraSasak-bali la-bali ga-bali gaGora-bali ba-bali ya-bali nya-bali
+code = "akara-bali ikaraTedung-bali ha-bali naRambat-bali caLaca-bali ka-bali kaMahaprana-bali kafSasak-bali khotSasak-bali ta-bali taMurdaMahaprana-bali taLatik-bali tzirSasak-bali saSaga-bali asyuraSasak-bali la-bali ga-bali gaGora-bali ba-bali ya-bali
 ";
 name = AksaraJimbar;
 },
@@ -377,7 +377,13 @@ ra_ya_sukuIlut-bali.post
 nya_suku-bali
 nya_sukuIlut-bali
 ra-bali.belowGempelan
-wa-bali.below2";
+wa-bali.below2
+nya_asyuraSasak-bali.below
+nya_gaGora-bali.below
+nya_nya-bali.below
+nya_la-bali.below2
+nya_ba-bali.below2
+";
 name = TundunAksara;
 },
 {
@@ -417,6 +423,43 @@ raRepaMark-bali.below3
 
 ";
 name = GuwungBelow3;
+},
+{
+code = "nya_ha-bali.below
+nya_na-bali.below
+nya_naRambat-bali.below
+nya_ca-bali.below
+nya_caLaca-bali.below
+nya_ra-bali.below
+nya_ka-bali.below
+nya_kaMahaprana-bali.below
+nya_kafSasak-bali.below
+nya_da-bali.below
+nya_daMadu-bali.below
+nya_daMurdaAlpaprana-bali.below
+nya_daMurdaMahaprana-bali.below
+nya_ta-bali.below
+nya_taMurdaMahaprana-bali.below
+nya_taLatik-bali.below
+nya_taTawa-bali.below
+nya_tzirSasak-bali.below
+nya_saSaga-bali.below
+nya_asyuraSasak-bali.below
+nya_wa-bali.below
+nya_veSasak-bali.below
+nya_la-bali.below
+nya_ma-bali.below
+nya_ga-bali.below
+nya_gaGora-bali.below
+nya_ba-bali.below
+nya_baKembang-bali.below
+nya_nga-bali.below
+nya_ja-bali.below
+nya_nya-bali.below
+nya_la-bali.below2
+nya_ba-bali.below2
+";
+name = LigaturNya;
 }
 );
 customParameters = (
@@ -455,7 +498,7 @@ value = 1;
 }
 );
 date = "2022-12-13 05:20:48 +0000";
-familyName = "Bali Sunaren Patuding 02";
+familyName = "Bali Sunaren";
 featurePrefixes = (
 {
 automatic = 1;
@@ -486,6 +529,7 @@ feature pstf;
 feature blws;
 feature psts;
 feature abvs;
+feature calt;
 feature locl;
 feature subs;
 feature sinf;
@@ -635,6 +679,7 @@ lookup sukuKembungCenik {
 	sub [@Gantungan] wa-bali.below' by wa-bali.below2;
 } sukuKembungCenik;
 
+
 lookup GuwungGede {
 	sub [@AksaraJimbar] ra-bali.below' by ra-bali.below.ss01;
 	sub [@AksaraJimbar] raRepaMark-bali' by raRepaMark-bali.ss01;
@@ -741,13 +786,54 @@ sub @LetterWithBelow [@Gantungan1 @Gantungan2 @Gantungan3 @Gantungan4 @Gantungan
 tag = abvs;
 },
 {
-code = "lookup LigaturNya {
+code = "
+lookup LigaturNya {
 lookupflag UseMarkFilteringSet @LetterWithBelow; 
+
 	sub nya-bali suku-bali by nya_suku-bali ;
 	sub nya-bali sukuIlut-bali by nya_sukuIlut-bali ;
+	sub nya-bali ha-bali.below by nya_ha-bali.below ;
+	sub nya-bali na-bali.below by nya_na-bali.below ;
+	sub nya-bali naRambat-bali.below by nya_naRambat-bali.below ;
+	sub nya-bali ca-bali.below by nya_ca-bali.below ;
+	sub nya-bali caLaca-bali.below by nya_caLaca-bali.below ;
+	sub nya-bali ra-bali.below by nya_ra-bali.below ;
+	sub nya-bali ka-bali.below by nya_ka-bali.below ;
+	sub nya-bali kaMahaprana-bali.below by nya_kaMahaprana-bali.below ;
+	sub nya-bali kafSasak-bali.below by nya_kafSasak-bali.below ;
+	sub nya-bali da-bali.below by nya_da-bali.below;
+	sub nya-bali daMadu-bali.below by nya_daMadu-bali.below ;
+	sub nya-bali daMurdaMahaprana-bali.below by nya_daMurdaMahaprana-bali.below ;
+	sub nya-bali daMurdaAlpaprana-bali.below by nya_daMurdaAlpaprana-bali.below ;
+	sub nya-bali ta-bali.below by nya_ta-bali.below ;
+	sub nya-bali taMurdaMahaprana-bali.below by nya_taMurdaMahaprana-bali.below ;
+	sub nya-bali taLatik-bali.below by nya_taLatik-bali.below ;
+	sub nya-bali taTawa-bali.below by nya_taTawa-bali.below ;
+	sub nya-bali tzirSasak-bali.below by nya_tzirSasak-bali.below ;
+	sub nya-bali saSaga-bali.below by nya_saSaga-bali.below ;
+	sub nya-bali asyuraSasak-bali.below by nya_asyuraSasak-bali.below ;
+	sub nya-bali wa-bali.below by nya_wa-bali.below ;
+	sub nya-bali veSasak-bali.below by nya_veSasak-bali.below ;
+	sub nya-bali la-bali.below by nya_la-bali.below ;
+	sub nya-bali ma-bali.below by nya_ma-bali.below ;
+	sub nya-bali ga-bali.below by nya_ga-bali.below ;
+	sub nya-bali gaGora-bali.below by nya_gaGora-bali.below ;
+	sub nya-bali ba-bali.below by nya_ba-bali.below ;
+	sub nya-bali baKembang-bali.below by nya_baKembang-bali.below ;
+	sub nya-bali nga-bali.below by nya_nga-bali.below ;
+	sub nya-bali ja-bali.below by nya_ja-bali.below ;
+	sub nya-bali nya-bali.below by nya_nya-bali.below;
 } LigaturNya ;
 script bali;
 lookup LigaturNya;
+
+lookup Nya_la_Suku {
+	sub nya_la-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 ra-bali.below1 ra-bali.below2 ra-bali.below3] by nya_la-bali.below2 ;
+	sub nya_ba-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 ra-bali.below1 ra-bali.below2 ra-bali.below3] by nya_ba-bali.below2 ;
+} Nya_la_Suku ;
+script bali;
+lookup Nya_la_Suku;
+
 
 lookup ligaturesNania {
 	sub ha-bali.below ya-bali.post2 by ha-bali.below_ya-bali.post2 ;
@@ -802,6 +888,7 @@ lookup ligaturesNaniaGantungan {
 } ligaturesNaniaGantungan;
 script bali;
 lookup ligaturesNaniaGantungan;
+
 
  
 lookup LigaturGantunganSukuCenik {
@@ -885,6 +972,14 @@ sub ulu-bali cecek-bali by ulu_cecek-bali;
 
 ";
 tag = liga;
+},
+{
+code = "lookup GuwungNya {
+	sub @LigaturNya [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik ;
+	sub @LigaturNya [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik ;
+} GuwungNya ;
+";
+tag = calt;
 },
 {
 code = "
@@ -1359,7 +1454,7 @@ guides = (
 pos = (30,630);
 },
 {
-pos = (256,-1303);
+pos = (327,-1105);
 },
 {
 angle = 270;
@@ -1406,7 +1501,6 @@ stemValues = (
 userData = {
 GSCornerRadius = 98;
 };
-visible = 1;
 }
 );
 instances = (
@@ -2706,7 +2800,46 @@ pos laLengaMark-bali [@Aksara2 @Aksara3 @Aksara4]' <300 0 300 0> @LetterWithBelo
 
 
 
-	sub adegadeg-bali ya-bali suku-bali by ya-bali.post.short;";
+	sub adegadeg-bali ya-bali suku-bali by ya-bali.post.short;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lookup PecahligaturNya_la {
+lookupflag UseMarkFilteringSet @LetterWithBelow; 
+	sub nya_la-bali.below' suku-bali.below by nya-bali la-bali.below_suku-bali.below ;
+	sub nya_la-bali.below' wa-bali.below2 by nya-bali la-bali.below_wa-bali.below2;
+	sub nya_ba-bali.below' suku-bali.below by nya-bali ba-bali.below_suku-bali.below;
+	sub nya_ba-bali.below' wa-bali.below2 by nya-bali ba-bali.below_wa-bali.below2;
+	sub nya_caLaca-bali.below' suku-bali.below by nya-bali caLaca-bali.below_suku-bali.below;
+	sub nya_daMurdaMahaprana-bali.below' suku-bali.below by nya-bali daMurdaMahaprana-bali.below_suku-bali.below;
+	sub  nya_taMurdaMahaprana-bali.below' suku-bali.below by nya-bali taMurdaMahaprana-bali.below_suku-bali.below;
+	sub nya_taLatik-bali.below' suku-bali.below by nya-bali taLatik-bali.below_suku-bali.below ;
+	sub [nya_ma-bali.below suku-bali.below]' by nya-bali ma-bali.below_suku-bali.below;
+	sub nya_nya-bali.below' suku-bali.below by nya-bali nya-bali.below_suku-bali.below;
+
+	sub nya_la-bali.below' sukuIlut-bali.below by nya-bali la-bali.below_sukuIlut-bali.below ;
+	sub nya_ba-bali.below' sukuIlut-bali.below by nya-bali ba-bali.below_sukuIlut-bali.below ;
+	sub nya_caLaca-bali.below' sukuIlut-bali.below by nya-bali caLaca-bali.below_sukuIlut-bali.below;
+	sub nya_daMurdaMahaprana-bali.below' sukuIlut-bali.below by nya-bali daMurdaMahaprana-bali.below_sukuIlut-bali.below;
+	sub  nya_taMurdaMahaprana-bali.below' sukuIlut-bali.below by nya-bali taMurdaMahaprana-bali.below_sukuIlut-bali.below;
+	sub nya_taLatik-bali.below' sukuIlut-bali.below by nya-bali taLatik-bali.below_sukuIlut-bali.below ;
+	sub nya_ma-bali.below' sukuIlut-bali.below by nya-bali ma-bali.below_sukuIlut-bali.below;
+	sub nya_nya-bali.below' sukuIlut-bali.below by nya-bali nya-bali.below_sukuIlut-bali.below ;
+} PecahligaturNya_la ;
+script bali ;
+lookup PecahligaturNya_la;";
 properties = (
 {
 key = copyrights;

@@ -1,0 +1,31 @@
+{
+category = Letter;
+glyphname = "nya_ba-bali.below2";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1346,-679);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (0,-679);
+ref = "ba-bali";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

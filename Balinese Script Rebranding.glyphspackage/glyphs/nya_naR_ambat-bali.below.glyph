@@ -1,0 +1,35 @@
+{
+category = Letter;
+glyphname = "nya_naRambat-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1240,0);
+},
+{
+name = bottom;
+pos = (1240,-669);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (201,-669);
+ref = "naRambat-bali";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

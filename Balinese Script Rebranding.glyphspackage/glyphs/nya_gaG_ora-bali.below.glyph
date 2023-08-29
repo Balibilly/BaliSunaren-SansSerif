@@ -1,0 +1,35 @@
+{
+category = Letter;
+glyphname = "nya_gaGora-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1312,0);
+},
+{
+name = bottom;
+pos = (1330,-679);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (73,-679);
+ref = "gaGora-bali";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

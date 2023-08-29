@@ -1,0 +1,40 @@
+{
+category = Letter;
+glyphname = "nya_saSaga-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1008,0);
+},
+{
+name = bottom;
+pos = (1036,-679);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (1129,0);
+ref = "ga-bali.below";
+},
+{
+alignment = -1;
+pos = (84,-671);
+ref = _cecek_bawah;
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

@@ -1,14 +1,37 @@
 {
-color = 9;
 glyphname = upperHalfBlackWhiteCircle;
 layers = (
 {
 layerId = m002;
 shapes = (
 {
-pos = (0,700);
-ref = lowerHalfBlackWhiteCircle;
-scale = (1,-1);
+closed = 1;
+nodes = (
+(619,-10,o),
+(768,141,o),
+(768,351,cs),
+(768,561,o),
+(620,710,o),
+(412,710,cs),
+(205,710,o),
+(55,563,o),
+(55,351,cs),
+(55,135,o),
+(210,-10,o),
+(412,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(82,550,o),
+(222,682,o),
+(413,682,cs),
+(605,682,o),
+(741,551,o),
+(741,350,c),
+(82,349,l)
+);
 }
 );
 width = 823;

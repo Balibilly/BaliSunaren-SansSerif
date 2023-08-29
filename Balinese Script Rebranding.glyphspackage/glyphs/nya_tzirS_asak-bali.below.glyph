@@ -1,0 +1,40 @@
+{
+category = Letter;
+glyphname = "nya_tzirSasak-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1033,0);
+},
+{
+name = bottom;
+pos = (1032,-679);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (1125,0);
+ref = "ta-bali.below";
+},
+{
+alignment = -1;
+pos = (-63,-730);
+ref = _cecek_bawah;
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

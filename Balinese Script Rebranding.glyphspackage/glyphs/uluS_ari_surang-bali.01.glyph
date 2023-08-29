@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (-488,630);
+pos = (-295,630);
 }
 );
 layerId = m002;
@@ -47,6 +47,4 @@ ref = _surang_bawak;
 width = 574;
 }
 );
-metricLeft = "ulu-bali.01";
-metricRight = "ulu-bali.01";
 }

@@ -1,0 +1,64 @@
+{
+category = Letter;
+glyphname = "nya_ga-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1034,0);
+},
+{
+name = bottom;
+pos = (1034,-679);
+},
+{
+name = cecekbawah;
+pos = (735,-409);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+closed = 1;
+nodes = (
+(567,-689,ls),
+(598,-689,o),
+(607,-655,o),
+(588,-620,cs),
+(494,-454,o),
+(509,-200,o),
+(745,-200,cs),
+(879,-200,o),
+(958,-274,o),
+(958,-437,cs),
+(958,-679,l),
+(1034,-679,l),
+(1034,-423,ls),
+(1034,-226,o),
+(915,-124,o),
+(749,-124,cs),
+(455,-124,o),
+(414,-423,o),
+(511,-617,c),
+(539,-689,l)
+);
+},
+{
+alignment = -1;
+pos = (192,-679);
+ref = _nga_tenas;
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

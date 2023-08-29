@@ -1,0 +1,51 @@
+{
+category = Letter;
+glyphname = "nya_taLatik-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1117,0);
+},
+{
+name = bottom;
+pos = (1033,-547);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+closed = 1;
+nodes = (
+(1102,-549,o),
+(1146,-534,o),
+(1175,-510,c),
+(1154,-462,l),
+(1124,-484,o),
+(1068,-498,o),
+(1035,-483,c),
+(999,-535,l),
+(1016,-543,o),
+(1036,-549,o),
+(1057,-549,cs)
+);
+},
+{
+alignment = -1;
+pos = (1200,0);
+ref = "taMurdaMahaprana-bali.below";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}

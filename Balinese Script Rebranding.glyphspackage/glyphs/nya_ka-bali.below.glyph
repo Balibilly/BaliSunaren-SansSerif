@@ -1,0 +1,39 @@
+{
+category = Letter;
+glyphname = "nya_ka-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (1081,0);
+},
+{
+name = bottom;
+pos = (1081,-679);
+},
+{
+name = kaMahaprana;
+pos = (1005,-628);
+},
+{
+name = top;
+pos = (764,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nya-bali";
+},
+{
+alignment = -1;
+pos = (226,-679);
+ref = "na-bali";
+}
+);
+width = 1693;
+}
+);
+subCategory = Spacing;
+}
