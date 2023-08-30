@@ -426,40 +426,31 @@ name = GuwungBelow3;
 },
 {
 code = "nya_ha-bali.below
-nya_na-bali.below
-nya_naRambat-bali.below
-nya_ca-bali.below
-nya_caLaca-bali.below
-nya_ra-bali.below
 nya_ka-bali.below
 nya_kaMahaprana-bali.below
 nya_kafSasak-bali.below
-nya_da-bali.below
 nya_daMadu-bali.below
 nya_daMurdaAlpaprana-bali.below
 nya_daMurdaMahaprana-bali.below
 nya_ta-bali.below
-nya_taMurdaMahaprana-bali.below
-nya_taLatik-bali.below
-nya_taTawa-bali.below
 nya_tzirSasak-bali.below
 nya_saSaga-bali.below
-nya_asyuraSasak-bali.below
-nya_wa-bali.below
-nya_veSasak-bali.below
-nya_la-bali.below
-nya_ma-bali.below
 nya_ga-bali.below
-nya_gaGora-bali.below
-nya_ba-bali.below
-nya_baKembang-bali.below
-nya_nga-bali.below
-nya_ja-bali.below
-nya_nya-bali.below
-nya_la-bali.below2
-nya_ba-bali.below2
 ";
 name = LigaturNya;
+},
+{
+code = "nya_baKembang-bali.below
+nya_naRambat-bali.below
+nya_ca-bali.below
+nya_caLaca-bali.below
+nya_taMurdaMahaprana-bali.below
+nya_taLatik-bali.below
+nya_la-bali.below
+
+nya_nga-bali.below
+";
+name = LigaturNya2;
 }
 );
 customParameters = (
@@ -828,8 +819,8 @@ script bali;
 lookup LigaturNya;
 
 lookup Nya_la_Suku {
-	sub nya_la-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 ra-bali.below1 ra-bali.below2 ra-bali.below3] by nya_la-bali.below2 ;
-	sub nya_ba-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2 ra-bali.below1 ra-bali.below2 ra-bali.below3] by nya_ba-bali.below2 ;
+	sub nya_la-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2] by nya_la-bali.below2 ;
+	sub nya_ba-bali.below' [suku-bali.below sukuIlut-bali.below wa-bali.below2] by nya_ba-bali.below2 ;
 } Nya_la_Suku ;
 script bali;
 lookup Nya_la_Suku;
@@ -975,8 +966,16 @@ tag = liga;
 },
 {
 code = "lookup GuwungNya {
-	sub @LigaturNya [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik ;
-	sub @LigaturNya [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik ;
+	sub [nya_da-bali.below nya_ma-bali.below nya_ja-bali.below] [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik1 ;
+	sub @LigaturNya [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik2 ;
+	sub @LigaturNya2 [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik3 ;
+	sub [nya_gaGora-bali.below nya_asyuraSasak-bali.below nya_ba-bali.below] [ra-bali.below ra-bali.below1 ra-bali.below2 ra-bali.below3]' by ra-bali.belowCenik4 ;
+
+	sub [nya_da-bali.below nya_ma-bali.below nya_ja-bali.below] [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik1 ;
+	sub @LigaturNya [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik2 ;
+	sub @LigaturNya2 [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik3 ;
+	sub [nya_gaGora-bali.below nya_asyuraSasak-bali.below nya_ba-bali.below] [raRepaMark-bali raRepaMark-bali.below1 raRepaMark-bali.below2 raRepaMark-bali.below3]' by raRepaMark-bali.belowCenik4 ;
+
 } GuwungNya ;
 ";
 tag = calt;
