@@ -19,7 +19,8 @@ shapes = (
 ref = "pa-bali";
 },
 {
-pos = (210,0);
+alignment = -1;
+pos = (210,-38);
 ref = _repa_;
 }
 );
