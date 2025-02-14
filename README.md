@@ -20,7 +20,7 @@ To use Bali Sunaren, install the font as usual for **Latin script**. For **Balin
 🔹 Select **Balinese Unicode Keyboard** in the settings  
 
 ## 📷 Preview
-![Bali Sunaren Typeface](documentation/bali Sunaren Font Pack.jpg)
+![Bali Sunaren Typeface](documentation/preview.png)
 
 ## 🔗 Download
 [⬇️ Download Bali Sunaren](https://github.com/Balibilly/BaliSunaren-SansSerif/releases/tag/Balinese)
